@@ -1,0 +1,77 @@
+# Self-hosted programs — IT
+
+71 programs.
+
+| Domain | Policy | Reward | Safe harbour | Status |
+|---|---|---|---|---|
+| `agid.gov.it` | — | — | — | expired |
+| `ai4business.it` | — | recognition | — | active |
+| `aimag.it` | [policy](https://www.aimag.it/vulnerability-disclosure-policy/) | monetary | — | active |
+| `aldolat.it` | — | — | — | active |
+| `arcigay.it` | — | — | — | expired |
+| `automobile.it` | [policy](https://adevinta.com/security-vulnerability/) | recognition | yes | active |
+| `badtaste.it` | — | — | — | retired |
+| `bdo.it` | — | — | — | expired |
+| `bed-and-breakfast.it` | — | — | — | active |
+| `biografieonline.it` | — | — | — | retired |
+| `bookmakerbonus.it` | [policy](https://bookmakerbonus.it/security-policy) | recognition | — | active |
+| `borsaitaliana.it` | — | — | — | active |
+| `bosch.it` | [policy](https://psirt.bosch.com/bosch-responsible-disclosure-policy/) | recognition | — | active |
+| `capterra.it` | — | — | — | active |
+| `carrefour.it` | [policy](https://carrefour.com/disclosure) | — | — | active |
+| `coggle.it` | [policy](https://coggle.it/security) | — | — | active |
+| `corrierecomunicazioni.it` | — | recognition | — | active |
+| `cybersecurity360.it` | — | recognition | — | active |
+| `cybrary.it` | [policy](https://www.cybrary.it/responsible-disclosure-program) | recognition | yes | retired |
+| `decathlon.it` | [policy](https://vdp.decathlon.net) | — | — | active |
+| `deliveroo.it` | — | — | — | active |
+| `digitpa.gov.it` | — | — | — | expired |
+| `diretta.it` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
+| `docs.repl.it` | [policy](https://docs.repl.it/legal-and-security-info/security) | — | — | retired |
+| `ecmacademy.it` | [policy](https://moodledev.io/general/development/process/security) | monetary | — | expired |
+| `economyup.it` | — | recognition | — | active |
+| `enav.it` | — | — | — | active |
+| `esg360.it` | — | recognition | — | active |
+| `expedia.it` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
+| `fastweb.it` | [policy](https://www.fastweb.it/corporate/responsible-disclosure/) | — | — | active |
+| `feddit.it` | — | — | — | active |
+| `flixbus.it` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |
+| `forumpa.it` | — | recognition | — | active |
+| `gay.it` | — | recognition | — | active |
+| `gettyimages.it` | — | — | — | retired |
+| `gruppotim.it` | [policy](https://www.gruppotim.it/en/footer/responsible-disclosure.html) | — | — | active |
+| `icrodarisoveria.edu.it` | — | — | — | active |
+| `innovationpost.it` | — | recognition | — | active |
+| `ionos.it` | [policy](https://www.ionos.com/it-security) | — | — | active |
+| `leroymerlin.it` | — | — | — | active |
+| `lidl.it` | — | — | — | active |
+| `liketoknow.it` | — | — | — | active |
+| `macitynet.it` | — | — | — | expired |
+| `meglio.it` | — | — | — | retired |
+| `meteotrentino.it` | — | — | — | expired |
+| `michelin.it` | — | — | — | active |
+| `miodottore.it` | — | — | — | active |
+| `notino.it` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
+| `openfiber.it` | [policy](https://openfiber.it/responsible-disclosure/) | — | — | active |
+| `pagopa.gov.it` | [policy](https://www.pagopa.gov.it/security.html) | recognition | — | active |
+| `peacelink.it` | [policy](https://www.peacelink.it/peacelink/sicurezza) | — | yes | expired |
+| `pixartprinting.it` | — | — | — | active |
+| `privacylab.it` | — | — | — | active |
+| `radioradicale.it` | — | — | — | active |
+| `richslots.it` | — | — | — | retired |
+| `sdabocconi.it` | [policy](https://unibocconi.it/security/vulnerability-disclosure) | monetary | — | active |
+| `seeweb.it` | — | — | — | active |
+| `subito.it` | [policy](https://adevinta.com/security-vulnerability/) | — | — | retired |
+| `ticketone.it` | — | — | — | active |
+| `treatwell.it` | — | — | — | active |
+| `truemetal.it` | — | — | — | expired |
+| `unibocconi.it` | [policy](https://unibocconi.it/security/vulnerability-disclosure) | monetary | — | active |
+| `unige.it` | [policy](https://intranet.unige.it/notifica-incidenti-informatici) | — | — | active |
+| `unigre.it` | — | — | — | expired |
+| `unipegaso.it` | — | — | — | active |
+| `unive.it` | — | — | — | active |
+| `vinted.it` | — | — | — | active |
+| `webador.it` | — | — | — | active |
+| `whistleblowing.it` | [policy](https://github.com/globaleaks/globaleaks-whistleblowing-software/blob/stable/SECURITY.md) | — | — | active |
+| `youmath.it` | — | recognition | — | active |
+| `zerounoweb.it` | — | recognition | — | active |

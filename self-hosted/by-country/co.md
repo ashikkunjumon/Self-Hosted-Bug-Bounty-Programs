@@ -1,0 +1,15 @@
+# Self-hosted programs — CO
+
+9 programs.
+
+| Domain | Policy | Reward | Safe harbour | Status |
+|---|---|---|---|---|
+| `coda.co` | [policy](https://www.coda.co/policy/coda-payments-vulnerability-disclosure-policy/) | monetary | — | active |
+| `deps.co` | [policy](https://www.deps.co/security/) | — | yes | retired |
+| `doulado.co` | [policy](https://doulado.co/security-vulnerability-disclosure-policy/) | — | yes | retired |
+| `mural.co` | [policy](https://www.mural.co/terms/bug-bounty-program) | monetary | — | active |
+| `oceanbottle.co` | [policy](https://your.oceanbottle.co/responsible-disclosure-policy) | — | — | retired |
+| `range.co` | [policy](https://www.range.co/security/bounty) | monetary | yes | retired |
+| `securepractice.co` | [policy](https://securepractice.co/support) | — | — | active |
+| `vista.co` | [policy](https://www.vista.co/responsible-disclosure-policy) | recognition | — | active |
+| `zip.co` | [policy](https://zip.co/vulnerability-disclosure-program) | — | — | retired |
