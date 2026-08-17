@@ -1,6 +1,6 @@
 # Self-hosted programs — FR
 
-153 programs.
+154 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -87,6 +87,7 @@
 | `lefigaro.fr` | — | — | — | active |
 | `lelivrescolaire.fr` | — | — | — | expired |
 | `lemagit.fr` | [policy](https://www.techtarget.com/privacy-policy-fr/) | — | — | active |
+| `lemde.fr` | — | — | — | active |
 | `lidl.fr` | — | — | — | active |
 | `lopinion.fr` | — | — | — | active |
 | `loreal-paris.fr` | — | recognition | — | active |

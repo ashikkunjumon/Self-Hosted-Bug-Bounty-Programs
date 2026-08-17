@@ -1,6 +1,6 @@
 # Self-hosted programs — ES
 
-93 programs.
+95 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -67,6 +67,7 @@
 | `nivea.es` | [policy](https://soc.beiersdorf.com/disclosurepolicy.html) | — | yes | active |
 | `notino.es` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
 | `objetivocastillalamancha.es` | — | — | — | active |
+| `onlineprinters.es` | — | — | — | active |
 | `periodicodeibiza.es` | — | — | — | active |
 | `pixartprinting.es` | — | — | — | active |
 | `pressdigital.es` | — | — | — | active |
@@ -92,6 +93,7 @@
 | `usj.es` | — | — | — | expired |
 | `uva.es` | — | recognition | — | active |
 | `vilaviniteca.es` | — | — | — | active |
+| `vinted.es` | — | — | — | active |
 | `vistaprint.es` | — | — | — | active |
 | `volkswagen.es` | — | — | — | active |
 | `webador.es` | — | — | — | active |

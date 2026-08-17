@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-202 programs.
+206 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -81,6 +81,7 @@
 | `hollandandbarrett.be` | [policy](https://vdp.hollandandbarrett.com/) | — | — | active |
 | `hotwin.be` | — | — | — | active |
 | `hzs.be` | — | — | — | active |
+| `ieper.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `imio.be` | — | — | — | active |
 | `immocube.be` | [policy](https://omnicasa.com/) | — | — | active |
 | `immothekerfinotheker.be` | — | — | — | active |
@@ -128,7 +129,7 @@
 | `oupeye.be` | — | — | — | active |
 | `overijse.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `pabo.be` | — | — | — | active |
-| `palm.be` | — | — | — | active |
+| `palm.be` | — | — | — | retired |
 | `parentia.be` | — | — | — | active |
 | `parship.be` | — | — | — | active |
 | `pearle.be` | [policy](https://essilorluxottica.vulnerability-disclosure.com/) | — | — | active |
@@ -150,6 +151,7 @@
 | `rtbf.be` | [policy](https://security.rtbf.be/cvdp.txt) | — | — | active |
 | `samsonite.be` | — | — | — | active |
 | `secudoc.be` | [policy](https://www.secudoc.nl/security-policy-for-secudoc) | recognition | — | active |
+| `sint-truiden.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `siteffect.be` | — | — | — | active |
 | `slotenexpert.be` | — | — | — | active |
 | `slotsdeco.be` | [policy](https://www.slotsdeco.be/security-policy) | recognition | — | active |
@@ -170,6 +172,7 @@
 | `taaltelefoon.be` | — | — | — | active |
 | `thomasmore.be` | [policy](https://security.thomasmore.be) | — | yes | active |
 | `ticketswap.be` | [policy](https://www.ticketswap.com/content/responsible-disclosure) | — | — | expired |
+| `tongeren-borgloon.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `totalenergies.be` | [policy](https://totalenergies.com/cert) | — | — | active |
 | `travelbird.be` | [policy](https://openbugbounty.org/bugbounty/secretescapesltd/) | recognition | — | active |
 | `treatwell.be` | — | — | — | active |
@@ -201,6 +204,7 @@
 | `wavre.be` | — | — | — | active |
 | `webador.be` | — | — | — | active |
 | `west-vlaanderen.be` | — | — | — | active |
+| `wetteren.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `wintersport.be` | — | — | — | active |
 | `xerius.be` | — | — | — | active |
 | `zoover.be` | — | — | — | active |

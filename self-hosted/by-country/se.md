@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-487 programs.
+488 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -12,6 +12,7 @@
 | `aimopark.se` | — | — | — | active |
 | `akademikernasakassa.se` | — | — | — | active |
 | `akademiska.se` | — | — | — | active |
+| `aktuellhallbarhet.se` | — | — | — | active |
 | `albanova.se` | — | — | — | active |
 | `ale.se` | — | — | — | active |
 | `alingsas.se` | — | — | — | active |

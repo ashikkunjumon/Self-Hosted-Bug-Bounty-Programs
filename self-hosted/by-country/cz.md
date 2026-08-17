@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-340 programs.
+341 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -263,6 +263,7 @@
 | `rozhlas.cz` | — | — | — | active |
 | `rsts.cz` | — | — | — | active |
 | `sauto.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | — | yes | active |
+| `sazka.cz` | [policy](https://www.sazka.cz/.well-known/responsible_disclosure_policy.pdf) | monetary | — | expired |
 | `sbazar.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | — | yes | active |
 | `sblog.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | — | yes | active |
 | `search.seznam.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | — | yes | active |

@@ -30,7 +30,7 @@
 | `fiepr.org.br` | — | — | — | active |
 | `flashscore.com.br` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `forumseguranca.org.br` | [policy](https://icc.gg/polvuln) | monetary | yes | active |
-| `freefiremania.com.br` | [policy](https://www.freefiremania.com.br/politica-de-privacidade.html) | monetary | — | active |
+| `freefiremania.com.br` | [policy](https://www.freefiremania.com.br/politica-de-privacidade.html) | — | — | active |
 | `fundacaodorina.org.br` | — | — | — | active |
 | `gettyimages.com.br` | — | — | — | retired |
 | `glassdoor.com.br` | [policy](https://help.glassdoor.com/s/article/Bug-Bounty-Program?language=en_US) | — | — | retired |

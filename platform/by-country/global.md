@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-570 programs.
+571 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@
 | `agriculture.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `aikido.dev` | [policy](https://app.intigriti.com/programs/aikido/aikido/detail) | monetary | — | active |
 | `airbnb.com` | [policy](https://hackerone.com/airbnb#overview) | — | — | active |
-| `airbnb.io` | [policy](https://hackerone.com/airbnb#overview) | — | — | retired |
+| `airbnb.io` | [policy](https://hackerone.com/airbnb#overview) | — | — | active |
 | `airtable.com` | [policy](https://hackerone.com/airtable) | — | — | active |
 | `aiven.io` | [policy](https://bugcrowd.com/aiven-mbb-og) | monetary | — | active |
 | `alfen.com` | [policy](https://alfen.com/en-at/privacy-and-security/responsible-disclosure-policy) | recognition | yes | retired |
@@ -53,9 +53,9 @@
 | `awscloud.com` | [policy](https://vdp.aws.security/) | — | — | active |
 | `axelspringer.com` | — | monetary | — | active |
 | `axis.com` | [policy](https://help.axis.com/axis-vulnerability-management-policy) | monetary | — | active |
-| `backblaze.com` | [policy](https://www.backblaze.com/cloud-storage/security) | monetary | — | active |
+| `backblaze.com` | [policy](https://www.backblaze.com/cloud-storage/security) | monetary | — | retired |
 | `badoo.com` | [policy](https://hackerone.com/bumble?view_policy) | — | — | active |
-| `basecamp.com` | [policy](https://37signals.com/policies/security/response) | monetary | — | active |
+| `basecamp.com` | [policy](https://37signals.com/policies/security/response) | monetary | — | retired |
 | `basicattentiontoken.org` | [policy](https://hackerone.com/brave?view_policy=true) | — | — | active |
 | `bhg.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `bie.edu` | [policy](https://www.bie.edu/vulnerability-disclosure-policy) | — | — | retired |
@@ -128,7 +128,7 @@
 | `danaepp.com` | [policy](https://danaepp.com/the-security-researchers-guide-to-reporting-vulnerabilities-to-vendors) | monetary | yes | retired |
 | `databricks.com` | [policy](https://www.databricks.com/trust) | — | — | active |
 | `dealabs.com` | [policy](https://atolls.com/disclosure-policy) | — | — | active |
-| `deere.com` | [policy](https://www.deere.com/en-us/our-company/digital-security/responsible-disclosure-policy) | — | — | active |
+| `deere.com` | [policy](https://www.deere.com/en-us/our-company/digital-security/responsible-disclosure-policy) | — | — | retired |
 | `deezer.com` | [policy](https://yeswehack.com/programs/deezer-bug-bounty-program-2019) | monetary | — | expired |
 | `dell.com` | [policy](https://www.dell.com/support/dell-vulnerability-response-policy) | monetary | — | expired |
 | `deriv.com` | [policy](https://hackerone.com/deriv/safe_harbor) | — | — | active |
@@ -138,7 +138,7 @@
 | `dhl.com` | [policy](https://group.dhl.com/en/sustainability/governance/cyber-security/vulnerability-disclosure-policy.html) | — | yes | active |
 | `digitalocean.com` | [policy](https://app.intigriti.com/programs/digitalocean/digitalocean) | monetary | — | expired |
 | `discover.com` | [policy](https://www.discover.com/responsible-disclosure/) | monetary | — | retired |
-| `docs.ens.domains` | [policy](https://docs.ens.domains/bugs/) | monetary | — | active |
+| `docs.ens.domains` | [policy](https://docs.ens.domains/bugs/) | monetary | — | retired |
 | `docs.multichain.org` | [policy](https://docs.multichain.org/getting-started/security/bug-bounty-immunefi) | monetary | — | retired |
 | `doi.gov` | [policy](https://www.doi.gov/vulnerability-disclosure-policy) | — | — | retired |
 | `dol.gov` | [policy](https://www.dol.gov/vulnerability-disclosure-policy) | — | — | retired |
@@ -171,7 +171,7 @@
 | `exness.com` | [policy](https://hackerone.com/exness) | — | — | expired |
 | `exoscale.com` | [policy](https://www.exoscale.com/security/) | monetary | — | retired |
 | `fab.com` | [policy](https://hackerone.com/epicgames) | — | — | active |
-| `factorialhr.com` | [policy](https://hackerone.com/factorial) | — | — | active |
+| `factorialhr.com` | [policy](https://hackerone.com/factorial) | — | — | retired |
 | `fanduel.com` | — | monetary | — | active |
 | `fareharbor.com` | — | monetary | — | expired |
 | `fastly.com` | [policy](https://www.fastly.com/security/report-security-issue) | swag | — | retired |
@@ -280,7 +280,7 @@
 | `kiwi.com` | [policy](https://www.kiwi.com/us/pages/security) | monetary | — | active |
 | `kkr.com` | [policy](https://hackerone.com/kkr_vdp) | — | — | expired |
 | `langfuse.com` | [policy](https://langfuse.com/security/responsible-disclosure) | monetary | — | retired |
-| `larksuite.com` | [policy](https://www.larksuite.com/bugbounty) | monetary | — | active |
+| `larksuite.com` | [policy](https://www.larksuite.com/bugbounty) | monetary | — | retired |
 | `lastpass.com` | [policy](https://www.lastpass.com/trust-center/security/responsible-disclosure) | monetary | — | retired |
 | `learnreligions.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `ledger.com` | [policy](https://donjon.ledger.com/bounty/) | monetary | — | retired |
@@ -320,7 +320,7 @@
 | `mongodb.org` | — | recognition | — | active |
 | `monzo.com` | [policy](https://app.intigriti.com/company/programs/monzobank/monzopublicbugbountyprogram/detail) | monetary | — | active |
 | `moonpay.com` | — | — | — | active |
-| `mtpelerin.com` | [policy](https://www.mtpelerin.com/responsible-disclosure-policy) | monetary | — | active |
+| `mtpelerin.com` | [policy](https://www.mtpelerin.com/responsible-disclosure-policy) | monetary | — | retired |
 | `murena.io` | [policy](https://hackerone.com/nextcloud) | — | — | active |
 | `my.xfinity.com` | [policy](https://www.xfinity.com/vulnerabilityreport) | monetary | — | retired |
 | `mydomaine.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
@@ -366,6 +366,7 @@
 | `opm.gov` | [policy](https://www.opm.gov/vulnerability-disclosure-policy/) | monetary | yes | retired |
 | `oshrc.gov` | [policy](https://www.oshrc.gov/vulnerability-disclosure-policy/) | — | — | retired |
 | `ourfabriq.com` | [policy](https://ourfabriq.com/responsible-disclosure-policy) | monetary | yes | retired |
+| `outbrain.com` | [policy](https://www.outbrain.com/security/bug-bounty/) | monetary | yes | active |
 | `overture.com` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | active |
 | `ovh.com` | [policy](https://yeswehack.com/programs/ovh) | monetary | — | active |
 | `ovhcloud.com` | [policy](https://yeswehack.com/programs/ovh) | monetary | — | active |
@@ -431,7 +432,7 @@
 | `seriouseats.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `sfpackage.com` | [policy](https://sfpackage.com/the-ultimate-guide-best-vpn-for-bug-bounty-hunting/) | monetary | — | retired |
 | `shape.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
-| `shapesecurity.com` | [policy](https://www.f5.com/support/report-a-vulnerability) | — | — | active |
+| `shapesecurity.com` | [policy](https://www.f5.com/support/report-a-vulnerability) | — | — | retired |
 | `shopify.com` | [policy](https://hackerone.com/shopify) | — | — | active |
 | `sidefx.com` | [policy](https://hackerone.com/sidefx?type=team&view_policy=true) | — | — | active |
 | `signup.com` | [policy](https://signup.com/responsible-disclosure-policy) | recognition | — | retired |
@@ -456,7 +457,7 @@
 | `speedtestcustom.com` | [policy](https://security.ookla.com) | — | — | active |
 | `springernature.com` | [policy](https://www.springernature.com/gp/info/disclosure) | recognition | — | retired |
 | `standoff365.com` | [policy](https://standoff365.com/en-US/articles/bug-bounty-platform-analytics-2022/) | monetary | — | retired |
-| `startupintros.com` | [policy](https://startupintros.com/orgs/bugcrowd) | monetary | yes | active |
+| `startupintros.com` | [policy](https://startupintros.com/orgs/bugcrowd) | monetary | yes | retired |
 | `statefarm.com` | [policy](https://www.statefarm.com/customer-care/privacy-security/security/vulnerability-disclosure-policy) | — | yes | active |
 | `stellar.org` | [policy](https://stellar.org/grants-and-funding/bug-bounty) | monetary | — | retired |
 | `streamlabs.com` | [policy](https://hackerone.com/logitech) | — | — | active |

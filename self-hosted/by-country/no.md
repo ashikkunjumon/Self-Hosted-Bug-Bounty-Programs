@@ -1,6 +1,6 @@
 # Self-hosted programs — NO
 
-218 programs.
+219 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -215,6 +215,7 @@
 | `valg.no` | — | recognition | — | active |
 | `vegvesen.no` | — | — | — | active |
 | `vestfoldfylke.no` | — | recognition | — | expired |
+| `vestlandfylke.no` | [policy](https://www.vestlandfylke.no/security-policy) | — | — | expired |
 | `vestreviken.no` | [policy](https://www.sykehuspartner.no/siteassets/documents/sikkerhet---regionale-bruksvilkar/no-38---responsible-disclosure-policy-engelsk.pdf) | — | — | active |
 | `vg.no` | [policy](https://www.schibsted.com/about/security-in-schibsted/schibsted-security-policy/) | — | — | active |
 | `viivilla.no` | — | — | — | active |

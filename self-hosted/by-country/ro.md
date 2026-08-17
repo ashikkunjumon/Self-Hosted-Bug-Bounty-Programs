@@ -1,6 +1,6 @@
 # Self-hosted programs — RO
 
-46 programs.
+48 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -30,6 +30,7 @@
 | `flashscore.ro` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `galantom.ro` | — | — | — | active |
 | `glami.ro` | — | monetary | — | active |
+| `imobiliare.ro` | — | — | — | expired |
 | `lidl.ro` | — | — | — | active |
 | `listafirme.ro` | — | — | — | retired |
 | `metro.ro` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | active |
@@ -41,6 +42,7 @@
 | `pluxee.ro` | [policy](https://vdp.pluxee.app/p/Policy) | — | — | active |
 | `rompetrol.ro` | — | — | — | active |
 | `senat.ro` | — | — | — | expired |
+| `sezamo.ro` | — | — | — | active |
 | `stiridiaspora.ro` | — | recognition | — | active |
 | `stratosfera.ro` | — | — | — | active |
 | `tradeville.ro` | — | — | — | active |

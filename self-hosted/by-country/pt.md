@@ -1,6 +1,6 @@
 # Self-hosted programs — PT
 
-42 programs.
+43 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -19,6 +19,7 @@
 | `hidrografico.pt` | [policy](https://www.hidrografico.pt/.well-known/security-policy.txt) | recognition | — | active |
 | `ibet.pt` | — | — | — | active |
 | `infraestruturasdeportugal.pt` | — | — | — | retired |
+| `iniav.pt` | — | — | — | active |
 | `ipb.pt` | — | monetary | — | expired |
 | `ipleiria.pt` | [policy](https://csirt.ipleiria.pt/politica-divulgacao) | recognition | — | active |
 | `ips.pt` | — | — | — | active |

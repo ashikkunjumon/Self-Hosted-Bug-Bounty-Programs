@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-382 programs.
+386 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@
 | `autobahn.de` | — | — | — | expired |
 | `avocadostore.de` | — | — | — | expired |
 | `awi.de` | — | — | — | active |
-| `axton.de` | [policy](https://axton.de/en/meldung-von-schwachstellen/) | — | yes | active |
+| `axton.de` | [policy](https://axton.de/en/meldung-von-schwachstellen/) | — | yes | retired |
 | `baden-baden.de` | — | — | — | active |
 | `badische-zeitung.de` | — | — | — | active |
 | `bagso.de` | — | — | — | active |
@@ -44,7 +44,7 @@
 | `bike-components.de` | — | — | — | active |
 | `billiger-mietwagen.de` | — | — | — | active |
 | `bioenergie-bamberg.de` | [policy](https://g.co/vrp) | — | — | active |
-| `bitcoin.de` | [policy](https://www.bitcoin.de/en/bug-bounty) | monetary | — | active |
+| `bitcoin.de` | [policy](https://www.bitcoin.de/en/bug-bounty) | monetary | — | retired |
 | `blutspende.de` | — | — | — | expired |
 | `bmz.de` | — | — | — | active |
 | `bochum.de` | — | — | — | active |
@@ -128,6 +128,7 @@
 | `focus.de` | [policy](https://www.burda-forward.de/en/security/) | recognition | — | active |
 | `foodsharing.de` | [policy](https://foodsharing.network/content?sub=security) | — | — | expired |
 | `fragdenstaat.de` | — | — | — | active |
+| `freelancermap.de` | — | — | — | active |
 | `freenet.de` | — | — | — | active |
 | `freiburg.de` | — | — | — | active |
 | `fridaysforfuture.de` | — | — | — | active |
@@ -152,6 +153,7 @@
 | `goneo.de` | — | — | — | active |
 | `gothaer.de` | — | — | — | active |
 | `govdata.de` | — | — | — | active |
+| `gruene-bundestag.de` | — | — | — | active |
 | `gsi.de` | — | — | — | active |
 | `hagebau.de` | — | — | — | active |
 | `hannover-airport.de` | — | — | — | active |
@@ -170,6 +172,7 @@
 | `hpi.de` | — | — | — | expired |
 | `hs-augsburg.de` | — | — | — | expired |
 | `hs-bremen.de` | [policy](https://www.hs-bremen.de/en/security/disclosure-policy) | swag | — | active |
+| `hs-fulda.de` | [policy](https://it-sicherheit.hs-fulda.de/en/vorfall_melden/schwachstelle/index.html) | — | — | active |
 | `hs-furtwangen.de` | — | — | — | active |
 | `hs-heilbronn.de` | — | — | — | active |
 | `hs-koblenz.de` | — | — | — | active |
@@ -294,6 +297,7 @@
 | `spdfraktion.de` | — | — | — | expired |
 | `speyer.de` | — | — | — | active |
 | `spreadshirt.de` | — | — | — | active |
+| `srlabs.de` | — | — | — | active |
 | `stadt-koeln.de` | — | — | — | expired |
 | `stadtlindau.de` | — | — | — | active |
 | `strato.de` | [policy](https://www.strato.de/it-security) | monetary | — | active |
@@ -327,7 +331,7 @@
 | `tu-freiberg.de` | — | — | — | active |
 | `tu-ilmenau.de` | — | recognition | — | active |
 | `tum.de` | — | — | — | active |
-| `ulm.de` | — | — | — | active |
+| `ulm.de` | — | — | — | retired |
 | `uni-augsburg.de` | [policy](https://www.uni-augsburg.de/datenschutz) | — | — | active |
 | `uni-bamberg.de` | — | — | — | active |
 | `uni-bonn.de` | — | — | — | active |
@@ -382,7 +386,7 @@
 | `wuerzburg.de` | — | — | — | active |
 | `wuppertal.de` | [policy](https://digital.wuppertal.de/medien_digitalisierung/10_ISMS_Stadt_Wuppertal_Richtlinie_zur_Offenlegung_von_Sicherheitsluecken_V2.0.pdf) | monetary | — | active |
 | `xing.de` | [policy](https://www.new-work.se/.well-known/rfc-2350.txt) | — | — | expired |
-| `zdf.de` | — | — | — | active |
+| `zdf.de` | — | — | — | expired |
 | `zdfheute.de` | — | — | — | active |
 | `zdh.de` | — | — | — | active |
 | `zentrale.de` | — | — | — | active |

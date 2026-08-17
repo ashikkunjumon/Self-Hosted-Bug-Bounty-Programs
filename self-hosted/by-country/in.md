@@ -1,16 +1,17 @@
 # Self-hosted programs — IN
 
-31 programs.
+32 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
-| `abhieo.in` | [policy](https://www.abhieo.in/bug-bounty) | monetary | yes | active |
+| `abhieo.in` | [policy](https://www.abhieo.in/bug-bounty) | monetary | yes | retired |
 | `bbc.in` | — | — | — | active |
 | `bosch.in` | [policy](https://psirt.bosch.com/bosch-responsible-disclosure-policy/) | recognition | — | active |
 | `brainly.in` | [policy](https://brainly.com/responsible-disclosure-program) | — | — | active |
 | `capterra.in` | — | — | — | active |
 | `cleartax.in` | — | — | — | active |
-| `droom.in` | [policy](https://droom.in/bugbounty) | monetary | — | active |
+| `cuh.ac.in` | [policy](https://www.cuh.ac.in/uploads/policies/Clean_ICT_POLICY%5B1%5D.pdf) | recognition | — | active |
+| `droom.in` | [policy](https://droom.in/bugbounty) | monetary | — | retired |
 | `enj.in` | [policy](https://enj.in/security) | — | — | active |
 | `expedia.co.in` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
 | `flashscore.in` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — PL
 
-149 programs.
+151 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -47,6 +47,7 @@
 | `garnier.pl` | — | recognition | — | active |
 | `gazetakrakowska.pl` | — | — | — | expired |
 | `gazetalubuska.pl` | — | — | — | expired |
+| `gazetawroclawska.pl` | — | — | — | expired |
 | `glamour.pl` | [policy](https://www.immediate.co.uk/security-disclosure-policy/) | — | — | retired |
 | `go.pl` | — | — | — | active |
 | `goingapp.pl` | — | — | — | active |
@@ -110,6 +111,7 @@
 | `plk-sa.pl` | — | — | — | active |
 | `polygamia.pl` | — | — | — | active |
 | `pomorska.pl` | — | — | — | expired |
+| `poranny.pl` | — | — | — | expired |
 | `prw.pl` | — | — | — | active |
 | `przegladsportowy.pl` | — | — | — | active |
 | `pudelek.pl` | — | — | — | active |

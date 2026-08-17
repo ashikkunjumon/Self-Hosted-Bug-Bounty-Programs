@@ -9,12 +9,12 @@
 | `avantaje.ro` | — | — | — | expired |
 | `bmw.ro` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
 | `elle.ro` | — | — | — | expired |
-| `libertatea.ro` | — | — | — | retired |
+| `libertatea.ro` | — | — | — | expired |
 | `momondo.ro` | [policy](https://www.kayak.com/security/) | monetary | — | active |
 | `toyota.ro` | — | monetary | — | expired |
 | `tvmania.ro` | — | — | — | expired |
 | `unibet.ro` | — | monetary | — | retired |
-| `unica.ro` | — | — | — | retired |
-| `viva.ro` | — | — | — | retired |
+| `unica.ro` | — | — | — | expired |
+| `viva.ro` | — | — | — | expired |
 | `vladcazino.ro` | — | monetary | — | retired |
 | `webnode.ro` | [policy](https://www.webnode.com/.well-known/security-policy.html) | — | yes | active |

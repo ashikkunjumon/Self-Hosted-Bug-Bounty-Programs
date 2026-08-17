@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-341 programs.
+343 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -40,6 +40,7 @@
 | `bremgarten.ch` | — | — | — | active |
 | `bs.ch` | — | — | — | expired |
 | `buelach.ch` | — | — | — | active |
+| `burgdorf.ch` | [policy](https://www.talus.ch/de/datenschutz/bug-bounty.php) | — | — | expired |
 | `bvger.ch` | — | — | — | active |
 | `caritas-regio.ch` | [policy](https://caritas-regio.ch/security-policy) | recognition | — | active |
 | `casinobern.ch` | — | — | — | active |
@@ -193,6 +194,7 @@
 | `mycloud.ch` | [policy](https://github.com/swisscom/bugbounty) | monetary | yes | active |
 | `myvaud.ch` | — | — | — | active |
 | `nationalmuseum.ch` | — | — | — | active |
+| `ne.ch` | — | — | — | expired |
 | `nic.ch` | [policy](https://www.switch.ch/security/SWITCH-CERT.txt) | — | — | active |
 | `nivea.ch` | [policy](https://soc.beiersdorf.com/disclosurepolicy.html) | — | yes | active |
 | `notino.ch` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |

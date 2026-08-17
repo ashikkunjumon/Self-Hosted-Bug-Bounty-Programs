@@ -31,7 +31,7 @@
 | `mfa.gov.ua` | — | — | — | active |
 | `mtsbu.ua` | — | — | — | active |
 | `notino.ua` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
-| `nubip.edu.ua` | — | — | — | active |
+| `nubip.edu.ua` | — | — | — | retired |
 | `okko.ua` | — | — | — | expired |
 | `pethouse.ua` | [policy](https://pethouse.ua/ua/security-policy/) | monetary | yes | active |
 | `podushka.com.ua` | — | — | — | active |
