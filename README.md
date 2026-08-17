@@ -1,7 +1,12 @@
 # Self-Hosted Bug Bounty & Disclosure Programs
 
-Vulnerability disclosure and bug bounty programs published by the
-organisations that run them, discovered from their own policy pages.
+**A list of 7,530 bug bounty and vulnerability disclosure programs
+run by the organisations themselves — not on HackerOne, Bugcrowd or Intigriti.**
+
+Built from `/.well-known/security.txt` files and published disclosure policies,
+indexed by country, and rebuilt daily. 6,519 of these are
+self-hosted VDP and bug bounty programs, which is the half that platform
+directories do not list.
 
 ## 📊 Statistics
 
@@ -15,18 +20,33 @@ organisations that run them, discovered from their own policy pages.
 | **Stating safe harbour** | 714 |
 | **Countries** | 55 |
 
-*Last Updated: August 15, 2026 at 14:24 UTC*
+*Last Updated: August 17, 2026 at 16:02 UTC*
 
-## 📁 Browse
+## Find bug bounty programs by country
 
 | Category | Description |
 |---|---|
 | [Self-hosted](self-hosted/) | Programs run by the organisation itself |
 | [Platform-hosted](platform/) | Programs run through a disclosure platform |
 
-Each section indexes its programs by country.
+Each section indexes its programs by country, so you can scope a hunt to a
+region or a jurisdiction.
 
-## 📄 Data
+## Which programs offer a reward, and which state safe harbour
+
+Every row records whether the policy offers a reward — `monetary`, `swag` or
+`recognition` — and whether it explicitly states safe harbour. 2,148
+programs offer some reward; only 714 state safe harbour outright, which
+is the number worth checking before you test anything.
+
+## security.txt and disclosure policy URLs
+
+`programs.txt` gives a domain and a URL per line: the disclosure policy where
+one is published, and the `/.well-known/security.txt` file otherwise. Every one
+of the 7,530 entries carries a URL, so it loads straight into a
+recon pipeline.
+
+## Data files
 
 - `programs.json` — every program, structured
 - `programs.txt` — flat domain and policy URL list
@@ -75,3 +95,10 @@ finding about where these organisations are.
 ### Removal
 
 Open an issue and the domain is excluded from the next build.
+
+## Related projects
+
+- [HackerOne Disclosed Reports Payloads](https://github.com/ashikkunjumon/HackerOne-Disclosed-Reports-Payloads)
+  — real payloads extracted from disclosed HackerOne reports, by vulnerability class
+- [Bug Bounty Dorks Automation](https://github.com/ashikkunjumon/Bug-Bounty-Dorks-Automation)
+  — search-engine dorks for recon and for finding programs to test
