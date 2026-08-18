@@ -342,6 +342,7 @@ notaris.be	https://notaris.be/.well-known/security.txt
 notino.be	https://www.notino.com/bug-bounty.html
 nviso.be	https://www.nviso.eu/.well-known/security.txt
 ocmw-info-cpas.be	https://ocmw-info-cpas.be/.well-known/security.txt
+olen.be	https://www.lcp.be/responsible-disclosure
 olln.be	https://olln.be/.well-known/security.txt
 oostende.be	https://www.lcp.be/responsible-disclosure
 oudsbergen.be	https://www.lcp.be/responsible-disclosure
@@ -400,6 +401,7 @@ taaltelefoon.be	https://taaltelefoon.be/.well-known/security.txt
 tempo-team.be	https://www.randstad.com/report-a-security-problem/
 thomasmore.be	https://security.thomasmore.be
 ticketswap.be	https://www.ticketswap.com/content/responsible-disclosure
+toerismeieper.be	https://www.lcp.be/responsible-disclosure
 tongeren-borgloon.be	https://www.lcp.be/responsible-disclosure
 totalenergies.be	https://totalenergies.com/cert
 toyota.be	https://nl.toyota.be/.well-known/security.txt
@@ -496,6 +498,7 @@ jusbrasil.com.br	https://www.jusbrasil.com.br/.well-known/security.txt
 kayak.com.br	https://www.kayak.com/security/
 lojadocapita.com.br	https://lojadocapita.com.br/.well-known/security.txt
 loreal-paris.com.br	https://www.loreal-paris.com.br/.well-known/security.txt
+maringapost.com.br	https://maringapost.com.br/.well-known/security.txt
 marinha.mil.br	https://marinha.mil.br/.well-known/security.txt
 mda.gov.br	https://www.gov.br/agricultura/pt-br/acesso-a-informacao/tecnologia-da-informacao/seguranca-da-informacao/politica-de-seguranca-da-informacao-e-comunicacao-posic
 michaelpage.com.br	https://www.michaelpage.com.br/.well-known/security.txt
@@ -1355,6 +1358,7 @@ bmw-motorrad.de	https://www.bmwgroup.com/en/general/Security.html
 bmw.de	https://www.bmwgroup.com/en/general/Security.html
 bmz.de	https://www.bmz.de/.well-known/security.txt
 bochum.de	https://bochum.de/.well-known/security.txt
+boerse.de	https://www.boerse.de/.well-known/security.txt
 bosch.de	https://psirt.bosch.com/bosch-responsible-disclosure-policy/
 brandenburg.de	https://brandenburg.de/security.txt
 braunschweiger-zeitung.de	https://www.braunschweiger-zeitung.de/.well-known/security.txt
@@ -1556,6 +1560,7 @@ mydealz.de	https://atolls.com/disclosure-policy
 neoshare.de	https://neoshare.de/responsible-disclosure-program
 netto-online.de	https://www.netto-online.de/.well-known/security.txt
 nius.de	https://nius.de/.well-known/security.txt
+nivea.de	https://soc.beiersdorf.com/disclosurepolicy.html
 nospamproxy.de	https://nospamproxy.de/.well-known/security.txt
 nrwbank.de	https://www.nrwbank.de/export/sites/nrwbank/.well-known/security.txt
 nrz.de	https://www.nrz.de/.well-known/security.txt
@@ -2360,7 +2365,7 @@ paynow.gg	https://paynow.gg/responsible-disclosure-policy
 99designs.com	https://99designs.com/.well-known/security.txt
 9gag.com	https://9gag.com/.well-known/security.txt
 a16z.com	https://a16z.com/security-policy
-a2gov.org	https://www.a2gov.org/media/1vuifes4/security.txt
+a2gov.org	https://media-001-us.cdn.govstack.com/a2gov-002-us/media/1vuifes4/security.txt
 a4teams.com	https://a4teams.com/security
 aacounty.org	https://www.aacounty.org/oit/vulnerability-disclosure-program
 aaojournal.org	https://aaojournal.org/.well-known/security.txt
@@ -2412,6 +2417,7 @@ ahajournals.org	https://ahajournals.org/.well-known/security.txt
 ahrinet.org	https://ahrinet.org/.well-known/security.txt
 aicrowd.com	https://www.aicrowd.com/bug_bounty
 aikido.dev	https://app.intigriti.com/programs/aikido/aikido/detail
+aims360.com	https://www.aims360.com/fashion-business-resources/vulnerability-responses
 aion.network	https://aion.network/terms-bounty
 airbaltic.com	https://www.airbaltic.com/en/rules-and-regulations/vulnerability-disclosure-policy
 airbnb.com	https://hackerone.com/airbnb#overview
@@ -2894,7 +2900,7 @@ complex.com	https://form.typeform.com/to/vuJ5PMLI
 computerweekly.com	https://www.techtarget.com/privacy-policy/
 computingforgeeks.com	https://computingforgeeks.com/.well-known/security.txt
 conceptboard.com	https://conceptboard.com/bug-bounty-program/
-concur.com	https://www.concur.com/.well-known/security.txt?&cookie_preferences=cpra
+concur.com	https://www.concur.com/.well-known/security.txt
 conda.io	https://conda.io/.well-known/security.txt
 conduktor.io	https://www.conduktor.io/.well-known/security.txt
 conferencebadge.com	https://www.conferencebadge.com/security
@@ -3368,7 +3374,7 @@ forgejo.org	https://codeberg.org/forgejo/governance/src/commit/5c07b3801537212ed
 forsightfinance.com	https://forsightfinance.com/security
 fortinet.com	https://www.fortiguard.com/psirt_policy
 fortra.com	https://www.fortra.com/security/policy
-fortran.io	https://gromada.in.net/.well-known/security.txt
+fortran.io	https://www.fun88live88.com/.well-known/security.txt
 fortum.com	https://www.fortum.com/.well-known/security.txt
 forwardemail.net	https://github.com/forwardemail/.github/blob/main/SECURITY.md
 fossil.com	https://www.fossil.com/.well-known/security.txt
@@ -4062,7 +4068,7 @@ matthewd.xyz	https://matthewd.xyz/security/
 maxisciences.com	https://maxisciences.com/.well-known/security.txt
 maybelline.com	https://www.maybelline.com/.well-known/security.txt
 mayoclinicproceedings.org	https://mayoclinicproceedings.org/.well-known/security.txt
-mb8coin.io	https://gromada.in.net/.well-known/security.txt
+mb8coin.io	https://www.fun88live88.com/.well-known/security.txt
 mckesson.com	https://www.mckesson.com/cybersecurity/coordinated-vulnerability-disclosure/
 mcpsec.dev	https://mcpsec.dev/disclosure-policy/
 mdedge.com	https://www.mdedge.com/.well-known/security.txt
@@ -4485,7 +4491,7 @@ paysera.com	https://www.paysera.com/v2/en-RU/safety/bug-bounty-program
 pbgc.gov	https://www.pbgc.gov/about/policies/vulnerability-disclosure
 pbs.org	https://www.pbs.org/.well-known/security.txt
 pbskids.org	https://pbskids.org/.well-known/security.txt
-pbslearningmedia.org	https://pbsnc.pbslearningmedia.org/.well-known/security.txt
+pbslearningmedia.org	https://az.pbslearningmedia.org/.well-known/security.txt
 pca-cpa.org	https://pca-cpa.org/.well-known/security.txt
 pch.net	https://www.pch.net/about/privacy
 pcinpact.com	https://pcinpact.com/.well-known/security.txt
@@ -4861,6 +4867,7 @@ security.midas.network	https://security.midas.network/reporting
 security.remitano.com	https://security.remitano.com/
 security.samsungmobile.com	https://security.samsungmobile.com/securityReporting.smsb
 security.target.com	https://security.target.com/vdp/
+securityfocus.com	https://securityfocus.com/.well-known/security.txt
 securityheaders.com	https://securityheaders.com/.well-known/security.txt
 securityinnovation.com	https://cybersecurity.bureauveritas.com/about
 securityintelligence.com	https://www.ibm.com/.well-known/security.txt
@@ -4882,7 +4889,7 @@ sentry.io	https://sentry.io/security/#vulnerability-disclosure
 seoclarity.net	https://www.seoclarity.net/vdp
 serenityos.org	https://serenityos.org/bounty/
 seriouseats.com	https://hackerone.com/dotdashmeredith
-serpapi.com	https://serpapi.com/security.txt
+serpapi.com	https://serpapi.com/.well-known/security.txt
 servicetitan.com	https://drive.google.com/file/d/1eBz-eVGcu0Q7O8KA8twQCuv84Jf9q-N5/view?usp=sharing
 sesarju.eu	https://www.sesarju.eu/.well-known/security.txt
 setapp.com	https://macpaw.com/vulnerability-disclosure-policy
@@ -5577,6 +5584,7 @@ yahoo.net	https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosu
 yahooinc.com	https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html
 yam.com	https://yam.com/.well-known/security.txt
 yandex.com	https://ya.cc/t/1cSZixjB3gkSva
+yandex.eu	https://ya.cc/t/1cSZixjB3gkSva
 yandex.net	https://ya.cc/t/1cSZixjB3gkSva
 ydr.com	https://www.gannett.com/responsible-disclosure-program/
 yeahhub.com	https://www.yeahhub.com/privacy-policy/
@@ -6046,6 +6054,7 @@ centraalbeheer.nl	https://www.achmea.nl/en/responsible-disclosure
 closure.nl	https://closure.nl/responsible-disclosure/
 cloudwise.nl	https://www.cloudwise.nl/security-policy
 commercive.nl	https://commercive.nl/.well-known/security.txt
+conclusion.nl	https://www.conclusion.com/.well-known/security.txt
 consuwijzer.nl	https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd
 corendon.nl	https://www.corendon.nl/privacy-verklaring
 cultureelerfgoed.nl	https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd
@@ -6220,6 +6229,7 @@ onderzoeksraad.nl	https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd
 openluchtmuseum.nl	https://www.openluchtmuseum.nl/.well-known/security.txt
 openovergokken.nl	https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd
 oudersvannu.nl	https://oudersvannu.nl/.well-known/security.txt
+overheid.nl	https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd
 parool.nl	https://parool.nl/.well-known/security.txt
 partijvoordedieren.nl	https://www.partijvoordedieren.nl/responsible-disclosure
 pay.nl	https://www.pay.nl/en/responsible-disclosure
@@ -6849,7 +6859,7 @@ avito.ru	https://bugbounty.bi.zone/companies/avito/main
 b17.ru	https://www.b17.ru/security.txt
 beeline.ru	https://beeline.ru/.well-known/security.txt
 bitrix24.ru	https://www.bitrix24.ru/.well-known/security.txt
-bitrix24site.ru	https://www.bitrix24.eu/.well-known/security.txt
+bitrix24site.ru	https://www.bitrix24.com/.well-known/security.txt
 cian.ru	https://cian.ru/.well-known/security.txt
 connect.ok.ru	https://connect.ok.ru/.well-known/security.txt
 drevo-info.ru	https://drevo-info.ru/.well-known/security.txt
@@ -7207,6 +7217,7 @@ pensionsmyndigheten.se	https://pensionsmyndigheten.se/.well-known/security.txt
 pliktverket.se	https://pliktverket.se/download/18.1106b27c18093d411c2334a9/1779892509193/security.txt
 polisen.se	https://polisen.se/.well-known/security.txt
 postkodlotteriet.se	https://www.postkodlotteriet.se/om-oss/legalt/responsible-disclosure-en
+privataaffarer.se	https://www.privataaffarer.se/.well-known/security.txt
 pro.se	https://pro.se/.well-known/security.txt
 psykologforbundet.se	https://www.psykologforbundet.se/security.txt
 pts.se	https://pts.se/security.txt
@@ -7390,6 +7401,7 @@ scarf.sh	https://about.scarf.sh/security-statement/
 acros.si	https://acrossecurity.com/.well-known/security.txt
 alter.si	https://alter.si/.well-known/security.txt
 bauhaus.si	https://www.bauhaus.si/.well-known/security.txt
+borzen.si	https://borzen.si/.well-known/security.txt
 cert.si	https://cert.si/koordinirano-razkrivanje-ranljivosti/
 data.si	https://data.si/.well-known/security.txt
 dm.si	https://www.dm.si/.well-known/security.txt

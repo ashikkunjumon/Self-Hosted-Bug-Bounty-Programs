@@ -35,7 +35,7 @@
 | `isomate.io` | [policy](https://isomate.io/en/security-hall-of-fame-2/) | monetary | yes | retired |
 | `kpa.io` | [policy](https://hs.kpa.io/responsible-disclosure-policy) | monetary | yes | retired |
 | `leantime.io` | [policy](https://leantime.io/responsible-disclosure-policy/) | — | — | retired |
-| `mlaify.io` | [policy](https://matthewd.xyz/security/) | — | yes | active |
+| `mlaify.io` | [policy](https://matthewd.xyz/security/) | — | yes | retired |
 | `mydukaan.io` | [policy](https://mydukaan.io/bugbounty/) | monetary | — | retired |
 | `onpay.io` | [policy](https://onpay.io/responsible-disclosure) | monetary | yes | active |
 | `overblock.io` | [policy](https://overblock.io/security) | recognition | — | expired |

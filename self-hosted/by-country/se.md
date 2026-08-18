@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-488 programs.
+489 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -321,6 +321,7 @@
 | `pensionsmyndigheten.se` | — | — | — | active |
 | `pliktverket.se` | — | — | — | active |
 | `polisen.se` | — | — | — | active |
+| `privataaffarer.se` | — | — | — | active |
 | `pro.se` | — | — | — | active |
 | `psykologforbundet.se` | — | — | — | active |
 | `pts.se` | — | — | — | active |

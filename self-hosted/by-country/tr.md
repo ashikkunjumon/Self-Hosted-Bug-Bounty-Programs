@@ -28,7 +28,7 @@
 | `tchibo.com.tr` | — | — | — | active |
 | `togg.com.tr` | — | — | — | active |
 | `trovit.com.tr` | — | recognition | — | active |
-| `turkegitimsen.org.tr` | — | — | — | active |
+| `turkegitimsen.org.tr` | — | — | — | retired |
 | `turmob.org.tr` | — | — | — | active |
 | `ufuk.edu.tr` | — | — | — | active |
 | `yandex.com.tr` | [policy](https://ya.cc/t/1cSZixjB3gkSva) | monetary | — | active |

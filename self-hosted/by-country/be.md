@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-206 programs.
+208 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@
 | `lommel.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `luminex.be` | — | — | — | active |
 | `madeinasia.be` | — | — | — | active |
-| `madewithlove.be` | [policy](https://madewithlove.com/privacy-policy/) | — | — | active |
+| `madewithlove.be` | [policy](https://madewithlove.com/privacy-policy/) | recognition | yes | active |
 | `madisoncasino.be` | — | — | — | active |
 | `maldegem.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `malmedy.be` | — | — | — | active |
@@ -123,6 +123,7 @@
 | `notino.be` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
 | `nviso.be` | — | — | — | active |
 | `ocmw-info-cpas.be` | — | — | — | expired |
+| `olen.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `olln.be` | — | — | — | active |
 | `oostende.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `oudsbergen.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
@@ -172,6 +173,7 @@
 | `taaltelefoon.be` | — | — | — | active |
 | `thomasmore.be` | [policy](https://security.thomasmore.be) | — | yes | active |
 | `ticketswap.be` | [policy](https://www.ticketswap.com/content/responsible-disclosure) | — | — | expired |
+| `toerismeieper.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `tongeren-borgloon.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `totalenergies.be` | [policy](https://totalenergies.com/cert) | — | — | active |
 | `travelbird.be` | [policy](https://openbugbounty.org/bugbounty/secretescapesltd/) | recognition | — | active |
@@ -185,7 +187,7 @@
 | `uclouvain.be` | — | — | — | active |
 | `unix-solutions.be` | [policy](https://datacenters.unix-solutions.be/responsibledisclosure) | — | — | active |
 | `vanbreda.be` | [policy](https://www.vanbreda.be/en/legal/vulnerability-report) | monetary | — | expired |
-| `vdab.be` | [policy](https://www.vdab.be/responsible-disclosure) | recognition | yes | expired |
+| `vdab.be` | [policy](https://www.vdab.be/responsible-disclosure) | recognition | yes | retired |
 | `velora.be` | — | — | — | active |
 | `veloro.be` | [policy](https://www.registrarhub.net/.well-known/responsible_disclosure.txt) | — | — | active |
 | `vib.be` | [policy](https://www.vib.be/responsible-disclosure) | recognition | yes | active |

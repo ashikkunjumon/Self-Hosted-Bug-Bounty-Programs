@@ -1,6 +1,6 @@
 # Self-hosted programs — GLOBAL
 
-2,714 programs.
+2,718 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -62,6 +62,7 @@
 | `ahajournals.org` | — | — | — | active |
 | `ahrinet.org` | — | — | — | expired |
 | `aicrowd.com` | [policy](https://www.aicrowd.com/bug_bounty) | monetary | — | expired |
+| `aims360.com` | [policy](https://www.aims360.com/fashion-business-resources/vulnerability-responses) | — | — | active |
 | `aion.network` | [policy](https://aion.network/terms-bounty) | monetary | — | retired |
 | `airbaltic.com` | [policy](https://www.airbaltic.com/en/rules-and-regulations/vulnerability-disclosure-policy) | — | — | active |
 | `airbus.com` | — | — | — | active |
@@ -71,7 +72,7 @@
 | `airship.com` | [policy](https://www.airship.com/legal/full-disclosure-security-policy/) | — | — | retired |
 | `airtahitinui.com` | — | — | — | active |
 | `airtasker.com` | — | — | — | expired |
-| `airvpn.org` | [policy](https://airvpn.org/security_policy/) | — | — | active |
+| `airvpn.org` | [policy](https://airvpn.org/security_policy/) | monetary | — | active |
 | `airwallex.com` | [policy](https://help.airwallex.com/hc/en-gb/articles/900004502526-Bug-Bounty-Program-Rules) | monetary | — | active |
 | `aisurvivors.com` | — | — | — | active |
 | `ajconline.org` | — | — | — | active |
@@ -509,7 +510,7 @@
 | `ctftime.org` | — | — | — | active |
 | `cube.exchange` | [policy](https://www.cube.exchange/what-is/bug-bounty) | — | — | active |
 | `cuisineaz.com` | — | — | — | active |
-| `cults3d.com` | — | — | — | retired |
+| `cults3d.com` | — | — | — | active |
 | `currencycloud.com` | [policy](https://www.currencycloud.com/legal/responsible-disclosure/) | monetary | — | retired |
 | `currentsoftware.app` | [policy](https://www.currentsoftware.app/responsible-disclosure-policy) | — | yes | retired |
 | `cursor.com` | — | — | — | active |
@@ -1128,7 +1129,7 @@
 | `ikea.com` | [policy](https://bugs.ikea.com/) | — | — | active |
 | `ilo.org` | — | — | — | active |
 | `imaginemodels.com` | [policy](https://imaginemodels.com/terms) | — | — | active |
-| `imcdb.org` | — | recognition | — | active |
+| `imcdb.org` | — | recognition | — | retired |
 | `impact.com` | [policy](https://impact.responsibledisclosure.com/hc/en-us) | recognition | — | active |
 | `imply.io` | — | — | — | active |
 | `improvado.io` | [policy](https://improvado.io/company-legal/responsible-disclosure-policy) | monetary | yes | active |
@@ -1424,12 +1425,12 @@
 | `mastersteps.com` | [policy](https://mastersteps.com/security) | — | yes | active |
 | `matrix.org` | [policy](https://matrix.org/security-disclosure-policy/) | recognition | — | expired |
 | `mattermost.com` | [policy](https://mattermost.com/security-vulnerability-report/) | monetary | — | active |
-| `matthewd.xyz` | [policy](https://matthewd.xyz/security/) | — | yes | active |
+| `matthewd.xyz` | [policy](https://matthewd.xyz/security/) | — | yes | retired |
 | `maxisciences.com` | — | — | — | active |
 | `maybelline.com` | — | recognition | — | active |
 | `mayoclinicproceedings.org` | — | — | — | active |
 | `mb8coin.io` | — | — | — | active |
-| `mcpsec.dev` | [policy](https://mcpsec.dev/disclosure-policy/) | recognition | — | retired |
+| `mcpsec.dev` | [policy](https://mcpsec.dev/disclosure-policy/) | — | — | active |
 | `medallia.com` | — | — | — | active |
 | `medel.com` | [policy](https://www.medel.com/terms/medel-vulnerability-handling-and-disclosure-policy) | recognition | — | active |
 | `mediamatic.net` | — | — | — | active |
@@ -1730,6 +1731,7 @@
 | `otrs.com` | [policy](https://otrs.com/vulnerability-disclosure-policy/) | recognition | — | active |
 | `ottobock.com` | — | — | — | active |
 | `oursportscentral.com` | — | — | — | active |
+| `outbrain.com` | [policy](https://www.outbrain.com/security/bug-bounty/) | monetary | yes | active |
 | `outdoorproject.com` | [policy](https://www.onxmaps.com/security-policy) | — | — | expired |
 | `outsports.com` | — | — | — | active |
 | `outsystems.com` | [policy](https://success.outsystems.com/Support/Security/Vulnerabilities) | — | — | expired |
@@ -1916,7 +1918,7 @@
 | `pub.dev` | [policy](https://pub.dev/security) | — | — | active |
 | `publicapis.dev` | — | — | — | active |
 | `pubnub.com` | [policy](https://www.pubnub.com/bug-bounty-policy/) | monetary | yes | retired |
-| `pulumi.com` | [policy](https://www.pulumi.com/security/) | — | — | active |
+| `pulumi.com` | [policy](https://www.pulumi.com/security/) | — | — | retired |
 | `pumble.com` | [policy](https://security.cake.com/) | monetary | — | active |
 | `punchzee.com` | [policy](https://www.punchzee.com/vulnerability-disclosure-and-reward-program) | monetary | yes | retired |
 | `purestorage.com` | [policy](https://purefla.sh/vulnerabilitydisclosure) | monetary | yes | active |
@@ -2103,6 +2105,7 @@
 | `security.midas.network` | [policy](https://security.midas.network/reporting) | monetary | yes | active |
 | `security.remitano.com` | [policy](https://security.remitano.com/) | monetary | — | retired |
 | `security.samsungmobile.com` | [policy](https://security.samsungmobile.com/securityReporting.smsb) | recognition | — | retired |
+| `securityfocus.com` | — | — | — | active |
 | `securityheaders.com` | — | — | — | active |
 | `securityinnovation.com` | [policy](https://cybersecurity.bureauveritas.com/about) | — | — | retired |
 | `securitymetrics.com` | [policy](https://www.securitymetrics.com/terms-of-service) | monetary | — | expired |
@@ -2111,7 +2114,7 @@
 | `sejda.com` | — | — | — | active |
 | `selfdecode.com` | [policy](https://selfdecode.com/app/security/policy) | — | — | active |
 | `semanticscholar.org` | — | — | — | active |
-| `semgrep.dev` | [policy](https://semgrep.dev/docs/security) | monetary | — | active |
+| `semgrep.dev` | [policy](https://semgrep.dev/docs/security) | — | — | active |
 | `sendfox.com` | — | — | — | active |
 | `sendpulse.com` | — | — | — | active |
 | `sennheiser-hearing.com` | [policy](https://www.sennheiser-hearing.com/en-DE/coordinated-vulnerability-disclosure-policy/) | — | yes | active |
@@ -2553,7 +2556,7 @@
 | `vitra.com` | — | — | — | active |
 | `vivaldi.com` | [policy](https://vivaldi.com/security/) | swag | — | active |
 | `vivaldi.net` | [policy](https://vivaldi.com/security/) | swag | — | active |
-| `vivid.money` | [policy](https://vivid.money/en-eu/bug-bounty/) | monetary | — | active |
+| `vivid.money` | [policy](https://vivid.money/en-eu/bug-bounty/) | monetary | — | retired |
 | `vobesoft.com` | [policy](https://www.vobesoft.com/security/report) | — | yes | retired |
 | `vocabulary.com` | — | — | — | active |
 | `voibly.app` | [policy](https://voibly.app/security) | monetary | — | retired |
@@ -2677,6 +2680,7 @@
 | `xtremepush.com` | [policy](https://www.xtremepush.com/security/vulnerability-disclosure-policy) | recognition | yes | active |
 | `yam.com` | — | recognition | — | active |
 | `yandex.com` | [policy](https://ya.cc/t/1cSZixjB3gkSva) | monetary | — | active |
+| `yandex.eu` | [policy](https://ya.cc/t/1cSZixjB3gkSva) | monetary | — | active |
 | `yandex.net` | [policy](https://ya.cc/t/1cSZixjB3gkSva) | monetary | — | active |
 | `ydr.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
 | `yeahhub.com` | [policy](https://www.yeahhub.com/privacy-policy/) | — | — | active |

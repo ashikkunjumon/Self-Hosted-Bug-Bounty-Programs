@@ -1,12 +1,13 @@
 # Self-hosted programs — SI
 
-16 programs.
+17 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `acros.si` | — | monetary | — | active |
 | `alter.si` | — | — | — | active |
 | `bauhaus.si` | — | — | — | active |
+| `borzen.si` | — | — | — | active |
 | `cert.si` | [policy](https://cert.si/koordinirano-razkrivanje-ranljivosti/) | monetary | — | active |
 | `data.si` | — | — | — | active |
 | `dm.si` | — | — | — | active |

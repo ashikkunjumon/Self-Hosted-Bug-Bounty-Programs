@@ -254,7 +254,7 @@
 | `queens.cz` | — | — | — | active |
 | `rako.cz` | — | — | — | active |
 | `raynet.cz` | — | — | — | active |
-| `rb.cz` | — | — | — | retired |
+| `rb.cz` | — | — | — | active |
 | `regzone.cz` | — | — | — | expired |
 | `reservanto.cz` | — | — | — | active |
 | `rigad.cz` | — | — | — | active |

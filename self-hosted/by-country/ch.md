@@ -139,7 +139,7 @@
 | `ilo.ch` | — | — | — | active |
 | `immerda.ch` | — | — | — | active |
 | `immoscout24.ch` | — | — | — | active |
-| `impo.ch` | [policy](https://www.coop.ch/de/unternehmen/vdp.html) | monetary | — | expired |
+| `impo.ch` | [policy](https://www.coop.ch/de/unternehmen/vdp.html) | — | yes | expired |
 | `insel.ch` | — | — | — | active |
 | `inselgruppe.ch` | — | — | — | active |
 | `interdiscount.ch` | — | monetary | — | expired |

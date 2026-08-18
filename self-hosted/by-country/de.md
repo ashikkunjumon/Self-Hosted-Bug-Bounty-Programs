@@ -1,11 +1,11 @@
 # Self-hosted programs — DE
 
-386 programs.
+388 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `1blu.de` | — | — | — | expired |
-| `1und1.de` | [policy](https://www.1und1.de/it-security) | monetary | — | expired |
+| `1und1.de` | [policy](https://www.1und1.de/it-security) | monetary | — | retired |
 | `3sat.de` | — | — | — | active |
 | `a7.de` | [policy](https://a7.de/wiki/security-txt/) | — | — | active |
 | `aachen.de` | — | — | — | active |
@@ -48,6 +48,7 @@
 | `blutspende.de` | — | — | — | expired |
 | `bmz.de` | — | — | — | active |
 | `bochum.de` | — | — | — | active |
+| `boerse.de` | — | — | — | active |
 | `bosch.de` | [policy](https://psirt.bosch.com/bosch-responsible-disclosure-policy/) | recognition | — | active |
 | `brandenburg.de` | — | — | — | active |
 | `braunschweiger-zeitung.de` | — | — | — | active |
@@ -237,6 +238,7 @@
 | `neoshare.de` | [policy](https://neoshare.de/responsible-disclosure-program) | recognition | — | retired |
 | `netto-online.de` | — | — | — | active |
 | `nius.de` | — | — | — | active |
+| `nivea.de` | [policy](https://soc.beiersdorf.com/disclosurepolicy.html) | — | yes | active |
 | `nospamproxy.de` | — | recognition | — | active |
 | `nrwbank.de` | — | — | — | active |
 | `nrz.de` | — | — | — | active |
@@ -386,7 +388,7 @@
 | `wuerzburg.de` | — | — | — | active |
 | `wuppertal.de` | [policy](https://digital.wuppertal.de/medien_digitalisierung/10_ISMS_Stadt_Wuppertal_Richtlinie_zur_Offenlegung_von_Sicherheitsluecken_V2.0.pdf) | monetary | — | active |
 | `xing.de` | [policy](https://www.new-work.se/.well-known/rfc-2350.txt) | — | — | expired |
-| `zdf.de` | — | — | — | expired |
+| `zdf.de` | — | — | — | active |
 | `zdfheute.de` | — | — | — | active |
 | `zdh.de` | — | — | — | active |
 | `zentrale.de` | — | — | — | active |

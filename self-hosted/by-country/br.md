@@ -1,6 +1,6 @@
 # Self-hosted programs — BR
 
-72 programs.
+73 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@
 | `cert.br` | — | — | — | active |
 | `cesan.com.br` | — | — | — | active |
 | `cirurgicabrasil.com.br` | — | — | — | active |
-| `cuponeria.com.br` | — | — | — | expired |
+| `cuponeria.com.br` | — | — | — | active |
 | `cvcrm.com.br` | — | — | — | active |
 | `defesa.gov.br` | [policy](https://www.gov.br/defesa/pt-br/arquivos/legislacao/posin-md-2022.pdf) | — | — | expired |
 | `doctoralia.com.br` | — | — | — | active |
@@ -44,6 +44,7 @@
 | `jusbrasil.com.br` | — | — | — | active |
 | `lojadocapita.com.br` | — | — | — | active |
 | `loreal-paris.com.br` | — | recognition | — | active |
+| `maringapost.com.br` | — | — | — | active |
 | `marinha.mil.br` | — | — | — | active |
 | `mda.gov.br` | [policy](https://www.gov.br/agricultura/pt-br/acesso-a-informacao/tecnologia-da-informacao/seguranca-da-informacao/politica-de-seguranca-da-informacao-e-comunicacao-posic) | — | — | active |
 | `michaelpage.com.br` | — | — | — | expired |
