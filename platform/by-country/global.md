@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-570 programs.
+574 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@
 | `chat.openai.com` | [policy](https://openai.com/policies/coordinated-vulnerability-disclosure-policy) | recognition | — | active |
 | `chatgpt.com` | [policy](https://openai.com/policies/coordinated-vulnerability-disclosure-policy) | recognition | — | active |
 | `cheapflights.com` | [policy](https://www.kayak.com/security/) | monetary | — | active |
-| `christianriesen.com` | [policy](https://hackerone.com/automattic) | — | — | active |
+| `christianriesen.com` | [policy](https://hackerone.com/automattic) | — | — | retired |
 | `cisa.gov` | [policy](https://www.cisa.gov/vulnerability-disclosure-policy-template) | monetary | — | retired |
 | `classdojo.com` | [policy](https://bugcrowd.com/engagements/classdojo) | monetary | — | expired |
 | `clearme.com` | — | — | — | active |
@@ -133,7 +133,7 @@
 | `dell.com` | [policy](https://www.dell.com/support/dell-vulnerability-response-policy) | monetary | — | expired |
 | `deriv.com` | [policy](https://hackerone.com/deriv/safe_harbor) | — | — | active |
 | `deskpro.com` | [policy](https://www.deskpro.com/security/responsible-disclosure) | monetary | — | retired |
-| `devolutions.net` | [policy](https://devolutions.net/security/report-issue/) | monetary | — | expired |
+| `devolutions.net` | [policy](https://devolutions.net/security/report-issue/) | monetary | — | active |
 | `dfc.gov` | [policy](https://www.dfc.gov/vulnerability-disclosure-policy) | monetary | yes | retired |
 | `dhl.com` | [policy](https://group.dhl.com/en/sustainability/governance/cyber-security/vulnerability-disclosure-policy.html) | — | yes | active |
 | `digitalocean.com` | [policy](https://app.intigriti.com/programs/digitalocean/digitalocean) | monetary | — | expired |
@@ -303,6 +303,7 @@
 | `magiceden.io` | — | recognition | — | expired |
 | `mariadb.org` | [policy](https://mariadb.org/about/security-policy/) | — | — | active |
 | `marthastewart.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
+| `martindale.com` | — | — | — | active |
 | `mckesson.com` | [policy](https://www.mckesson.com/cybersecurity/coordinated-vulnerability-disclosure/) | monetary | — | active |
 | `mdedge.com` | — | — | — | active |
 | `mediatek.com` | [policy](https://corp.mediatek.com/security-contact) | monetary | — | retired |
@@ -366,6 +367,7 @@
 | `opm.gov` | [policy](https://www.opm.gov/vulnerability-disclosure-policy/) | monetary | yes | retired |
 | `oshrc.gov` | [policy](https://www.oshrc.gov/vulnerability-disclosure-policy/) | — | — | retired |
 | `ourfabriq.com` | [policy](https://ourfabriq.com/responsible-disclosure-policy) | monetary | yes | retired |
+| `outbrain.com` | [policy](https://www.outbrain.com/security/bug-bounty/) | monetary | yes | active |
 | `overture.com` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | active |
 | `ovh.com` | [policy](https://yeswehack.com/programs/ovh) | monetary | — | active |
 | `ovhcloud.com` | [policy](https://yeswehack.com/programs/ovh) | monetary | — | active |
@@ -396,6 +398,7 @@
 | `quidco.com` | [policy](https://bugcrowd.com/engagement_teasers/small-brook-9707) | — | — | active |
 | `qwant.com` | — | — | — | active |
 | `r3.com` | [policy](https://hackerone.com/r3) | — | — | active |
+| `racingjunk.com` | — | — | — | active |
 | `rakuten.net` | — | — | — | active |
 | `randstad.com` | [policy](https://www.randstad.com/report-a-security-problem/) | — | — | active |
 | `randstadusa.com` | [policy](https://www.randstad.com/report-a-security-problem/) | — | — | active |
@@ -565,6 +568,7 @@
 | `wpguardian.io` | — | — | — | active |
 | `x.com` | — | — | — | expired |
 | `xfinity.com` | [policy](https://www.xfinity.com/vulnerabilityreport) | monetary | — | retired |
+| `xvideos.com` | — | — | — | active |
 | `yahoo.com` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | active |
 | `yahoo.net` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | retired |
 | `yahooinc.com` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | active |

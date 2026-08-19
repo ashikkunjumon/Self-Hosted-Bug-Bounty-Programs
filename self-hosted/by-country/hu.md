@@ -12,7 +12,7 @@
 | `citromail.hu` | — | — | — | active |
 | `crysys.hu` | — | — | — | active |
 | `decathlon.hu` | [policy](https://vdp.decathlon.net) | — | — | active |
-| `digitalhungary.hu` | — | — | — | active |
+| `digitalhungary.hu` | — | — | — | expired |
 | `dm.hu` | — | — | — | active |
 | `dunaujvaros.hu` | — | — | — | expired |
 | `eon.hu` | — | — | — | active |

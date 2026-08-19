@@ -1,6 +1,6 @@
 # Self-hosted programs — LV
 
-16 programs.
+17 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -9,6 +9,7 @@
 | `apollokino.lv` | — | — | — | active |
 | `bank.lv` | [policy](https://www.bank.lv/par-mums/noderigi/ievainojamibu-atklasanas-politika) | — | — | expired |
 | `barbora.lv` | — | — | — | active |
+| `bigbank.lv` | [policy](https://ca.bigbank.eu/security) | — | — | active |
 | `bite.lv` | [policy](https://www.bite.lv/lv/informacijas-izpausanas-programma) | monetary | — | active |
 | `bovada.lv` | [policy](https://bovada.lv/bug-bounty) | monetary | — | active |
 | `cafecasino.lv` | [policy](https://cafecasino.lv/bug-bounty) | monetary | — | active |

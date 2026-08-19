@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-343 programs.
+344 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -95,6 +95,7 @@
 | `finma.ch` | — | — | — | active |
 | `fiz-info.ch` | — | recognition | — | active |
 | `flatfox.ch` | — | — | — | active |
+| `fnac.ch` | — | — | — | active |
 | `fondation-barry.ch` | — | — | — | active |
 | `fr.ch` | — | — | — | active |
 | `frauenfeld.ch` | — | — | — | active |
@@ -338,7 +339,7 @@
 | `wohlen.ch` | — | — | — | active |
 | `workzeitung.ch` | — | — | — | active |
 | `woz.ch` | — | — | — | active |
-| `wwz.ch` | [policy](https://github.com/wwz-ag/security-policy) | — | yes | retired |
+| `wwz.ch` | [policy](https://github.com/wwz-ag/security-policy) | — | yes | active |
 | `zellerag.ch` | — | — | — | active |
 | `zg.ch` | — | — | — | active |
 | `zhaw.ch` | — | — | — | expired |

@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-341 programs.
+342 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@
 | `aiken.cz` | — | — | — | active |
 | `airbank.cz` | — | — | — | active |
 | `aktin.cz` | — | — | — | retired |
-| `allwyn.cz` | [policy](https://www.sazka.cz/.well-known/responsible_disclosure_policy.pdf) | monetary | — | expired |
+| `allwyn.cz` | [policy](https://www.allwyn.cz/.well-known/responsible_disclosure_policy.pdf) | monetary | — | active |
 | `ambis.cz` | — | — | — | expired |
 | `amo.cz` | — | — | — | active |
 | `anifilm.cz` | — | — | — | expired |
@@ -259,11 +259,12 @@
 | `reservanto.cz` | — | — | — | active |
 | `rigad.cz` | — | — | — | active |
 | `rlp.cz` | — | — | — | active |
+| `rohlik.cz` | — | — | — | active |
 | `root.cz` | — | — | — | active |
 | `rozhlas.cz` | — | — | — | active |
 | `rsts.cz` | — | — | — | active |
 | `sauto.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | — | yes | active |
-| `sazka.cz` | [policy](https://www.sazka.cz/.well-known/responsible_disclosure_policy.pdf) | monetary | — | expired |
+| `sazka.cz` | [policy](https://www.allwyn.cz/.well-known/responsible_disclosure_policy.pdf) | monetary | — | active |
 | `sbazar.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | — | yes | active |
 | `sblog.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | — | yes | active |
 | `search.seznam.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | — | yes | active |

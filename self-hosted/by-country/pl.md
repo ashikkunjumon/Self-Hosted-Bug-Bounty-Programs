@@ -1,6 +1,6 @@
 # Self-hosted programs — PL
 
-151 programs.
+153 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -117,6 +117,7 @@
 | `pudelek.pl` | — | — | — | active |
 | `radioram.pl` | — | — | — | active |
 | `radiowroclaw.pl` | — | — | — | active |
+| `regiodom.pl` | — | — | — | expired |
 | `ringieraxelspringer.pl` | — | — | — | active |
 | `rmf24.pl` | [policy](https://www.rmf.fm/security-policy.txt) | — | — | active |
 | `rmfclassic.pl` | [policy](https://www.rmf.fm/security-policy.txt) | — | — | active |
@@ -154,4 +155,5 @@
 | `wynagrodzenia.pl` | — | — | — | active |
 | `zaufanatrzeciastrona.pl` | — | — | — | active |
 | `znanylekarz.pl` | — | — | — | active |
+| `zooart.com.pl` | — | — | — | active |
 | `zory.pl` | — | — | — | active |

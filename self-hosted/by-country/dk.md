@@ -1,6 +1,6 @@
 # Self-hosted programs — DK
 
-132 programs.
+133 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -136,3 +136,4 @@
 | `viborg.dk` | — | — | — | active |
 | `vielskerserier.dk` | — | — | — | expired |
 | `wannafind.dk` | — | — | — | active |
+| `williamdam.dk` | — | recognition | — | active |

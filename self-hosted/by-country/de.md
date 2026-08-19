@@ -1,11 +1,11 @@
 # Self-hosted programs — DE
 
-388 programs.
+389 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `1blu.de` | — | — | — | expired |
-| `1und1.de` | [policy](https://www.1und1.de/it-security) | monetary | — | retired |
+| `1und1.de` | [policy](https://www.1und1.de/it-security) | monetary | — | expired |
 | `3sat.de` | — | — | — | active |
 | `a7.de` | [policy](https://a7.de/wiki/security-txt/) | — | — | active |
 | `aachen.de` | — | — | — | active |
@@ -25,7 +25,7 @@
 | `autobahn.de` | — | — | — | expired |
 | `avocadostore.de` | — | — | — | expired |
 | `awi.de` | — | — | — | active |
-| `axton.de` | [policy](https://axton.de/en/meldung-von-schwachstellen/) | — | yes | retired |
+| `axton.de` | [policy](https://www.axton.de/product-security and https://www.axton.de/produktsicherheit) | — | yes | active |
 | `baden-baden.de` | — | — | — | active |
 | `badische-zeitung.de` | — | — | — | active |
 | `bagso.de` | — | — | — | active |
@@ -206,6 +206,7 @@
 | `konstanz.de` | — | — | — | active |
 | `korrektur.de` | — | — | — | active |
 | `kuketz-blog.de` | — | — | — | active |
+| `kulturkaufhaus.de` | — | — | — | expired |
 | `kulturstaatsminister.de` | — | — | — | active |
 | `lancom-systems.de` | — | — | — | active |
 | `landesrecht-bw.de` | — | — | — | active |
@@ -257,7 +258,7 @@
 | `phoenix.de` | — | — | — | active |
 | `phpunit.de` | [policy](https://github.com/sebastianbergmann/phpunit-website/blob/main/SECURITY.md) | — | — | active |
 | `pixum.de` | — | — | — | active |
-| `pnn.de` | — | — | — | active |
+| `pnn.de` | — | — | — | expired |
 | `pnp.de` | — | — | — | active |
 | `poppen.de` | — | — | — | expired |
 | `porsche.de` | [policy](https://www.porsche.com/international/information-security/) | — | — | active |
@@ -309,7 +310,7 @@
 | `swm.de` | — | — | — | active |
 | `swr.de` | — | — | — | active |
 | `swr3.de` | — | — | — | active |
-| `tagesspiegel.de` | — | — | — | active |
+| `tagesspiegel.de` | — | — | — | expired |
 | `tchibo.de` | — | — | — | active |
 | `telekom.de` | [policy](https://www.telekom.com/bugbounty) | monetary | — | retired |
 | `telepolis.de` | [policy](https://heise.de/-7513540) | monetary | — | active |

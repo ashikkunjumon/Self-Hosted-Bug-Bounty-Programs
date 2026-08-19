@@ -37,7 +37,7 @@
 | `acharyaenterprise.com` | [policy](https://acharyaenterprise.com/responsible-disclosure-policy/) | monetary | yes | retired |
 | `acpjournals.org` | — | — | — | active |
 | `acqflo.com` | [policy](https://acqflo.com/security) | — | yes | active |
-| `acquia.com` | [policy](https://www.acquia.com/security#responsible-disclosure) | recognition | yes | active |
+| `acquia.com` | [policy](https://www.acquia.com/security#responsible-disclosure) | recognition | — | active |
 | `acrisure.com` | — | — | — | active |
 | `actblue.com` | [policy](https://secure.actblue.com/content/security) | — | — | active |
 | `actioncontrelafaim.org` | — | — | — | active |
@@ -263,7 +263,7 @@
 | `blackwellpublishing.com` | — | — | — | active |
 | `blast.io` | — | — | — | active |
 | `blavity.com` | — | — | — | active |
-| `blazephoenix.xyz` | [policy](https://github.com/blazephoenixxyz-crypto/Blaze-Phoenix-Dex/blob/main/SECURITY.md) | monetary | yes | active |
+| `blazephoenix.xyz` | [policy](https://github.com/blazephoenixxyz-crypto/Blaze-Phoenix-Dex/blob/main/SECURITY.md) | — | — | active |
 | `bleachbit.org` | [policy](https://github.com/bleachbit/bleachbit/security/policy) | — | — | active |
 | `blender.org` | [policy](https://developer.blender.org/docs/handbook/bug_reports/vulnerability_reports/) | monetary | — | active |
 | `blinkforhome.com` | [policy](https://blinkforhome.com/responsible-disclosure-policy) | recognition | — | retired |
@@ -288,7 +288,7 @@
 | `breuninger.com` | [policy](https://breuninger.com/.well-known/bugbounty.txt) | monetary | yes | active |
 | `brex.com` | [policy](https://www.brex.com/security/responsible-disclosure/) | monetary | yes | expired |
 | `bringme.com` | [policy](https://help.bringme.com/hc/en-us/articles/13139815432850-Responsible-Disclosure-Policy) | recognition | — | expired |
-| `bringyour.com` | [policy](https://ur.io/vdp) | — | — | expired |
+| `bringyour.com` | [policy](https://ur.io/vdp) | — | yes | expired |
 | `broadwayworld.com` | — | — | — | active |
 | `bron.org` | [policy](https://developer.bron.org/bug-bounty/about) | monetary | — | active |
 | `browserleaks.com` | — | — | — | active |
@@ -359,7 +359,7 @@
 | `cgm.com` | [policy](https://www.cgm.com/deu_de/allgemein/cybersecurity-en.html) | — | — | active |
 | `cgsecurity.org` | — | recognition | — | active |
 | `chainalysis.com` | — | — | — | expired |
-| `chainscorelabs.com` | [policy](https://chainscorelabs.com/protocol/zcash/incidents-and-security-advisories/zcash-responsible-disclosure-and-bounty-program) | monetary | — | active |
+| `chainscorelabs.com` | [policy](https://chainscorelabs.com/protocol/zcash/incidents-and-security-advisories/zcash-responsible-disclosure-and-bounty-program) | monetary | — | retired |
 | `chamonix.com` | — | — | — | active |
 | `change.org` | [policy](https://www.change.org/policies/privacy) | monetary | — | active |
 | `chargetrip.com` | [policy](https://www.chargetrip.com/legal/security) | monetary | — | retired |
@@ -1451,6 +1451,7 @@
 | `merkle.com` | [policy](https://www.merkle.com/en/disclosure-policy.html) | — | — | retired |
 | `merkleinc.com` | [policy](https://www.merkle.com/en/disclosure-policy.html) | recognition | — | retired |
 | `merriam-webster.com` | — | — | — | active |
+| `meshok.net` | — | — | — | expired |
 | `messenger.com` | [policy](https://bugbounty.meta.com/) | monetary | — | active |
 | `metacpan.org` | [policy](https://security.metacpan.org/docs/report.html) | — | — | retired |
 | `metalstorm.net` | [policy](https://metalstorm.net/admin/security.php) | recognition | — | active |
@@ -1521,7 +1522,7 @@
 | `mwcbarcelona.com` | [policy](https://www.mwcbarcelona.com/security-policy) | recognition | — | active |
 | `mx.com` | [policy](https://mx.com/security-policy/) | — | — | active |
 | `mxlinux.org` | — | — | — | expired |
-| `myassignmenthelp.com` | [policy](https://myassignmenthelp.com/privacy-policy.html) | monetary | — | active |
+| `myassignmenthelp.com` | [policy](https://myassignmenthelp.com/privacy-policy.html) | monetary | — | expired |
 | `mybb.com` | [policy](https://mybb.com/get-involved/security/) | — | — | active |
 | `mybuilder.com` | — | — | — | expired |
 | `mycentraljersey.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
@@ -1731,7 +1732,6 @@
 | `otrs.com` | [policy](https://otrs.com/vulnerability-disclosure-policy/) | recognition | — | active |
 | `ottobock.com` | — | — | — | active |
 | `oursportscentral.com` | — | — | — | active |
-| `outbrain.com` | [policy](https://www.outbrain.com/security/bug-bounty/) | monetary | yes | active |
 | `outdoorproject.com` | [policy](https://www.onxmaps.com/security-policy) | — | — | expired |
 | `outsports.com` | — | — | — | active |
 | `outsystems.com` | [policy](https://success.outsystems.com/Support/Security/Vulnerabilities) | — | — | expired |
@@ -2114,10 +2114,10 @@
 | `sejda.com` | — | — | — | active |
 | `selfdecode.com` | [policy](https://selfdecode.com/app/security/policy) | — | — | active |
 | `semanticscholar.org` | — | — | — | active |
-| `semgrep.dev` | [policy](https://semgrep.dev/docs/security) | — | — | active |
+| `semgrep.dev` | [policy](https://semgrep.dev/docs/security) | monetary | — | active |
 | `sendfox.com` | — | — | — | active |
 | `sendpulse.com` | — | — | — | active |
-| `sennheiser-hearing.com` | [policy](https://www.sennheiser-hearing.com/en-DE/coordinated-vulnerability-disclosure-policy/) | — | yes | active |
+| `sennheiser-hearing.com` | [policy](https://www.sennheiser-hearing.com/en-DE/coordinated-vulnerability-disclosure-policy/) | — | — | active |
 | `sennheiser.com` | [policy](https://www.sennheiser.com/en-de/product-security#Vulnerability%20Handling%20Policy) | monetary | — | active |
 | `sentinelone.com` | — | monetary | — | active |
 | `sentry.dev` | [policy](https://sentry.io/security/#vulnerability-disclosure) | swag | — | active |
@@ -2259,7 +2259,7 @@
 | `strawberryhotels.com` | — | — | — | active |
 | `strem.io` | [policy](https://www.stremio.com/security-policy.txt) | — | — | active |
 | `stremio.com` | [policy](https://www.stremio.com/security-policy.txt) | — | — | active |
-| `studentdoctor.net` | [policy](https://www.studentdoctor.net/security-policy/) | — | — | active |
+| `studentdoctor.net` | [policy](https://www.studentdoctor.net/security-policy/) | monetary | — | active |
 | `studo.com` | [policy](https://studo.com/security) | monetary | yes | active |
 | `studocu.com` | [policy](https://studocu.com/vdp.html) | — | — | active |
 | `studyinnl.org` | [policy](https://www.nuffic.nl/onderwerpen/over-ons/kwetsbaarheid-melden) | — | yes | expired |
@@ -2579,7 +2579,7 @@
 | `w3.org` | — | — | — | active |
 | `waag.org` | — | — | — | expired |
 | `wacker.com` | — | swag | — | active |
-| `wago.com` | [policy](https://www.wago.com/global/automation-technology/psirt) | monetary | — | active |
+| `wago.com` | [policy](https://www.wago.com/global/automation-technology/psirt) | — | — | active |
 | `wagtail.io` | [policy](https://github.com/wagtail/wagtail/security/policy) | — | — | active |
 | `wagwalking.com` | [policy](https://wagwalking.com/responsible-disclosure) | monetary | yes | retired |
 | `walgreens.com` | [policy](https://www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp) | monetary | yes | active |

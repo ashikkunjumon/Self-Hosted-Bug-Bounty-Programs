@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-489 programs.
+490 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -20,6 +20,7 @@
 | `almhult.se` | — | — | — | active |
 | `alvdalen.se` | — | — | — | active |
 | `amal.se` | — | — | — | active |
+| `ancestry.se` | [policy](https://www.ancestry.com/c/legal/security) | — | — | active |
 | `ange.se` | — | — | — | active |
 | `antagning.se` | — | — | — | active |
 | `arbetarbladet.se` | — | — | — | active |
@@ -52,7 +53,7 @@
 | `botkyrka.se` | — | — | — | active |
 | `boxer.se` | — | — | — | active |
 | `bra.se` | — | — | — | active |
-| `bring.se` | — | — | — | active |
+| `bring.se` | — | — | — | retired |
 | `bt.se` | — | — | — | active |
 | `bth.se` | — | — | — | active |
 | `businessregiongoteborg.se` | — | — | — | expired |
