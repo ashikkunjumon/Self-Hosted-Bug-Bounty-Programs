@@ -1,6 +1,6 @@
 # Self-hosted programs — IN
 
-32 programs.
+33 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@
 | `garnier.in` | — | recognition | — | active |
 | `gettyimages.in` | — | — | — | retired |
 | `hotfrog.in` | — | — | — | active |
-| `huffingtonpost.in` | — | monetary | — | expired |
+| `huffingtonpost.in` | — | monetary | — | active |
 | `intel.in` | [policy](https://www.intel.com/content/www/us/en/security-center/vulnerability-handling-guidelines.html) | monetary | — | expired |
 | `krmangalam.edu.in` | — | — | — | active |
 | `linktw.in` | — | — | — | active |
@@ -27,6 +27,7 @@
 | `mdcomputers.in` | — | — | — | active |
 | `michaelpage.co.in` | — | — | — | expired |
 | `mirchi.in` | [policy](https://timesinternet.in/responsible-disclosure/policy.html) | — | yes | active |
+| `newaymsw.in` | [policy](https://www.agitex.africa.com/chinh-sach-bao-mat/) | — | — | active |
 | `onnetsolution.in` | — | — | — | active |
 | `symbiont.in` | [policy](https://moodledev.io/general/development/process/security) | monetary | — | expired |
 | `tax2win.in` | — | — | — | expired |

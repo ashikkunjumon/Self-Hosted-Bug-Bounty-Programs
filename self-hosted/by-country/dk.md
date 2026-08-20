@@ -1,6 +1,6 @@
 # Self-hosted programs — DK
 
-133 programs.
+135 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@
 | `billigvvs.dk` | — | — | — | expired |
 | `bold.dk` | — | — | — | active |
 | `boligsiden.dk` | — | — | — | retired |
-| `bring.dk` | — | — | — | active |
+| `bring.dk` | — | — | — | retired |
 | `brk.dk` | — | — | — | expired |
 | `cochrane.dk` | — | — | — | active |
 | `conferencemanager.dk` | — | — | — | active |
@@ -51,6 +51,7 @@
 | `flashscore.dk` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `flixbus.dk` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |
 | `folkebladetlemvig.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
+| `frdb.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
 | `fyens.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
 | `gettyimages.dk` | — | — | — | retired |
 | `gigahost.dk` | — | — | — | active |
@@ -133,6 +134,7 @@
 | `udeoghjemme.dk` | — | — | — | expired |
 | `vafo.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
 | `version2.dk` | — | — | — | active |
+| `viborg-folkeblad.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
 | `viborg.dk` | — | — | — | active |
 | `vielskerserier.dk` | — | — | — | expired |
 | `wannafind.dk` | — | — | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-208 programs.
+209 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -203,6 +203,7 @@
 | `voka.be` | — | — | — | expired |
 | `volero.be` | [policy](https://www.registrarhub.net/.well-known/responsible_disclosure.txt) | — | — | active |
 | `vrt.be` | [policy](https://www.vrt.be/en/responsible-disclosure-policy-english-version/) | recognition | — | active |
+| `warande.be` | — | — | — | active |
 | `wavre.be` | — | — | — | active |
 | `webador.be` | — | — | — | active |
 | `west-vlaanderen.be` | — | — | — | active |

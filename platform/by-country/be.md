@@ -1,12 +1,13 @@
 # Platform-hosted programs — BE
 
-44 programs.
+45 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `7sur7.be` | — | monetary | — | active |
 | `airbnb.be` | [policy](https://hackerone.com/airbnb#overview) | — | — | active |
 | `auto5.be` | — | — | — | active |
+| `autoscout24.be` | [policy](https://app.intigriti.com/programs/autoscout/autoscout24-vdp/detail) | monetary | — | expired |
 | `bmw-motorrad.be` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
 | `bmw.be` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
 | `comparateur-energie.be` | — | monetary | — | active |

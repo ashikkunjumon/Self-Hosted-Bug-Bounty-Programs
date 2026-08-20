@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-342 programs.
+343 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -127,6 +127,7 @@
 | `hras.cz` | — | — | — | active |
 | `hwkitchen.cz` | — | — | — | active |
 | `hypotecnibanka.cz` | — | — | — | active |
+| `ifortuna.cz` | — | monetary | — | active |
 | `iir.cz` | — | — | — | active |
 | `imago.cz` | [policy](http://www.imago.cz/kontakt) | swag | — | active |
 | `indian-tv.cz` | [policy](https://indian-tv.cz/zasady) | — | — | active |

@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-574 programs.
+575 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@
 | `adobe.com` | [policy](https://helpx.adobe.com/security.html/security/policy.ug.html) | monetary | — | active |
 | `affirm.com` | — | — | — | expired |
 | `afr.com` | [policy](https://bugcrowd.com/nine-entertainment-vdp-pro) | — | — | active |
-| `afterpay.com` | — | — | — | expired |
+| `afterpay.com` | — | — | — | retired |
 | `agriculture.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `aikido.dev` | [policy](https://app.intigriti.com/programs/aikido/aikido/detail) | monetary | — | active |
 | `airbnb.com` | [policy](https://hackerone.com/airbnb#overview) | — | — | active |
@@ -236,7 +236,7 @@
 | `hostinger.com` | [policy](https://www.hostinger.com/legal/responsible-disclosure-policy) | monetary | yes | active |
 | `hotelfachzeitung.com` | [policy](https://www.hotelfachzeitung.com/hotelnachrichten/fachwissen/computer-hacker-im-hotel-bug-bounty-programme-zur-praevention) | monetary | — | retired |
 | `hotelscombined.com` | [policy](https://www.kayak.com/security/) | monetary | — | active |
-| `hotpads.com` | [policy](https://hackerone.com/zillowgroup) | recognition | — | active |
+| `hotpads.com` | [policy](https://hackerone.com/zillowgroup) | recognition | — | retired |
 | `hotstar.com` | [policy](https://hackerone.com/disney?type=team) | — | — | retired |
 | `hotukdeals.com` | [policy](https://atolls.com/disclosure-policy) | — | — | active |
 | `houseofhr.com` | [policy](https://houseofhr.com/responsible-disclosure-statement) | monetary | — | retired |
@@ -403,6 +403,7 @@
 | `randstad.com` | [policy](https://www.randstad.com/report-a-security-problem/) | — | — | active |
 | `randstadusa.com` | [policy](https://www.randstad.com/report-a-security-problem/) | — | — | active |
 | `rapgenius.com` | [policy](https://bugcrowd.com/engagements/Genius-VDP) | — | — | retired |
+| `rctech.net` | — | — | — | active |
 | `rea-group.com` | [policy](https://www.rea-group.com/security) | recognition | — | active |
 | `realpage.com` | [policy](https://www.realpage.com/support/security/responsible-disclosure/) | monetary | — | retired |
 | `realself.com` | [policy](https://www.realself.com/security/) | — | — | active |

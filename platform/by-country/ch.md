@@ -32,7 +32,7 @@
 | `jungfrau.ch` | — | — | — | expired |
 | `jura.ch` | [policy](https://www.jura.ch/scripts/index.aspx?idn=12853) | monetary | yes | active |
 | `kayak.ch` | [policy](https://www.kayak.com/security/) | monetary | — | active |
-| `kkg.ch` | — | — | — | expired |
+| `kkg.ch` | — | — | — | active |
 | `kpt.ch` | [policy](https://app.bugbounty.ch/public/engagement/details/291c747e-d690-45bd-9aa3-54990d75e265) | monetary | — | active |
 | `laredoute.ch` | [policy](https://www.laredoute.com/vulnerability_disclosure_program.aspx) | — | — | expired |
 | `lematin.ch` | [policy](https://bugcrowd.com/twentyminuten) | monetary | — | expired |

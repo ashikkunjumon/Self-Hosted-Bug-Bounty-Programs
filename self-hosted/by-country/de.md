@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-389 programs.
+391 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -111,6 +111,7 @@
 | `ekomi.de` | — | — | — | active |
 | `eon.de` | — | — | — | active |
 | `erasmusplus.de` | — | — | — | active |
+| `eventim-inhouse.de` | — | — | — | active |
 | `eventim.de` | — | — | — | active |
 | `expedia.de` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
 | `expert.de` | [policy](https://www.expert.de/service/contact/security) | — | — | active |
@@ -156,6 +157,7 @@
 | `govdata.de` | — | — | — | active |
 | `gruene-bundestag.de` | — | — | — | active |
 | `gsi.de` | — | — | — | active |
+| `gwdg.de` | — | — | — | active |
 | `hagebau.de` | — | — | — | active |
 | `hannover-airport.de` | — | — | — | active |
 | `hansemerkur.de` | — | — | — | active |

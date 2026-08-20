@@ -1,6 +1,6 @@
 # Self-hosted programs — AT
 
-134 programs.
+135 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -41,6 +41,7 @@
 | `exxpress.at` | [policy](https://exxpress.at/security-policy) | recognition | — | active |
 | `fhstp.ac.at` | [policy](https://www.ustp.at/de/security-disclosure-policy) | swag | — | active |
 | `fhv.at` | — | — | — | active |
+| `finanzen.at` | [policy](https://www.finanzen.net/.well-known/bugbounty.txt) | monetary | yes | active |
 | `flashscore.at` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `flatex.at` | [policy](https://www.flatexdegiro.com/security) | — | yes | active |
 | `flixbus.at` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — NO
 
-219 programs.
+220 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -15,6 +15,7 @@
 | `avinor.no` | [policy](https://om.avinor.no/en/about-us/Avinor-IT-security/) | — | — | active |
 | `bankid.no` | — | recognition | — | active |
 | `barentswatch.no` | — | — | — | active |
+| `bauhaus.no` | — | — | — | active |
 | `bdo.no` | — | — | — | expired |
 | `berg-hansen.no` | — | — | — | active |
 | `bfk.no` | — | — | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — GLOBAL
 
-2,718 programs.
+2,721 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -48,6 +48,7 @@
 | `adamj.eu` | — | recognition | — | active |
 | `addy.io` | — | — | — | active |
 | `admin.reinvent.com` | [policy](https://admin.reinvent.com/security/security.policy.txt) | monetary | — | retired |
+| `adminer.org` | — | — | — | active |
 | `admitad.com` | [policy](https://www.admitad.com/bug-bounty/) | — | — | active |
 | `adultcamsuk.com` | — | — | — | active |
 | `advancedcommunities.com` | [policy](https://advancedcommunities.com/reporting-a-security-vulnerability/) | — | — | retired |
@@ -308,8 +309,8 @@
 | `business.jtglobal.com` | [policy](https://business.jtglobal.com/blog/) | — | — | retired |
 | `busuu.com` | — | recognition | — | active |
 | `buttondown.com` | [policy](https://buttondown.com/blog/security) | — | — | active |
-| `buzzfeed.com` | — | monetary | — | expired |
-| `buzzfeednews.com` | — | monetary | — | expired |
+| `buzzfeed.com` | — | monetary | — | active |
+| `buzzfeednews.com` | — | monetary | — | active |
 | `bynder.com` | [policy](https://www.bynder.com/en/legal/responsible-disclosure-policy/) | — | — | retired |
 | `c-span.org` | — | — | — | active |
 | `c-spanvideo.org` | — | — | — | active |
@@ -458,7 +459,7 @@
 | `computingforgeeks.com` | — | — | — | active |
 | `concur.com` | — | — | — | expired |
 | `conduktor.io` | — | — | — | active |
-| `conferencebadge.com` | [policy](https://www.conferencebadge.com/security) | — | — | active |
+| `conferencebadge.com` | [policy](https://www.conferencebadge.com/security) | monetary | — | active |
 | `confluent.io` | [policy](https://www.confluent.io/trust-and-security/) | monetary | — | active |
 | `confused.com` | [policy](https://www.confused.com/privacy-and-security/security/security-disclosure-policy) | swag | — | active |
 | `connectwise.com` | [policy](https://www.connectwise.com/company/trust/security/vulnerability-disclosure-policy) | monetary | yes | active |
@@ -622,6 +623,7 @@
 | `docs.val.town` | [policy](https://docs.val.town/contact-us/security/) | monetary | yes | active |
 | `documentcloud.org` | — | — | — | active |
 | `documentfoundation.org` | — | monetary | — | active |
+| `docuware.com` | [policy](https://security.docuware.com/index.html) | — | yes | active |
 | `doktortakvimi.com` | — | — | — | active |
 | `dollartree.com` | — | — | — | active |
 | `domainnameshop.com` | — | — | — | expired |
@@ -630,6 +632,7 @@
 | `dotcms.com` | [policy](https://www.dotcms.com/docs/latest/responsible-disclosure-policy) | monetary | — | active |
 | `dotdigital.com` | [policy](https://dotdigital.com/trust-center/) | — | — | active |
 | `doubleclick.net` | [policy](https://g.co/vrp) | — | — | active |
+| `doublefine.com` | [policy](https://www.doublefine.com/security-policy) | recognition | — | active |
 | `dovendi.com` | [policy](https://dovendi.com/nl/security-policy) | — | yes | expired |
 | `doximity.com` | [policy](https://www.doximity.com/about/security) | — | — | active |
 | `dpa.com` | — | — | — | active |
@@ -1102,8 +1105,8 @@
 | `http.net` | [policy](https://www.http.net/responsible-disclosure-policy/) | recognition | — | retired |
 | `httpwg.org` | [policy](https://www.ietf.org/standards/rfcs/vulnerabilities/) | — | — | active |
 | `hubstaff.com` | [policy](https://hubstaff.com/bug-bounty) | monetary | — | active |
-| `huffingtonpost.com` | — | monetary | — | expired |
-| `huffpost.com` | — | monetary | — | expired |
+| `huffingtonpost.com` | — | monetary | — | active |
+| `huffpost.com` | — | monetary | — | active |
 | `hukumonline.com` | — | — | — | active |
 | `humansecurity.com` | — | — | — | active |
 | `hy-vee.com` | [policy](https://www.hy-vee.com/bug) | — | yes | active |
@@ -1408,8 +1411,8 @@
 | `makertube.net` | — | — | — | active |
 | `malakoffhumanis.com` | [policy](https://www.malakoffhumanis.com/politique-divulgation-vulnerabilites/) | — | — | expired |
 | `maltego.com` | [policy](https://www.maltego.com/responsible-disclosure/) | — | — | active |
-| `malwarebytes.com` | [policy](https://www.malwarebytes.com/secure/guidelines) | monetary | — | active |
-| `malwarebytes.org` | [policy](https://www.malwarebytes.com/secure/guidelines) | monetary | — | active |
+| `malwarebytes.com` | [policy](https://www.malwarebytes.com/secure/guidelines) | — | — | active |
+| `malwarebytes.org` | [policy](https://www.malwarebytes.com/secure/guidelines) | — | — | active |
 | `mamboemm.com` | [policy](https://mamboemm.com/vulnerability-disclosure-policy) | — | — | retired |
 | `mamentis.com` | [policy](https://mamentis.com/docs/resources/miscellaneous/submit-bug-request) | monetary | — | retired |
 | `mamp.info` | — | — | — | expired |
@@ -1529,7 +1532,7 @@
 | `myfritz.net` | [policy](https://fritz.com/pages/sicherheitsinformationen-zu-updates) | — | — | active |
 | `mygreenlab.org` | [policy](https://mygreenlab.org/security/responsible-disclosure-policy/) | monetary | yes | retired |
 | `mylanguageexchange.com` | — | recognition | — | active |
-| `myob.com` | [policy](https://www.myob.com/au/legal/report-security-vulnerability) | monetary | — | retired |
+| `myob.com` | [policy](https://www.myob.com/au/legal/report-security-vulnerability) | monetary | — | active |
 | `myomnipod.com` | [policy](https://www.omnipod.com/product-security) | — | — | retired |
 | `mypassglobal.com` | [policy](https://www.mypassglobal.com/responsible-disclosure) | — | yes | retired |
 | `myshoptet.com` | — | — | — | active |
@@ -2259,7 +2262,7 @@
 | `strawberryhotels.com` | — | — | — | active |
 | `strem.io` | [policy](https://www.stremio.com/security-policy.txt) | — | — | active |
 | `stremio.com` | [policy](https://www.stremio.com/security-policy.txt) | — | — | active |
-| `studentdoctor.net` | [policy](https://www.studentdoctor.net/security-policy/) | monetary | — | active |
+| `studentdoctor.net` | [policy](https://www.studentdoctor.net/security-policy/) | — | — | active |
 | `studo.com` | [policy](https://studo.com/security) | monetary | yes | active |
 | `studocu.com` | [policy](https://studocu.com/vdp.html) | — | — | active |
 | `studyinnl.org` | [policy](https://www.nuffic.nl/onderwerpen/over-ons/kwetsbaarheid-melden) | — | yes | expired |
@@ -2399,7 +2402,7 @@
 | `tissotwatches.com` | — | — | — | active |
 | `titleist.com` | [policy](https://www.AcushnetGolf.Com/.well-known/appsec.html) | monetary | — | active |
 | `tjhsst.edu` | [policy](https://tjhsst.edu/security/policy.txt) | — | — | active |
-| `tmgsec.com` | [policy](https://tmgsec.com/bug-bounty/) | monetary | — | active |
+| `tmgsec.com` | [policy](https://tmgsec.com/bug-bounty/) | monetary | — | retired |
 | `tnr.com` | — | — | — | retired |
 | `todoist.com` | [policy](https://todoist.com/help/articles/doist-bug-bounty-policy-oBo6UzFk) | monetary | — | active |
 | `tokoaido.com` | [policy](https://tokoaido.com/security/responsible-disclosure) | — | yes | retired |

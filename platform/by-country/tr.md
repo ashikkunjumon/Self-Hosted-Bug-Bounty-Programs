@@ -1,10 +1,11 @@
 # Platform-hosted programs — TR
 
-7 programs.
+8 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `airbnb.com.tr` | [policy](https://hackerone.com/airbnb#overview) | — | — | active |
+| `autoscout24.com.tr` | [policy](https://app.intigriti.com/programs/autoscout/autoscout24-vdp/detail) | monetary | — | expired |
 | `bmw.com.tr` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
 | `kayak.com.tr` | [policy](https://www.kayak.com/security/) | monetary | — | active |
 | `momondo.com.tr` | [policy](https://www.kayak.com/security/) | monetary | — | active |

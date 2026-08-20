@@ -1,6 +1,6 @@
 # Self-hosted programs — PL
 
-153 programs.
+155 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -90,6 +90,7 @@
 | `naszemiasto.pl` | — | — | — | expired |
 | `national-geographic.pl` | [policy](https://www.immediate.co.uk/security-disclosure-policy/) | — | — | expired |
 | `newsweek.pl` | — | — | — | active |
+| `niebezpiecznik.pl` | — | — | — | active |
 | `nivea.pl` | [policy](https://soc.beiersdorf.com/disclosurepolicy.html) | — | yes | active |
 | `noclegi.pl` | — | — | — | active |
 | `nocowanie.pl` | — | — | — | active |
@@ -124,6 +125,7 @@
 | `rmfmaxx.pl` | [policy](https://www.rmf.fm/security-policy.txt) | — | — | active |
 | `rybnik.com.pl` | — | — | — | active |
 | `sensus.pl` | — | — | — | active |
+| `siepomaga.pl` | — | — | — | active |
 | `skapiec.pl` | — | — | — | active |
 | `skupszop.pl` | — | — | — | active |
 | `somfy.pl` | [policy](https://vdp.somfy-group.com/) | — | — | active |

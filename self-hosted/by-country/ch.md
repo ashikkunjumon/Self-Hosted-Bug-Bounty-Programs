@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-344 programs.
+346 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -249,6 +249,7 @@
 | `sgkb.ch` | — | — | — | active |
 | `shiftcrypto.ch` | [policy](https://bitbox.swiss/policies/bug-bounty-policy/) | monetary | — | active |
 | `sig-ge.ch` | — | — | — | expired |
+| `sihf.ch` | — | — | — | active |
 | `sion.ch` | — | — | — | active |
 | `sky.ch` | — | — | — | expired |
 | `slotcoordination.ch` | — | — | — | active |
@@ -332,6 +333,7 @@
 | `vs.ch` | [policy](https://vs.ch/vdp) | — | — | active |
 | `vshn.ch` | — | — | — | active |
 | `webador.ch` | — | — | — | active |
+| `weekend4two.ch` | — | — | — | expired |
 | `wettingen.ch` | — | — | — | active |
 | `wie-gehts-dir.ch` | [policy](https://www.wie-gehts-dir.ch/security-policy) | recognition | — | active |
 | `wingo.ch` | [policy](https://github.com/swisscom/bugbounty) | monetary | yes | expired |

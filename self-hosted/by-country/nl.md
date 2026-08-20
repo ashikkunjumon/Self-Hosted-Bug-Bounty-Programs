@@ -1,6 +1,6 @@
 # Self-hosted programs — NL
 
-321 programs.
+322 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@
 | `bertstevensorthesebouw.nl` | [policy](https://kerstenhulpmiddelen.nl/coordinated-vulnerability-disclosure/) | — | — | expired |
 | `bevolkingsonderzoeknederland.nl` | [policy](https://www.bevolkingsonderzoeknederland.nl/responsible-disclosure/) | — | yes | retired |
 | `bibliotheek.nl` | — | — | — | expired |
-| `bigregister.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | swag | — | active |
+| `bigregister.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `bitonic.nl` | [policy](https://bitonic.nl/nl/responsible-disclosure) | recognition | — | retired |
 | `bnr.nl` | [policy](https://fdmg.nl/content/uploads/2021/06/Responsible_Disclosure.pdf) | monetary | — | expired |
 | `bouwendnederland.nl` | — | — | — | expired |
@@ -72,7 +72,7 @@
 | `conclusion.nl` | — | — | — | active |
 | `consuwijzer.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `corendon.nl` | [policy](https://www.corendon.nl/privacy-verklaring) | monetary | — | active |
-| `cultureelerfgoed.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | swag | — | active |
+| `cultureelerfgoed.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `cz.nl` | [policy](https://www.cz.nl/over-cz/beveiligingsprobleem-melden) | monetary | yes | active |
 | `d66.nl` | [policy](https://www.d66.nl/responsible-disclosure/) | monetary | yes | expired |
 | `dagjeweg.nl` | — | — | — | expired |
@@ -93,7 +93,7 @@
 | `dnb.nl` | [policy](https://www.dnb.nl/privacy-en-beveiliging/kwetsbaarheid-melden/) | — | yes | expired |
 | `drentsmuseum.nl` | [policy](https://www.slash2.nl/responsible-disclosure-policy) | recognition | yes | active |
 | `eenvandaag.nl` | [policy](https://www.avrotros.nl/responsible-disclosure~44/) | — | yes | expired |
-| `eerstekamer.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
+| `eerstekamer.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | swag | — | active |
 | `encyclo.nl` | — | — | — | active |
 | `eneco.nl` | [policy](https://www.eneco.com/responsible-disclosure/) | — | — | active |
 | `enschede.nl` | [policy](https://www.enschede.nl/kwetsbaarheid-melden-responsible-disclosure) | — | — | active |
@@ -139,7 +139,7 @@
 | `idfa.nl` | — | — | — | active |
 | `igj.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `ilent.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
-| `ind.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | swag | — | active |
+| `ind.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `independer.nl` | [policy](https://www.independer.nl/algemeen/info/responsible-disclosure.aspx?networkId=68ef56a9-e505-4572-95e0-f7da91bb1dcc) | monetary | yes | retired |
 | `informatiebeveiliging.nl` | — | — | — | active |
 | `inholland.nl` | [policy](https://www.inholland.nl/inhollandcom/responsible-disclosure) | recognition | — | active |
@@ -161,7 +161,7 @@
 | `knab.nl` | [policy](https://www.knab.nl/veiligheid/beveiligingslek-melden) | monetary | yes | expired |
 | `knb.nl` | [policy](https://www.knb.nl/kwetsbaarheid-melden/) | — | yes | active |
 | `kngf.nl` | [policy](https://z-cert.nl/kwetsbaarheid-melden/) | — | — | active |
-| `koninklijkhuis.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
+| `koninklijkhuis.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | swag | — | active |
 | `kpn.nl` | — | monetary | — | active |
 | `kro-ncrv.nl` | [policy](https://kro-ncrv.nl/kwetsbaarheid-website-melden) | recognition | yes | active |
 | `kvk.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
@@ -182,6 +182,7 @@
 | `mijnwoordenboek.nl` | — | — | — | active |
 | `mkb.nl` | — | — | — | active |
 | `mooiedomeinnaam.nl` | — | — | — | expired |
+| `movisie.nl` | — | monetary | — | active |
 | `mumc.nl` | — | — | — | active |
 | `muziekschatten.nl` | — | — | — | active |
 | `nationaalarchief.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |

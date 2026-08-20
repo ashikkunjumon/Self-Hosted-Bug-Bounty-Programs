@@ -1,6 +1,6 @@
 # Self-hosted programs — FI
 
-119 programs.
+120 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -119,6 +119,7 @@
 | `veikkaus.fi` | — | — | — | active |
 | `vero.fi` | — | — | — | active |
 | `visitpori.fi` | — | — | — | active |
+| `vr.fi` | — | — | — | active |
 | `yle.fi` | — | — | — | active |
 | `yleradio1.fi` | — | — | — | active |
 | `zef.fi` | — | — | — | active |
