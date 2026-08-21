@@ -552,7 +552,7 @@ aarau.ch	https://www.aarau.ch/.well-known/security.txt
 abraxas.ch	https://www.abraxas.ch/de/vdp
 abuse.ch	https://abuse.ch/.well-known/security.txt
 adfinis-sygroup.ch	https://www.adfinis.com/.well-known/security.txt
-admin.ch	https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden/scope-and-rules.html
+admin.ch	https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd
 ag.ch	https://www.ag.ch/.well-known/security.txt
 airbnb.ch	https://hackerone.com/airbnb#overview
 ajour.ch	https://ajour.ch/.well-known/security.txt
@@ -581,7 +581,7 @@ bekb.ch	https://www.bekb.ch/.well-known/security.txt
 bern.ch	https://www.bern.ch/.well-known/security.txt
 bernerzeitung.ch	https://bugcrowd.com/tamedia
 bernmobil.ch	https://www.bernmobil.ch/security.txt
-berufsbildung-schweiz.ch	https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden/scope-and-rules.html
+berufsbildung-schweiz.ch	https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd
 bfh.ch	https://www.bfh.ch/de/rechtliches/rechtliche-hinweise/vulnerability-disclosure-management/
 biel-bienne.ch	https://www.biel-bienne.ch/.well-known/security.txt
 bilan.ch	https://bugcrowd.com/tamedia
@@ -595,10 +595,10 @@ bmw.ch	https://www.bmwgroup.com/en/general/Security.html
 bremgarten.ch	https://www.bremgarten.ch/.well-known/security.txt
 bs.ch	https://www.bs.ch/.well-known/security.txt
 buelach.ch	https://www.buelach.ch/.well-known/security.txt
-bundesanwaltschaft.ch	https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden/scope-and-rules.html
+bundesanwaltschaft.ch	https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd
 burgdorf.ch	https://www.talus.ch/de/datenschutz/bug-bounty.php
 bvger.ch	https://www.bvger.ch/.well-known/security.txt
-cadastre.ch	https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden/scope-and-rules.html
+cadastre.ch	https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd
 caritas-regio.ch	https://caritas-regio.ch/security-policy
 casinobern.ch	https://www.casinobern.ch/.well-known/security.txt
 casinolocarno.ch	https://www.casinolocarno.ch/.well-known/security.txt
@@ -705,6 +705,7 @@ immerda.ch	https://www.immerda.ch/.well-known/security.txt
 immoscout24.ch	https://www.immoscout24.ch/.well-known/security.txt
 impo.ch	https://www.coop.ch/de/unternehmen/vdp.html
 indeed.ch	https://www.indeed.com/legal?hl=en&from=gnav-homepage#ivrp
+infoguard.ch	https://www.infoguard.ch/en/security-policy
 infomaniak.ch	https://infomaniak.vulnerability-disclosure.com
 insel.ch	https://www.insel.ch/.well-known/security.txt
 inselgruppe.ch	https://inselgruppe.ch/.well-known/security.txt
@@ -716,7 +717,7 @@ iwb.ch	https://www.iwb.ch/.well-known/security.txt
 jobcloud.ch	https://www.jobcloud.ch/.well-known/security.txt
 jobs.ch	https://jobs.ch/.well-known/security.txt
 jobup.ch	https://jobup.ch/.well-known/security.txt
-jugendundsport.ch	https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden/scope-and-rules.html
+jugendundsport.ch	https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd
 jungfrau.ch	https://www.jungfrau.ch/.well-known/security.txt
 junginstitut.ch	https://junginstitut.ch/.well-known/security.txt
 jura.ch	https://www.jura.ch/scripts/index.aspx?idn=12853
@@ -872,11 +873,11 @@ swissbanking.ch	https://www.swissbanking.ch/.well-known/security.txt
 swisscard.ch	https://www.swisscard.ch/.well-known/security.txt
 swisscom.ch	https://github.com/swisscom/bugbounty
 swissmedic.ch	https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden/scope-and-rules.html
-swissmint.ch	https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden/scope-and-rules.html
+swissmint.ch	https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd
 swissolar.ch	https://www.swissolar.ch/.well-known/security.txt
 swisspass.ch	https://www.swisspass.ch/.well-known/security.txt
 swisspost.ch	https://vdp.post.ch/p/Information-Security
-swisstopo.ch	https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden/scope-and-rules.html
+swisstopo.ch	https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd
 swisstph.ch	https://www.swisstph.ch/.well-known/security.txt
 swisstxt.ch	https://swisstxt.ch/.well-known/security.txt
 swissvotes.ch	https://www.seantis.ch/security
@@ -907,7 +908,7 @@ treatwell.ch	https://www.treatwell.ch/.well-known/security.txt
 trustedshops.ch	https://www.trustedshops.de/.well-known/responsible-disclosure.txt
 tui.ch	https://vdp.tui.com/p/Policy
 tvo-online.ch	https://bugbounty.compass-security.com/bug-bounties/compass-bug-bounty
-uek.ch	https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden/scope-and-rules.html
+uek.ch	https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd
 uncoded.ch	https://uncoded.ch/.well-known/security.txt
 unibe.ch	https://www.unibe.ch/.well-known/security.txt
 unicef.ch	https://www.unicef.ch/.well-known/security.txt
@@ -1043,6 +1044,7 @@ divadlovceletne.cz	https://divadlovceletne.cz/.well-known/security.txt
 dm.cz	https://www.dm.cz/.well-known/security.txt
 dobryandel.cz	https://dobryandel.cz/security.txt
 donio.cz	https://donio.cz/.well-known/security.txt
+dotaceeu.cz	https://dotaceeu.cz/security.txt
 dox.cz	https://www.dox.cz/.well-known/security.txt
 drakkaria.cz	https://www.drakkaria.cz/.well-known/security.txt
 drogy-info.cz	https://www.drogy-info.cz/security.txt
@@ -1452,6 +1454,7 @@ fitbook.de	https://app.intigriti.com/programs/axelspringerse/nmt/detail
 fiz-karlsruhe.de	https://www.fiz-karlsruhe.de/.well-known/security.txt
 flixbus.de	https://global.flixbus.com/responsible-disclosure
 focus.de	https://www.burda-forward.de/en/security/
+foerderdatenbank.de	https://www.foerderdatenbank.de/static/security/security.txt
 foodsharing.de	https://foodsharing.network/content?sub=security
 fragdenstaat.de	https://fragdenstaat.de/.well-known/security.txt
 freelancermap.de	https://www.freelancermap.de/.well-known/security.txt
@@ -1760,6 +1763,7 @@ cochrane.dk	https://cochrane.dk/.well-known/security.txt
 conferencemanager.dk	https://conferencemanager.dk/.well-known/security.txt
 coolstuff.dk	https://coolstuff.dk/.well-known/security.txt
 cykelpartner.dk	https://chainbox.dk/security.txt
+dagbladet-holstebro-struer.dk	https://jfm.dk/sikkerhed
 danishagro.dk	https://danishagro.dk/.well-known/security.txt
 danskespil.dk	https://danskespil.dk/.well-known/security.txt
 dba.dk	https://vend.com/responsible-disclosure-policy.txt
@@ -2032,6 +2036,7 @@ vistaprint.es	https://www.vistaprint.es/.well-known/security.txt
 volkswagen.es	https://www.volkswagen.es/.well-known/security.txt
 webador.es	https://www.webador.es/.well-known/security.txt
 webnode.es	https://www.webnode.com/.well-known/security-policy.html
+werstreamt.es	https://www.werstreamt.es/.well-known/security.txt
 worten.es	https://worten.es/.well-known/security.txt
 xnxx.es	https://xnxx.es/.well-known/security.txt
 xvideos.es	https://xvideos.es/.well-known/security.txt
@@ -2348,6 +2353,7 @@ univ-tlse3.fr	https://www.univ-tlse3.fr/security.txt
 univ-tours.fr	https://www.univ-tours.fr/security.txt
 ut-capitole.fr	https://www.ut-capitole.fr//security.txt
 utt.fr	https://www.utt.fr/security.txt
+veepee.fr	https://www.veepee.fr/.well-known/security.txt
 vichy.fr	https://www.vichy.fr/.well-known/security.txt
 vinted.fr	https://www.vinted.fr/.well-known/security.txt
 vistaprint.fr	https://www.vistaprint.fr/.well-known/security.txt
@@ -4512,7 +4518,7 @@ paysera.com	https://www.paysera.com/v2/en-RU/safety/bug-bounty-program
 pbgc.gov	https://www.pbgc.gov/about/policies/vulnerability-disclosure
 pbs.org	https://www.pbs.org/.well-known/security.txt
 pbskids.org	https://pbskids.org/.well-known/security.txt
-pbslearningmedia.org	https://www.pbslearningmedia.org/.well-known/security.txt
+pbslearningmedia.org	https://pbsnc.pbslearningmedia.org/.well-known/security.txt
 pca-cpa.org	https://pca-cpa.org/.well-known/security.txt
 pch.net	https://www.pch.net/about/privacy
 pcinpact.com	https://pcinpact.com/.well-known/security.txt
@@ -5697,6 +5703,7 @@ digitalhungary.hu	https://www.digitalhungary.hu/.well-known/security.txt
 dm.hu	https://www.dm.hu/.well-known/security.txt
 dunaujvaros.hu	https://dunaujvaros.hu/.well-known/security.txt
 eon.hu	https://www.eon.hu/.well-known/security.txt
+galco.hu	https://galco.hu/.well-known/security.txt
 glami.hu	https://www.glami.hu/security.txt
 hetkoznapi.hu	https://hetkoznapi.hu/.well-known/security.txt
 hup.hu	https://hup.hu/.well-known/security.txt
@@ -6194,6 +6201,7 @@ longfonds.nl	https://www.longfonds.nl/.well-known/security.txt
 lumc.nl	https://www.lumc.nl/coordinated-vulnerability-disclosure-cvd/
 maasschilder-limburg.nl	https://maasschilder-limburg.nl/.well-known/security.txt
 maastrichtuniversity.nl	https://www.maastrichtuniversity.nl/.well-known/security.txt
+managementboek.nl	https://www.managementboek.nl/.well-known/security.txt
 margriet.nl	https://margriet.nl/.well-known/security.txt
 marketingfacts.nl	https://marketingfacts.nl/.well-known/security.txt
 marktplaats.nl	https://adevinta.com/security-vulnerability/
@@ -6550,6 +6558,7 @@ spreadshirt.no	https://spreadshirt.no/.well-known/security.txt
 spv.no	https://www.spv.no/.well-known/security.txt
 ssb.no	https://www.ssb.no/.well-known/security.txt
 sshf.no	https://www.sykehuspartner.no/siteassets/documents/sikkerhet---regionale-bruksvilkar/no-38---responsible-disclosure-policy-engelsk.pdf
+statkraft.no	https://www.statkraft.no/.well-known/security.txt
 statnett.no	https://www.statnett.no/.well-known/security.txt
 statsforvalteren.no	https://www.statsforvalteren.no/.well-known/security.txt
 sthf.no	https://www.sykehuspartner.no/siteassets/documents/sikkerhet---regionale-bruksvilkar/no-38---responsible-disclosure-policy-engelsk.pdf
@@ -6840,6 +6849,7 @@ decathlon.ro	https://vdp.decathlon.net
 defenseromania.ro	https://www.defenseromania.ro/security.txt
 dictie.ro	https://www.dictie.ro/.well-known/security.txt
 dm.ro	https://www.dm.ro/.well-known/security.txt
+doctorulzilei.ro	https://doctorulzilei.ro/security-policy
 ediconnect.ro	https://www.ediconnect.ro/contact
 ejobs.ro	https://www.ejobs.ro/.well-known/security.txt
 elle.ro	https://elle.ro/.well-known/security.txt
@@ -6852,6 +6862,7 @@ galantom.ro	https://galantom.ro/.well-known/security.txt
 glami.ro	https://www.glami.ro/security.txt
 imobiliare.ro	https://www.imobiliare.ro/.well-known/security.txt
 libertatea.ro	https://www.libertatea.ro/.well-known/security.txt
+libertateapentrufemei.ro	https://libertateapentrufemei.ro/.well-known/security.txt
 lidl.ro	https://www.lidl.ro/security.txt
 listafirme.ro	https://listafirme.ro/.well-known/security.txt
 metro.ro	https://www.metroag.de/en/vdp-policy
@@ -6891,7 +6902,7 @@ avito.ru	https://bugbounty.bi.zone/companies/avito/main
 b17.ru	https://www.b17.ru/security.txt
 beeline.ru	https://beeline.ru/.well-known/security.txt
 bitrix24.ru	https://www.bitrix24.ru/.well-known/security.txt
-bitrix24site.ru	https://www.bitrix24.eu/.well-known/security.txt
+bitrix24site.ru	https://www.bitrix24.com/.well-known/security.txt
 cian.ru	https://cian.ru/.well-known/security.txt
 connect.ok.ru	https://connect.ok.ru/.well-known/security.txt
 drevo-info.ru	https://drevo-info.ru/.well-known/security.txt
@@ -6976,7 +6987,7 @@ boxer.se	https://www.boxer.se/.well-known/security.txt
 bra.se	https://bra.se/.well-known/security.txt
 bring.se	https://bring.se/.well-known/security.txt
 bt.se	https://www.bt.se/.well-known/security.txt
-bth.se	https://www.bth.se/download/18.453ec2dd19a0a2d0a6b8786/1761227901247/security.txt
+bth.se	https://www.bth.se/.well-known/security.txt
 businessregiongoteborg.se	https://www.businessregiongoteborg.se/.well-known/security.txt
 byggnads.se	https://www.byggnads.se/.well-known/security.txt
 cancercentrum.se	https://cancercentrum.se/.well-known/security.txt
@@ -7079,7 +7090,7 @@ hogia.se	https://www.hogia.se/.well-known/security.txt
 hornbach.se	https://www.hornbach.se/.well-known/security.txt
 ht.se	https://www.ht.se/.well-known/security.txt
 huddinge.se	https://www.huddinge.se/.well-known/security.txt
-hudiksvall.se	https://hudiksvall.se/download/18.16cc3817a75ec20891372c/1625556712056/security.txt
+hudiksvall.se	https://hudiksvall.se/.well-known/security.txt
 humana.se	https://www.humana.se/.well-known/security.txt
 ica.se	https://www.ica.se/.well-known/security.txt
 icaforsakring.se	https://www.icaforsakring.se/.well-known/security.txt
@@ -7101,7 +7112,7 @@ jarfalla.se	https://www.jarfalla.se/.well-known/security.txt
 jernhusen.se	https://www.jernhusen.se/security.txt
 jnytt.se	https://www.jp.se/.well-known/security.txt
 jo.se	https://www.jo.se/.well-known/security.txt
-jonkoping.se	https://www.jonkoping.se/download/18.4408d4b618e9de649b1c485/1754637789845/security.txt
+jonkoping.se	https://www.jonkoping.se/.well-known/security.txt
 jordbruksverket.se	https://jordbruksverket.se/download/18.729843d41886a6c00e0e4e5b/1685946749956/security.txt
 jp.se	https://www.jp.se/.well-known/security.txt
 k-bygg.se	https://k-bygg.se/.well-known/security.txt
@@ -7129,7 +7140,7 @@ konkurrensverket.se	https://www.konkurrensverket.se/.well-known/security.txt
 konstnarsnamnden.se	https://konstnarsnamnden.se/.well-known/security.txt
 konsumenteuropa.se	https://konsumenteuropa.se/.well-known/security.txt
 konsumentverket.se	https://www.konsumentverket.se/.well-known/security.txt
-koping.se	https://koping.se/download/18.fe4ef461990aa3901f2211b/1777450254282/security.txt
+koping.se	https://koping.se/.well-known/security.txt
 kramfors.se	https://www.kramfors.se/.well-known/security.txt
 kristdemokraterna.se	https://kristdemokraterna.se/.well-known/security.txt
 kristianstad.se	https://www.kristianstad.se/.well-known/security.txt
@@ -7139,7 +7150,7 @@ kronofogden.se	https://kronofogden.se/.well-known/security.txt
 kt-kuriren.se	https://www.kt-kuriren.se/.well-known/security.txt
 kth.se	https://www.kth.se/.well-known/security.txt
 kumla.se	https://www.kumla.se/.well-known/security.txt
-kungahuset.se	https://www.kungahuset.se/download/18.22a3cc881780d1faddf22c91/1617020964248/security.txt
+kungahuset.se	https://www.kungahuset.se/.well-known/security.txt
 kungligaslotten.se	https://www.kungligaslotten.se/.well-known/security.txt
 kungsbacka.se	https://kungsbacka.se/.well-known/security.txt
 kunskapsstyrningvard.se	https://kunskapsstyrningvard.se/.well-known/security.txt
@@ -7160,12 +7171,12 @@ lindesberg.se	https://www.lindesberg.se/.well-known/security.txt
 linkoping.se	https://www.linkoping.se/.well-known/security.txt
 liu.se	https://liu.se/security.txt
 ljungby.se	https://ljungby.se/.well-known/security.txt
-ljusdal.se	https://www.ljusdal.se/download/18.3093378d177052d09679c963/1771579511193/security.txt
+ljusdal.se	https://www.ljusdal.se/.well-known/security.txt
 ljusnan.se	https://www.ljusnan.se/.well-known/security.txt
 lomma.se	https://lomma.se/.well-known/security.txt
 lst.se	https://www.lansstyrelsen.se/.well-known/security.txt
 lt.se	https://www.lt.se/.well-known/security.txt
-ltu.se	https://www.ltu.se/security.txt
+ltu.se	https://www.ltu.se/.well-known/security.txt
 ltz.se	https://www.ltz.se/.well-known/security.txt
 lu.se	https://www.lu.se/.well-known/security.txt
 ludvika.se	https://www.ludvika.se/.well-known/security.txt
@@ -7185,8 +7196,8 @@ matsmart.se	https://www.matsmart.se/.well-known/security.txt
 mau.se	https://mau.se/security.txt
 max.se	https://max.se/.well-known/security.txt
 mcf.se	https://www.mcf.se/.well-known/security.txt
-mdh.se	https://www.mdu.se/download/18.6e69415f17752a425df1b857/1647593480243/security.txt
-mdu.se	https://www.mdu.se/download/18.6e69415f17752a425df1b857/1647593480243/security.txt
+mdh.se	https://www.mdu.se/.well-known/security.txt
+mdu.se	https://www.mdu.se/.well-known/security.txt
 mediemyndigheten.se	https://mediemyndigheten.se/security.txt
 mfn.se	https://mfn.se/.well-known/security.txt
 mi.se	https://www.mi.se/security.txt
@@ -7236,7 +7247,7 @@ optimera.se	https://csirt.saint-gobain.io/.well-known/security.txt
 orebro.se	https://orebro.se/.well-known/security.txt
 oringen.se	https://oringen.se/.well-known/security.txt
 orkelljunga.se	https://www.orkelljunga.se/.well-known/security.txt
-ornskoldsvik.se	https://www.ornskoldsvik.se/download/18.23eda783196f62aaa2a5faf1/1677571594553/security.txt
+ornskoldsvik.se	https://www.ornskoldsvik.se/.well-known/security.txt
 oru.se	https://www.oru.se/security.txt
 orust.se	https://www.orust.se/.well-known/security.txt
 osby.se	https://www.osby.se/.well-known/security.txt
@@ -7247,7 +7258,7 @@ ottocasino.se	https://www.ottocasino.se/.well-known/security.txt
 ovanaker.se	https://www.ovanaker.se/.well-known/security.txt
 partille.se	https://www.partille.se/.well-known/security.txt
 pensionsmyndigheten.se	https://pensionsmyndigheten.se/.well-known/security.txt
-pliktverket.se	https://pliktverket.se/download/18.1106b27c18093d411c2334a9/1779892509193/security.txt
+pliktverket.se	https://pliktverket.se/.well-known/security.txt
 polisen.se	https://polisen.se/.well-known/security.txt
 postkodlotteriet.se	https://www.postkodlotteriet.se/om-oss/legalt/responsible-disclosure-en
 privataaffarer.se	https://www.privataaffarer.se/.well-known/security.txt
@@ -7277,7 +7288,7 @@ rikshandboken-bhv.se	https://www.rikshandboken-bhv.se/.well-known/security.txt
 riksrevisionen.se	https://www.riksrevisionen.se/.well-known/security.txt
 rmv.se	https://www.rmv.se/.well-known/security.txt
 ronneby.se	https://ronneby.se/.well-known/security.txt
-royalcourt.se	https://www.kungahuset.se/download/18.22a3cc881780d1faddf22c91/1617020964248/security.txt
+royalcourt.se	https://www.kungahuset.se/.well-known/security.txt
 rvn.se	https://www.rvn.se/security.txt
 saffle.se	https://saffle.se/.well-known/security.txt
 sahlgrenska.se	https://www.sahlgrenska.se/.well-known/security.txt

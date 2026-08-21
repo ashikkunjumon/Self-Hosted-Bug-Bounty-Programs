@@ -1,6 +1,6 @@
 # Platform-hosted programs — RO
 
-14 programs.
+15 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -9,7 +9,8 @@
 | `avantaje.ro` | — | — | — | expired |
 | `bmw.ro` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
 | `elle.ro` | — | — | — | expired |
-| `libertatea.ro` | — | — | — | retired |
+| `libertatea.ro` | — | — | — | expired |
+| `libertateapentrufemei.ro` | — | — | — | expired |
 | `momondo.ro` | [policy](https://www.kayak.com/security/) | monetary | — | active |
 | `toyota.ro` | — | monetary | — | expired |
 | `tvmania.ro` | — | — | — | expired |

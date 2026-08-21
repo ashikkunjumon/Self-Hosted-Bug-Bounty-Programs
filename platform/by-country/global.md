@@ -452,7 +452,7 @@
 | `snapchat.com` | [policy](https://hackerone.com/snapchat) | — | — | active |
 | `snapfish.com` | [policy](https://hackerone.com/shutterfly_vdp) | — | — | active |
 | `snowflake.com` | [policy](https://hackerone.com/snowflake) | — | — | active |
-| `snyk.io` | [policy](https://docs.snyk.io/more-info/disclosing-vulnerabilities/disclose-a-vulnerability-in-snyk-services) | monetary | — | active |
+| `snyk.io` | [policy](https://docs.snyk.io/more-info/disclosing-vulnerabilities/disclose-a-vulnerability-in-snyk-services) | — | — | active |
 | `socialbee.com` | — | — | — | active |
 | `sonatype.com` | [policy](https://www.sonatype.com/report-a-security-vulnerability) | monetary | — | retired |
 | `southernliving.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |

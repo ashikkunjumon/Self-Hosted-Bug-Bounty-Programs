@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-346 programs.
+347 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -141,6 +141,7 @@
 | `immerda.ch` | — | — | — | active |
 | `immoscout24.ch` | — | — | — | active |
 | `impo.ch` | [policy](https://www.coop.ch/de/unternehmen/vdp.html) | — | yes | expired |
+| `infoguard.ch` | [policy](https://www.infoguard.ch/en/security-policy) | — | — | active |
 | `insel.ch` | — | — | — | active |
 | `inselgruppe.ch` | — | — | — | active |
 | `interdiscount.ch` | — | monetary | — | expired |

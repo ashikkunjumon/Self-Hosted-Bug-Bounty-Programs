@@ -15,7 +15,7 @@
 | `biznisweb.sk` | — | — | — | active |
 | `bux.sk` | — | — | — | active |
 | `csfd.sk` | [policy](https://www.csfd.cz/vyvojari/) | — | — | active |
-| `dennikn.sk` | — | monetary | — | active |
+| `dennikn.sk` | — | monetary | — | retired |
 | `donio.sk` | — | — | — | active |
 | `etipos.sk` | [policy](https://www.easit.cz/well-known/EASIT_Responsible_Disclosure_Policy.pdf) | monetary | — | active |
 | `eventim.sk` | — | — | — | active |

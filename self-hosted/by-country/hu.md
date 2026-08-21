@@ -1,6 +1,6 @@
 # Self-hosted programs — HU
 
-41 programs.
+42 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -16,6 +16,7 @@
 | `dm.hu` | — | — | — | active |
 | `dunaujvaros.hu` | — | — | — | expired |
 | `eon.hu` | — | — | — | active |
+| `galco.hu` | — | — | — | active |
 | `glami.hu` | — | monetary | — | active |
 | `hetkoznapi.hu` | — | — | — | active |
 | `hup.hu` | — | — | — | active |

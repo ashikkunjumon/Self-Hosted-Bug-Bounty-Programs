@@ -28,8 +28,8 @@
 | `arbetsgivarverket.se` | — | — | — | expired |
 | `arboga.se` | — | — | — | active |
 | `are.se` | — | — | — | active |
-| `arvidsjaur.se` | — | — | — | expired |
-| `arvika.se` | — | — | — | expired |
+| `arvidsjaur.se` | — | — | — | active |
+| `arvika.se` | — | — | — | active |
 | `arvikanyheter.se` | — | — | — | active |
 | `arvsfonden.se` | — | — | — | active |
 | `astorp.se` | — | — | — | active |
@@ -53,12 +53,12 @@
 | `botkyrka.se` | — | — | — | active |
 | `boxer.se` | — | — | — | active |
 | `bra.se` | — | — | — | active |
-| `bring.se` | — | — | — | retired |
+| `bring.se` | — | — | — | active |
 | `bt.se` | — | — | — | active |
 | `bth.se` | — | — | — | active |
 | `businessregiongoteborg.se` | — | — | — | expired |
 | `byggnads.se` | — | — | — | active |
-| `cancercentrum.se` | — | — | — | expired |
+| `cancercentrum.se` | — | — | — | active |
 | `casinodealen.se` | [policy](https://casinodealen.se/security-policy) | recognition | — | active |
 | `centerpartiet.se` | — | — | — | active |
 | `cert.se` | — | — | — | active |
@@ -171,7 +171,7 @@
 | `internetmuseum.se` | [policy](https://internetstiftelsen.se/en/about-this-website/responsible-disclosure/) | — | — | expired |
 | `internetstiftelsen.se` | [policy](https://internetstiftelsen.se/en/about-this-website/responsible-disclosure/) | — | — | expired |
 | `irf.se` | — | — | — | active |
-| `isof.se` | — | — | — | expired |
+| `isof.se` | — | — | — | active |
 | `ivl.se` | — | — | — | active |
 | `jamtkraft.se` | — | — | — | expired |
 | `janusinfo.se` | — | — | — | active |
@@ -209,7 +209,7 @@
 | `koping.se` | — | — | — | active |
 | `kramfors.se` | — | — | — | active |
 | `kristdemokraterna.se` | — | — | — | active |
-| `kristianstad.se` | — | — | — | expired |
+| `kristianstad.se` | — | — | — | active |
 | `kristianstadsbladet.se` | — | — | — | active |
 | `krokom.se` | — | — | — | active |
 | `kronofogden.se` | — | — | — | active |
@@ -239,7 +239,7 @@
 | `ljungby.se` | — | — | — | active |
 | `ljusdal.se` | — | — | — | active |
 | `ljusnan.se` | — | — | — | active |
-| `lomma.se` | — | — | — | expired |
+| `lomma.se` | — | — | — | active |
 | `lst.se` | — | — | — | active |
 | `lt.se` | — | — | — | active |
 | `ltu.se` | — | — | — | active |
@@ -376,7 +376,7 @@
 | `skolverket.se` | — | — | — | active |
 | `skovde.se` | — | — | — | active |
 | `skovdenyheter.se` | — | — | — | active |
-| `skr.se` | — | — | — | expired |
+| `skr.se` | — | — | — | active |
 | `skurup.se` | — | — | — | active |
 | `sla.se` | — | — | — | active |
 | `slf.se` | — | — | — | expired |
@@ -413,7 +413,7 @@
 | `sundsvall.se` | — | — | — | active |
 | `sunet.se` | — | recognition | — | active |
 | `suntarbetsliv.se` | — | — | — | active |
-| `svalov.se` | — | — | — | expired |
+| `svalov.se` | — | — | — | active |
 | `svenskarnaochinternet.se` | [policy](https://internetstiftelsen.se/en/about-this-website/responsible-disclosure/) | — | — | expired |
 | `svenskaspel.se` | — | — | — | active |
 | `svenskfotboll.se` | — | — | — | active |
@@ -492,5 +492,5 @@
 | `vti.se` | — | — | — | active |
 | `websupport.se` | [policy](https://www.websupport.sk/support/kb/nahlasenie-zranitelnosti/) | — | — | active |
 | `yrkeshogskolan.se` | — | — | — | active |
-| `ystad.se` | — | — | — | expired |
+| `ystad.se` | — | — | — | active |
 | `ystadsallehanda.se` | — | — | — | active |

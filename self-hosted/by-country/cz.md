@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-343 programs.
+344 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -80,6 +80,7 @@
 | `dm.cz` | — | — | — | active |
 | `dobryandel.cz` | — | — | — | active |
 | `donio.cz` | — | — | — | active |
+| `dotaceeu.cz` | — | — | — | active |
 | `dox.cz` | — | — | — | expired |
 | `drakkaria.cz` | — | — | — | active |
 | `drogy-info.cz` | — | — | — | retired |

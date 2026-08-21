@@ -1,6 +1,6 @@
 # Self-hosted programs — NL
 
-322 programs.
+323 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@
 | `dnb.nl` | [policy](https://www.dnb.nl/privacy-en-beveiliging/kwetsbaarheid-melden/) | — | yes | expired |
 | `drentsmuseum.nl` | [policy](https://www.slash2.nl/responsible-disclosure-policy) | recognition | yes | active |
 | `eenvandaag.nl` | [policy](https://www.avrotros.nl/responsible-disclosure~44/) | — | yes | expired |
-| `eerstekamer.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | swag | — | active |
+| `eerstekamer.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `encyclo.nl` | — | — | — | active |
 | `eneco.nl` | [policy](https://www.eneco.com/responsible-disclosure/) | — | — | active |
 | `enschede.nl` | [policy](https://www.enschede.nl/kwetsbaarheid-melden-responsible-disclosure) | — | — | active |
@@ -117,10 +117,10 @@
 | `gemeentemaastricht.nl` | [policy](https://cert-gm.net/policy.md) | monetary | yes | active |
 | `genealogieonline.nl` | [policy](https://genealogie.coret.org/en/beleid/responsible_disclosure.php) | recognition | — | active |
 | `gettyimages.nl` | — | — | — | retired |
-| `gezondheidsraad.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
+| `gezondheidsraad.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | swag | — | active |
 | `gld.nl` | [policy](https://www.regiogroei.nl/responsible-disclosure) | — | yes | active |
 | `goda.nl` | — | — | — | active |
-| `government.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
+| `government.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | swag | — | active |
 | `groningen.nl` | [policy](https://www.slash2.nl/responsible-disclosure-policy) | recognition | yes | active |
 | `groningermuseum.nl` | [policy](https://www.slash2.nl/responsible-disclosure-policy) | recognition | yes | active |
 | `haarlem.nl` | [policy](https://www.informatiebeveiligingsdienst.nl/responsible-disclosure/) | recognition | — | expired |
@@ -128,7 +128,7 @@
 | `hanze.nl` | [policy](https://www.hanze.nl/en/about-hanze/organization/coordinated-vulnerability-disclosure-cvd) | recognition | — | active |
 | `hcc.nl` | — | — | — | expired |
 | `hccnet.nl` | — | — | — | expired |
-| `hetcak.nl` | [policy](https://www.hetcak.nl/kwetsbare-plek-ontdekt/) | recognition | yes | active |
+| `hetcak.nl` | [policy](https://www.hetcak.nl/kwetsbare-plek-ontdekt/) | — | yes | active |
 | `hollandandbarrett.nl` | [policy](https://vdp.hollandandbarrett.com/) | — | — | active |
 | `hornbach.nl` | — | — | — | active |
 | `hostfact.nl` | [policy](https://www.hostfact.nl/security/) | — | — | retired |
@@ -139,7 +139,7 @@
 | `idfa.nl` | — | — | — | active |
 | `igj.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `ilent.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
-| `ind.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
+| `ind.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | swag | — | active |
 | `independer.nl` | [policy](https://www.independer.nl/algemeen/info/responsible-disclosure.aspx?networkId=68ef56a9-e505-4572-95e0-f7da91bb1dcc) | monetary | yes | retired |
 | `informatiebeveiliging.nl` | — | — | — | active |
 | `inholland.nl` | [policy](https://www.inholland.nl/inhollandcom/responsible-disclosure) | recognition | — | active |
@@ -161,7 +161,7 @@
 | `knab.nl` | [policy](https://www.knab.nl/veiligheid/beveiligingslek-melden) | monetary | yes | expired |
 | `knb.nl` | [policy](https://www.knb.nl/kwetsbaarheid-melden/) | — | yes | active |
 | `kngf.nl` | [policy](https://z-cert.nl/kwetsbaarheid-melden/) | — | — | active |
-| `koninklijkhuis.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | swag | — | active |
+| `koninklijkhuis.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `kpn.nl` | — | monetary | — | active |
 | `kro-ncrv.nl` | [policy](https://kro-ncrv.nl/kwetsbaarheid-website-melden) | recognition | yes | active |
 | `kvk.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
@@ -174,6 +174,7 @@
 | `lumc.nl` | [policy](https://www.lumc.nl/coordinated-vulnerability-disclosure-cvd/) | recognition | yes | active |
 | `maasschilder-limburg.nl` | — | — | — | active |
 | `maastrichtuniversity.nl` | — | — | — | active |
+| `managementboek.nl` | — | — | — | active |
 | `marketingfacts.nl` | — | — | — | active |
 | `marktplaats.nl` | [policy](https://adevinta.com/security-vulnerability/) | recognition | yes | active |
 | `mensenrechten.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
@@ -216,7 +217,7 @@
 | `nyenrode.nl` | — | — | — | active |
 | `nza.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `odido.nl` | [policy](https://assets.odido.nl/x/70e0c93ba2/responsible_disclosure.pdf) | monetary | — | active |
-| `officielebekendmakingen.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
+| `officielebekendmakingen.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | swag | — | active |
 | `ohra.nl` | [policy](https://www.nn-group.com/ethical-hacking-nn-groups-responsible-disclosure-policy.htm) | monetary | — | active |
 | `om.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `omroep.nl` | — | recognition | — | active |
@@ -262,7 +263,7 @@
 | `rws.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `s-bb.nl` | [policy](https://www.s-bb.nl/contact/responsible-disclosure-policy/) | monetary | — | active |
 | `s-hertogenbosch.nl` | [policy](https://www.s-hertogenbosch.nl/coordinated-vulnerability-disclosure) | recognition | yes | active |
-| `sanquin.nl` | [policy](https://www.z-cert.nl/kwetsbaarheid-melden) | — | — | active |
+| `sanquin.nl` | [policy](https://www.z-cert.nl/kwetsbaarheid-melden) | — | — | expired |
 | `saxion.nl` | [policy](https://www.saxion.nl/over-saxion/organisatie/coordinated-vulnerability-disclosure) | recognition | yes | active |
 | `schiphol.nl` | [policy](https://www.schiphol.nl/en/schiphol-group/responsible-disclosure-notification/) | recognition | — | active |
 | `schooltv.nl` | — | — | — | expired |

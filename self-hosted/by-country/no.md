@@ -1,6 +1,6 @@
 # Self-hosted programs — NO
 
-220 programs.
+221 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -182,6 +182,7 @@
 | `spv.no` | — | — | — | active |
 | `ssb.no` | — | — | — | active |
 | `sshf.no` | [policy](https://www.sykehuspartner.no/siteassets/documents/sikkerhet---regionale-bruksvilkar/no-38---responsible-disclosure-policy-engelsk.pdf) | — | — | active |
+| `statkraft.no` | — | — | — | active |
 | `statnett.no` | — | — | — | active |
 | `statsforvalteren.no` | — | — | — | retired |
 | `sthf.no` | [policy](https://www.sykehuspartner.no/siteassets/documents/sikkerhet---regionale-bruksvilkar/no-38---responsible-disclosure-policy-engelsk.pdf) | — | — | active |

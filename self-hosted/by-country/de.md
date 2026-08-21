@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-391 programs.
+392 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -128,6 +128,7 @@
 | `fiz-karlsruhe.de` | — | — | — | active |
 | `flixbus.de` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |
 | `focus.de` | [policy](https://www.burda-forward.de/en/security/) | recognition | — | active |
+| `foerderdatenbank.de` | — | — | — | expired |
 | `foodsharing.de` | [policy](https://foodsharing.network/content?sub=security) | — | — | expired |
 | `fragdenstaat.de` | — | — | — | active |
 | `freelancermap.de` | — | — | — | active |
@@ -391,7 +392,7 @@
 | `wuerzburg.de` | — | — | — | active |
 | `wuppertal.de` | [policy](https://digital.wuppertal.de/medien_digitalisierung/10_ISMS_Stadt_Wuppertal_Richtlinie_zur_Offenlegung_von_Sicherheitsluecken_V2.0.pdf) | monetary | — | active |
 | `xing.de` | [policy](https://www.new-work.se/.well-known/rfc-2350.txt) | — | — | expired |
-| `zdf.de` | — | — | — | active |
+| `zdf.de` | — | — | — | expired |
 | `zdfheute.de` | — | — | — | active |
 | `zdh.de` | — | — | — | active |
 | `zentrale.de` | — | — | — | active |

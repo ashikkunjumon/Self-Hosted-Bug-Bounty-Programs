@@ -1,6 +1,6 @@
 # Platform-hosted programs — FR
 
-27 programs.
+28 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -26,6 +26,7 @@
 | `sixt.fr` | [policy](https://bugcrowd.com/a22b9798-491e-4d3a-87f3-a69484e02a2f/external/report) | — | — | active |
 | `toyota.fr` | — | monetary | — | expired |
 | `unibet.fr` | — | monetary | — | active |
+| `veepee.fr` | — | — | — | active |
 | `vousnousils.fr` | [policy](https://app.yogosha.com/cvd/bpce-sa-cert/boYG4zQy7o72BFdpp1Gk1) | — | — | active |
 | `webnode.fr` | [policy](https://www.webnode.com/.well-known/security-policy.html) | — | yes | active |
 | `yahoo.fr` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | — | — | retired |

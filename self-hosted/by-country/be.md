@@ -187,7 +187,7 @@
 | `uclouvain.be` | — | — | — | active |
 | `unix-solutions.be` | [policy](https://datacenters.unix-solutions.be/responsibledisclosure) | — | — | active |
 | `vanbreda.be` | [policy](https://www.vanbreda.be/en/legal/vulnerability-report) | monetary | — | expired |
-| `vdab.be` | [policy](https://www.vdab.be/responsible-disclosure) | recognition | yes | retired |
+| `vdab.be` | [policy](https://www.vdab.be/responsible-disclosure) | recognition | yes | expired |
 | `velora.be` | — | — | — | active |
 | `veloro.be` | [policy](https://www.registrarhub.net/.well-known/responsible_disclosure.txt) | — | — | active |
 | `vib.be` | [policy](https://www.vib.be/responsible-disclosure) | recognition | yes | active |

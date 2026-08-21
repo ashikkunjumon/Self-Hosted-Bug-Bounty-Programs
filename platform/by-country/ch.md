@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 | `20min.ch` | [policy](https://bugcrowd.com/twentyminuten) | monetary | — | expired |
 | `24heures.ch` | [policy](https://bugcrowd.com/tamedia) | monetary | — | expired |
-| `admin.ch` | [policy](https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden/scope-and-rules.html) | recognition | yes | active |
+| `admin.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | monetary | yes | active |
 | `ag.ch` | — | — | — | active |
 | `airbnb.ch` | [policy](https://hackerone.com/airbnb#overview) | — | — | active |
 | `asa.ch` | [policy](https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden/scope-and-rules.html) | recognition | yes | active |
@@ -14,12 +14,12 @@
 | `baz.ch` | [policy](https://bugcrowd.com/tamedia) | monetary | — | expired |
 | `bazonline.ch` | [policy](https://bugcrowd.com/tamedia) | monetary | — | expired |
 | `bernerzeitung.ch` | [policy](https://bugcrowd.com/tamedia) | monetary | — | expired |
-| `berufsbildung-schweiz.ch` | [policy](https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden/scope-and-rules.html) | recognition | yes | active |
+| `berufsbildung-schweiz.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | monetary | yes | active |
 | `bilan.ch` | [policy](https://bugcrowd.com/tamedia) | monetary | — | expired |
 | `blick.ch` | — | monetary | — | active |
 | `bmw.ch` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
-| `bundesanwaltschaft.ch` | [policy](https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden/scope-and-rules.html) | recognition | yes | active |
-| `cadastre.ch` | [policy](https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden/scope-and-rules.html) | recognition | yes | active |
+| `bundesanwaltschaft.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | monetary | yes | active |
+| `cadastre.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | monetary | yes | active |
 | `derbund.ch` | [policy](https://bugcrowd.com/tamedia) | monetary | — | expired |
 | `ebill.ch` | — | monetary | — | expired |
 | `energieschweiz.ch` | [policy](https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden/scope-and-rules.html) | recognition | yes | active |
@@ -28,7 +28,7 @@
 | `fuw.ch` | [policy](https://bugcrowd.com/tamedia) | monetary | — | expired |
 | `indeed.ch` | [policy](https://www.indeed.com/legal?hl=en&from=gnav-homepage#ivrp) | — | — | retired |
 | `infomaniak.ch` | [policy](https://infomaniak.vulnerability-disclosure.com) | — | — | active |
-| `jugendundsport.ch` | [policy](https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden/scope-and-rules.html) | recognition | yes | active |
+| `jugendundsport.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | monetary | yes | active |
 | `jungfrau.ch` | — | — | — | expired |
 | `jura.ch` | [policy](https://www.jura.ch/scripts/index.aspx?idn=12853) | monetary | yes | active |
 | `kayak.ch` | [policy](https://www.kayak.com/security/) | monetary | — | active |
@@ -50,16 +50,16 @@
 | `svizzeraenergia.ch` | [policy](https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden/scope-and-rules.html) | recognition | yes | active |
 | `swissbankers.ch` | — | monetary | — | active |
 | `swissmedic.ch` | [policy](https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden/scope-and-rules.html) | recognition | yes | expired |
-| `swissmint.ch` | [policy](https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden/scope-and-rules.html) | recognition | yes | active |
+| `swissmint.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | monetary | yes | active |
 | `swisspass.ch` | — | monetary | — | active |
-| `swisstopo.ch` | [policy](https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden/scope-and-rules.html) | recognition | yes | active |
+| `swisstopo.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | monetary | yes | active |
 | `szkb.ch` | — | monetary | — | active |
 | `tagesanzeiger.ch` | [policy](https://bugcrowd.com/tamedia) | monetary | — | expired |
 | `tdg.ch` | [policy](https://bugcrowd.com/tamedia) | monetary | — | expired |
 | `threema.ch` | — | monetary | — | active |
 | `tkb.ch` | [policy](https://gobugfree.com/programs/thurgauer-kantonalbank) | — | — | active |
 | `toyota.ch` | — | monetary | — | expired |
-| `uek.ch` | [policy](https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden/scope-and-rules.html) | recognition | yes | active |
+| `uek.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | monetary | yes | active |
 | `usz.ch` | [policy](https://kb.intigriti.com/en/articles/5466165-researcher-terms-conditions) | monetary | — | expired |
 | `xpertcenter.ch` | [policy](https://www.xpertcenter.ch/it/vdp-it/) | — | yes | retired |
 | `yelp.ch` | [policy](https://hackerone.com/yelp?view_policy=true) | — | — | active |

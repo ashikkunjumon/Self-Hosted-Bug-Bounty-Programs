@@ -63,7 +63,7 @@
 | `ahajournals.org` | — | — | — | active |
 | `ahrinet.org` | — | — | — | expired |
 | `aicrowd.com` | [policy](https://www.aicrowd.com/bug_bounty) | monetary | — | expired |
-| `aims360.com` | [policy](https://www.aims360.com/fashion-business-resources/vulnerability-responses) | — | — | active |
+| `aims360.com` | [policy](https://www.aims360.com/fashion-business-resources/vulnerability-responses) | — | — | retired |
 | `aion.network` | [policy](https://aion.network/terms-bounty) | monetary | — | retired |
 | `airbaltic.com` | [policy](https://www.airbaltic.com/en/rules-and-regulations/vulnerability-disclosure-policy) | — | — | active |
 | `airbus.com` | — | — | — | active |
@@ -73,7 +73,7 @@
 | `airship.com` | [policy](https://www.airship.com/legal/full-disclosure-security-policy/) | — | — | retired |
 | `airtahitinui.com` | — | — | — | active |
 | `airtasker.com` | — | — | — | expired |
-| `airvpn.org` | [policy](https://airvpn.org/security_policy/) | monetary | — | active |
+| `airvpn.org` | [policy](https://airvpn.org/security_policy/) | — | — | active |
 | `airwallex.com` | [policy](https://help.airwallex.com/hc/en-gb/articles/900004502526-Bug-Bounty-Program-Rules) | monetary | — | active |
 | `aisurvivors.com` | — | — | — | active |
 | `ajconline.org` | — | — | — | active |
@@ -109,7 +109,7 @@
 | `americansforthearts.org` | — | — | — | active |
 | `amjmed.com` | — | — | — | active |
 | `ampcode.com` | [policy](https://ampcode.com/security) | — | — | active |
-| `amplify.com` | [policy](https://amplify.com/report-a-vulnerability) | monetary | — | active |
+| `amplify.com` | [policy](https://amplify.com/report-a-vulnerability) | — | — | active |
 | `amprion.net` | — | — | — | active |
 | `amsterdamumc.org` | [policy](https://www.amsterdamumc.org/en/responsible-disclosure.htm) | — | — | active |
 | `amwater.com` | — | — | — | expired |
@@ -983,7 +983,7 @@
 | `goodplanet.info` | — | — | — | active |
 | `goodplanet.org` | — | — | — | active |
 | `google.com` | [policy](https://g.co/vrp) | — | — | active |
-| `goout.net` | — | — | — | active |
+| `goout.net` | — | — | — | expired |
 | `gorgias.com` | [policy](https://www.gorgias.com/security) | monetary | — | active |
 | `gotmls.net` | — | recognition | — | active |
 | `gotrama.com` | [policy](https://gotrama.com/security) | monetary | — | retired |
@@ -1359,7 +1359,7 @@
 | `liebertpub.com` | — | — | — | active |
 | `liferay.com` | [policy](https://liferay.dev/portal/security/reporting) | monetary | yes | active |
 | `lightspeedhq.com` | [policy](https://www.lightspeedhq.com/security/) | monetary | — | retired |
-| `linde.com` | — | — | — | active |
+| `linde.com` | — | — | — | retired |
 | `linear.app` | [policy](https://linear.app/security/vulnerability) | — | yes | active |
 | `lingo.dev` | — | monetary | — | active |
 | `linustechtips.com` | — | — | — | active |
@@ -1411,8 +1411,8 @@
 | `makertube.net` | — | — | — | active |
 | `malakoffhumanis.com` | [policy](https://www.malakoffhumanis.com/politique-divulgation-vulnerabilites/) | — | — | expired |
 | `maltego.com` | [policy](https://www.maltego.com/responsible-disclosure/) | — | — | active |
-| `malwarebytes.com` | [policy](https://www.malwarebytes.com/secure/guidelines) | — | — | active |
-| `malwarebytes.org` | [policy](https://www.malwarebytes.com/secure/guidelines) | — | — | active |
+| `malwarebytes.com` | [policy](https://www.malwarebytes.com/secure/guidelines) | monetary | — | active |
+| `malwarebytes.org` | [policy](https://www.malwarebytes.com/secure/guidelines) | monetary | — | active |
 | `mamboemm.com` | [policy](https://mamboemm.com/vulnerability-disclosure-policy) | — | — | retired |
 | `mamentis.com` | [policy](https://mamentis.com/docs/resources/miscellaneous/submit-bug-request) | monetary | — | retired |
 | `mamp.info` | — | — | — | expired |
@@ -1607,7 +1607,7 @@
 | `nike.com` | [policy](https://www.nike.com/help/a/responsible-disclosure) | — | — | retired |
 | `niko.eu` | [policy](https://www.niko.eu/en/security/) | recognition | — | active |
 | `ninjaone.com` | — | — | — | active |
-| `ninjatrader.com` | — | — | — | active |
+| `ninjatrader.com` | — | — | — | retired |
 | `nirvanatech.com` | [policy](https://www.nirvanatech.com/responsible-disclosure) | monetary | — | retired |
 | `nirvet.com` | [policy](https://nirvet.com/legal/security-disclosure) | — | yes | retired |
 | `nitrado.net` | — | — | — | active |

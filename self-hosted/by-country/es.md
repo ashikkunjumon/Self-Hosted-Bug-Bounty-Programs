@@ -1,6 +1,6 @@
 # Self-hosted programs — ES
 
-95 programs.
+96 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -97,5 +97,6 @@
 | `vistaprint.es` | — | — | — | active |
 | `volkswagen.es` | — | — | — | active |
 | `webador.es` | — | — | — | active |
+| `werstreamt.es` | — | — | — | active |
 | `worten.es` | — | recognition | — | active |
 | `zaask.es` | — | recognition | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — DK
 
-135 programs.
+136 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -18,12 +18,13 @@
 | `billigvvs.dk` | — | — | — | expired |
 | `bold.dk` | — | — | — | active |
 | `boligsiden.dk` | — | — | — | retired |
-| `bring.dk` | — | — | — | retired |
+| `bring.dk` | — | — | — | active |
 | `brk.dk` | — | — | — | expired |
 | `cochrane.dk` | — | — | — | active |
 | `conferencemanager.dk` | — | — | — | active |
 | `coolstuff.dk` | — | — | — | expired |
 | `cykelpartner.dk` | — | — | — | active |
+| `dagbladet-holstebro-struer.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
 | `danishagro.dk` | — | — | — | active |
 | `danskespil.dk` | — | — | — | active |
 | `dba.dk` | [policy](https://vend.com/responsible-disclosure-policy.txt) | swag | yes | active |
