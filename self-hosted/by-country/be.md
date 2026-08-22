@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-209 programs.
+212 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -50,6 +50,7 @@
 | `e-gezondheid.be` | — | — | — | expired |
 | `easytoys.be` | [policy](https://support.easytoys.nl/hc/nl/articles/11277611881117-Hoe-worden-mijn-persoonsgegevens-beschermd) | — | — | active |
 | `ecataleg.be` | [policy](https://www.legrand.com/cybersecurity/en/cvd-policy) | — | — | active |
+| `edegem.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `edelimmo.be` | [policy](https://omnicasa.com/) | — | — | active |
 | `eeklo.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `elexis.be` | — | — | — | expired |
@@ -68,6 +69,7 @@
 | `galaxus.be` | [policy](https://www.galaxus.ch/security) | — | — | expired |
 | `geluksdriehoek.be` | [policy](https://geluksdriehoek.be/security-policy) | recognition | — | active |
 | `gembloux.be` | — | — | — | active |
+| `gemeentemol.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `gettyimages.be` | — | — | — | retired |
 | `gezinsbond.be` | — | — | — | active |
 | `glassdoor.be` | [policy](https://help.glassdoor.com/s/article/Bug-Bounty-Program?language=en_US) | — | — | retired |
@@ -116,6 +118,7 @@
 | `myfamily.be` | — | — | — | active |
 | `namur.be` | — | — | — | active |
 | `nav.be` | [policy](https://www.nav.be/security-policy) | recognition | — | active |
+| `nieuwpoort.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `ninove.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `nivelles.be` | — | — | — | active |
 | `notaire.be` | — | — | — | active |
@@ -156,7 +159,7 @@
 | `siteffect.be` | — | — | — | active |
 | `slotenexpert.be` | — | — | — | active |
 | `slotsdeco.be` | [policy](https://www.slotsdeco.be/security-policy) | recognition | — | active |
-| `smartschool.be` | [policy](https://www.smartschool.be/privacy/responsibledisclosure/) | monetary | yes | active |
+| `smartschool.be` | [policy](https://www.smartschool.be/privacy/responsibledisclosure/) | — | yes | active |
 | `sodexo.be` | [policy](https://vdp.sodexo.com) | — | — | expired |
 | `solvari.be` | — | — | — | active |
 | `somfy.be` | [policy](https://vdp.somfy-group.com/) | — | — | active |

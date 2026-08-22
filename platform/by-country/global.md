@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-575 programs.
+576 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -169,7 +169,6 @@
 | `exact.com` | [policy](https://www.exact.com/information-security/responsible-disclosure) | recognition | — | active |
 | `exim.gov` | [policy](https://www.exim.gov/vulnerability-disclosure-policy) | monetary | — | retired |
 | `exness.com` | [policy](https://hackerone.com/exness) | — | — | expired |
-| `exoscale.com` | [policy](https://www.exoscale.com/security/) | monetary | — | retired |
 | `fab.com` | [policy](https://hackerone.com/epicgames) | — | — | active |
 | `factorialhr.com` | [policy](https://hackerone.com/factorial) | — | — | retired |
 | `fanduel.com` | — | monetary | — | active |
@@ -314,7 +313,8 @@
 | `mimecast.com` | [policy](https://www.mimecast.com/responsible-disclosure/) | — | yes | active |
 | `mixpanel.com` | [policy](https://hackerone.com/mixpanel) | recognition | — | active |
 | `mnn.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
-| `mollie.com` | [policy](https://www.mollie.com/en/responsible-disclosure) | monetary | — | active |
+| `modelmayhem.com` | — | — | — | active |
+| `mollie.com` | [policy](https://www.mollie.com/legal/responsible-disclosure) | monetary | — | active |
 | `momondo.com` | [policy](https://www.kayak.com/security/) | monetary | — | active |
 | `moneysupermarket.com` | [policy](https://bugcrowd.com/engagement_teasers/small-breeze-5090) | — | — | expired |
 | `mongodb.com` | — | recognition | — | active |
@@ -421,6 +421,7 @@
 | `robinhood.com` | [policy](https://hackerone.com/robinhood) | — | — | expired |
 | `roche.com` | [policy](https://hackerone.com/roche?view_policy=true) | — | — | active |
 | `rockstargames.com` | [policy](https://hackerone.com/rockstargames?type=team) | — | — | expired |
+| `rohde-schwarz.com` | — | — | — | active |
 | `rolls-roycemotorcars.com` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
 | `rxlist.com` | — | — | — | active |
 | `safedrivingforlife.info` | [policy](https://www.gov.uk/guidance/report-a-vulnerability-on-a-dvsa-system) | — | — | expired |

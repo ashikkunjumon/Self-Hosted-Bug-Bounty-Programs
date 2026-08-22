@@ -342,7 +342,7 @@
 | `wohlen.ch` | — | — | — | active |
 | `workzeitung.ch` | — | — | — | active |
 | `woz.ch` | — | — | — | active |
-| `wwz.ch` | [policy](https://github.com/wwz-ag/security-policy) | — | yes | active |
+| `wwz.ch` | [policy](https://github.com/wwz-ag/security-policy) | — | yes | retired |
 | `zellerag.ch` | — | — | — | active |
 | `zg.ch` | — | — | — | active |
 | `zhaw.ch` | — | — | — | expired |

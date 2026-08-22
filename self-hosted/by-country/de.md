@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-392 programs.
+393 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -96,6 +96,7 @@
 | `dhbw.de` | — | — | — | active |
 | `dihk.de` | — | — | — | active |
 | `diplo.de` | — | — | — | active |
+| `dji.de` | [policy](https://www.intern.dji.de/footer-navigation/datenschutz.html) | — | — | active |
 | `dkb.de` | — | — | — | retired |
 | `dkfz.de` | — | — | — | active |
 | `dlr.de` | — | — | — | active |
@@ -392,7 +393,7 @@
 | `wuerzburg.de` | — | — | — | active |
 | `wuppertal.de` | [policy](https://digital.wuppertal.de/medien_digitalisierung/10_ISMS_Stadt_Wuppertal_Richtlinie_zur_Offenlegung_von_Sicherheitsluecken_V2.0.pdf) | monetary | — | active |
 | `xing.de` | [policy](https://www.new-work.se/.well-known/rfc-2350.txt) | — | — | expired |
-| `zdf.de` | — | — | — | expired |
+| `zdf.de` | — | — | — | active |
 | `zdfheute.de` | — | — | — | active |
 | `zdh.de` | — | — | — | active |
 | `zentrale.de` | — | — | — | active |

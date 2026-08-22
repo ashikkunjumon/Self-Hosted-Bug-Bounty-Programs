@@ -137,7 +137,7 @@
 | `nmh.no` | [policy](https://nmh.no/security-policy) | recognition | — | active |
 | `nordicchoicehotels.no` | — | — | — | active |
 | `nordlandssykehuset.no` | — | — | — | active |
-| `nordnet.no` | [policy](https://www.nordnet.se/security-disclosure) | monetary | — | active |
+| `nordnet.no` | [policy](https://www.nordnet.se/security-disclosure) | monetary | — | retired |
 | `norges-bank.no` | — | — | — | active |
 | `norgeshistorie.no` | [policy](https://cert.uio.no/vulnerability-disclosure-policy.html) | monetary | — | active |
 | `norgesnasjonalparker.no` | — | — | — | active |

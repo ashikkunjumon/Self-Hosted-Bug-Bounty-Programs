@@ -1,6 +1,6 @@
 # Self-hosted programs — PL
 
-155 programs.
+157 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -60,6 +60,7 @@
 | `helion.pl` | — | — | — | active |
 | `home.pl` | — | — | — | active |
 | `homebook.pl` | — | — | — | active |
+| `i.pl` | — | — | — | expired |
 | `infakt.pl` | [policy](https://www.infakt.pl/bugbounty/) | monetary | — | active |
 | `intel.pl` | [policy](https://www.intel.com/content/www/us/en/security-center/vulnerability-handling-guidelines.html) | monetary | — | expired |
 | `jakdojade.pl` | — | — | — | active |
@@ -118,6 +119,7 @@
 | `pudelek.pl` | — | — | — | active |
 | `radioram.pl` | — | — | — | active |
 | `radiowroclaw.pl` | — | — | — | active |
+| `ratujemyzwierzaki.pl` | — | — | — | active |
 | `regiodom.pl` | — | — | — | expired |
 | `ringieraxelspringer.pl` | — | — | — | active |
 | `rmf24.pl` | [policy](https://www.rmf.fm/security-policy.txt) | — | — | active |
@@ -146,7 +148,7 @@
 | `verseo.pl` | — | — | — | active |
 | `vichy.pl` | — | recognition | — | active |
 | `virtualo.pl` | — | — | — | active |
-| `viva.pl` | [policy](https://www.immediate.co.uk/security-disclosure-policy/) | — | — | expired |
+| `viva.pl` | [policy](https://www.immediate.co.uk/security-disclosure-policy/) | — | — | retired |
 | `wakacje.pl` | — | — | — | active |
 | `wiadomosci24.pl` | — | — | — | expired |
 | `wirtualnemedia.pl` | — | — | — | active |

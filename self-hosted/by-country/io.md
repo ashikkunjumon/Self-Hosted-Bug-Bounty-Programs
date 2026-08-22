@@ -5,7 +5,7 @@
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `agora.io` | [policy](https://docs.agora.io/en/realtime-media/interactive-live-streaming/reference/security) | monetary | — | retired |
-| `apis.io` | [policy](https://apis.io/security/riverlane/riverlane-vulnerability-disclosure/) | monetary | — | retired |
+| `apis.io` | [policy](https://apis.io/developer/security) | — | yes | active |
 | `appfarm.io` | [policy](https://policies.appfarm.io/security/responsible-disclosure-policy) | swag | — | retired |
 | `authress.io` | [policy](https://authress.io/app/#/disclosure) | — | — | active |
 | `axoniq.io` | [policy](https://www.axoniq.io/legal/responsible-disclosure-disclaimer) | recognition | yes | retired |

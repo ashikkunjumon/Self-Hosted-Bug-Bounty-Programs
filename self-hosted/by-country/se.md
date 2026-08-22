@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-490 programs.
+491 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -67,6 +67,7 @@
 | `comviq.se` | — | — | — | active |
 | `coolstuff.se` | — | — | — | expired |
 | `crisp.se` | — | — | — | expired |
+| `dagensmedia.se` | — | — | — | active |
 | `dagensmedicin.se` | — | — | — | active |
 | `dagenssamhalle.se` | — | — | — | active |
 | `dahl.se` | — | — | — | active |
@@ -292,7 +293,7 @@
 | `nok.se` | — | recognition | — | expired |
 | `nordicchoicehotels.se` | — | — | — | active |
 | `nordiskamuseet.se` | — | — | — | expired |
-| `nordnet.se` | [policy](https://www.nordnet.se/security-disclosure) | monetary | — | active |
+| `nordnet.se` | [policy](https://www.nordnet.se/security-disclosure) | monetary | — | retired |
 | `norrkoping.se` | — | — | — | active |
 | `norrtalje.se` | — | — | — | active |
 | `norrteljetidning.se` | — | — | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-344 programs.
+345 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -140,6 +140,7 @@
 | `irop.gov.cz` | — | — | — | active |
 | `irozhlas.cz` | — | — | — | active |
 | `isover.cz` | — | — | — | active |
+| `ittrade.cz` | — | — | — | active |
 | `jenprace.cz` | — | — | — | active |
 | `jewishmuseum.cz` | — | — | — | active |
 | `jobs.cz` | [policy](https://www.almacareer.com/vulnerability-disclosure) | — | yes | expired |

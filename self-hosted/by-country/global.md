@@ -1,6 +1,6 @@
 # Self-hosted programs — GLOBAL
 
-2,721 programs.
+2,727 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@
 | `airship.com` | [policy](https://www.airship.com/legal/full-disclosure-security-policy/) | — | — | retired |
 | `airtahitinui.com` | — | — | — | active |
 | `airtasker.com` | — | — | — | expired |
-| `airvpn.org` | [policy](https://airvpn.org/security_policy/) | — | — | active |
+| `airvpn.org` | [policy](https://airvpn.org/security_policy/) | monetary | — | active |
 | `airwallex.com` | [policy](https://help.airwallex.com/hc/en-gb/articles/900004502526-Bug-Bounty-Program-Rules) | monetary | — | active |
 | `aisurvivors.com` | — | — | — | active |
 | `ajconline.org` | — | — | — | active |
@@ -110,7 +110,7 @@
 | `amjmed.com` | — | — | — | active |
 | `ampcode.com` | [policy](https://ampcode.com/security) | — | — | active |
 | `amplify.com` | [policy](https://amplify.com/report-a-vulnerability) | — | — | active |
-| `amprion.net` | — | — | — | active |
+| `amprion.net` | — | — | — | retired |
 | `amsterdamumc.org` | [policy](https://www.amsterdamumc.org/en/responsible-disclosure.htm) | — | — | active |
 | `amwater.com` | — | — | — | expired |
 | `ancestry.com` | [policy](https://www.ancestry.com/c/legal/security) | — | — | retired |
@@ -125,7 +125,7 @@
 | `annemergmed.com` | — | — | — | active |
 | `anonyome.com` | [policy](https://anonyome.com/report-a-vulnerability/) | recognition | — | retired |
 | `ansell.com` | [policy](https://www.ansell.com/us/en/legal/vulnerability-disclosure-policy) | — | — | active |
-| `anslation.com` | [policy](https://anslation.com/support) | monetary | — | active |
+| `anslation.com` | [policy](https://www.anslation.com/support) | monetary | — | active |
 | `anthology.com` | [policy](https://www.blackboard.com/trust-center/security) | recognition | — | active |
 | `anycoindirect.eu` | — | — | — | active |
 | `ao.com` | — | — | — | active |
@@ -228,6 +228,7 @@
 | `bcferries.com` | — | — | — | expired |
 | `bcs.org` | [policy](https://www.bcs.org/contact-us/vulnerability-disclosure-policy/) | — | — | active |
 | `beaconjournal.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
+| `beatport.com` | — | — | — | active |
 | `beckhoff.com` | [policy](https://www.beckhoff.com/secinfo) | — | — | active |
 | `beehiiv.com` | — | — | — | active |
 | `beenverified.com` | [policy](https://beenverified.com/security/rules-of-engagement/) | — | yes | expired |
@@ -769,6 +770,7 @@
 | `exabeam.com` | [policy](https://www.exabeam.com/responsible-disclosure/) | — | — | retired |
 | `exim.org` | — | monetary | — | active |
 | `exorint.com` | [policy](https://www.exorint.com/management-of-security-related-issues) | — | yes | retired |
+| `exoscale.com` | [policy](https://www.exoscale.com/security/) | monetary | — | active |
 | `expedia.com` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
 | `expensify.com` | — | monetary | — | active |
 | `expo.dev` | — | — | — | active |
@@ -1192,6 +1194,7 @@
 | `ipdb.org` | — | — | — | active |
 | `ipetitions.com` | — | — | — | active |
 | `ipfire.org` | [policy](https://www.ipfire.org/docs/devel/security-policy) | — | — | active |
+| `ipinfo.io` | — | — | — | active |
 | `ipsy.com` | [policy](https://www.ipsy.com/vulnerability-disclosure) | monetary | — | retired |
 | `ipwho.org` | [policy](https://lavrox.com/legal/responsible-disclosure) | — | yes | retired |
 | `ironcorelabs.com` | [policy](https://ironcorelabs.com/trust-center/bug-bounty-program/) | monetary | — | active |
@@ -1257,10 +1260,11 @@
 | `juliusbaer.com` | — | — | — | active |
 | `jumbointeractive.com` | [policy](https://www.jumbointeractive.com/security-reporting/) | monetary | — | retired |
 | `juniper.net` | — | — | — | expired |
+| `junit.org` | [policy](https://github.com/junit-team/junit-framework/security/policy) | — | — | active |
 | `juno.com` | — | — | — | expired |
 | `jupyter.org` | [policy](https://jupyter.org/security) | — | — | active |
 | `justgiving.com` | [policy](https://www.blackbaud.com/security/responsible-disclosure) | — | — | active |
-| `justpark.com` | [policy](https://uploads.justpark.com/documents/vulnerability-disclosure-policy.pdf) | monetary | — | active |
+| `justpark.com` | [policy](https://uploads.justpark.com/documents/vulnerability-disclosure-policy.pdf) | monetary | — | expired |
 | `k2asolutions.com` | [policy](https://www.k2asolutions.com/legal/security) | — | — | retired |
 | `k8s.io` | [policy](https://github.com/kubernetes/website/blob/main/SECURITY.md) | — | — | active |
 | `kagi.com` | — | monetary | — | active |
@@ -1549,7 +1553,7 @@
 | `nanoporetech.com` | [policy](https://nanoporetech.com/products/analyse/vulnerability-disclosure-guidance) | — | — | active |
 | `naplesnews.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
 | `nara.gov` | [policy](https://www.archives.gov/vulnerability-disclosure-policy) | — | — | retired |
-| `narrowgatex.com` | [policy](https://narrowgatex.com/responsible-disclosure/) | — | — | active |
+| `narrowgatex.com` | [policy](https://www.narrowgatex.com/responsible-disclosure/) | — | — | active |
 | `nashville.gov` | [policy](https://www.nashville.gov/sites/default/files/2021-11/ISM-19-Vulnerability-Disclosure-Policy.pdf?ct=1636139300) | monetary | — | active |
 | `nationalaffairs.com` | [policy](https://github.com/beckandstone/security/blob/master/SECURITY.md) | monetary | yes | active |
 | `nationaldaycalendar.com` | [policy](https://nationaldaycalendar.com/security-policy) | recognition | — | active |
@@ -1745,7 +1749,7 @@
 | `owncloud.com` | [policy](https://security.owncloud.com/p/Policy) | — | — | active |
 | `owncloud.org` | [policy](https://security.owncloud.com/p/Policy) | — | — | active |
 | `oxyfi.com` | [policy](https://oxyfi.com/security/) | monetary | yes | retired |
-| `packetstormsecurity.com` | [policy](https://packetstorm.news/help/) | — | — | active |
+| `packetstormsecurity.com` | [policy](https://packetstorm.news/help/) | — | — | expired |
 | `padlet.com` | — | — | — | active |
 | `padlet.org` | — | — | — | active |
 | `paessler.com` | [policy](https://www.paessler.com/vulnerability-disclosure-program) | — | — | active |
@@ -2032,7 +2036,6 @@
 | `roblox.com` | — | — | — | active |
 | `rocketlane.com` | [policy](https://www.rocketlane.com/responsible-disclosure) | swag | yes | retired |
 | `rocketlawyer.com` | — | — | — | active |
-| `rohde-schwarz.com` | — | — | — | active |
 | `roku.com` | — | — | — | active |
 | `romanian-companies.eu` | — | — | — | active |
 | `root-me.org` | [policy](https://www.root-me.org/tos) | — | — | active |
@@ -2116,6 +2119,7 @@
 | `sefe.eu` | [policy](https://www.sefe.eu/security-policy/) | — | — | active |
 | `sejda.com` | — | — | — | active |
 | `selfdecode.com` | [policy](https://selfdecode.com/app/security/policy) | — | — | active |
+| `seloger.com` | — | — | — | active |
 | `semanticscholar.org` | — | — | — | active |
 | `semgrep.dev` | [policy](https://semgrep.dev/docs/security) | monetary | — | active |
 | `sendfox.com` | — | — | — | active |
@@ -2300,6 +2304,7 @@
 | `syrax.global` | [policy](https://www.syrax.global/security.html) | monetary | — | retired |
 | `szmer.info` | — | — | — | active |
 | `tabler.io` | — | — | — | active |
+| `tactiq.io` | — | recognition | — | active |
 | `tailscale.com` | [policy](https://tailscale.com/security) | — | — | active |
 | `taler.net` | — | — | — | active |
 | `talkdesk.com` | — | — | — | expired |
@@ -2347,6 +2352,7 @@
 | `theatlantic.com` | [policy](https://www.theatlantic.com/responsible-disclosure-policy/) | recognition | — | retired |
 | `thebci.org` | [policy](https://pixl8.com/en/vulnerability-disclosure-policy.html) | — | — | active |
 | `thebookingbutton.com` | — | — | — | active |
+| `thecalmzone.net` | [policy](https://www.thecalmzone.net/security-policy) | recognition | — | active |
 | `theclinics.com` | — | — | — | active |
 | `thecollegeinvestor.com` | — | — | — | active |
 | `theforage.com` | [policy](https://www.theforage.com/security) | recognition | — | active |
