@@ -1,6 +1,6 @@
 # Self-hosted programs — PL
 
-157 programs.
+158 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -98,6 +98,7 @@
 | `noizz.pl` | — | — | — | active |
 | `notino.pl` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
 | `nowiny24.pl` | — | — | — | expired |
+| `nowosci.com.pl` | — | — | — | expired |
 | `nto.pl` | — | — | — | expired |
 | `o2.pl` | — | — | — | active |
 | `ofeminin.pl` | — | — | — | active |

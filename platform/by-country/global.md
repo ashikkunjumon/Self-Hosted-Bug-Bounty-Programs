@@ -359,7 +359,7 @@
 | `oberlo.com` | [policy](https://hackerone.com/shopify) | — | — | active |
 | `octopus.com` | [policy](https://g.octopushq.com/disclosure) | swag | — | active |
 | `okta.com` | [policy](https://www.okta.com/vulnerability-reporting-policy/) | — | — | active |
-| `oohcams.com` | [policy](https://hackerone.com/chaturbate?type=team&view_policy=true) | — | — | retired |
+| `oohcams.com` | [policy](https://hackerone.com/chaturbate?type=team&view_policy=true) | — | — | active |
 | `ookla.com` | [policy](https://security.ookla.com) | — | — | active |
 | `openai.com` | [policy](https://openai.com/policies/coordinated-vulnerability-disclosure-policy) | recognition | — | active |
 | `opensea.io` | [policy](https://bugcrowd.com/opensea) | monetary | — | active |

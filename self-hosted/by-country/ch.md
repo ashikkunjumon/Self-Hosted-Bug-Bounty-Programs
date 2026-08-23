@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-347 programs.
+348 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -42,6 +42,7 @@
 | `buelach.ch` | — | — | — | active |
 | `burgdorf.ch` | [policy](https://www.talus.ch/de/datenschutz/bug-bounty.php) | — | — | expired |
 | `bvger.ch` | — | — | — | active |
+| `caravan24.ch` | — | — | — | active |
 | `caritas-regio.ch` | [policy](https://caritas-regio.ch/security-policy) | recognition | — | active |
 | `casinobern.ch` | — | — | — | active |
 | `casinolocarno.ch` | — | — | — | active |

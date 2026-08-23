@@ -34,7 +34,7 @@
 | `notino.ua` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
 | `nubip.edu.ua` | — | — | — | retired |
 | `okko.ua` | — | — | — | expired |
-| `pethouse.ua` | [policy](https://pethouse.ua/ua/security-policy/) | — | yes | active |
+| `pethouse.ua` | [policy](https://pethouse.ua/ua/security-policy/) | monetary | yes | active |
 | `podushka.com.ua` | — | — | — | active |
 | `redo.ua` | — | — | — | active |
 | `sendpulse.ua` | — | — | — | active |

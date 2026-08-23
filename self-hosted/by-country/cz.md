@@ -199,8 +199,8 @@
 | `moneta.cz` | [policy](https://www.moneta.cz/bug-bounty) | monetary | yes | active |
 | `mozilla.cz` | — | — | — | active |
 | `mp.cz` | — | — | — | expired |
-| `msmt.cz` | — | — | — | active |
-| `msmt.gov.cz` | — | — | — | active |
+| `msmt.cz` | — | — | — | retired |
+| `msmt.gov.cz` | — | — | — | retired |
 | `mssf.cz` | — | — | — | active |
 | `mujrozhlas.cz` | — | — | — | active |
 | `muni.cz` | [policy](https://security.muni.cz/en/responsible_disclosure) | recognition | — | active |

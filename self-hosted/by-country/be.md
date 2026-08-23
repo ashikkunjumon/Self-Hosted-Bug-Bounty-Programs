@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-212 programs.
+215 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -13,6 +13,7 @@
 | `aboutyou.be` | — | monetary | — | retired |
 | `antp.be` | — | recognition | — | active |
 | `arlon.be` | — | — | — | active |
+| `aspeditions.be` | — | — | — | expired |
 | `ath.be` | — | — | — | active |
 | `backmarket.be` | — | — | — | active |
 | `baloise.be` | [policy](https://www.baloise.be/Security/vulnerability-disclose-policy.html) | recognition | — | active |
@@ -23,6 +24,7 @@
 | `beringen.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `betrouwbaar-casino.be` | [policy](https://betrouwbaar-casino.be/security-policy) | recognition | — | active |
 | `bloom.be` | [policy](https://www.bloom.be/security-policy) | recognition | — | active |
+| `bocholt.be` | — | — | — | active |
 | `brabantwallon.be` | — | — | — | active |
 | `braine-lalleud.be` | — | — | — | active |
 | `braine-le-comte.be` | — | — | — | active |
@@ -139,6 +141,7 @@
 | `pearle.be` | [policy](https://essilorluxottica.vulnerability-disclosure.com/) | — | — | active |
 | `peer.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `petitesuisse.be` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | active |
+| `plantentuinmeise.be` | — | — | — | active |
 | `plopsa.be` | [policy](https://www.plopsa.com/en/responsible-disclosure-policy) | — | — | active |
 | `pluxee.be` | [policy](https://vdp.pluxee.app/p/Policy) | — | — | active |
 | `politeia.be` | — | — | — | expired |

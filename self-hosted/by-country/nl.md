@@ -82,7 +82,7 @@
 | `debalie.nl` | — | — | — | active |
 | `decathlon.nl` | [policy](https://vdp.decathlon.net) | — | — | active |
 | `decorrespondent.nl` | — | — | — | active |
-| `defensie.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | swag | — | active |
+| `defensie.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `delft.nl` | — | — | — | expired |
 | `deltares.nl` | [policy](https://www.deltares.nl/en/conditions-and-certifications) | — | — | active |
 | `denhaag.nl` | [policy](https://www.denhaag.nl/en/safety/reporting-a-vulnerability-cvd/) | — | — | active |
@@ -138,7 +138,7 @@
 | `ideal.nl` | [policy](https://www.ideal.nl/en/coordinated-vulnerability-disclosure) | monetary | yes | active |
 | `idfa.nl` | — | — | — | active |
 | `igj.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
-| `ilent.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
+| `ilent.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | swag | — | active |
 | `ind.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `independer.nl` | [policy](https://www.independer.nl/algemeen/info/responsible-disclosure.aspx?networkId=68ef56a9-e505-4572-95e0-f7da91bb1dcc) | monetary | yes | retired |
 | `informatiebeveiliging.nl` | — | — | — | active |
@@ -187,7 +187,7 @@
 | `mumc.nl` | — | — | — | active |
 | `muziekschatten.nl` | — | — | — | active |
 | `nationaalarchief.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
-| `nationaleombudsman.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | swag | — | active |
+| `nationaleombudsman.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `naturalis.nl` | [policy](https://www.naturalis.nl/en/responsible-disclosure) | — | — | retired |
 | `natuurmonumenten.nl` | — | — | — | active |
 | `ncsc.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
@@ -219,7 +219,7 @@
 | `odido.nl` | [policy](https://assets.odido.nl/x/70e0c93ba2/responsible_disclosure.pdf) | monetary | — | active |
 | `officielebekendmakingen.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `ohra.nl` | [policy](https://www.nn-group.com/ethical-hacking-nn-groups-responsible-disclosure-policy.htm) | monetary | — | active |
-| `om.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | swag | — | active |
+| `om.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `omroep.nl` | — | recognition | — | active |
 | `omroepbrabant.nl` | — | — | — | active |
 | `omroepgelderland.nl` | [policy](https://www.regiogroei.nl/responsible-disclosure) | — | yes | active |
@@ -289,7 +289,7 @@
 | `triodos.nl` | — | — | — | active |
 | `tudelft.nl` | [policy](https://www.tudelft.nl/responsible-disclosure-van-kwetsbaarheden) | monetary | yes | active |
 | `tue.nl` | [policy](https://assets.w3.tue.nl/w/fileadmin/content/universiteit/diensten/IMS/RFC2350_1.10.pdf) | monetary | — | active |
-| `tweedekamer.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
+| `tweedekamer.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | swag | — | active |
 | `umcutrecht.nl` | — | — | — | expired |
 | `unive.nl` | [policy](https://www.unive.nl/kwetsbaarheid-melden) | — | yes | active |
 | `utwente.nl` | [policy](https://www.utwente.nl/en/cyber-safety/responsible/) | monetary | — | active |

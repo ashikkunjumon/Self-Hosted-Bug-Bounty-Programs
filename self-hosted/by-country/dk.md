@@ -1,6 +1,6 @@
 # Self-hosted programs — DK
 
-136 programs.
+139 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -73,8 +73,10 @@
 | `jppol.dk` | — | — | — | active |
 | `jubii.dk` | — | — | — | active |
 | `justitsministeriet.dk` | — | — | — | active |
+| `jv.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
 | `kilroy.dk` | — | — | — | active |
 | `kk.dk` | — | — | — | active |
+| `komplett.dk` | — | — | — | expired |
 | `landbobanken.dk` | — | — | — | active |
 | `lex.dk` | — | — | — | expired |
 | `lidl.dk` | — | — | — | active |
@@ -101,6 +103,7 @@
 | `prosa.dk` | — | — | — | retired |
 | `punktum.dk` | — | — | — | active |
 | `radar.dk` | — | — | — | active |
+| `regionsyddanmark.dk` | — | — | — | active |
 | `rema1000.dk` | — | — | — | active |
 | `rlb.dk` | — | — | — | active |
 | `royalcasino.dk` | [policy](https://www.royalcasino.dk/ansvarlighed) | — | — | active |

@@ -72,7 +72,7 @@
 | `computerbase.de` | — | — | — | active |
 | `ct.de` | [policy](https://heise.de/-7513540) | monetary | — | active |
 | `cure53.de` | — | recognition | — | active |
-| `daad.de` | — | — | — | active |
+| `daad.de` | — | — | — | retired |
 | `darmstadt.de` | — | — | — | active |
 | `dasauge.de` | — | — | — | active |
 | `dasding.de` | — | — | — | active |
@@ -111,7 +111,7 @@
 | `ekd.de` | — | — | — | expired |
 | `ekomi.de` | — | — | — | active |
 | `eon.de` | — | — | — | active |
-| `erasmusplus.de` | — | — | — | active |
+| `erasmusplus.de` | — | — | — | retired |
 | `eventim-inhouse.de` | — | — | — | active |
 | `eventim.de` | — | — | — | active |
 | `expedia.de` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
@@ -179,7 +179,7 @@
 | `hs-bremen.de` | [policy](https://www.hs-bremen.de/en/security/disclosure-policy) | swag | — | active |
 | `hs-fulda.de` | [policy](https://it-sicherheit.hs-fulda.de/en/vorfall_melden/schwachstelle/index.html) | — | — | active |
 | `hs-furtwangen.de` | — | — | — | active |
-| `hs-heilbronn.de` | — | — | — | active |
+| `hs-heilbronn.de` | — | — | — | retired |
 | `hs-koblenz.de` | — | — | — | active |
 | `hs-niederrhein.de` | — | — | — | active |
 | `hu-berlin.de` | [policy](https://informationssicherheit.hu-berlin.de/de/schwachstellenmeldung) | — | — | active |

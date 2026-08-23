@@ -8,7 +8,7 @@
 | `auto-bild.ro` | — | — | — | expired |
 | `avantaje.ro` | — | — | — | expired |
 | `bmw.ro` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
-| `elle.ro` | — | — | — | expired |
+| `elle.ro` | — | — | — | retired |
 | `libertatea.ro` | — | — | — | expired |
 | `libertateapentrufemei.ro` | — | — | — | expired |
 | `momondo.ro` | [policy](https://www.kayak.com/security/) | monetary | — | active |

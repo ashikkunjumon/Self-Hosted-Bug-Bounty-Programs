@@ -1,6 +1,6 @@
 # Self-hosted programs — RO
 
-49 programs.
+50 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -46,6 +46,7 @@
 | `sezamo.ro` | — | — | — | active |
 | `stiridiaspora.ro` | — | recognition | — | active |
 | `stratosfera.ro` | — | — | — | active |
+| `tonica.ro` | — | — | — | active |
 | `tradeville.ro` | — | — | — | active |
 | `travelminit.ro` | — | — | — | active |
 | `twinkl.ro` | — | — | — | retired |

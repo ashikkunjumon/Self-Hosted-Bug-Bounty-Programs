@@ -1,6 +1,6 @@
 # Self-hosted programs — BR
 
-73 programs.
+74 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -53,6 +53,7 @@
 | `neon.com.br` | — | — | — | expired |
 | `netmundial.br` | — | — | — | active |
 | `noticiasautomotivas.com.br` | — | — | — | active |
+| `novatec.com.br` | — | — | — | active |
 | `nuvemshop.com.br` | — | — | — | active |
 | `oabsp.org.br` | — | recognition | — | active |
 | `omelhordopari.com.br` | — | — | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — GLOBAL
 
-2,727 programs.
+2,730 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -460,7 +460,7 @@
 | `computingforgeeks.com` | — | — | — | active |
 | `concur.com` | — | — | — | expired |
 | `conduktor.io` | — | — | — | active |
-| `conferencebadge.com` | [policy](https://www.conferencebadge.com/security) | monetary | — | active |
+| `conferencebadge.com` | [policy](https://www.conferencebadge.com/security) | — | — | active |
 | `confluent.io` | [policy](https://www.confluent.io/trust-and-security/) | monetary | — | active |
 | `confused.com` | [policy](https://www.confused.com/privacy-and-security/security/security-disclosure-policy) | swag | — | active |
 | `connectwise.com` | [policy](https://www.connectwise.com/company/trust/security/vulnerability-disclosure-policy) | monetary | yes | active |
@@ -478,6 +478,7 @@
 | `corgea.app` | [policy](https://docs.corgea.app/vulnerability-disclosure) | swag | yes | retired |
 | `coryd.dev` | — | — | — | active |
 | `cos.com` | — | monetary | — | expired |
+| `coulisse.com` | [policy](https://www.coulisse.com/americas/en/responsible-disclosure) | — | — | active |
 | `coupang.com` | [policy](https://www.coupang.com/np/policies/vdp) | — | — | active |
 | `courier-journal.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
 | `courierpostonline.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
@@ -778,6 +779,7 @@
 | `expressjs.com` | [policy](https://github.com/expressjs/express/security/policy) | — | — | active |
 | `expressvpn.com` | — | monetary | — | active |
 | `eyebuydirect.com` | [policy](https://essilorluxottica.vulnerability-disclosure.com/) | — | — | active |
+| `ezcater.com` | — | — | — | active |
 | `f-droid.org` | — | — | — | active |
 | `f-secure.com` | — | — | — | active |
 | `facebook.com` | [policy](https://bugbounty.meta.com/) | monetary | — | active |
@@ -1204,6 +1206,7 @@
 | `issuu.com` | [policy](https://issuu.com/responsible-disclosure) | recognition | — | active |
 | `ista.com` | [policy](https://www.ista.com/cvdp-policy) | recognition | — | active |
 | `istockphoto.com` | — | — | — | retired |
+| `it-daily.net` | — | — | — | active |
 | `iter.org` | [policy](https://www.iter.org/vulnerability-report) | — | — | expired |
 | `itslearning.com` | [policy](https://itslearning.com/privacy-commitment/responsible-disclosure/) | recognition | — | active |
 | `ivanti.com` | [policy](https://www.ivanti.com/support/contact-security) | monetary | yes | active |
@@ -1257,7 +1260,7 @@
 | `jsdelivr.com` | — | — | — | active |
 | `jsonline.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
 | `juicer.io` | — | — | — | expired |
-| `juliusbaer.com` | — | — | — | active |
+| `juliusbaer.com` | — | — | — | retired |
 | `jumbointeractive.com` | [policy](https://www.jumbointeractive.com/security-reporting/) | monetary | — | retired |
 | `juniper.net` | — | — | — | expired |
 | `junit.org` | [policy](https://github.com/junit-team/junit-framework/security/policy) | — | — | active |
@@ -1562,7 +1565,7 @@
 | `navcoin.org` | [policy](https://navcoin.org/responsible-disclosure) | — | — | retired |
 | `navyfederal.org` | — | — | — | expired |
 | `nbx.com` | [policy](https://nbx.com/en/security) | monetary | yes | retired |
-| `nccgroup.com` | [policy](https://www.nccgroup.com/us/vulnerability-disclosure-policy/) | monetary | yes | active |
+| `nccgroup.com` | [policy](https://www.nccgroup.com/us/vulnerability-disclosure-policy/) | — | — | active |
 | `ncsl.org` | [policy](https://www.ncsl.org/privacy-policy) | monetary | — | expired |
 | `ndevr.org` | [policy](https://ndevr.org/security/disclosure) | monetary | yes | active |
 | `nebius.com` | — | — | — | active |
@@ -1734,7 +1737,7 @@
 | `osm.org` | [policy](https://github.com/openstreetmap/operations/blob/master/SECURITY.md) | — | — | active |
 | `ossec.net` | — | — | — | active |
 | `osservatori.net` | — | recognition | — | active |
-| `osti.gov` | — | — | — | expired |
+| `osti.gov` | — | — | — | retired |
 | `osu.eu` | — | — | — | active |
 | `otrs.com` | [policy](https://otrs.com/vulnerability-disclosure-policy/) | recognition | — | active |
 | `ottobock.com` | — | — | — | active |

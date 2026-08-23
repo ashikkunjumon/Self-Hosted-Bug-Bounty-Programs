@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-491 programs.
+493 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -100,6 +100,7 @@
 | `falkopingstidning.se` | — | — | — | active |
 | `falukuriren.se` | — | — | — | active |
 | `falun.se` | — | — | — | active |
+| `fastighetsnytt.se` | — | — | — | active |
 | `fhs.se` | — | — | — | active |
 | `fi.se` | — | — | — | active |
 | `finspang.se` | — | — | — | active |
@@ -359,6 +360,7 @@
 | `sbf.se` | — | — | — | active |
 | `scb.se` | — | — | — | expired |
 | `scilifelab.se` | — | — | — | active |
+| `sfv.se` | — | — | — | active |
 | `sh.se` | — | — | — | active |
 | `showtic.se` | — | — | — | active |
 | `sida.se` | — | — | — | active |
