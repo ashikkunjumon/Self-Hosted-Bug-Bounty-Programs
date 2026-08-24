@@ -1,10 +1,11 @@
 # Platform-hosted programs — ES
 
-25 programs.
+26 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `airbnb.es` | [policy](https://hackerone.com/airbnb#overview) | — | — | active |
+| `autoscout24.es` | [policy](https://app.intigriti.com/programs/autoscout/autoscout24-vdp/detail) | monetary | — | expired |
 | `blablacar.es` | — | monetary | — | active |
 | `bmw-motorrad.es` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
 | `bmw.es` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |

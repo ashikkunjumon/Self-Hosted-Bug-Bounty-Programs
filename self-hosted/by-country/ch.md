@@ -1,11 +1,12 @@
 # Self-hosted programs — CH
 
-348 programs.
+350 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `21analytics.ch` | — | — | — | active |
 | `aarau.ch` | — | — | — | active |
+| `abbaye-stmaurice.ch` | — | — | — | active |
 | `abraxas.ch` | [policy](https://www.abraxas.ch/de/vdp) | recognition | yes | active |
 | `abuse.ch` | — | — | — | active |
 | `adfinis-sygroup.ch` | — | — | — | active |
@@ -36,6 +37,7 @@
 | `bitflux.ch` | [policy](https://liip.to/security) | monetary | yes | active |
 | `bl.ch` | — | — | — | active |
 | `blkb.ch` | — | — | — | active |
+| `blt.ch` | — | — | — | active |
 | `bluewin.ch` | [policy](https://github.com/swisscom/bugbounty) | monetary | yes | expired |
 | `bremgarten.ch` | — | — | — | active |
 | `bs.ch` | — | — | — | expired |

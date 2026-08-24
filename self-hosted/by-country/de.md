@@ -179,7 +179,7 @@
 | `hs-bremen.de` | [policy](https://www.hs-bremen.de/en/security/disclosure-policy) | swag | — | active |
 | `hs-fulda.de` | [policy](https://it-sicherheit.hs-fulda.de/en/vorfall_melden/schwachstelle/index.html) | — | — | active |
 | `hs-furtwangen.de` | — | — | — | active |
-| `hs-heilbronn.de` | — | — | — | retired |
+| `hs-heilbronn.de` | — | — | — | active |
 | `hs-koblenz.de` | — | — | — | active |
 | `hs-niederrhein.de` | — | — | — | active |
 | `hu-berlin.de` | [policy](https://informationssicherheit.hu-berlin.de/de/schwachstellenmeldung) | — | — | active |
@@ -308,7 +308,7 @@
 | `stadt-koeln.de` | — | — | — | expired |
 | `stadtlindau.de` | — | — | — | active |
 | `strato.de` | [policy](https://www.strato.de/it-security) | monetary | — | active |
-| `study-in-germany.de` | — | — | — | active |
+| `study-in-germany.de` | — | — | — | retired |
 | `stuttgart.de` | — | — | — | active |
 | `suse.de` | — | — | — | active |
 | `swm.de` | — | — | — | active |

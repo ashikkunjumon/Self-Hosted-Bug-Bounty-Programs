@@ -1,6 +1,6 @@
 # Self-hosted programs — ES
 
-96 programs.
+97 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -22,6 +22,7 @@
 | `channelpartner.es` | — | recognition | — | active |
 | `coface.es` | — | — | — | active |
 | `computing.es` | — | recognition | — | active |
+| `crazytime.es` | — | — | — | active |
 | `datacentermarket.es` | — | recognition | — | active |
 | `decathlon.es` | [policy](https://vdp.decathlon.net) | — | — | active |
 | `designcrowd.es` | — | — | — | active |

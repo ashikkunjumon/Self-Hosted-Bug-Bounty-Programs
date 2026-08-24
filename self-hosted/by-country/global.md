@@ -1,6 +1,6 @@
 # Self-hosted programs — GLOBAL
 
-2,730 programs.
+2,732 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@
 | `airship.com` | [policy](https://www.airship.com/legal/full-disclosure-security-policy/) | — | — | retired |
 | `airtahitinui.com` | — | — | — | active |
 | `airtasker.com` | — | — | — | expired |
-| `airvpn.org` | [policy](https://airvpn.org/security_policy/) | monetary | — | active |
+| `airvpn.org` | [policy](https://airvpn.org/security_policy/) | — | — | active |
 | `airwallex.com` | [policy](https://help.airwallex.com/hc/en-gb/articles/900004502526-Bug-Bounty-Program-Rules) | monetary | — | active |
 | `aisurvivors.com` | — | — | — | active |
 | `ajconline.org` | — | — | — | active |
@@ -180,7 +180,7 @@
 | `assetnote.io` | — | — | — | retired |
 | `assoconnect.com` | [policy](https://assoconnect.notion.site/Vulnerability-Reward-Policy-67c26374d35e47cc969121e14bc05e87) | — | — | active |
 | `asus.com` | [policy](https://www.asus.com/security-advisory/#vdp) | recognition | — | active |
-| `athemeart.com` | [policy](https://athemeart.com/security-policy/) | recognition | — | active |
+| `athemeart.com` | [policy](https://athemeart.com/security-policy/) | monetary | — | active |
 | `athencia.com` | [policy](https://athencia.com/security) | — | yes | retired |
 | `atlan.com` | [policy](https://atlan.com/responsible-disclosure-program/) | swag | yes | active |
 | `atlassian.com` | [policy](https://www.atlassian.com/trust/security/report-a-vulnerability) | monetary | yes | active |
@@ -219,6 +219,7 @@
 | `barclays.com` | — | — | — | active |
 | `basecloud.one` | [policy](https://basecloud.one/security.html) | monetary | yes | active |
 | `basf.com` | [policy](https://www.basf.com/global/en/legal/responsible-disclosure-statement) | — | — | retired |
+| `basketball-reference.com` | — | recognition | — | active |
 | `battlecreekenquirer.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
 | `bauhaus.info` | — | — | — | active |
 | `bavida.com` | — | — | — | active |
@@ -1009,7 +1010,7 @@
 | `greenhost.net` | [policy](https://greenhost.net/contact/responsible-disclosure/) | recognition | — | active |
 | `greenpeace.org` | — | — | — | active |
 | `greenvilleonline.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
-| `greenwichmeantime.com` | — | — | — | active |
+| `greenwichmeantime.com` | — | — | — | retired |
 | `grenzebach-dcs.com` | [policy](https://www.grenzebach-dcs.com/coordinated-disclosure) | monetary | yes | retired |
 | `grepolis.com` | — | — | — | active |
 | `greyhound.com` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |
@@ -1424,7 +1425,7 @@
 | `mamentis.com` | [policy](https://mamentis.com/docs/resources/miscellaneous/submit-bug-request) | monetary | — | retired |
 | `mamp.info` | — | — | — | expired |
 | `manageengine.com` | [policy](https://bugbounty.zohocorp.com/bb/info) | monetary | — | expired |
-| `mangadex.org` | [policy](https://mangadex.org/security.txt) | recognition | — | expired |
+| `mangadex.org` | [policy](https://mangadex.org/security.txt) | recognition | — | active |
 | `mann-filter.com` | — | — | — | active |
 | `mann-hummel.com` | — | — | — | active |
 | `mansfieldnewsjournal.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
@@ -1565,7 +1566,7 @@
 | `navcoin.org` | [policy](https://navcoin.org/responsible-disclosure) | — | — | retired |
 | `navyfederal.org` | — | — | — | expired |
 | `nbx.com` | [policy](https://nbx.com/en/security) | monetary | yes | retired |
-| `nccgroup.com` | [policy](https://www.nccgroup.com/us/vulnerability-disclosure-policy/) | — | — | active |
+| `nccgroup.com` | [policy](https://www.nccgroup.com/us/vulnerability-disclosure-policy/) | monetary | yes | active |
 | `ncsl.org` | [policy](https://www.ncsl.org/privacy-policy) | monetary | — | expired |
 | `ndevr.org` | [policy](https://ndevr.org/security/disclosure) | monetary | yes | active |
 | `nebius.com` | — | — | — | active |
@@ -2083,6 +2084,7 @@
 | `savannahnow.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
 | `sbgi.net` | — | — | — | active |
 | `scaleway.com` | [policy](https://www.scaleway.com/en/privacy-policy/) | monetary | — | active |
+| `scamadviser.com` | [policy](https://www.scamadviser.com/privacy-policy) | monetary | — | active |
 | `scania.com` | — | — | — | active |
 | `scanii.com` | [policy](https://docs.scanii.com/article/131-does-scanii-have-a-security-vulnerability-disclosure-program) | monetary | — | retired |
 | `scanrub.com` | [policy](https://www.scanrub.com/security) | monetary | yes | active |
@@ -2269,7 +2271,7 @@
 | `strawberryhotels.com` | — | — | — | active |
 | `strem.io` | [policy](https://www.stremio.com/security-policy.txt) | — | — | active |
 | `stremio.com` | [policy](https://www.stremio.com/security-policy.txt) | — | — | active |
-| `studentdoctor.net` | [policy](https://www.studentdoctor.net/security-policy/) | — | — | active |
+| `studentdoctor.net` | [policy](https://www.studentdoctor.net/security-policy/) | monetary | — | active |
 | `studo.com` | [policy](https://studo.com/security) | monetary | yes | active |
 | `studocu.com` | [policy](https://studocu.com/vdp.html) | — | — | active |
 | `studyinnl.org` | [policy](https://www.nuffic.nl/onderwerpen/over-ons/kwetsbaarheid-melden) | — | yes | expired |
@@ -2690,7 +2692,7 @@
 | `xsisec.com` | [policy](https://www.xsisec.com/security) | monetary | yes | active |
 | `xtb.com` | — | — | — | active |
 | `xtremepush.com` | [policy](https://www.xtremepush.com/security/vulnerability-disclosure-policy) | recognition | yes | active |
-| `yam.com` | — | recognition | — | active |
+| `yam.com` | — | recognition | — | retired |
 | `yandex.com` | [policy](https://ya.cc/t/1cSZixjB3gkSva) | monetary | — | active |
 | `yandex.eu` | [policy](https://ya.cc/t/1cSZixjB3gkSva) | monetary | — | active |
 | `yandex.net` | [policy](https://ya.cc/t/1cSZixjB3gkSva) | monetary | — | active |

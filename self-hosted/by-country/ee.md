@@ -1,6 +1,6 @@
 # Self-hosted programs — EE
 
-31 programs.
+32 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -16,6 +16,7 @@
 | `evr.ee` | — | — | — | active |
 | `forum.ee` | — | — | — | active |
 | `hot.ee` | — | — | — | active |
+| `kaubamaja.ee` | — | — | — | expired |
 | `lhv.ee` | [policy](https://www.lhv.ee/en/security) | monetary | — | active |
 | `maxima.ee` | — | — | — | active |
 | `mc4f.ee` | — | — | — | active |

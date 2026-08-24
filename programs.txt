@@ -300,6 +300,7 @@ humo.be	https://humo.be/.well-known/security.txt
 hzs.be	https://hzs.be/.well-known/security.txt
 ieper.be	https://www.lcp.be/responsible-disclosure
 imio.be	https://imio.be/.well-known/security.txt
+immaterieelerfgoed.be	https://www.statik.be/en/responsible-disclosure
 immocube.be	https://omnicasa.com/
 immothekerfinotheker.be	https://www.immothekerfinotheker.be/.well-known/security.txt
 infino.be	https://infino.be/.well-known/security.txt
@@ -556,6 +557,7 @@ arduino.cc	https://www.arduino.cc/en/security
 21analytics.ch	https://www.21analytics.co/.well-known/security.txt
 24heures.ch	https://bugcrowd.com/tamedia
 aarau.ch	https://www.aarau.ch/.well-known/security.txt
+abbaye-stmaurice.ch	https://www.abbaye-stmaurice.ch/.well-known/security.txt
 abraxas.ch	https://www.abraxas.ch/de/vdp
 abuse.ch	https://abuse.ch/.well-known/security.txt
 adfinis-sygroup.ch	https://www.adfinis.com/.well-known/security.txt
@@ -597,6 +599,7 @@ bitflux.ch	https://liip.to/security
 bl.ch	https://www.baselland.ch/.well-known/security.txt
 blick.ch	https://www.blick.ch/.well-known/security.txt
 blkb.ch	https://www.blkb.ch/.well-known/security.txt
+blt.ch	https://www.blt.ch/.well-known/security.txt
 bluewin.ch	https://github.com/swisscom/bugbounty
 bmw.ch	https://www.bmwgroup.com/en/general/Security.html
 bremgarten.ch	https://www.bremgarten.ch/.well-known/security.txt
@@ -1913,6 +1916,7 @@ err.ee	https://err.ee/.well-known/security.txt
 evr.ee	https://evr.ee/.well-known/security.txt
 forum.ee	https://forum.ee/.well-known/security.txt
 hot.ee	https://www.online.ee/.well-known/security.txt
+kaubamaja.ee	https://www.kaubamaja.ee/.well-known/security.txt
 lhv.ee	https://www.lhv.ee/en/security
 mariacasino.ee	https://www.mariacasino.ee/.well-known/security.txt
 maxima.ee	https://www.maxima.ee/.well-known/security.txt
@@ -1942,6 +1946,7 @@ active24.es	https://faq.active24.com/cz/933388-Hl%C3%A1%C5%A1en%C3%AD-bezpe%C4%8
 adeje.es	https://adeje.es/.well-known/security.txt
 airbnb.es	https://hackerone.com/airbnb#overview
 albastar.es	https://albastar.es/.well-known/security.txt
+autoscout24.es	https://app.intigriti.com/programs/autoscout/autoscout24-vdp/detail
 backmarket.es	https://www.backmarket.es/.well-known/security.txt
 bauhaus.es	https://www.bauhaus.es/.well-known/security.txt
 bdo.es	https://www.bdo.es/.well-known/security.txt
@@ -1958,6 +1963,7 @@ catalunyapress.es	http://www.catalunyapress.es/.well-known/security.txt
 channelpartner.es	https://channelpartner.es/security.txt
 coface.es	https://coface.es/.well-known/security.txt
 computing.es	https://computing.es/security.txt
+crazytime.es	https://www.crazytime.es/.well-known/security.txt
 datacentermarket.es	https://datacentermarket.es/security.txt
 decathlon.es	https://vdp.decathlon.net
 designcrowd.es	https://www.designcrowd.es/.well-known/security.txt
@@ -2355,6 +2361,7 @@ trustedshops.fr	https://www.trustedshops.de/.well-known/responsible-disclosure.t
 turbo.fr	https://turbo.fr/.well-known/security.txt
 u-cergy.fr	https://u-cergy.fr/security.txt
 uca.fr	https://www.uca.fr/security.txt
+unaf.fr	https://www.unaf.fr/security.txt
 unibet.fr	https://www.unibet.fr/.well-known/security.txt
 unice.fr	https://unice.fr/security.txt
 unistra.fr	https://unistra.fr/.well-known/policy.txt
@@ -2647,6 +2654,7 @@ basecamp.com	https://37signals.com/policies/security/response
 basecloud.one	https://basecloud.one/security.html
 basf.com	https://www.basf.com/global/en/legal/responsible-disclosure-statement
 basicattentiontoken.org	https://hackerone.com/brave?view_policy=true
+basketball-reference.com	https://www.basketball-reference.com/security.txt
 battlecreekenquirer.com	https://www.gannett.com/responsible-disclosure-program/
 bauhaus.info	https://www.bauhaus.info/.well-known/security.txt
 bavida.com	https://bavida.com/.well-known/security.txt
@@ -3415,7 +3423,7 @@ forgejo.org	https://codeberg.org/forgejo/governance/src/commit/5c07b3801537212ed
 forsightfinance.com	https://forsightfinance.com/security
 fortinet.com	https://www.fortiguard.com/psirt_policy
 fortra.com	https://www.fortra.com/security/policy
-fortran.io	https://elektrik.in.net/.well-known/security.txt
+fortran.io	https://carti.io/.well-known/security.txt
 fortum.com	https://www.fortum.com/.well-known/security.txt
 forwardemail.net	https://github.com/forwardemail/.github/blob/main/SECURITY.md
 fossil.com	https://www.fossil.com/.well-known/security.txt
@@ -4113,7 +4121,7 @@ matthewd.xyz	https://matthewd.xyz/security/
 maxisciences.com	https://maxisciences.com/.well-known/security.txt
 maybelline.com	https://www.maybelline.com/.well-known/security.txt
 mayoclinicproceedings.org	https://mayoclinicproceedings.org/.well-known/security.txt
-mb8coin.io	https://elektrik.in.net/.well-known/security.txt
+mb8coin.io	https://carti.io/.well-known/security.txt
 mckesson.com	https://www.mckesson.com/cybersecurity/coordinated-vulnerability-disclosure/
 mcpsec.dev	https://mcpsec.dev/disclosure-policy/
 mdedge.com	https://www.mdedge.com/.well-known/security.txt
@@ -4205,6 +4213,7 @@ montgomeryadvertiser.com	https://www.gannett.com/responsible-disclosure-program/
 monzo.com	https://app.intigriti.com/company/programs/monzobank/monzopublicbugbountyprogram/detail
 moodle.org	https://moodledev.io/general/development/process/security
 moonpay.com	https://moonpay.com/.well-known/security.txt
+motorauthority.com	https://www.motorauthority.com/.well-known/security.txt
 mountainwarehouse.com	https://www.mountainwarehouse.com/.well-known/security.txt
 movabletype.com	https://movabletype.com/.well-known/security.txt
 movabletype.org	https://movabletype.org/.well-known/security.txt
@@ -4882,6 +4891,7 @@ savannahnow.com	https://www.gannett.com/responsible-disclosure-program/
 sbgi.net	https://sbgi.net/.well-known/security.txt
 scale.com	https://scale.com/legal/security
 scaleway.com	https://www.scaleway.com/en/privacy-policy/
+scamadviser.com	https://www.scamadviser.com/privacy-policy
 scania.com	https://www.scania.com/.well-known/security.txt
 scanii.com	https://docs.scanii.com/article/131-does-scanii-have-a-security-vulnerability-disclosure-program
 scanrub.com	https://www.scanrub.com/security
@@ -7585,6 +7595,7 @@ bmw.ua	https://www.bmwgroup.com/en/general/Security.html
 cert.gov.ua	https://cert.gov.ua/.well-known/security.txt
 cityhost.ua	https://cityhost.ua/.well-known/security.txt
 comfy.ua	https://comfy.ua/.well-known/security.txt
+cosibella.com.ua	https://iai-sa.com/.well-known/security.txt
 cvk.gov.ua	https://cvk.gov.ua/.well-known/security.txt
 czo.gov.ua	https://czo.gov.ua/.well-known/security.txt
 deltahost.ua	https://deltahost.ua/.well-known/security.txt

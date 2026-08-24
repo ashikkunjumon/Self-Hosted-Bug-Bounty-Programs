@@ -1,6 +1,6 @@
 # Self-hosted programs — UA
 
-45 programs.
+46 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -10,6 +10,7 @@
 | `cert.gov.ua` | — | — | — | active |
 | `cityhost.ua` | — | — | — | active |
 | `comfy.ua` | — | — | — | active |
+| `cosibella.com.ua` | — | — | — | active |
 | `cvk.gov.ua` | — | — | — | active |
 | `czo.gov.ua` | — | — | — | expired |
 | `deltahost.ua` | — | — | — | active |

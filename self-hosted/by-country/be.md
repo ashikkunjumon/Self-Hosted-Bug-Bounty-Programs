@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-215 programs.
+216 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -87,6 +87,7 @@
 | `hzs.be` | — | — | — | active |
 | `ieper.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `imio.be` | — | — | — | active |
+| `immaterieelerfgoed.be` | [policy](https://www.statik.be/en/responsible-disclosure) | — | yes | active |
 | `immocube.be` | [policy](https://omnicasa.com/) | — | — | active |
 | `immothekerfinotheker.be` | — | — | — | active |
 | `infino.be` | — | — | — | active |

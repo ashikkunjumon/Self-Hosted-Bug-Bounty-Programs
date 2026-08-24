@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-576 programs.
+577 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -321,6 +321,7 @@
 | `mongodb.org` | — | recognition | — | active |
 | `monzo.com` | [policy](https://app.intigriti.com/company/programs/monzobank/monzopublicbugbountyprogram/detail) | monetary | — | active |
 | `moonpay.com` | — | — | — | active |
+| `motorauthority.com` | — | — | — | active |
 | `mtpelerin.com` | [policy](https://www.mtpelerin.com/responsible-disclosure-policy) | monetary | — | retired |
 | `murena.io` | [policy](https://hackerone.com/nextcloud) | — | — | active |
 | `my.xfinity.com` | [policy](https://www.xfinity.com/vulnerabilityreport) | monetary | — | retired |

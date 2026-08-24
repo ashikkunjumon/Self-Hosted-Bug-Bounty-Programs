@@ -1,6 +1,6 @@
 # Self-hosted programs — FR
 
-154 programs.
+155 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -143,6 +143,7 @@
 | `turbo.fr` | — | — | — | active |
 | `u-cergy.fr` | — | recognition | — | active |
 | `uca.fr` | — | recognition | — | active |
+| `unaf.fr` | — | — | — | active |
 | `unice.fr` | — | recognition | — | active |
 | `unistra.fr` | [policy](https://unistra.fr/.well-known/policy.txt) | — | — | active |
 | `univ-cotedazur.fr` | — | recognition | — | active |
