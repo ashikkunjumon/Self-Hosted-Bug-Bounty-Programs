@@ -1,6 +1,6 @@
 # Self-hosted programs — RO
 
-50 programs.
+51 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -32,6 +32,7 @@
 | `galantom.ro` | — | — | — | active |
 | `glami.ro` | — | monetary | — | active |
 | `imobiliare.ro` | — | — | — | expired |
+| `infomusic.ro` | — | recognition | — | active |
 | `lidl.ro` | — | — | — | active |
 | `listafirme.ro` | — | — | — | retired |
 | `metro.ro` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | active |

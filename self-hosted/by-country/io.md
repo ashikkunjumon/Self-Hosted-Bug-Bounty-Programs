@@ -19,7 +19,7 @@
 | `clubhouse.io` | [policy](https://www.shortcut.com/disclosure/) | recognition | — | retired |
 | `customer.io` | [policy](https://customer.io/legal/reporting-vulnerability) | swag | — | retired |
 | `disclose.io` | [policy](https://disclose.io/security/) | recognition | yes | active |
-| `docs.elmah.io` | [policy](https://docs.elmah.io/vulnerability-disclosure-program/) | monetary | — | retired |
+| `docs.elmah.io` | [policy](https://docs.elmah.io/vulnerability-disclosure-program/) | monetary | — | active |
 | `docs.szns.io` | [policy](https://docs.szns.io/smart-contracts/bug-bounty) | monetary | — | retired |
 | `flagon.io` | [policy](https://www.flagon.io/security) | — | yes | retired |
 | `flanks.io` | [policy](https://www.flanks.io/responsible-disclosure) | — | — | active |

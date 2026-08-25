@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-350 programs.
+352 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -165,6 +165,7 @@
 | `konsumentenschutz.ch` | — | — | — | active |
 | `ksa.ch` | [policy](https://www.ksa.ch/de/allgemeine-seiten/datenschutz) | — | — | active |
 | `ksbl.ch` | — | — | — | active |
+| `ksgr.ch` | — | — | — | active |
 | `ksw.ch` | — | — | — | active |
 | `kuoni.ch` | — | — | — | active |
 | `lacote.ch` | — | — | — | active |
@@ -204,6 +205,7 @@
 | `nivea.ch` | [policy](https://soc.beiersdorf.com/disclosurepolicy.html) | — | yes | active |
 | `notino.ch` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
 | `nw.ch` | — | — | — | active |
+| `olten.ch` | — | — | — | active |
 | `oneplus.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/compass-bug-bounty) | monetary | — | active |
 | `opfikon.ch` | — | — | — | active |
 | `outnow.ch` | — | — | — | expired |

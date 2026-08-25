@@ -1,15 +1,16 @@
 # Platform-hosted programs — RO
 
-15 programs.
+16 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `32rosu.ro` | — | monetary | — | retired |
 | `auto-bild.ro` | — | — | — | expired |
+| `autoscout24.ro` | [policy](https://app.intigriti.com/programs/autoscout/autoscout24-vdp/detail) | monetary | — | expired |
 | `avantaje.ro` | — | — | — | expired |
 | `bmw.ro` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
 | `elle.ro` | — | — | — | expired |
-| `libertatea.ro` | — | — | — | retired |
+| `libertatea.ro` | — | — | — | expired |
 | `libertateapentrufemei.ro` | — | — | — | expired |
 | `momondo.ro` | [policy](https://www.kayak.com/security/) | monetary | — | active |
 | `toyota.ro` | — | monetary | — | expired |

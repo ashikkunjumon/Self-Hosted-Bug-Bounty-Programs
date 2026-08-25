@@ -1,6 +1,6 @@
 # Self-hosted programs — AT
 
-135 programs.
+137 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -52,6 +52,7 @@
 | `gesundheitsverbund.at` | — | — | — | active |
 | `gettyimages.at` | — | — | — | retired |
 | `gmx.at` | [policy](https://bugbounty.gmx.net) | monetary | — | active |
+| `gurkerl.at` | — | — | — | active |
 | `hagebau.at` | — | — | — | active |
 | `henkel.at` | — | — | — | active |
 | `heute.at` | — | — | — | active |
@@ -68,6 +69,7 @@
 | `kleine.at` | — | — | — | expired |
 | `kleinezeitung.at` | — | — | — | expired |
 | `kletterzentrum-innsbruck.at` | — | — | — | active |
+| `kopp-verlag.at` | — | — | — | active |
 | `kreativwirtschaft.at` | — | — | — | active |
 | `laendleimmo.at` | — | — | — | expired |
 | `latini.at` | — | — | — | active |

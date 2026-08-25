@@ -86,7 +86,7 @@
 | `netsite.dk` | — | — | — | active |
 | `nhl-data.dk` | — | — | — | active |
 | `nordjyskebank.dk` | — | — | — | active |
-| `nordnet.dk` | [policy](https://www.nordnet.se/security-disclosure) | monetary | — | retired |
+| `nordnet.dk` | [policy](https://www.nordnet.se/security-disclosure) | monetary | — | active |
 | `norlys.dk` | — | — | — | active |
 | `nota.dk` | — | recognition | — | active |
 | `notino.dk` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |

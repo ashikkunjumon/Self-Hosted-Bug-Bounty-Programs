@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-393 programs.
+394 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -237,7 +237,7 @@
 | `mtu.de` | [policy](https://www.mtu.de/it-security/) | — | — | active |
 | `muenchen.de` | — | — | — | active |
 | `mvg.de` | — | — | — | active |
-| `mvv.de` | — | — | — | expired |
+| `mvv.de` | — | — | — | active |
 | `my-hammer.de` | — | — | — | expired |
 | `mydays.de` | [policy](https://public-jsmd.s3.eu-central-1.amazonaws.com/Bug-Bounty-Policy-1.2.pdf) | monetary | — | expired |
 | `neoshare.de` | [policy](https://neoshare.de/responsible-disclosure-program) | recognition | — | retired |
@@ -361,6 +361,7 @@
 | `uni-paderborn.de` | [policy](https://www.uni-paderborn.de/universitaet/informationssicherheit/informationssicherheitsvorfall) | — | — | active |
 | `uni-stuttgart.de` | — | — | — | active |
 | `uni-ulm.de` | — | — | — | active |
+| `uni-wuppertal.de` | — | recognition | — | active |
 | `unibw.de` | — | — | — | active |
 | `united-domains.de` | — | — | — | active |
 | `uol.de` | — | — | — | active |

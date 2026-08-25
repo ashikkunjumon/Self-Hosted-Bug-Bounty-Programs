@@ -1,6 +1,6 @@
 # Self-hosted programs — UA
 
-46 programs.
+47 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -19,6 +19,7 @@
 | `dpsu.gov.ua` | — | — | — | active |
 | `drv.gov.ua` | — | — | — | active |
 | `eridon.ua` | — | — | — | active |
+| `fg.gov.ua` | — | — | — | expired |
 | `flashscore.com.ua` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `flashscore.ua` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `fozzyshop.ua` | — | — | — | active |

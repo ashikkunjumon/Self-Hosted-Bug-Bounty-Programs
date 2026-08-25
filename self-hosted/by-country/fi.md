@@ -75,7 +75,7 @@
 | `motonet.fi` | — | — | — | expired |
 | `mtv.fi` | [policy](https://responsible-disclosure.tv4.se/01-policy.html) | recognition | yes | active |
 | `musiikkitalo.fi` | [policy](https://handbook.dude.fi/security-policy) | monetary | — | active |
-| `nordnet.fi` | [policy](https://www.nordnet.se/security-disclosure) | monetary | — | retired |
+| `nordnet.fi` | [policy](https://www.nordnet.se/security-disclosure) | monetary | — | active |
 | `notino.fi` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
 | `omalaina.fi` | [policy](https://samblagroup.com/responsible-disclosure) | — | yes | active |
 | `onninen.fi` | — | — | — | expired |

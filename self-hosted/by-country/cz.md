@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-345 programs.
+346 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -193,14 +193,15 @@
 | `mestskadivadlaprazska.cz` | — | — | — | active |
 | `mioweb.cz` | — | — | — | active |
 | `mironet.cz` | — | — | — | expired |
+| `mmr.cz` | — | — | — | active |
 | `modio.cz` | — | — | — | active |
 | `mojedatovaschranka.cz` | [policy](https://www.datovka.gov.cz/.well-known/security-policy.txt) | — | — | active |
 | `mojeid.cz` | — | — | — | active |
 | `moneta.cz` | [policy](https://www.moneta.cz/bug-bounty) | monetary | yes | active |
 | `mozilla.cz` | — | — | — | active |
 | `mp.cz` | — | — | — | expired |
-| `msmt.cz` | — | — | — | retired |
-| `msmt.gov.cz` | — | — | — | retired |
+| `msmt.cz` | — | — | — | active |
+| `msmt.gov.cz` | — | — | — | active |
 | `mssf.cz` | — | — | — | active |
 | `mujrozhlas.cz` | — | — | — | active |
 | `muni.cz` | [policy](https://security.muni.cz/en/responsible_disclosure) | recognition | — | active |

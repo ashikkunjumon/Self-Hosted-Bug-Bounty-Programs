@@ -1,6 +1,6 @@
 # Platform-hosted programs — FR
 
-28 programs.
+29 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -21,6 +21,7 @@
 | `laredoute.fr` | [policy](https://www.laredoute.com/vulnerability_disclosure_program.aspx) | — | — | expired |
 | `momondo.fr` | [policy](https://www.kayak.com/security/) | monetary | — | active |
 | `netim.fr` | — | — | — | active |
+| `norauto.fr` | — | — | — | active |
 | `randstad.fr` | [policy](https://www.randstad.com/report-a-security-problem/) | — | — | active |
 | `roche.fr` | [policy](https://hackerone.com/roche?view_policy=true) | — | — | active |
 | `sixt.fr` | [policy](https://bugcrowd.com/a22b9798-491e-4d3a-87f3-a69484e02a2f/external/report) | — | — | active |

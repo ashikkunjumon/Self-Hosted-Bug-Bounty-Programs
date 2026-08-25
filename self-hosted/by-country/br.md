@@ -1,6 +1,6 @@
 # Self-hosted programs — BR
 
-74 programs.
+75 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -42,6 +42,7 @@
 | `investidorpetrobras.com.br` | — | — | — | active |
 | `jcconcursos.com.br` | — | — | — | expired |
 | `jusbrasil.com.br` | — | — | — | active |
+| `livepass.com.br` | — | — | — | active |
 | `lojadocapita.com.br` | — | — | — | active |
 | `loreal-paris.com.br` | — | recognition | — | active |
 | `maringapost.com.br` | — | — | — | active |

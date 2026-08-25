@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-493 programs.
+494 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -72,6 +72,7 @@
 | `dagenssamhalle.se` | — | — | — | active |
 | `dahl.se` | — | — | — | active |
 | `dalademokraten.se` | — | — | — | active |
+| `damernasvarld.se` | — | — | — | active |
 | `destinationhalmstad.se` | — | — | — | active |
 | `di.se` | — | — | — | active |
 | `digg.se` | — | — | — | active |
@@ -294,7 +295,7 @@
 | `nok.se` | — | recognition | — | expired |
 | `nordicchoicehotels.se` | — | — | — | active |
 | `nordiskamuseet.se` | — | — | — | expired |
-| `nordnet.se` | [policy](https://www.nordnet.se/security-disclosure) | monetary | — | retired |
+| `nordnet.se` | [policy](https://www.nordnet.se/security-disclosure) | monetary | — | active |
 | `norrkoping.se` | — | — | — | active |
 | `norrtalje.se` | — | — | — | active |
 | `norrteljetidning.se` | — | — | — | active |

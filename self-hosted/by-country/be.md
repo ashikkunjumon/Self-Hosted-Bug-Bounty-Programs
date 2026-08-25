@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-216 programs.
+220 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -41,6 +41,7 @@
 | `dehaan.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `deliveroo.be` | — | — | — | active |
 | `designmuseumgent.be` | [policy](https://www.designmuseumgent.be/security-policy) | — | — | retired |
+| `despil.be` | — | — | — | active |
 | `dewatergroep.be` | [policy](https://www.dewatergroep.be/nl-be/security) | — | — | expired |
 | `dnsbelgium.be` | [policy](https://www.dnsbelgium.be/responsible-disclosure-policy) | — | — | active |
 | `doccle.be` | — | — | — | expired |
@@ -78,6 +79,8 @@
 | `goed.be` | [policy](https://www.goed.be/nl/algemene-voorwaarden/security) | — | yes | active |
 | `gratoramacasino.be` | — | — | — | active |
 | `grimbergen.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
+| `groups.be` | [policy](https://www.groups.be/en/responsible-disclosure-policy) | — | — | active |
+| `haaltert.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `heist-op-den-berg.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `heusden-zolder.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `hgr-css.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
@@ -132,6 +135,7 @@
 | `olen.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `olln.be` | — | — | — | active |
 | `oostende.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
+| `oostkamp.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `oudsbergen.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `oupeye.be` | — | — | — | active |
 | `overijse.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
