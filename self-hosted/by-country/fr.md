@@ -1,6 +1,6 @@
 # Self-hosted programs — FR
 
-155 programs.
+156 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -28,6 +28,7 @@
 | `brgm.fr` | — | recognition | — | active |
 | `butagaz.fr` | — | — | — | active |
 | `capterra.fr` | — | — | — | active |
+| `carrefour.fr` | [policy](https://carrefour.com/disclosure) | — | — | active |
 | `cea.fr` | [policy](https://www.cea.fr/cert) | monetary | — | active |
 | `centre-commercial.fr` | — | — | — | active |
 | `cewe.fr` | — | — | — | active |
@@ -44,7 +45,7 @@
 | `devinci.fr` | — | — | — | expired |
 | `dpd.fr` | — | monetary | — | active |
 | `ebookers.fr` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
-| `ec-nantes.fr` | — | — | — | active |
+| `ec-nantes.fr` | — | recognition | — | active |
 | `ekomi.fr` | — | — | — | active |
 | `ekwateur.fr` | — | recognition | — | active |
 | `euromaster.fr` | — | recognition | — | active |
@@ -67,7 +68,7 @@
 | `generali.fr` | [policy](https://vdp.generali.fr/p/Policy) | — | — | active |
 | `gettyimages.fr` | — | — | — | retired |
 | `glassdoor.fr` | [policy](https://help.glassdoor.com/s/article/Bug-Bounty-Program?language=en_US) | — | — | retired |
-| `grenoble-inp.fr` | — | — | — | active |
+| `grenoble-inp.fr` | — | recognition | — | active |
 | `groupebpce.fr` | — | — | — | expired |
 | `hellowatt.fr` | — | — | — | expired |
 | `ici.fr` | — | — | — | active |
@@ -95,7 +96,7 @@
 | `louvre.fr` | — | — | — | expired |
 | `m6.fr` | — | — | — | active |
 | `maisondelaradio.fr` | — | — | — | expired |
-| `marseille.fr` | — | — | — | active |
+| `marseille.fr` | — | recognition | — | active |
 | `matmut.fr` | — | — | — | expired |
 | `melenchon.fr` | — | — | — | expired |
 | `metro.fr` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | active |
@@ -147,8 +148,8 @@
 | `unice.fr` | — | recognition | — | active |
 | `unistra.fr` | [policy](https://unistra.fr/.well-known/policy.txt) | — | — | active |
 | `univ-cotedazur.fr` | — | recognition | — | active |
-| `univ-nantes.fr` | — | — | — | active |
-| `univ-perp.fr` | — | — | — | active |
+| `univ-nantes.fr` | — | recognition | — | active |
+| `univ-perp.fr` | — | recognition | — | active |
 | `univ-rennes2.fr` | — | recognition | — | active |
 | `univ-tlse3.fr` | — | recognition | — | active |
 | `univ-tours.fr` | — | recognition | — | active |

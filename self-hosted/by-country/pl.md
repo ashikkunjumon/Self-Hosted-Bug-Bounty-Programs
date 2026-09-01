@@ -1,6 +1,6 @@
 # Self-hosted programs — PL
 
-158 programs.
+164 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -48,7 +48,9 @@
 | `gazetakrakowska.pl` | — | — | — | expired |
 | `gazetalubuska.pl` | — | — | — | expired |
 | `gazetawroclawska.pl` | — | — | — | expired |
+| `gk24.pl` | — | — | — | expired |
 | `glamour.pl` | [policy](https://www.immediate.co.uk/security-disclosure-policy/) | — | — | retired |
+| `gloswielkopolski.pl` | — | — | — | expired |
 | `go.pl` | — | — | — | active |
 | `goingapp.pl` | — | — | — | active |
 | `gol24.pl` | — | — | — | expired |
@@ -62,7 +64,7 @@
 | `homebook.pl` | — | — | — | active |
 | `i.pl` | — | — | — | expired |
 | `infakt.pl` | [policy](https://www.infakt.pl/bugbounty/) | monetary | — | active |
-| `intel.pl` | [policy](https://www.intel.com/content/www/us/en/security-center/vulnerability-handling-guidelines.html) | monetary | — | expired |
+| `intel.pl` | [policy](https://www.intel.com/content/www/us/en/security-center/vulnerability-handling-guidelines.html) | monetary | — | active |
 | `jakdojade.pl` | — | — | — | active |
 | `jastrzabpost.pl` | — | — | — | active |
 | `kafeteria.pl` | — | — | — | active |
@@ -70,6 +72,7 @@
 | `koleo.pl` | — | — | — | expired |
 | `komorkomania.pl` | — | — | — | active |
 | `komputerswiat.pl` | — | — | — | active |
+| `konesso.pl` | — | — | — | active |
 | `kostbet.pl` | — | — | — | active |
 | `kupbilecik.pl` | — | — | — | active |
 | `kurierlubelski.pl` | — | — | — | expired |
@@ -86,6 +89,7 @@
 | `modafinil.pl` | [policy](https://modafinil.pl/) | — | — | active |
 | `moja-ostroleka.pl` | — | — | — | retired |
 | `money.pl` | — | — | — | active |
+| `motofakty.pl` | — | — | — | expired |
 | `muzhp.pl` | — | — | — | active |
 | `nask.pl` | — | — | — | active |
 | `naszemiasto.pl` | — | — | — | expired |
@@ -115,6 +119,7 @@
 | `polygamia.pl` | — | — | — | active |
 | `pomorska.pl` | — | — | — | expired |
 | `poranny.pl` | — | — | — | expired |
+| `ppstatic.pl` | — | — | — | expired |
 | `prw.pl` | — | — | — | active |
 | `przegladsportowy.pl` | — | — | — | active |
 | `pudelek.pl` | — | — | — | active |
@@ -144,10 +149,11 @@
 | `to.com.pl` | — | — | — | expired |
 | `totalmoney.pl` | — | — | — | active |
 | `trustedshops.pl` | [policy](https://www.trustedshops.de/.well-known/responsible-disclosure.txt) | — | yes | active |
-| `uokik.gov.pl` | — | — | — | active |
+| `uokik.gov.pl` | — | recognition | — | active |
 | `urbanity.pl` | — | — | — | active |
 | `verseo.pl` | — | — | — | active |
 | `vichy.pl` | — | recognition | — | active |
+| `vinted.pl` | — | — | — | active |
 | `virtualo.pl` | — | — | — | active |
 | `viva.pl` | [policy](https://www.immediate.co.uk/security-disclosure-policy/) | — | — | retired |
 | `wakacje.pl` | — | — | — | active |
@@ -157,7 +163,7 @@
 | `wp.pl` | — | — | — | active |
 | `wroclaw.naszemiasto.pl` | — | — | — | expired |
 | `wspolczesna.pl` | — | — | — | expired |
-| `wynagrodzenia.pl` | — | — | — | active |
+| `wynagrodzenia.pl` | — | — | — | retired |
 | `zaufanatrzeciastrona.pl` | — | — | — | active |
 | `znanylekarz.pl` | — | — | — | active |
 | `zooart.com.pl` | — | — | — | active |

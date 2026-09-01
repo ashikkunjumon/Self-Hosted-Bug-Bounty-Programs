@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-394 programs.
+398 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@
 | `badische-zeitung.de` | — | — | — | active |
 | `bagso.de` | — | — | — | active |
 | `bahn.de` | — | — | — | active |
-| `bamf.de` | — | — | — | active |
+| `bamf.de` | — | — | — | expired |
 | `barmenia.de` | — | — | — | active |
 | `barmeniagothaer.de` | — | — | — | active |
 | `barmer.de` | — | — | — | active |
@@ -99,7 +99,7 @@
 | `dji.de` | [policy](https://www.intern.dji.de/footer-navigation/datenschutz.html) | — | — | active |
 | `dkb.de` | — | — | — | retired |
 | `dkfz.de` | — | — | — | active |
-| `dlr.de` | — | — | — | active |
+| `dlr.de` | — | recognition | — | active |
 | `dm.de` | — | — | — | active |
 | `do.de` | [policy](https://www.do.de/bug-bounty/) | monetary | — | active |
 | `docmorris.de` | [policy](https://www.docmorris.de/ueber-uns/cyber-security) | — | yes | active |
@@ -146,7 +146,7 @@
 | `gameswelt.de` | — | — | — | active |
 | `gdata.de` | [policy](https://www.gdatasoftware.com/privacy/vulnerability-disclosure) | — | yes | active |
 | `gelsenkirchen.de` | — | — | — | active |
-| `germany4ukraine.de` | — | — | — | retired |
+| `germany4ukraine.de` | — | — | — | expired |
 | `gettyimages.de` | — | — | — | retired |
 | `giga.de` | — | — | — | active |
 | `gitslayer.de` | [policy](https://github.com/go-gitea/gitea/blob/main/SECURITY.md) | recognition | — | active |
@@ -215,17 +215,20 @@
 | `lancom-systems.de` | — | — | — | active |
 | `landesrecht-bw.de` | — | — | — | active |
 | `landwirtschaft-bw.de` | — | — | — | expired |
+| `leipzig.de` | [policy](https://www.leipzig.de/datenschutzerklaerung) | — | — | expired |
 | `lichtblick.de` | — | — | — | active |
 | `lidl.de` | — | — | — | active |
 | `linksjugend-solid.de` | — | — | — | expired |
 | `lmu.de` | — | — | — | active |
 | `logo.de` | — | — | — | active |
-| `lotto.de` | [policy](https://vdp.lotto-niedersachsen.de/p/Policy) | — | — | active |
+| `lotto.de` | [policy](https://vdp.lotto-niedersachsen.de/p/Policy) | — | — | expired |
 | `ludwigsburg.de` | — | — | — | active |
+| `lvr.de` | — | — | — | active |
 | `mainz.de` | [policy](https://mainz.de/cvd) | recognition | — | active |
 | `marburg.de` | — | — | — | active |
 | `mdc-berlin.de` | — | — | — | active |
 | `medpex.de` | [policy](https://www.medpex.de/ueber-uns/cyber-sicherheit) | — | yes | active |
+| `meineschufa.de` | — | — | — | active |
 | `metro.de` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | active |
 | `michelin.de` | — | — | — | active |
 | `mindfactory.de` | — | recognition | — | active |
@@ -245,6 +248,7 @@
 | `nius.de` | — | — | — | active |
 | `nivea.de` | [policy](https://soc.beiersdorf.com/disclosurepolicy.html) | — | yes | active |
 | `nospamproxy.de` | — | recognition | — | active |
+| `notebooksbilliger.de` | [policy](https://service.notebooksbilliger.de/help/de-de/36-datenschutz-schutz/385-vulnerability-disclosure-policy) | — | — | active |
 | `nrwbank.de` | — | — | — | active |
 | `nrz.de` | — | — | — | active |
 | `nuernberger.de` | — | — | — | active |

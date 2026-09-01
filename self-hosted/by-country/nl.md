@@ -1,6 +1,6 @@
 # Self-hosted programs — NL
 
-323 programs.
+326 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@
 | `amsterdamumc.nl` | [policy](https://www.amsterdamumc.org/en/responsible-disclosure.htm) | — | — | active |
 | `androidplanet.nl` | — | — | — | active |
 | `androidworld.nl` | — | — | — | active |
-| `antagonist.nl` | [policy](https://www.antagonist.nl/security/) | — | yes | expired |
+| `antagonist.nl` | [policy](https://www.antagonist.nl/security/) | — | yes | active |
 | `antenna.nl` | — | — | — | active |
 | `anthura.nl` | [policy](https://www.anthura.nl/en/cybersecurity/reporting-a-security-breach) | — | — | expired |
 | `anwb.nl` | [policy](https://www.anwb.nl/meldpunt-kwetsbaarheden) | — | — | active |
@@ -70,6 +70,7 @@
 | `cloudwise.nl` | [policy](https://www.cloudwise.nl/security-policy) | recognition | — | active |
 | `commercive.nl` | — | — | — | active |
 | `conclusion.nl` | — | — | — | active |
+| `conrad.nl` | [policy](https://www.conrad.de/de/ueber-conrad/vulnerability-disclosure-program.html) | — | — | active |
 | `consuwijzer.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `corendon.nl` | [policy](https://www.corendon.nl/privacy-verklaring) | monetary | — | active |
 | `cultureelerfgoed.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
@@ -164,7 +165,7 @@
 | `koninklijkhuis.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `kpn.nl` | — | monetary | — | active |
 | `kro-ncrv.nl` | [policy](https://kro-ncrv.nl/kwetsbaarheid-website-melden) | recognition | yes | active |
-| `kvk.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | swag | — | active |
+| `kvk.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `l1.nl` | [policy](https://www.regiogroei.nl/responsible-disclosure) | — | yes | active |
 | `leiden.nl` | [policy](https://gemeente.leiden.nl/formulieren/melding-van-een-beveiligingslek-of-ict-probleem/) | — | — | active |
 | `letsserve.nl` | [policy](https://www.letsserve.nl/over-ons/responsible-disclosure-beleid/) | — | — | expired |
@@ -275,6 +276,7 @@
 | `somi.nl` | [policy](https://somi.nl/en/responsible-disclosure-policy) | — | — | retired |
 | `spar.nl` | — | — | — | expired |
 | `staatsbosbeheer.nl` | — | — | — | active |
+| `staff.universiteitleiden.nl` | [policy](https://www.staff.universiteitleiden.nl/binaries/content/assets/ul2staff/ict/responsible-disclosure-eng.pdf) | monetary | — | active |
 | `stagemarkt.nl` | [policy](https://www.s-bb.nl/contact/responsible-disclosure-policy/) | monetary | — | active |
 | `studyinholland.nl` | [policy](https://www.nuffic.nl/onderwerpen/over-ons/kwetsbaarheid-melden) | — | yes | expired |
 | `surf.nl` | [policy](https://www.surf.nl/en/responsible-disclosure) | recognition | yes | active |
@@ -310,7 +312,7 @@
 | `webklik.nl` | — | — | — | expired |
 | `webmethod.nl` | [policy](https://github.com/webmethod/coordinated-vulnerability-disclosure) | — | — | retired |
 | `websec.nl` | [policy](https://websec.nl/responsible-disclosure) | — | — | active |
-| `wefact.nl` | [policy](https://www.wefact.nl/security/) | — | — | active |
+| `wefact.nl` | [policy](https://www.wefact.nl/security/) | — | — | expired |
 | `wehkamp.nl` | [policy](https://images.wehkamp.nl/raw/responsible_disclosure_policy_Wehkamp.pdf) | monetary | — | active |
 | `werk.nl` | [policy](https://www.uwv.nl/nl/over-uwv/kwetsbaarheden-melden) | monetary | yes | active |
 | `werkaandemuur.nl` | — | — | — | active |
@@ -322,6 +324,7 @@
 | `xel.nl` | — | — | — | active |
 | `xpos.nl` | [policy](https://www.xpos.nl/security.html) | — | yes | active |
 | `youngcapital.nl` | [policy](https://www.youngcapital.nl/security) | monetary | yes | expired |
+| `zeeland.nl` | [policy](https://www.zeeland.nl/responsible-disclosure) | — | yes | active |
 | `zilverenkruis.nl` | [policy](https://www.achmea.nl/en/responsible-disclosure) | swag | — | active |
 | `zonnet.nl` | — | — | — | active |
 | `zorginstituutnederland.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |

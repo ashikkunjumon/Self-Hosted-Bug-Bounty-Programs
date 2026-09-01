@@ -19,7 +19,7 @@
 | `gettyimages.in` | — | — | — | retired |
 | `hotfrog.in` | — | — | — | active |
 | `huffingtonpost.in` | — | monetary | — | active |
-| `intel.in` | [policy](https://www.intel.com/content/www/us/en/security-center/vulnerability-handling-guidelines.html) | monetary | — | expired |
+| `intel.in` | [policy](https://www.intel.com/content/www/us/en/security-center/vulnerability-handling-guidelines.html) | monetary | — | active |
 | `krmangalam.edu.in` | — | — | — | active |
 | `linktw.in` | — | — | — | active |
 | `livescore.in` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |

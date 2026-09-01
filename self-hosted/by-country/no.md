@@ -1,6 +1,6 @@
 # Self-hosted programs — NO
 
-221 programs.
+222 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@
 | `bt.no` | [policy](https://www.schibsted.com/about/security-in-schibsted/schibsted-security-policy/) | — | — | active |
 | `buypass.no` | — | — | — | active |
 | `byggmakker.no` | — | — | — | expired |
-| `choicehotels.no` | — | — | — | active |
+| `choicehotels.no` | — | — | — | expired |
 | `coolstuff.no` | — | — | — | expired |
 | `coop.no` | — | — | — | active |
 | `datatilsynet.no` | — | — | — | active |
@@ -104,6 +104,7 @@
 | `kid.no` | — | — | — | expired |
 | `klp.no` | — | — | — | active |
 | `knowit.no` | — | — | — | expired |
+| `kode24.no` | — | — | — | expired |
 | `kolumbus.no` | — | — | — | active |
 | `komplett.no` | — | — | — | expired |
 | `kreativtforum.no` | [policy](https://www.kreativtforum.no/security-policy) | recognition | — | active |
@@ -135,7 +136,7 @@
 | `nille.no` | — | — | — | active |
 | `nkom.no` | — | — | — | active |
 | `nmh.no` | [policy](https://nmh.no/security-policy) | recognition | — | active |
-| `nordicchoicehotels.no` | — | — | — | active |
+| `nordicchoicehotels.no` | — | — | — | expired |
 | `nordlandssykehuset.no` | — | — | — | active |
 | `nordnet.no` | [policy](https://www.nordnet.se/security-disclosure) | monetary | — | active |
 | `norges-bank.no` | — | — | — | active |
@@ -148,7 +149,7 @@
 | `nrkbeta.no` | [policy](https://info.nrk.no/hjem/responsible-disclosure-policy/) | recognition | — | expired |
 | `nsd.no` | [policy](https://sikt.no/security-policy) | recognition | yes | active |
 | `nsm.no` | — | — | — | active |
-| `nte.no` | — | — | — | retired |
+| `nte.no` | — | — | — | active |
 | `ntnu.no` | — | — | — | active |
 | `nuug.no` | — | — | — | expired |
 | `nyemetoder.no` | — | — | — | active |
@@ -189,7 +190,7 @@
 | `sticos.no` | [policy](https://www.visma.com/trust-centre/responsible-disclosure) | swag | yes | active |
 | `stolav.no` | — | — | — | active |
 | `stortinget.no` | — | — | — | active |
-| `strawberry.no` | — | — | — | active |
+| `strawberry.no` | — | — | — | expired |
 | `strim.no` | — | — | — | active |
 | `sunnaas.no` | — | — | — | active |
 | `sykehusapotekene.no` | — | — | — | active |

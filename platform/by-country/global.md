@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-578 programs.
+582 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -17,14 +17,16 @@
 | `affirm.com` | — | — | — | expired |
 | `afr.com` | [policy](https://bugcrowd.com/nine-entertainment-vdp-pro) | — | — | active |
 | `afterpay.com` | — | — | — | retired |
+| `agoda.com` | [policy](https://hackerone.com/agoda-public) | — | — | active |
 | `agriculture.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `aikido.dev` | [policy](https://app.intigriti.com/programs/aikido/aikido/detail) | monetary | — | active |
 | `airbnb.com` | [policy](https://hackerone.com/airbnb#overview) | — | — | active |
-| `airbnb.io` | [policy](https://hackerone.com/airbnb#overview) | — | — | retired |
+| `airbnb.io` | [policy](https://hackerone.com/airbnb#overview) | — | — | active |
 | `airtable.com` | [policy](https://hackerone.com/airtable) | — | — | active |
 | `aiven.io` | [policy](https://bugcrowd.com/aiven-mbb-og) | monetary | — | active |
+| `alaskaair.com` | [policy](https://www.alaskaair.com/content/about-us/site-info/report-site-security-issues) | — | — | expired |
 | `alfen.com` | [policy](https://alfen.com/en-at/privacy-and-security/responsible-disclosure-policy) | recognition | yes | retired |
-| `allegion.com` | [policy](https://hackerone.com/allegion) | — | — | expired |
+| `allegion.com` | [policy](https://trust.allegion.com/) | — | — | active |
 | `alllaw.com` | — | — | — | active |
 | `allrecipes.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `alphabet.com` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
@@ -163,7 +165,7 @@
 | `epa.gov` | [policy](https://www.epa.gov/privacy/vulnerability-disclosure-policy) | monetary | — | retired |
 | `epicgames.com` | [policy](https://hackerone.com/epicgames) | — | — | active |
 | `etsy.com` | [policy](https://bugcrowd.com/etsy) | monetary | — | active |
-| `eufy.com` | [policy](https://www.eufy.com/eu-de/vulnerability-disclosure-policy) | monetary | yes | active |
+| `eufy.com` | [policy](https://www.eufy.com/eu-de/vulnerability-disclosure-policy) | monetary | — | active |
 | `evernote.com` | [policy](https://evernote.com/security/report-issue) | recognition | — | retired |
 | `ew.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `exact.com` | [policy](https://www.exact.com/information-security/responsible-disclosure) | recognition | — | active |
@@ -197,6 +199,7 @@
 | `front.com` | — | monetary | — | active |
 | `frtib.gov` | [policy](https://www.frtib.gov/vulnerability-disclosure-policy/) | — | — | retired |
 | `gameforge.com` | [policy](https://security.gameforge.com/en) | — | — | active |
+| `garfieldminusgarfield.net` | [policy](https://hackerone.com/automattic) | — | — | active |
 | `geckoboard.com` | [policy](https://support.geckoboard.com/en/articles/6055718-report-a-security-vulnerability-and-responsible-disclosure-policies) | monetary | — | retired |
 | `geico.com` | — | — | — | active |
 | `gene.com` | [policy](https://hackerone.com/roche?view_policy=true) | — | — | active |
@@ -204,10 +207,9 @@
 | `getpostman.com` | [policy](https://www.postman.com/security/vulnerability-reporting/) | monetary | — | active |
 | `getyourguide.com` | [policy](https://www.getyourguide.com/security) | monetary | — | retired |
 | `gi-de.com` | [policy](https://hackerone.com/giesecke_devrient) | — | — | active |
-| `github.com` | [policy](https://bounty.github.com) | monetary | yes | active |
+| `github.com` | [policy](https://bounty.github.com) | monetary | — | active |
 | `gitlab.com` | [policy](https://hackerone.com/gitlab/) | — | — | active |
 | `glean.com` | [policy](https://bugcrowd.com/engagements/glean-technologies-public) | monetary | — | active |
-| `glia.com` | [policy](https://www.glia.com/security-bounty) | monetary | yes | retired |
 | `globalsign.com` | — | — | — | active |
 | `gocardless.com` | [policy](https://gocardless.com/faq/merchants/security/) | monetary | — | active |
 | `goodnotes.com` | [policy](https://hackerone.com/goodnotes) | — | — | active |
@@ -224,6 +226,7 @@
 | `hacktricks.wiki` | [policy](https://hacktricks.wiki/en/network-services-pentesting/pentesting-web/nginx.html) | monetary | — | retired |
 | `hardware.info` | [policy](https://tweakers.net/info/responsible-disclosure/) | monetary | — | active |
 | `harristeeter.com` | — | — | — | active |
+| `hawaiianairlines.com` | [policy](https://www.alaskaair.com/content/about-us/site-info/report-site-security-issues) | — | — | expired |
 | `health.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `henkel-adhesives.com` | — | — | — | active |
 | `heroku.com` | [policy](https://www.heroku.com/policy/security-hall-of-fame/) | recognition | — | retired |
@@ -284,7 +287,7 @@
 | `learnreligions.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `ledger.com` | [policy](https://donjon.ledger.com/bounty/) | monetary | — | retired |
 | `levelblue.com` | [policy](https://www.levelblue.com/legal/privacy-policy) | — | — | active |
-| `lexus.com` | — | — | — | expired |
+| `lexus.com` | [policy](https://hackerone.com/toyota) | — | — | active |
 | `lexus.eu` | — | monetary | — | expired |
 | `liberapay.com` | — | recognition | — | active |
 | `life360.com` | — | — | — | retired |
@@ -314,7 +317,7 @@
 | `mixpanel.com` | [policy](https://hackerone.com/mixpanel) | recognition | — | active |
 | `mnn.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `modelmayhem.com` | — | — | — | active |
-| `mollie.com` | [policy](https://www.mollie.com/legal/responsible-disclosure) | monetary | — | active |
+| `mollie.com` | [policy](https://www.mollie.com/legal/responsible-disclosure) | — | — | active |
 | `momondo.com` | [policy](https://www.kayak.com/security/) | monetary | — | active |
 | `moneysupermarket.com` | [policy](https://bugcrowd.com/engagement_teasers/small-breeze-5090) | — | — | expired |
 | `mongodb.com` | — | recognition | — | active |
@@ -323,7 +326,7 @@
 | `moonpay.com` | — | — | — | active |
 | `motorauthority.com` | — | — | — | active |
 | `mtpelerin.com` | [policy](https://www.mtpelerin.com/responsible-disclosure-policy) | monetary | — | retired |
-| `murena.io` | [policy](https://hackerone.com/nextcloud) | — | — | active |
+| `murena.io` | [policy](https://hackerone.com/nextcloud) | — | — | expired |
 | `my.xfinity.com` | [policy](https://www.xfinity.com/vulnerabilityreport) | monetary | — | retired |
 | `mydomaine.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `myemma.com` | [policy](https://myemma.com/trust/security) | — | — | expired |
@@ -391,6 +394,7 @@
 | `postman.com` | [policy](https://www.postman.com/security/vulnerability-reporting/) | monetary | — | active |
 | `postmarkapp.com` | [policy](https://postmarkapp.com/support/article/779-responsible-disclosure-policy) | monetary | yes | retired |
 | `powerdns.com` | [policy](https://vdp.open-xchange.com/) | — | — | active |
+| `pprune.org` | — | — | — | active |
 | `privateinternetaccess.com` | — | monetary | — | active |
 | `public.com` | [policy](https://hackerone.com/public, you need to be part of our bounty our program to see details) | monetary | — | active |
 | `pusher.com` | — | — | — | active |
@@ -455,7 +459,7 @@
 | `snapchat.com` | [policy](https://hackerone.com/snapchat) | — | — | active |
 | `snapfish.com` | [policy](https://hackerone.com/shutterfly_vdp) | — | — | active |
 | `snowflake.com` | [policy](https://hackerone.com/snowflake) | — | — | active |
-| `snyk.io` | [policy](https://docs.snyk.io/more-info/disclosing-vulnerabilities/disclose-a-vulnerability-in-snyk-services) | — | — | active |
+| `snyk.io` | [policy](https://docs.snyk.io/more-info/disclosing-vulnerabilities/disclose-a-vulnerability-in-snyk-services) | monetary | — | active |
 | `socialbee.com` | — | — | — | active |
 | `sonatype.com` | [policy](https://www.sonatype.com/report-a-security-vulnerability) | monetary | — | retired |
 | `southernliving.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
@@ -498,8 +502,8 @@
 | `threema.com` | — | monetary | — | active |
 | `timeanddate.com` | [policy](https://hackerone.com/timeanddate) | monetary | — | expired |
 | `tomtom.com` | [policy](https://www.tomtom.com/responsible-disclosure/) | — | — | retired |
-| `toyota.com` | — | — | — | expired |
-| `transferwise.com` | [policy](https://bugcrowd.com/engagements/wise) | monetary | — | active |
+| `toyota.com` | [policy](https://hackerone.com/toyota) | — | — | active |
+| `transferwise.com` | [policy](https://bugcrowd.com/engagements/wise) | monetary | — | expired |
 | `travelandleisure.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `travelperk.com` | [policy](https://app.intigriti.com/company/programs/travelperk/travelperk/detail) | monetary | — | expired |
 | `treasury.gov` | [policy](https://home.treasury.gov/vulnerability-disclosure-policy) | monetary | — | active |
@@ -510,7 +514,7 @@
 | `trustly.com` | [policy](https://www.trustly.com/security/disclosure) | monetary | — | retired |
 | `trustwave.com` | [policy](https://www.levelblue.com/legal/privacy-policy) | — | — | active |
 | `tumblr.com` | [policy](https://hackerone.com/automattic) | — | — | active |
-| `tuv.com` | — | monetary | — | expired |
+| `tuv.com` | — | monetary | — | active |
 | `tw.bid.yahoo.com` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | active |
 | `tweakers.net` | [policy](https://tweakers.net/info/responsible-disclosure/) | monetary | — | active |
 | `twitter.com` | — | — | — | expired |
@@ -557,7 +561,7 @@
 | `whmcs.com` | — | — | — | active |
 | `wikitravel.org` | — | — | — | active |
 | `wilmingtontrust.com` | [policy](https://www.wilmingtontrust.com/privacy-security/responsible-disclosure-program) | monetary | yes | retired |
-| `wise.com` | [policy](https://bugcrowd.com/engagements/wise) | monetary | — | active |
+| `wise.com` | [policy](https://bugcrowd.com/engagements/wise) | monetary | — | expired |
 | `wolt.com` | [policy](https://hackerone.com/wolt) | — | — | active |
 | `woodmagazine.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `wordcamp.org` | [policy](https://make.wordpress.org/core/handbook/testing/reporting-security-vulnerabilities/) | monetary | — | active |

@@ -1,12 +1,12 @@
 # Self-hosted programs — AT
 
-137 programs.
+138 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `a-trust.at` | — | — | — | active |
 | `aboutyou.at` | — | monetary | — | retired |
-| `aekktn.at` | [policy](https://www.aekktn.at/security-policy/) | — | — | active |
+| `aekktn.at` | [policy](https://www.aekktn.at/security-policy/) | recognition | — | active |
 | `ankoe.at` | — | — | — | active |
 | `apg.at` | — | — | — | active |
 | `ara.at` | — | — | — | active |
@@ -139,5 +139,6 @@
 | `webador.at` | — | — | — | active |
 | `wien.at` | — | — | — | active |
 | `wienerstadtwerke.at` | — | — | — | active |
+| `wiiw.ac.at` | — | — | — | active |
 | `willhaben.at` | [policy](https://vdp.willhaben.at) | — | — | active |
 | `win2day.at` | [policy](https://www.lotterien.at/responsible-disclosure) | — | — | active |

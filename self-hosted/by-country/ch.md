@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-352 programs.
+353 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -132,6 +132,7 @@
 | `hin.ch` | — | — | — | active |
 | `holz-bois-legno.ch` | — | — | — | active |
 | `homegate.ch` | — | — | — | active |
+| `hornbach.ch` | — | — | — | active |
 | `hostpoint.ch` | [policy](https://www.hostpoint.ch/bugbounty/) | monetary | — | active |
 | `hotelleriesuisse.ch` | — | — | — | active |
 | `hotelplan.ch` | — | — | — | active |
@@ -189,6 +190,7 @@
 | `meteotest.ch` | — | — | — | active |
 | `michaelpage.ch` | — | — | — | expired |
 | `microspot.ch` | — | monetary | — | expired |
+| `migrol.ch` | — | — | — | active |
 | `migros-ferien.ch` | — | — | — | active |
 | `migros-kulturprozent-classics.ch` | — | — | — | active |
 | `migros.ch` | — | — | — | active |
@@ -265,7 +267,6 @@
 | `sob.ch` | — | — | — | active |
 | `solnet.ch` | — | — | — | active |
 | `solothurnerspitaeler.ch` | — | — | — | active |
-| `spiez.ch` | [policy](https://www.talus.ch/de/datenschutz/bug-bounty.php) | — | — | expired |
 | `spreadshirt.ch` | — | — | — | active |
 | `srf.ch` | — | — | — | active |
 | `stadt-schaffhausen.ch` | — | — | — | active |
@@ -288,7 +289,7 @@
 | `sursee.ch` | — | — | — | active |
 | `suva.ch` | — | — | — | active |
 | `swiss-athletics.ch` | — | — | — | active |
-| `swissbanking.ch` | — | — | — | active |
+| `swissbanking.ch` | — | — | — | expired |
 | `swisscard.ch` | — | — | — | active |
 | `swisscom.ch` | [policy](https://github.com/swisscom/bugbounty) | monetary | yes | active |
 | `swissolar.ch` | — | — | — | active |
@@ -299,7 +300,7 @@
 | `sympany.ch` | — | — | — | active |
 | `sz.ch` | — | — | — | active |
 | `tchibo.ch` | — | — | — | active |
-| `tcs.ch` | — | — | — | expired |
+| `tcs.ch` | — | — | — | active |
 | `tele1.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/compass-bug-bounty) | monetary | — | active |
 | `teleboy.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/teleboy-bug-bounty) | monetary | — | retired |
 | `telem1.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/compass-bug-bounty) | monetary | — | active |
@@ -347,7 +348,7 @@
 | `wohlen.ch` | — | — | — | active |
 | `workzeitung.ch` | — | — | — | active |
 | `woz.ch` | — | — | — | active |
-| `wwz.ch` | [policy](https://github.com/wwz-ag/security-policy) | — | yes | retired |
+| `wwz.ch` | [policy](https://github.com/wwz-ag/security-policy) | — | yes | active |
 | `zellerag.ch` | — | — | — | active |
 | `zg.ch` | — | — | — | active |
 | `zhaw.ch` | — | — | — | expired |

@@ -1,6 +1,6 @@
 # Self-hosted programs — RO
 
-51 programs.
+52 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -12,6 +12,7 @@
 | `bosch.ro` | [policy](https://psirt.bosch.com/bosch-responsible-disclosure-policy/) | recognition | — | active |
 | `brainly.ro` | [policy](https://brainly.com/responsible-disclosure-program) | — | — | active |
 | `brasovcity.ro` | — | — | — | active |
+| `carrefour.ro` | [policy](https://carrefour.com/disclosure) | — | — | active |
 | `certsign.ro` | — | — | — | expired |
 | `clausweb.ro` | — | — | — | active |
 | `comunadumesti.ro` | — | — | — | active |
@@ -31,7 +32,7 @@
 | `flashscore.ro` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `galantom.ro` | — | — | — | active |
 | `glami.ro` | — | monetary | — | active |
-| `imobiliare.ro` | — | — | — | expired |
+| `imobiliare.ro` | — | — | — | active |
 | `infomusic.ro` | — | recognition | — | active |
 | `lidl.ro` | — | — | — | active |
 | `listafirme.ro` | — | — | — | retired |
@@ -43,7 +44,7 @@
 | `peles.ro` | — | — | — | active |
 | `pluxee.ro` | [policy](https://vdp.pluxee.app/p/Policy) | — | — | active |
 | `rompetrol.ro` | — | — | — | active |
-| `senat.ro` | — | — | — | expired |
+| `senat.ro` | — | recognition | — | expired |
 | `sezamo.ro` | — | — | — | active |
 | `stiridiaspora.ro` | — | recognition | — | active |
 | `stratosfera.ro` | — | — | — | active |

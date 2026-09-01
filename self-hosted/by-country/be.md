@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-220 programs.
+223 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -23,6 +23,7 @@
 | `belgie-vakantiehuis.be` | — | — | — | active |
 | `beringen.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `betrouwbaar-casino.be` | [policy](https://betrouwbaar-casino.be/security-policy) | recognition | — | active |
+| `beveren.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `bloom.be` | [policy](https://www.bloom.be/security-policy) | recognition | — | active |
 | `bocholt.be` | — | — | — | active |
 | `brabantwallon.be` | — | — | — | active |
@@ -46,6 +47,7 @@
 | `dnsbelgium.be` | [policy](https://www.dnsbelgium.be/responsible-disclosure-policy) | — | — | active |
 | `doccle.be` | — | — | — | expired |
 | `driesvannoten.be` | — | — | — | active |
+| `druglijn.be` | [policy](https://www.druglijn.be/disclaimer/) | — | — | active |
 | `dustin.be` | [policy](https://www.dustin.be/nl/gdpr/) | monetary | — | active |
 | `duvel.be` | — | — | — | active |
 | `dvo.be` | [policy](https://www.dvo.be/security-policy) | recognition | — | active |
@@ -63,6 +65,7 @@
 | `facts.be` | — | — | — | active |
 | `fedustria.be` | — | — | — | expired |
 | `fixpart.be` | — | — | — | active |
+| `flagey.be` | — | — | — | active |
 | `flandersexpo.be` | — | — | — | active |
 | `flixbus.be` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |
 | `florealgroup.be` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | active |

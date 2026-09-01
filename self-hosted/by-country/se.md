@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-494 programs.
+495 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -11,7 +11,7 @@
 | `aftonbladet.se` | [policy](https://www.schibsted.com/about/security-in-schibsted/schibsted-security-policy/) | — | — | active |
 | `aimopark.se` | — | — | — | active |
 | `akademikernasakassa.se` | — | — | — | active |
-| `akademiska.se` | — | — | — | active |
+| `akademiska.se` | — | — | — | expired |
 | `aktuellhallbarhet.se` | — | — | — | active |
 | `albanova.se` | — | — | — | active |
 | `ale.se` | — | — | — | active |
@@ -57,6 +57,7 @@
 | `bt.se` | — | — | — | active |
 | `bth.se` | — | — | — | active |
 | `businessregiongoteborg.se` | — | — | — | expired |
+| `byggindustrin.se` | — | — | — | active |
 | `byggnads.se` | — | — | — | active |
 | `cancercentrum.se` | — | — | — | active |
 | `casinodealen.se` | [policy](https://casinodealen.se/security-policy) | recognition | — | active |
@@ -86,7 +87,7 @@
 | `ei.se` | — | — | — | active |
 | `ekero.se` | — | — | — | active |
 | `eksjo.se` | — | — | — | active |
-| `ellevio.se` | — | — | — | active |
+| `ellevio.se` | — | — | — | expired |
 | `elon.se` | — | — | — | active |
 | `enkoping.se` | — | — | — | active |
 | `eon.se` | — | — | — | active |
@@ -293,7 +294,7 @@
 | `nibe.se` | [policy](https://vdp.nibegroup.com) | recognition | — | active |
 | `nlt.se` | — | — | — | active |
 | `nok.se` | — | recognition | — | expired |
-| `nordicchoicehotels.se` | — | — | — | active |
+| `nordicchoicehotels.se` | — | — | — | expired |
 | `nordiskamuseet.se` | — | — | — | expired |
 | `nordnet.se` | [policy](https://www.nordnet.se/security-disclosure) | monetary | — | active |
 | `norrkoping.se` | — | — | — | active |
@@ -410,7 +411,7 @@
 | `stodlinjen.se` | — | — | — | active |
 | `strangnas.se` | — | — | — | active |
 | `strategiska.se` | — | — | — | expired |
-| `strawberry.se` | — | — | — | active |
+| `strawberry.se` | — | — | — | expired |
 | `stromstad.se` | — | — | — | active |
 | `su.se` | — | — | — | active |
 | `sundbyberg.se` | — | — | — | active |

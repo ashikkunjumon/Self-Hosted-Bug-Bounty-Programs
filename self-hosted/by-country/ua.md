@@ -1,12 +1,13 @@
 # Self-hosted programs — UA
 
-47 programs.
+48 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `agro-center.com.ua` | — | — | — | active |
 | `arma.gov.ua` | — | — | — | active |
 | `autolux.ua` | — | — | — | active |
+| `avrora.ua` | [policy](https://avrora.ua/vulnerability-disclosure-policy.html) | — | — | active |
 | `cert.gov.ua` | — | — | — | active |
 | `cityhost.ua` | — | — | — | active |
 | `comfy.ua` | — | — | — | active |
@@ -14,7 +15,7 @@
 | `cvk.gov.ua` | — | — | — | active |
 | `czo.gov.ua` | — | — | — | expired |
 | `deltahost.ua` | — | — | — | active |
-| `denovo.ua` | — | — | — | active |
+| `denovo.ua` | — | — | — | expired |
 | `diia.gov.ua` | — | — | — | active |
 | `dpsu.gov.ua` | — | — | — | active |
 | `drv.gov.ua` | — | — | — | active |
@@ -36,7 +37,7 @@
 | `notino.ua` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
 | `nubip.edu.ua` | — | — | — | retired |
 | `okko.ua` | — | — | — | expired |
-| `pethouse.ua` | [policy](https://pethouse.ua/ua/security-policy/) | monetary | yes | active |
+| `pethouse.ua` | [policy](https://pethouse.ua/ua/security-policy/) | — | yes | active |
 | `podushka.com.ua` | — | — | — | active |
 | `redo.ua` | — | — | — | active |
 | `sendpulse.ua` | — | — | — | active |

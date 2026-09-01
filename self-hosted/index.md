@@ -1,28 +1,28 @@
 # Self-hosted programs
 
-6,656 programs across 53 countries.
+6,698 programs across 54 countries.
 
 | Country | Programs |
 |---|---|
-| [GLOBAL](by-country/global.md) | 2,738 |
-| [SE](by-country/se.md) | 494 |
-| [DE](by-country/de.md) | 394 |
-| [CH](by-country/ch.md) | 352 |
-| [CZ](by-country/cz.md) | 346 |
-| [NL](by-country/nl.md) | 323 |
-| [NO](by-country/no.md) | 221 |
-| [BE](by-country/be.md) | 220 |
-| [PL](by-country/pl.md) | 158 |
-| [FR](by-country/fr.md) | 155 |
-| [DK](by-country/dk.md) | 139 |
-| [AT](by-country/at.md) | 137 |
+| [GLOBAL](by-country/global.md) | 2,746 |
+| [SE](by-country/se.md) | 495 |
+| [DE](by-country/de.md) | 398 |
+| [CH](by-country/ch.md) | 353 |
+| [CZ](by-country/cz.md) | 348 |
+| [NL](by-country/nl.md) | 326 |
+| [BE](by-country/be.md) | 223 |
+| [NO](by-country/no.md) | 222 |
+| [PL](by-country/pl.md) | 164 |
+| [FR](by-country/fr.md) | 156 |
+| [DK](by-country/dk.md) | 143 |
+| [AT](by-country/at.md) | 138 |
 | [FI](by-country/fi.md) | 120 |
-| [ES](by-country/es.md) | 97 |
-| [BR](by-country/br.md) | 75 |
-| [IT](by-country/it.md) | 71 |
-| [IO](by-country/io.md) | 52 |
-| [RO](by-country/ro.md) | 51 |
-| [UA](by-country/ua.md) | 47 |
+| [ES](by-country/es.md) | 98 |
+| [BR](by-country/br.md) | 76 |
+| [IT](by-country/it.md) | 72 |
+| [IO](by-country/io.md) | 53 |
+| [RO](by-country/ro.md) | 52 |
+| [UA](by-country/ua.md) | 48 |
 | [AI](by-country/ai.md) | 46 |
 | [HU](by-country/hu.md) | 43 |
 | [PT](by-country/pt.md) | 43 |
@@ -55,5 +55,6 @@
 | [CC](by-country/cc.md) | 1 |
 | [IE](by-country/ie.md) | 1 |
 | [LU](by-country/lu.md) | 1 |
+| [NP](by-country/np.md) | 1 |
 | [RS](by-country/rs.md) | 1 |
 | [SO](by-country/so.md) | 1 |

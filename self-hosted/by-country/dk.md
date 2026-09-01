@@ -1,12 +1,13 @@
 # Self-hosted programs — DK
 
-139 programs.
+143 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `aarhusmotion.dk` | [policy](https://bbtiming.com/page/vulnerability-policy) | — | yes | active |
 | `aktuelnaturvidenskab.dk` | — | — | — | active |
 | `alexandra.dk` | — | — | — | active |
+| `amtsavisen.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
 | `ao.dk` | — | — | — | expired |
 | `asb.dk` | — | — | — | active |
 | `au.dk` | — | — | — | active |
@@ -41,6 +42,7 @@
 | `dyndns.dk` | — | — | — | active |
 | `enavn.dk` | — | — | — | active |
 | `eon.dk` | — | — | — | active |
+| `erhvervplus.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
 | `eroguide.dk` | — | — | — | retired |
 | `evermart.dk` | — | — | — | active |
 | `expedia.dk` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
@@ -53,6 +55,7 @@
 | `flixbus.dk` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |
 | `folkebladetlemvig.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
 | `frdb.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
+| `frederiksbergliv.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
 | `fyens.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
 | `gettyimages.dk` | — | — | — | retired |
 | `gigahost.dk` | — | — | — | active |
@@ -107,6 +110,7 @@
 | `rema1000.dk` | — | — | — | active |
 | `rlb.dk` | — | — | — | active |
 | `royalcasino.dk` | [policy](https://www.royalcasino.dk/ansvarlighed) | — | — | active |
+| `rsyd.dk` | — | — | — | active |
 | `saint-gobain.dk` | — | — | — | active |
 | `samsik.dk` | — | — | — | active |
 | `sas.dk` | [policy](https://www.sasgroup.net/contact/vulnerability-disclosure-policy/) | recognition | yes | retired |
@@ -123,7 +127,7 @@
 | `spotfestival.dk` | — | — | — | retired |
 | `spreadshirt.dk` | — | — | — | active |
 | `stiften.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
-| `strawberry.dk` | — | — | — | active |
+| `strawberry.dk` | — | — | — | expired |
 | `superheltenlegetoej.dk` | — | — | — | active |
 | `supersaas.dk` | [policy](https://www.supersaas.com/info/disclosure_policy) | — | — | active |
 | `sydbank.dk` | — | — | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-346 programs.
+348 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -8,7 +8,7 @@
 | `1url.cz` | — | — | — | active |
 | `aboutyou.cz` | — | monetary | — | retired |
 | `active24.cz` | [policy](https://faq.active24.com/cz/933388-Hl%C3%A1%C5%A1en%C3%AD-bezpe%C4%8Dnostn%C3%ADch-zranitelnost%C3%AD) | — | — | active |
-| `adiktologie.cz` | [policy](https://csirt.cuni.cz/en/incident_reporting) | recognition | — | active |
+| `adiktologie.cz` | [policy](https://csirt.cuni.cz/en/incident_reporting) | recognition | — | expired |
 | `affilbox.cz` | — | — | — | active |
 | `agel.cz` | — | — | — | expired |
 | `aiken.cz` | — | — | — | active |
@@ -66,7 +66,7 @@
 | `csfd.cz` | [policy](https://www.csfd.cz/vyvojari/) | — | — | active |
 | `csob.cz` | — | — | — | active |
 | `csobpoj.cz` | — | — | — | active |
-| `cuni.cz` | [policy](https://csirt.cuni.cz/en/incident_reporting) | recognition | — | active |
+| `cuni.cz` | [policy](https://csirt.cuni.cz/en/incident_reporting) | recognition | — | expired |
 | `czech-tv.cz` | — | — | — | active |
 | `czu.cz` | — | — | — | active |
 | `dakmoto.cz` | — | — | — | active |
@@ -89,6 +89,7 @@
 | `eberry.cz` | — | — | — | active |
 | `ecn.cz` | — | — | — | active |
 | `efotbal.cz` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
+| `elfetex.cz` | [policy](https://magento.com/security) | monetary | — | expired |
 | `emaespressobar.cz` | — | — | — | expired |
 | `emkei.cz` | — | — | — | active |
 | `eon.cz` | — | — | — | expired |
@@ -194,6 +195,7 @@
 | `mioweb.cz` | — | — | — | active |
 | `mironet.cz` | — | — | — | expired |
 | `mmr.cz` | — | — | — | active |
+| `mmr.gov.cz` | — | — | — | active |
 | `modio.cz` | — | — | — | active |
 | `mojedatovaschranka.cz` | [policy](https://www.datovka.gov.cz/.well-known/security-policy.txt) | — | — | active |
 | `mojeid.cz` | — | — | — | active |

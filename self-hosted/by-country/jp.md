@@ -8,7 +8,7 @@
 | `g123.jp` | — | — | — | active |
 | `gettyimages.co.jp` | — | — | — | retired |
 | `gmo.jp` | — | — | — | active |
-| `huffingtonpost.jp` | — | monetary | — | expired |
+| `huffingtonpost.jp` | — | monetary | — | active |
 | `hulu.jp` | — | — | — | active |
 | `jps.jp` | — | — | — | active |
 | `kuruma-news.jp` | — | — | — | expired |

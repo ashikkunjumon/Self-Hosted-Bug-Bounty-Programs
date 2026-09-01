@@ -37,6 +37,6 @@
 | `tutu.ru` | — | — | — | active |
 | `vl.ru` | — | — | — | active |
 | `vstu.ru` | [policy](https://docs.moodle.org/dev/Moodle_security_procedures) | — | — | expired |
-| `x5.ru` | — | — | — | active |
+| `x5.ru` | — | — | — | retired |
 | `ya.ru` | [policy](https://ya.cc/t/1cSZixjB3gkSva) | monetary | — | active |
 | `yandex.ru` | [policy](https://ya.cc/t/1cSZixjB3gkSva) | monetary | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — BR
 
-75 programs.
+76 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -27,6 +27,7 @@
 | `doctoralia.com.br` | — | — | — | active |
 | `eventim.com.br` | — | — | — | active |
 | `expedia.com.br` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
+| `fabricadeaplicativos.com.br` | — | — | — | active |
 | `fiepr.org.br` | — | — | — | active |
 | `flashscore.com.br` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `forumseguranca.org.br` | [policy](https://icc.gg/polvuln) | monetary | yes | active |
@@ -74,7 +75,7 @@
 | `ucs.br` | — | — | — | active |
 | `ufms.br` | — | — | — | active |
 | `ufscar.br` | [policy](https://www.sin.ufscar.br/governanca/politicas-e-normas) | — | — | active |
-| `unesp.br` | — | — | — | active |
+| `unesp.br` | — | — | — | expired |
 | `unifal-mg.edu.br` | — | — | — | active |
 | `unochapeco.edu.br` | — | — | — | active |
 | `viajanet.com.br` | — | recognition | — | expired |

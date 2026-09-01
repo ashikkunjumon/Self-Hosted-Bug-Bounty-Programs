@@ -14,9 +14,9 @@
 | `libertateapentrufemei.ro` | — | — | — | expired |
 | `momondo.ro` | [policy](https://www.kayak.com/security/) | monetary | — | active |
 | `toyota.ro` | — | monetary | — | expired |
-| `tvmania.ro` | — | — | — | expired |
+| `tvmania.ro` | — | — | — | retired |
 | `unibet.ro` | — | monetary | — | retired |
 | `unica.ro` | — | — | — | expired |
-| `viva.ro` | — | — | — | expired |
+| `viva.ro` | — | — | — | retired |
 | `vladcazino.ro` | — | monetary | — | retired |
 | `webnode.ro` | [policy](https://www.webnode.com/.well-known/security-policy.html) | — | yes | active |

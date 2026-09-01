@@ -1,6 +1,6 @@
 # Self-hosted programs — ES
 
-97 programs.
+98 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -17,6 +17,7 @@
 | `bigmat.es` | — | — | — | active |
 | `bitrix24.es` | — | — | — | active |
 | `capterra.es` | — | — | — | active |
+| `carrefour.es` | [policy](https://carrefour.com/disclosure) | — | — | active |
 | `casaasia.es` | [policy](https://casaasia.cat/politica-de-privacidad/) | — | — | expired |
 | `catalunyapress.es` | — | — | — | active |
 | `channelpartner.es` | — | recognition | — | active |
