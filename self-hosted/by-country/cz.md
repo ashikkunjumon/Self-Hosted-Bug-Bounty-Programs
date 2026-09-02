@@ -8,7 +8,7 @@
 | `1url.cz` | — | — | — | active |
 | `aboutyou.cz` | — | monetary | — | retired |
 | `active24.cz` | [policy](https://faq.active24.com/cz/933388-Hl%C3%A1%C5%A1en%C3%AD-bezpe%C4%8Dnostn%C3%ADch-zranitelnost%C3%AD) | — | — | active |
-| `adiktologie.cz` | [policy](https://csirt.cuni.cz/en/incident_reporting) | recognition | — | expired |
+| `adiktologie.cz` | [policy](https://csirt.cuni.cz/en/incident_reporting) | recognition | — | active |
 | `affilbox.cz` | — | — | — | active |
 | `agel.cz` | — | — | — | expired |
 | `aiken.cz` | — | — | — | active |
@@ -167,7 +167,7 @@
 | `kraj-lbc.cz` | — | — | — | active |
 | `kraloveskoly.cz` | — | — | — | active |
 | `krimi-plzen.cz` | — | — | — | active |
-| `kupi.cz` | [policy](https://napoveda.seznam.cz/cz/smluvni-podminky/podminky-kupi-cz/) | — | — | active |
+| `kupi.cz` | [policy](https://napoveda.seznam.cz/cz/smluvni-podminky/podminky-kupi-cz/) | — | — | retired |
 | `kvaltex.cz` | — | — | — | active |
 | `laskakit.cz` | — | — | — | active |
 | `letuska.cz` | [policy](https://asiana.cz/policy_en.html) | — | — | active |
@@ -217,7 +217,7 @@
 | `nic.cz` | — | — | — | active |
 | `nkp.cz` | — | — | — | active |
 | `nm.cz` | — | — | — | active |
-| `nntb.cz` | — | — | — | active |
+| `nntb.cz` | — | — | — | expired |
 | `notino.cz` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
 | `novinky.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | — | yes | active |
 | `nppodyji.cz` | — | — | — | active |

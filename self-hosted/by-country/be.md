@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-223 programs.
+225 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -31,6 +31,7 @@
 | `braine-le-comte.be` | — | — | — | active |
 | `capterra.be` | — | — | — | active |
 | `casinoking.be` | — | — | — | active |
+| `ccsint-niklaas.be` | — | — | — | active |
 | `century21.be` | — | — | — | active |
 | `ciney.be` | — | — | — | active |
 | `clickx.be` | — | — | — | active |
@@ -103,6 +104,7 @@
 | `kaartje2go.be` | [policy](https://www.kaartje2go.be/responsible-disclosure) | monetary | yes | active |
 | `kaiserkraft.be` | — | — | — | active |
 | `kringwinkel.be` | — | — | — | expired |
+| `lanaken.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `lecot.be` | [policy](https://magento.com/security) | monetary | — | expired |
 | `legrand.be` | [policy](https://www.legrand.com/cybersecurity/en/cvd-policy) | — | — | active |
 | `liantis.be` | [policy](https://www.liantis.be/disclosure) | — | — | expired |

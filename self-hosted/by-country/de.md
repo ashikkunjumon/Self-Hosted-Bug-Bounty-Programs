@@ -72,7 +72,7 @@
 | `computerbase.de` | — | — | — | active |
 | `ct.de` | [policy](https://heise.de/-7513540) | monetary | — | active |
 | `cure53.de` | — | recognition | — | active |
-| `daad.de` | — | — | — | retired |
+| `daad.de` | — | — | — | active |
 | `darmstadt.de` | — | — | — | active |
 | `dasauge.de` | — | — | — | active |
 | `dasding.de` | — | — | — | active |
@@ -111,7 +111,7 @@
 | `ekd.de` | — | — | — | expired |
 | `ekomi.de` | — | — | — | active |
 | `eon.de` | — | — | — | active |
-| `erasmusplus.de` | — | — | — | retired |
+| `erasmusplus.de` | — | — | — | active |
 | `eventim-inhouse.de` | — | — | — | active |
 | `eventim.de` | — | — | — | active |
 | `expedia.de` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
@@ -312,7 +312,7 @@
 | `stadt-koeln.de` | — | — | — | expired |
 | `stadtlindau.de` | — | — | — | active |
 | `strato.de` | [policy](https://www.strato.de/it-security) | monetary | — | active |
-| `study-in-germany.de` | — | — | — | retired |
+| `study-in-germany.de` | — | — | — | active |
 | `stuttgart.de` | — | — | — | active |
 | `suse.de` | — | — | — | active |
 | `swm.de` | — | — | — | active |

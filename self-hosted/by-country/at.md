@@ -1,6 +1,6 @@
 # Self-hosted programs — AT
 
-138 programs.
+139 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -132,6 +132,7 @@
 | `tuwien.ac.at` | — | — | — | active |
 | `tuwien.at` | — | — | — | active |
 | `uni-salzburg.at` | — | — | — | expired |
+| `unileoben.ac.at` | — | — | — | active |
 | `unsereoebb.at` | — | — | — | active |
 | `ustp.at` | [policy](https://www.ustp.at/de/security-disclosure-policy) | swag | — | active |
 | `viennaairportlines.at` | — | — | — | active |

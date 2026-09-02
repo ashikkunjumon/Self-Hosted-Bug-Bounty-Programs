@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-582 programs.
+583 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -24,7 +24,6 @@
 | `airbnb.io` | [policy](https://hackerone.com/airbnb#overview) | — | — | active |
 | `airtable.com` | [policy](https://hackerone.com/airtable) | — | — | active |
 | `aiven.io` | [policy](https://bugcrowd.com/aiven-mbb-og) | monetary | — | active |
-| `alaskaair.com` | [policy](https://www.alaskaair.com/content/about-us/site-info/report-site-security-issues) | — | — | expired |
 | `alfen.com` | [policy](https://alfen.com/en-at/privacy-and-security/responsible-disclosure-policy) | recognition | yes | retired |
 | `allegion.com` | [policy](https://trust.allegion.com/) | — | — | active |
 | `alllaw.com` | — | — | — | active |
@@ -210,11 +209,13 @@
 | `github.com` | [policy](https://bounty.github.com) | monetary | — | active |
 | `gitlab.com` | [policy](https://hackerone.com/gitlab/) | — | — | active |
 | `glean.com` | [policy](https://bugcrowd.com/engagements/glean-technologies-public) | monetary | — | active |
+| `global.com` | [policy](https://global.com/bug-bounty-policy/) | monetary | yes | active |
 | `globalsign.com` | — | — | — | active |
 | `gocardless.com` | [policy](https://gocardless.com/faq/merchants/security/) | monetary | — | active |
 | `goodnotes.com` | [policy](https://hackerone.com/goodnotes) | — | — | active |
 | `grab.com` | [policy](https://hackerone.com/grab?view_policy=true) | — | — | active |
 | `grammarly.com` | [policy](https://hackerone.com/grammarly) | — | — | active |
+| `greencarreports.com` | — | — | — | active |
 | `greenhouse.com` | [policy](https://hackerone.com/greenhouse?type=team) | — | — | expired |
 | `greenhouse.io` | [policy](https://hackerone.com/greenhouse?type=team) | — | — | expired |
 | `group.jumia.com` | [policy](https://group.jumia.com/security/) | recognition | — | active |
@@ -226,7 +227,6 @@
 | `hacktricks.wiki` | [policy](https://hacktricks.wiki/en/network-services-pentesting/pentesting-web/nginx.html) | monetary | — | retired |
 | `hardware.info` | [policy](https://tweakers.net/info/responsible-disclosure/) | monetary | — | active |
 | `harristeeter.com` | — | — | — | active |
-| `hawaiianairlines.com` | [policy](https://www.alaskaair.com/content/about-us/site-info/report-site-security-issues) | — | — | expired |
 | `health.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `henkel-adhesives.com` | — | — | — | active |
 | `heroku.com` | [policy](https://www.heroku.com/policy/security-hall-of-fame/) | recognition | — | retired |
@@ -281,6 +281,7 @@
 | `kiwa.com` | [policy](https://www.kiwa.com/en/responsible-disclosure-policy/) | monetary | — | retired |
 | `kiwi.com` | [policy](https://www.kiwi.com/us/pages/security) | monetary | — | active |
 | `kkr.com` | [policy](https://hackerone.com/kkr_vdp) | — | — | expired |
+| `kroger.com` | — | — | — | active |
 | `langfuse.com` | [policy](https://langfuse.com/security/responsible-disclosure) | monetary | — | retired |
 | `larksuite.com` | [policy](https://www.larksuite.com/bugbounty) | monetary | — | retired |
 | `lastpass.com` | [policy](https://www.lastpass.com/trust-center/security/responsible-disclosure) | monetary | — | retired |

@@ -1,6 +1,6 @@
 # Self-hosted programs — IT
 
-72 programs.
+73 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -64,6 +64,7 @@
 | `seeweb.it` | — | — | — | active |
 | `subito.it` | [policy](https://adevinta.com/security-vulnerability/) | — | — | retired |
 | `ticketone.it` | — | — | — | active |
+| `tim.it` | [policy](https://www.gruppotim.it/en/footer/responsible-disclosure.html) | — | — | active |
 | `treatwell.it` | — | — | — | active |
 | `truemetal.it` | — | — | — | expired |
 | `unibocconi.it` | [policy](https://unibocconi.it/security/vulnerability-disclosure) | monetary | — | active |

@@ -1,10 +1,10 @@
 # Platform-hosted programs
 
-1,032 programs across 36 countries.
+1,033 programs across 36 countries.
 
 | Country | Programs |
 |---|---|
-| [GLOBAL](by-country/global.md) | 582 |
+| [GLOBAL](by-country/global.md) | 583 |
 | [CH](by-country/ch.md) | 61 |
 | [BE](by-country/be.md) | 45 |
 | [NL](by-country/nl.md) | 36 |

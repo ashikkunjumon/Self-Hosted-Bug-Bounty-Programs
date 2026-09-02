@@ -1,6 +1,6 @@
 # Self-hosted programs — RO
 
-52 programs.
+53 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -39,6 +39,7 @@
 | `metro.ro` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | active |
 | `michelin.ro` | — | — | — | active |
 | `notino.ro` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
+| `observatorulph.ro` | — | — | — | active |
 | `omv.ro` | — | — | — | active |
 | `payu.ro` | [policy](https://corporate.payu.com/responsible-disclosure-policy/) | monetary | — | retired |
 | `peles.ro` | — | — | — | active |

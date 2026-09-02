@@ -78,5 +78,5 @@
 | `unesp.br` | — | — | — | expired |
 | `unifal-mg.edu.br` | — | — | — | active |
 | `unochapeco.edu.br` | — | — | — | active |
-| `viajanet.com.br` | — | recognition | — | expired |
+| `viajanet.com.br` | — | recognition | — | active |
 | `yampi.com.br` | — | recognition | — | active |

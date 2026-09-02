@@ -1,6 +1,6 @@
 # Self-hosted programs — UA
 
-48 programs.
+49 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -8,6 +8,7 @@
 | `arma.gov.ua` | — | — | — | active |
 | `autolux.ua` | — | — | — | active |
 | `avrora.ua` | [policy](https://avrora.ua/vulnerability-disclosure-policy.html) | — | — | active |
+| `biotus.ua` | [policy](https://biotus.ua/security-policy) | — | yes | active |
 | `cert.gov.ua` | — | — | — | active |
 | `cityhost.ua` | — | — | — | active |
 | `comfy.ua` | — | — | — | active |

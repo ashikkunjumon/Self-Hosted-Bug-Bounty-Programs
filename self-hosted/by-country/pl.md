@@ -1,6 +1,6 @@
 # Self-hosted programs — PL
 
-164 programs.
+165 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -131,6 +131,7 @@
 | `rmf24.pl` | [policy](https://www.rmf.fm/security-policy.txt) | — | — | active |
 | `rmfclassic.pl` | [policy](https://www.rmf.fm/security-policy.txt) | — | — | active |
 | `rmfmaxx.pl` | [policy](https://www.rmf.fm/security-policy.txt) | — | — | active |
+| `rossmann.pl` | — | — | — | active |
 | `rybnik.com.pl` | — | — | — | active |
 | `sensus.pl` | — | — | — | active |
 | `siepomaga.pl` | — | — | — | active |

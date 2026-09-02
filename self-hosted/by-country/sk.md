@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 | `aboutyou.sk` | — | monetary | — | retired |
 | `active24.sk` | [policy](https://faq.active24.com/cz/933388-Hl%C3%A1%C5%A1en%C3%AD-bezpe%C4%8Dnostn%C3%ADch-zranitelnost%C3%AD) | — | — | active |
-| `agel.sk` | — | — | — | expired |
+| `agel.sk` | — | — | — | retired |
 | `ajtaci.sk` | — | — | — | active |
 | `amaterky.sk` | — | — | — | active |
 | `asbis.sk` | — | — | — | active |
