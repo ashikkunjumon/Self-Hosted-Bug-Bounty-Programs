@@ -41,7 +41,7 @@
 | `unibetcasino.be` | — | monetary | — | retired |
 | `unibetsports.be` | — | monetary | — | retired |
 | `uzleuven.be` | — | recognition | — | active |
-| `vlaanderen.be` | [policy](https://yeswehack.com/programs/digital-flanders-vulnerability-disclosure-program) | recognition | — | active |
+| `vlaanderen.be` | [policy](https://yeswehack.com/programs/digital-flanders-vulnerability-disclosure-program) | recognition | — | retired |
 | `vtm.be` | — | monetary | — | active |
 | `vtmgo.be` | — | monetary | — | active |
 | `vtwonen.be` | — | monetary | — | active |

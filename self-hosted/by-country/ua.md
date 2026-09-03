@@ -49,7 +49,7 @@
 | `ukraine.com.ua` | [policy](https://www.ukraine.com.ua/info/bug-bounty/) | monetary | — | active |
 | `vchasno.com.ua` | — | — | — | active |
 | `vchasno.ua` | — | — | — | active |
-| `viyar.ua` | — | — | — | active |
+| `viyar.ua` | — | — | — | retired |
 | `vkksu.gov.ua` | [policy](https://www.vkksu.gov.ua/userfiles/doc/sec/secpolicy.txt) | recognition | — | active |
 | `vntu.edu.ua` | [policy](https://vntu.edu.ua/files/security.html) | monetary | — | active |
 | `vodiy.ua` | — | — | — | active |

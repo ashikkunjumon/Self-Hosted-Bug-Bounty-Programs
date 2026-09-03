@@ -93,7 +93,7 @@
 | `digid.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `digitaleoverheid.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `dnb.nl` | [policy](https://www.dnb.nl/privacy-en-beveiliging/kwetsbaarheid-melden/) | — | yes | expired |
-| `drentsmuseum.nl` | [policy](https://www.slash2.nl/responsible-disclosure-policy) | recognition | yes | expired |
+| `drentsmuseum.nl` | [policy](https://www.slash2.nl/responsible-disclosure-policy) | recognition | yes | active |
 | `eenvandaag.nl` | [policy](https://www.avrotros.nl/responsible-disclosure~44/) | — | yes | expired |
 | `eerstekamer.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `encyclo.nl` | — | — | — | active |
@@ -123,7 +123,7 @@
 | `gld.nl` | [policy](https://www.regiogroei.nl/responsible-disclosure) | — | — | active |
 | `goda.nl` | — | — | — | active |
 | `government.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
-| `groningen.nl` | [policy](https://www.slash2.nl/responsible-disclosure-policy) | recognition | yes | expired |
+| `groningen.nl` | [policy](https://www.slash2.nl/responsible-disclosure-policy) | recognition | yes | active |
 | `groningermuseum.nl` | [policy](https://www.slash2.nl/responsible-disclosure-policy) | recognition | yes | retired |
 | `haarlem.nl` | [policy](https://www.informatiebeveiligingsdienst.nl/responsible-disclosure/) | recognition | — | expired |
 | `han.nl` | [policy](https://www.han.nl/contact/responsible-disclosure/) | recognition | yes | active |

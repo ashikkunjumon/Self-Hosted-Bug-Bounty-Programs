@@ -1,6 +1,6 @@
 # Self-hosted programs — AT
 
-139 programs.
+141 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -78,6 +78,7 @@
 | `linzag.at` | — | — | — | active |
 | `lions.at` | — | — | — | active |
 | `lionshome.at` | — | — | — | retired |
+| `lknoe.at` | [policy](https://www.landesgesundheitsagentur.at/fileadmin/media_data/Dateien/NOELGA/rfc2350_noelga_v2.txt) | — | — | active |
 | `lotterien.at` | [policy](https://www.lotterien.at/responsible-disclosure-1-1) | — | — | active |
 | `meindm.at` | — | — | — | active |
 | `metro.at` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | active |
@@ -136,6 +137,7 @@
 | `unsereoebb.at` | — | — | — | active |
 | `ustp.at` | [policy](https://www.ustp.at/de/security-disclosure-policy) | swag | — | active |
 | `viennaairportlines.at` | — | — | — | active |
+| `vobs.at` | — | — | — | active |
 | `vpnoe.at` | — | — | — | active |
 | `webador.at` | — | — | — | active |
 | `wien.at` | — | — | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — JP
 
-21 programs.
+22 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -11,6 +11,7 @@
 | `huffingtonpost.jp` | — | monetary | — | active |
 | `hulu.jp` | — | — | — | active |
 | `jps.jp` | — | — | — | active |
+| `konami.jp` | — | — | — | active |
 | `kuruma-news.jp` | — | — | — | expired |
 | `locondo.jp` | — | — | — | active |
 | `lolipop.jp` | [policy](https://pepabo.com/contact/vulnerability-reporting/) | monetary | yes | active |

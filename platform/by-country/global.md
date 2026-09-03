@@ -409,7 +409,7 @@
 | `randstad.com` | [policy](https://www.randstad.com/report-a-security-problem/) | — | — | active |
 | `randstadusa.com` | [policy](https://www.randstad.com/report-a-security-problem/) | — | — | active |
 | `rapgenius.com` | [policy](https://bugcrowd.com/engagements/Genius-VDP) | — | — | retired |
-| `rctech.net` | — | — | — | active |
+| `rctech.net` | — | — | — | retired |
 | `rcuniverse.com` | — | — | — | active |
 | `rea-group.com` | [policy](https://www.rea-group.com/security) | recognition | — | active |
 | `realpage.com` | [policy](https://www.realpage.com/support/security/responsible-disclosure/) | monetary | — | retired |

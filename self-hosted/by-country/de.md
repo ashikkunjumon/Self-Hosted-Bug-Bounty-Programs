@@ -37,9 +37,9 @@
 | `berlin.de` | [policy](https://www.berlin.de/wir-ueber-uns/security) | recognition | — | active |
 | `berliner-zeitung.de` | [policy](https://www.berliner-zeitung.de/datenschutzhinweise) | — | — | active |
 | `betway.de` | — | — | — | expired |
-| `beuth-hochschule.de` | — | — | — | active |
+| `beuth-hochschule.de` | — | recognition | — | active |
 | `bg-kliniken.de` | — | — | — | active |
-| `bht-berlin.de` | — | — | — | active |
+| `bht-berlin.de` | — | recognition | — | active |
 | `bibb.de` | — | — | — | expired |
 | `bike-components.de` | — | — | — | active |
 | `billiger-mietwagen.de` | — | — | — | active |
@@ -138,7 +138,7 @@
 | `fridaysforfuture.de` | — | — | — | active |
 | `fu-berlin.de` | — | — | — | active |
 | `fuerth.de` | — | — | — | active |
-| `funkemedien.de` | — | — | — | expired |
+| `funkemedien.de` | — | — | — | retired |
 | `g7germany.de` | — | — | — | active |
 | `galaxus.de` | [policy](https://www.galaxus.ch/security) | — | — | expired |
 | `gambio.de` | — | — | — | active |
@@ -146,7 +146,7 @@
 | `gameswelt.de` | — | — | — | active |
 | `gdata.de` | [policy](https://www.gdatasoftware.com/privacy/vulnerability-disclosure) | — | yes | active |
 | `gelsenkirchen.de` | — | — | — | active |
-| `germany4ukraine.de` | — | — | — | expired |
+| `germany4ukraine.de` | — | — | — | retired |
 | `gettyimages.de` | — | — | — | retired |
 | `giga.de` | — | — | — | active |
 | `gitslayer.de` | [policy](https://github.com/go-gitea/gitea/blob/main/SECURITY.md) | recognition | — | active |
@@ -249,7 +249,7 @@
 | `nivea.de` | [policy](https://soc.beiersdorf.com/disclosurepolicy.html) | — | yes | active |
 | `nospamproxy.de` | — | recognition | — | active |
 | `notebooksbilliger.de` | [policy](https://service.notebooksbilliger.de/help/de-de/36-datenschutz-schutz/385-vulnerability-disclosure-policy) | — | — | active |
-| `nrwbank.de` | — | — | — | active |
+| `nrwbank.de` | — | — | — | retired |
 | `nrz.de` | — | — | — | active |
 | `nuernberger.de` | — | — | — | active |
 | `oberhausen.de` | [policy](https://www.oberhausen.de/vdp) | — | — | active |

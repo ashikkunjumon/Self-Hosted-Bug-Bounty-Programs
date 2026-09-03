@@ -36,7 +36,7 @@
 | `naih.hu` | — | — | — | active |
 | `notino.hu` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
 | `omv.hu` | — | — | — | active |
-| `renyi.hu` | — | — | — | expired |
+| `renyi.hu` | — | — | — | active |
 | `riello-ups.hu` | [policy](https://www.riello-ups.com/pages/177-vulnerability-disclosure) | monetary | — | active |
 | `rossmann.hu` | — | — | — | expired |
 | `rtlmost.hu` | — | — | — | active |

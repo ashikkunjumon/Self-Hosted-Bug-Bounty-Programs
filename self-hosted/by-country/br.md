@@ -1,6 +1,6 @@
 # Self-hosted programs — BR
 
-76 programs.
+77 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -35,6 +35,7 @@
 | `fundacaodorina.org.br` | — | — | — | active |
 | `gettyimages.com.br` | — | — | — | retired |
 | `glassdoor.com.br` | [policy](https://help.glassdoor.com/s/article/Bug-Bounty-Program?language=en_US) | — | — | retired |
+| `governoeletronico.gov.br` | — | — | — | active |
 | `granado.com.br` | — | — | — | active |
 | `grancursosonline.com.br` | — | — | — | active |
 | `hallbook.com.br` | [policy](https://hallbook.com.br/static/terms) | — | — | active |

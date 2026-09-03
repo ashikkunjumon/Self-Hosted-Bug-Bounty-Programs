@@ -16,7 +16,7 @@
 | `toyota.ro` | — | monetary | — | expired |
 | `tvmania.ro` | — | — | — | retired |
 | `unibet.ro` | — | monetary | — | retired |
-| `unica.ro` | — | — | — | expired |
+| `unica.ro` | — | — | — | retired |
 | `viva.ro` | — | — | — | retired |
 | `vladcazino.ro` | — | monetary | — | retired |
 | `webnode.ro` | [policy](https://www.webnode.com/.well-known/security-policy.html) | — | yes | active |

@@ -124,7 +124,7 @@
 | `hbl.ch` | — | — | — | active |
 | `heg-fr.ch` | [policy](https://go.hefr.ch/sinfofr/security-report-scopes-and-rules) | recognition | — | active |
 | `heia-fr.ch` | [policy](https://go.hefr.ch/sinfofr/security-report-scopes-and-rules) | recognition | — | active |
-| `helbing.ch` | — | — | — | expired |
+| `helbing.ch` | — | — | — | retired |
 | `helsana.ch` | — | — | — | expired |
 | `hepvs.ch` | — | — | — | active |
 | `herisau.ch` | — | — | — | active |

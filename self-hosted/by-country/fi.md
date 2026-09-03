@@ -19,7 +19,7 @@
 | `cmore.fi` | [policy](https://responsible-disclosure.tv4.se/01-policy.html) | recognition | yes | active |
 | `coronaria.fi` | — | — | — | active |
 | `csc.fi` | [policy](https://csc.fi/en/security-privacy-data-policy-and-open-source-policy/) | — | — | active |
-| `curve.fi` | — | — | — | expired |
+| `curve.fi` | — | — | — | active |
 | `dna.fi` | — | — | — | retired |
 | `dustin.fi` | — | — | — | active |
 | `ebookers.fi` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |

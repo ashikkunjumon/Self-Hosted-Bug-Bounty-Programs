@@ -66,7 +66,7 @@
 | `csfd.cz` | [policy](https://www.csfd.cz/vyvojari/) | — | — | active |
 | `csob.cz` | — | — | — | active |
 | `csobpoj.cz` | — | — | — | active |
-| `cuni.cz` | [policy](https://csirt.cuni.cz/en/incident_reporting) | recognition | — | expired |
+| `cuni.cz` | [policy](https://csirt.cuni.cz/en/incident_reporting) | recognition | — | active |
 | `czech-tv.cz` | — | — | — | active |
 | `czu.cz` | — | — | — | active |
 | `dakmoto.cz` | — | — | — | active |
@@ -185,7 +185,7 @@
 | `maminka.cz` | — | — | — | active |
 | `manboxeo.cz` | — | — | — | active |
 | `martinus.cz` | — | — | — | active |
-| `mastersofrock.cz` | — | — | — | active |
+| `mastersofrock.cz` | — | — | — | retired |
 | `mediaguru.cz` | — | — | — | active |
 | `megapixel.cz` | — | — | — | active |
 | `mesec.cz` | — | — | — | active |
@@ -197,13 +197,13 @@
 | `mmr.cz` | — | — | — | active |
 | `mmr.gov.cz` | — | — | — | active |
 | `modio.cz` | — | — | — | active |
-| `mojedatovaschranka.cz` | [policy](https://www.datovka.gov.cz/.well-known/security-policy.txt) | — | — | active |
+| `mojedatovaschranka.cz` | [policy](https://www.datovka.gov.cz/.well-known/security-policy.txt) | — | — | retired |
 | `mojeid.cz` | — | — | — | active |
 | `moneta.cz` | [policy](https://www.moneta.cz/bug-bounty) | monetary | yes | active |
 | `mozilla.cz` | — | — | — | active |
 | `mp.cz` | — | — | — | expired |
-| `msmt.cz` | — | — | — | active |
-| `msmt.gov.cz` | — | — | — | active |
+| `msmt.cz` | — | — | — | retired |
+| `msmt.gov.cz` | — | — | — | retired |
 | `mssf.cz` | — | — | — | active |
 | `mujrozhlas.cz` | — | — | — | active |
 | `muni.cz` | [policy](https://security.muni.cz/en/responsible_disclosure) | recognition | — | active |

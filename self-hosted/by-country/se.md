@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-495 programs.
+496 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@
 | `botkyrka.se` | — | — | — | active |
 | `boxer.se` | — | — | — | active |
 | `bra.se` | — | — | — | active |
-| `bring.se` | — | — | — | active |
+| `bring.se` | — | — | — | retired |
 | `bt.se` | — | — | — | active |
 | `bth.se` | — | — | — | active |
 | `businessregiongoteborg.se` | — | — | — | expired |
@@ -157,6 +157,7 @@
 | `hig.se` | — | — | — | active |
 | `his.se` | — | — | — | active |
 | `hkr.se` | [policy](https://www.hkr.se/infosakerhet/) | — | — | expired |
+| `hoganas.se` | — | — | — | active |
 | `hogia.se` | — | — | — | active |
 | `hornbach.se` | — | — | — | active |
 | `ht.se` | — | — | — | active |
