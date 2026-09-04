@@ -1,6 +1,6 @@
 # Self-hosted programs — RO
 
-53 programs.
+54 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -15,6 +15,7 @@
 | `carrefour.ro` | [policy](https://carrefour.com/disclosure) | — | — | active |
 | `certsign.ro` | — | — | — | expired |
 | `clausweb.ro` | — | — | — | active |
+| `cnpp.ro` | — | — | — | active |
 | `comunadumesti.ro` | — | — | — | active |
 | `cora.ro` | [policy](https://carrefour.com/disclosure) | — | — | active |
 | `dcbusiness.ro` | — | recognition | — | active |

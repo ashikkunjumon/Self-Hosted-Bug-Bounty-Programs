@@ -1,6 +1,6 @@
 # Self-hosted programs — NO
 
-222 programs.
+223 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -126,6 +126,7 @@
 | `mollerbil.no` | [policy](https://moller.no/.well-known/security.txt) | recognition | — | active |
 | `mre.no` | — | — | — | expired |
 | `nasjonalparkstyre.no` | [policy](https://www.nasjonalparkstyre.no/security-policy) | recognition | — | active |
+| `nav.no` | — | — | — | active |
 | `nbim.no` | [policy](https://www.nbim.no/en/responsible-disclosure-policy/) | recognition | — | active |
 | `ndla.no` | — | — | — | active |
 | `neat.no` | [policy](https://support.neat.no/article/security-vulnerability-reporting-policy-at-neat/) | — | — | retired |

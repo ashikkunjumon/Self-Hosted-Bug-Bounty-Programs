@@ -1,6 +1,6 @@
 # Self-hosted programs — GLOBAL
 
-2,757 programs.
+2,760 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -903,7 +903,7 @@
 | `fsfe.org` | — | — | — | active |
 | `ft.com` | — | — | — | active |
 | `ftm.eu` | — | — | — | expired |
-| `fuga.cloud` | [policy](https://cyso.cloud/responsible-disclosure-policy) | monetary | — | active |
+| `fuga.cloud` | [policy](https://cyso.cloud/responsible-disclosure-policy) | monetary | — | retired |
 | `fullfact.org` | — | — | — | active |
 | `fullscript.com` | [policy](https://fullscript.com/security) | — | — | active |
 | `fullstory.com` | [policy](https://trust.fullstory.com) | — | — | active |
@@ -1151,7 +1151,7 @@
 | `ilo.org` | — | — | — | active |
 | `imaginemodels.com` | [policy](https://imaginemodels.com/terms) | — | — | active |
 | `imcdb.org` | — | recognition | — | retired |
-| `imls.gov` | [policy](https://www.imls.gov/vulnerability-disclosure-policy) | monetary | — | active |
+| `imls.gov` | [policy](https://www.imls.gov/vulnerability-disclosure-policy) | monetary | — | retired |
 | `impact.com` | [policy](https://impact.responsibledisclosure.com/hc/en-us) | recognition | — | active |
 | `imply.io` | — | — | — | active |
 | `improvado.io` | [policy](https://improvado.io/company-legal/responsible-disclosure-policy) | monetary | yes | active |
@@ -1198,7 +1198,7 @@
 | `interrail.eu` | — | — | — | active |
 | `intersectmbo.org` | [policy](https://committees.docs.intersectmbo.org/intersect-open-source-committee/about/paid-open-source-model-posm/bug-bounty-program) | monetary | — | retired |
 | `interserver.net` | — | — | — | expired |
-| `interviewing.io` | — | — | — | active |
+| `interviewing.io` | — | — | — | expired |
 | `inthesetimes.com` | [policy](https://inthesetimes.com/security-policy) | recognition | — | active |
 | `intl.betternow.org` | [policy](https://www.betternow.org/trust/security) | — | — | active |
 | `intl.nothing.tech` | [policy](https://intl.nothing.tech/pages/vulnerability-report) | monetary | — | active |
@@ -1305,6 +1305,7 @@
 | `keycloak.org` | [policy](https://www.keycloak.org/security) | monetary | — | active |
 | `khronos.org` | [policy](https://www.khronos.org/about/security#bounty) | swag | — | expired |
 | `khub.net` | [policy](https://www.placecube.com/security) | — | — | active |
+| `kia.com` | — | — | — | active |
 | `kicad.org` | — | — | — | active |
 | `kidney-international.org` | — | — | — | active |
 | `kiehls.com` | — | recognition | — | active |
@@ -1435,12 +1436,12 @@
 | `makertube.net` | — | — | — | active |
 | `malakoffhumanis.com` | [policy](https://www.malakoffhumanis.com/politique-divulgation-vulnerabilites/) | — | — | expired |
 | `maltego.com` | [policy](https://www.maltego.com/responsible-disclosure/) | — | — | active |
-| `malwarebytes.com` | [policy](https://www.malwarebytes.com/secure/guidelines) | — | — | active |
-| `malwarebytes.org` | [policy](https://www.malwarebytes.com/secure/guidelines) | — | — | active |
+| `malwarebytes.com` | [policy](https://www.malwarebytes.com/secure/guidelines) | monetary | — | active |
+| `malwarebytes.org` | [policy](https://www.malwarebytes.com/secure/guidelines) | monetary | — | active |
 | `mamboemm.com` | [policy](https://mamboemm.com/vulnerability-disclosure-policy) | — | — | retired |
 | `mamentis.com` | [policy](https://mamentis.com/docs/resources/miscellaneous/submit-bug-request) | monetary | — | retired |
 | `mamp.info` | — | — | — | expired |
-| `manageengine.com` | [policy](https://bugbounty.zohocorp.com/bb/info) | monetary | — | expired |
+| `manageengine.com` | [policy](https://bugbounty.zohocorp.com/bb/info) | monetary | — | active |
 | `mangadex.org` | [policy](https://mangadex.org/security.txt) | recognition | — | active |
 | `mann-filter.com` | — | — | — | active |
 | `mann-hummel.com` | — | — | — | active |
@@ -1663,7 +1664,7 @@
 | `noyb.eu` | — | — | — | expired |
 | `nrcresearchpress.com` | — | — | — | active |
 | `nsf.org` | [policy](https://www.nsf.org/security-policy) | recognition | — | active |
-| `ntangledstate.com` | [policy](https://ntangledstate.com/contact.html) | — | — | active |
+| `ntangledstate.com` | [policy](https://ntangledstate.com/contact) | — | — | active |
 | `ntp.org` | [policy](https://www.ntp.org/support/securitynotice/) | — | — | active |
 | `ntppool.org` | — | — | — | active |
 | `ntpsec.org` | [policy](https://www.ntpsec.org/security.html) | — | — | retired |
@@ -1726,7 +1727,7 @@
 | `opednews.com` | — | — | — | active |
 | `open-vsx.org` | [policy](https://open-vsx.org/security/) | recognition | — | active |
 | `openathens.net` | — | — | — | active |
-| `openbookpublishers.com` | — | — | — | expired |
+| `openbookpublishers.com` | — | — | — | retired |
 | `openclipart.org` | — | — | — | active |
 | `opencloud.eu` | — | — | — | active |
 | `opencollective.com` | [policy](https://github.com/opencollective/opencollective/blob/main/SECURITY.md) | — | — | active |
@@ -1962,7 +1963,7 @@
 | `qdrant.tech` | [policy](https://qdrant.tech/security/bug-bounty-program/) | monetary | yes | retired |
 | `qfeeds.com` | [policy](https://qfeeds.com/security-policy/) | recognition | yes | active |
 | `qiagen.com` | [policy](https://www.qiagen.com/privacy/privacy-policy) | monetary | — | active |
-| `qnap.com` | [policy](https://www.qnap.com/en-us/security-bounty-program) | monetary | — | retired |
+| `qnap.com` | [policy](https://www.qnap.com/en/security-bounty-program) | monetary | — | active |
 | `qonto.com` | — | — | — | active |
 | `qoria.com` | [policy](https://www.qoria.com/vulnerability-disclosure-policy) | — | yes | active |
 | `qsl.net` | — | — | — | active |
@@ -2147,7 +2148,7 @@
 | `selfdecode.com` | [policy](https://selfdecode.com/app/security/policy) | — | — | active |
 | `seloger.com` | — | — | — | active |
 | `semanticscholar.org` | — | — | — | active |
-| `semgrep.dev` | [policy](https://semgrep.dev/docs/security) | — | — | active |
+| `semgrep.dev` | [policy](https://semgrep.dev/docs/security) | monetary | — | active |
 | `sendfox.com` | — | — | — | active |
 | `sendpulse.com` | — | — | — | active |
 | `sennheiser-hearing.com` | [policy](https://www.sennheiser-hearing.com/en-DE/coordinated-vulnerability-disclosure-policy/) | — | — | active |
@@ -2294,6 +2295,7 @@
 | `strem.io` | [policy](https://www.stremio.com/security-policy.txt) | — | — | active |
 | `stremio.com` | [policy](https://www.stremio.com/security-policy.txt) | — | — | active |
 | `studentdoctor.net` | [policy](https://www.studentdoctor.net/security-policy/) | — | — | active |
+| `studiobinder.com` | [policy](https://trust.studiobinder.com/) | — | — | active |
 | `studo.com` | [policy](https://studo.com/security) | monetary | yes | active |
 | `studocu.com` | [policy](https://studocu.com/vdp.html) | — | — | active |
 | `studyinnl.org` | [policy](https://www.nuffic.nl/onderwerpen/over-ons/kwetsbaarheid-melden) | — | yes | expired |
@@ -2341,7 +2343,7 @@
 | `tarifdouanier.eu` | — | — | — | active |
 | `tarsnap.com` | [policy](https://www.tarsnap.com/bugbounty.html) | monetary | — | retired |
 | `tasteofhome.com` | — | — | — | active |
-| `taxhawk.com` | [policy](https://www.taxhawk.com/vulnerability-disclosure-policy) | — | — | expired |
+| `taxhawk.com` | [policy](https://www.taxhawk.com/vulnerability-disclosure-policy) | — | — | active |
 | `taxxor.com` | [policy](https://www.taxxor.com/nl/responsible-disclosure) | — | yes | active |
 | `tcelectronic.com` | [policy](https://empowertribe.com/.well-known/security.txt) | recognition | — | active |
 | `tcpalm.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | expired |
@@ -2737,6 +2739,7 @@
 | `zaproxy.org` | — | — | — | active |
 | `zavamed.com` | — | — | — | retired |
 | `zcy.dev` | — | — | — | expired |
+| `zeef.com` | — | — | — | active |
 | `zeiss.com` | [policy](https://www.zeiss.com/vulnerability-disclosure-policy) | — | — | active |
 | `zekond.com` | [policy](https://zekond.com/site-pages/security_policy) | recognition | — | expired |
 | `zen-cart.com` | — | — | — | active |

@@ -20,7 +20,7 @@
 | `almhult.se` | — | — | — | active |
 | `alvdalen.se` | — | — | — | active |
 | `amal.se` | — | — | — | active |
-| `ancestry.se` | [policy](https://www.ancestry.com/c/legal/security) | — | — | active |
+| `ancestry.se` | [policy](https://www.ancestry.com/c/legal/security) | — | — | retired |
 | `ange.se` | — | — | — | active |
 | `antagning.se` | — | — | — | active |
 | `arbetarbladet.se` | — | — | — | active |
@@ -53,7 +53,7 @@
 | `botkyrka.se` | — | — | — | active |
 | `boxer.se` | — | — | — | active |
 | `bra.se` | — | — | — | active |
-| `bring.se` | — | — | — | retired |
+| `bring.se` | — | — | — | active |
 | `bt.se` | — | — | — | active |
 | `bth.se` | — | — | — | active |
 | `businessregiongoteborg.se` | — | — | — | expired |

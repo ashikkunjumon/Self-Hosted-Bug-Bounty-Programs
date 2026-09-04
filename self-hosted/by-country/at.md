@@ -46,7 +46,7 @@
 | `flatex.at` | [policy](https://www.flatexdegiro.com/security) | — | yes | active |
 | `flixbus.at` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |
 | `futureweb.at` | — | — | — | active |
-| `galaxus.at` | [policy](https://www.galaxus.ch/security) | — | — | expired |
+| `galaxus.at` | [policy](https://www.galaxus.ch/security) | monetary | yes | expired |
 | `gameswelt.at` | — | — | — | active |
 | `gesundheitskasse.at` | — | — | — | active |
 | `gesundheitsverbund.at` | — | — | — | active |

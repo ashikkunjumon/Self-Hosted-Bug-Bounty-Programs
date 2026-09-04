@@ -1,6 +1,6 @@
 # Self-hosted programs — IT
 
-73 programs.
+74 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -75,5 +75,6 @@
 | `vinted.it` | — | — | — | active |
 | `webador.it` | — | — | — | active |
 | `whistleblowing.it` | [policy](https://github.com/globaleaks/globaleaks-whistleblowing-software/blob/stable/SECURITY.md) | — | — | active |
+| `yhoo.it` | — | — | — | active |
 | `youmath.it` | — | recognition | — | active |
 | `zerounoweb.it` | — | recognition | — | active |

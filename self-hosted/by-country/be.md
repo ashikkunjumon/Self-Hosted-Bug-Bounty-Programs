@@ -73,7 +73,7 @@
 | `fluvius.be` | [policy](https://www.fluvius.be/nl/privacybeleid) | monetary | — | active |
 | `fomu.be` | [policy](https://fomu.be/security-policy) | recognition | — | active |
 | `fotomuseum.be` | [policy](https://fomu.be/security-policy) | recognition | — | active |
-| `galaxus.be` | [policy](https://www.galaxus.ch/security) | — | — | expired |
+| `galaxus.be` | [policy](https://www.galaxus.ch/security) | monetary | yes | expired |
 | `geluksdriehoek.be` | [policy](https://geluksdriehoek.be/security-policy) | recognition | — | active |
 | `gembloux.be` | — | — | — | active |
 | `gemeentemol.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |

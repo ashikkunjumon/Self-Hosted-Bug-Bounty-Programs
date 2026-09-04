@@ -67,7 +67,7 @@
 | `dietikon.ch` | — | — | — | active |
 | `digicomp.ch` | — | — | — | active |
 | `digitale-gesellschaft.ch` | — | — | — | active |
-| `digitec.ch` | [policy](https://www.digitec.ch/security) | — | — | expired |
+| `digitec.ch` | [policy](https://www.digitec.ch/security) | monetary | yes | expired |
 | `digithek.ch` | [policy](https://developer.joomla.org/security.html) | monetary | — | active |
 | `doitgarden.ch` | — | — | — | active |
 | `drs.ch` | — | — | — | active |
@@ -103,7 +103,7 @@
 | `fr.ch` | — | — | — | active |
 | `frauenfeld.ch` | — | — | — | active |
 | `freiburger-nachrichten.ch` | — | — | — | active |
-| `galaxus.ch` | [policy](https://www.galaxus.ch/security) | — | — | expired |
+| `galaxus.ch` | [policy](https://www.galaxus.ch/security) | monetary | yes | expired |
 | `gameswelt.ch` | — | — | — | active |
 | `gemeindedavos.ch` | — | — | — | active |
 | `gettyimages.ch` | — | — | — | retired |

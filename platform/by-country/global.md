@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-583 programs.
+584 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -387,6 +387,7 @@
 | `peopleenespanol.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `picsart.com` | [policy](https://hackerone.com/picsart) | — | — | active |
 | `pixiv.net` | [policy](https://hackerone.com/pixiv?view_policy=true) | — | — | active |
+| `plaid.com` | — | recognition | — | active |
 | `plausible.io` | [policy](https://plausible.io/vulnerability-disclosure-program) | — | yes | active |
 | `plesk.com` | — | — | — | active |
 | `pluralsight.com` | [policy](https://hackerone.com/pluralsight) | — | — | active |

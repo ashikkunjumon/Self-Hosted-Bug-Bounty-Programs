@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-398 programs.
+400 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -30,11 +30,12 @@
 | `badische-zeitung.de` | — | — | — | active |
 | `bagso.de` | — | — | — | active |
 | `bahn.de` | — | — | — | active |
-| `bamf.de` | — | — | — | expired |
+| `bamf.de` | — | — | — | active |
 | `barmenia.de` | — | — | — | active |
 | `barmeniagothaer.de` | — | — | — | active |
 | `barmer.de` | — | — | — | active |
 | `berlin.de` | [policy](https://www.berlin.de/wir-ueber-uns/security) | recognition | — | active |
+| `berliner-kurier.de` | [policy](https://www.berliner-kurier.de/datenschutzhinweise) | — | — | active |
 | `berliner-zeitung.de` | [policy](https://www.berliner-zeitung.de/datenschutzhinweise) | — | — | active |
 | `betway.de` | — | — | — | expired |
 | `beuth-hochschule.de` | — | recognition | — | active |
@@ -140,7 +141,7 @@
 | `fuerth.de` | — | — | — | active |
 | `funkemedien.de` | — | — | — | retired |
 | `g7germany.de` | — | — | — | active |
-| `galaxus.de` | [policy](https://www.galaxus.ch/security) | — | — | expired |
+| `galaxus.de` | [policy](https://www.galaxus.ch/security) | monetary | yes | expired |
 | `gambio.de` | — | — | — | active |
 | `gamestar.de` | — | — | — | retired |
 | `gameswelt.de` | — | — | — | active |
@@ -206,6 +207,7 @@
 | `kkh.de` | — | — | — | active |
 | `kleinanzeigen.de` | [policy](https://adevinta.com/security-vulnerability/) | recognition | yes | active |
 | `klett.de` | — | — | — | active |
+| `koeln.de` | — | — | — | active |
 | `komoot.de` | [policy](https://www.komoot.com/security/bug-bounty) | — | — | active |
 | `konstanz.de` | — | — | — | active |
 | `korrektur.de` | — | — | — | active |
