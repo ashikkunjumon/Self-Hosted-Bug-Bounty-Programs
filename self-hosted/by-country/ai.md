@@ -1,6 +1,6 @@
 # Self-hosted programs — AI
 
-46 programs.
+47 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -14,6 +14,7 @@
 | `ciso360.ai` | [policy](https://ciso360.ai/legal/security) | monetary | — | active |
 | `clawsecure.ai` | [policy](https://www.clawsecure.ai/vulnerability-disclosure) | — | yes | active |
 | `coderabbit.ai` | [policy](https://www.coderabbit.ai/vulnerability-disclosure) | monetary | yes | active |
+| `deepset.ai` | [policy](https://deepset.ai/disclosure/) | — | — | active |
 | `devin.ai` | [policy](https://docs.devin.ai/desktop/security/reporting) | — | yes | retired |
 | `easyaudit.ai` | [policy](https://easyaudit.ai/responsible-disclosure) | — | yes | active |
 | `eightfold.ai` | [policy](https://eightfold.ai/vulnerability-disclosure-program/) | — | yes | retired |

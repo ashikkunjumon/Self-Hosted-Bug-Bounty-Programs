@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-584 programs.
+585 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -254,6 +254,7 @@
 | `igraal.com` | [policy](https://atolls.com/disclosure-policy) | — | — | active |
 | `iherb.com` | [policy](https://hackerone.com/iherb) | monetary | — | active |
 | `imperva.com` | [policy](https://www.imperva.com/trust-center/responsible-disclosure-policy/) | monetary | yes | retired |
+| `infisical.com` | [policy](https://infisical.com/vulnerability-disclosure) | recognition | yes | active |
 | `infomaniak.com` | [policy](https://infomaniak.vulnerability-disclosure.com) | — | — | active |
 | `informatica.com` | [policy](https://www.informatica.com/trust-center/responsible-disclosure-program.html) | recognition | — | retired |
 | `innovateuk.org` | [policy](https://www.gov.uk/help/report-vulnerability) | — | — | active |

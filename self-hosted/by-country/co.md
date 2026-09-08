@@ -1,6 +1,6 @@
 # Self-hosted programs — CO
 
-9 programs.
+10 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -11,5 +11,6 @@
 | `oceanbottle.co` | [policy](https://your.oceanbottle.co/responsible-disclosure-policy) | — | — | active |
 | `range.co` | [policy](https://www.range.co/security/bounty) | monetary | yes | retired |
 | `securepractice.co` | [policy](https://securepractice.co/support) | — | — | active |
+| `swile.co` | [policy](https://swile.co/security/disclosure-policy.txt) | recognition | — | active |
 | `vista.co` | [policy](https://www.vista.co/responsible-disclosure-policy) | recognition | — | active |
 | `zip.co` | [policy](https://zip.co/vulnerability-disclosure-program) | — | — | retired |
