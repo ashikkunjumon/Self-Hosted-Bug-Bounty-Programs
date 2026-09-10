@@ -1,6 +1,6 @@
 # Self-hosted programs — EU
 
-7 programs.
+8 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -8,6 +8,7 @@
 | `crcx.eu` | [policy](https://crcx.eu/legal/responsible-disclosure) | — | yes | active |
 | `databalance.eu` | [policy](https://www.databalance.eu/en/responsible-disclosure/) | monetary | — | retired |
 | `forculus.eu` | [policy](https://www.forculus.eu/responsible-disclosure) | monetary | yes | retired |
+| `idura.eu` | [policy](https://idura.eu/legal/vulnerability-disclosure-policy) | monetary | — | active |
 | `jd-services.eu` | [policy](https://jd-services.eu/vdp/) | monetary | yes | active |
 | `medcite.eu` | [policy](https://medcite.eu/us/responsible-disclosure) | monetary | yes | retired |
 | `wandercraft.eu` | [policy](https://en.wandercraft.eu/de/mentions-legales) | monetary | — | retired |

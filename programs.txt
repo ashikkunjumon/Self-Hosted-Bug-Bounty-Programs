@@ -2107,6 +2107,7 @@ crcx.eu	https://crcx.eu/legal/responsible-disclosure
 databalance.eu	https://www.databalance.eu/en/responsible-disclosure/
 forculus.eu	https://www.forculus.eu/responsible-disclosure
 gcve.eu	https://db.gcve.eu/vuln/fkie_cve-2023-5863
+idura.eu	https://idura.eu/legal/vulnerability-disclosure-policy
 jd-services.eu	https://jd-services.eu/vdp/
 medcite.eu	https://medcite.eu/us/responsible-disclosure
 wandercraft.eu	https://en.wandercraft.eu/de/mentions-legales
@@ -3185,6 +3186,7 @@ dnsimple.com	https://dnsimple.com/responsible-disclosure
 dnslookup.pro	https://dnslookup.pro/security
 docker.com	https://www.docker.com/trust/vulnerability-disclosure-policy/
 docker.io	https://www.docker.com/trust/vulnerability-disclosure-policy/
+docs.arcjet.com	https://docs.arcjet.com/.well-known/security.txt
 docs.bugsnag.com	https://docs.bugsnag.com/security/responsible-disclosure/
 docs.ens.domains	https://docs.ens.domains/bugs/
 docs.frax.finance	https://docs.frax.finance/smart-contracts/miscellaneous
@@ -5164,6 +5166,7 @@ spring.io	https://spring.io/security-policy
 springernature.com	https://www.springernature.com/gp/info/disclosure
 sprinklr.com	https://www.sprinklr.com/responsible-disclosure/
 sproutvideo.com	https://sproutvideo.com/vulnerability-disclosure-program.html
+sqrx.com	https://sqrx.com/bugbounty
 squarespace.com	https://www.squarespace.com/vulnerability-reporting
 srcf.net	https://www.srcf.net/.well-known/security.txt
 ss64.com	https://ss64.com/.well-known/security.txt
@@ -5356,6 +5359,7 @@ ticketswap.com	https://www.ticketswap.com/content/responsible-disclosure
 tickettailor.com	https://drive.google.com/file/d/1lt_cdi1xVoRBXVvY6T470n8T5RJbCyo8/view
 tickin.pro	https://tickin.pro/security/disclosure
 tidal.com	https://tidal.com/.well-known/security.txt
+tidalcyber.com	https://www.tidalcyber.com/vulnerability-reporting-policy
 tidelift.com	https://tidelift.com/security
 tidepool.org	https://developer.tidepool.org/responsible-disclosure/
 tidio.com	https://www.tidio.com/security-policy/
@@ -6457,6 +6461,7 @@ tele2.nl	https://assets.odido.nl/x/70e0c93ba2/responsible_disclosure.pdf
 thuisarts.nl	https://www.nhg.org/coordinatedvulnerabilitydisclosure/
 tilburg.nl	https://www.tilburg.nl/proclaimer/responsible-disclosure/
 toeslagen.nl	https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/standaard_functies/individuals/contact/data-leak-vulnerability-abuse-computer-systems/coordinated-vulnerability-disclosure
+topicus.nl	https://topicus.nl/disclosure
 toto.nl	https://www.nederlandseloterij.nl/responsible-disclosure
 transip.nl	https://www.transip.nl/legal-and-security/security/
 treatwell.nl	https://www.treatwell.nl/.well-known/security.txt

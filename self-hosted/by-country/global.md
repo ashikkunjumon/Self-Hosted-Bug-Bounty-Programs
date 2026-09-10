@@ -1,6 +1,6 @@
 # Self-hosted programs — GLOBAL
 
-2,773 programs.
+2,776 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -627,6 +627,7 @@
 | `dnslookup.pro` | [policy](https://dnslookup.pro/security) | monetary | yes | retired |
 | `docker.com` | [policy](https://www.docker.com/trust/vulnerability-disclosure-policy/) | — | — | retired |
 | `docker.io` | [policy](https://www.docker.com/trust/vulnerability-disclosure-policy/) | — | — | retired |
+| `docs.arcjet.com` | — | — | — | expired |
 | `docs.bugsnag.com` | [policy](https://docs.bugsnag.com/security/responsible-disclosure/) | — | — | retired |
 | `docs.frax.finance` | [policy](https://docs.frax.finance/smart-contracts/miscellaneous) | monetary | — | retired |
 | `docs.range.org` | [policy](https://docs.range.org/resources/bug-bounty) | monetary | yes | retired |
@@ -2276,6 +2277,7 @@
 | `spring.io` | [policy](https://spring.io/security-policy) | — | — | active |
 | `sprinklr.com` | [policy](https://www.sprinklr.com/responsible-disclosure/) | — | — | expired |
 | `sproutvideo.com` | [policy](https://sproutvideo.com/vulnerability-disclosure-program.html) | — | yes | active |
+| `sqrx.com` | [policy](https://sqrx.com/bugbounty) | monetary | — | expired |
 | `squarespace.com` | [policy](https://www.squarespace.com/vulnerability-reporting) | — | — | active |
 | `srcf.net` | — | — | — | active |
 | `ss64.com` | — | — | — | expired |
@@ -2434,6 +2436,7 @@
 | `tickettailor.com` | [policy](https://drive.google.com/file/d/1lt_cdi1xVoRBXVvY6T470n8T5RJbCyo8/view) | monetary | — | active |
 | `tickin.pro` | [policy](https://tickin.pro/security/disclosure) | — | yes | active |
 | `tidal.com` | — | — | — | active |
+| `tidalcyber.com` | [policy](https://www.tidalcyber.com/vulnerability-reporting-policy) | — | — | active |
 | `tidelift.com` | [policy](https://tidelift.com/security) | — | — | active |
 | `tidepool.org` | [policy](https://developer.tidepool.org/responsible-disclosure/) | monetary | yes | active |
 | `tidio.com` | [policy](https://www.tidio.com/security-policy/) | monetary | — | active |

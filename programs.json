@@ -45525,6 +45525,27 @@
     "status": "retired"
   },
   {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@idura.eu"
+    ],
+    "country": "eu",
+    "domain": "idura.eu",
+    "expires_on": "2027-06-01",
+    "first_seen": "2026-09-10",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-10",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://idura.eu/legal/vulnerability-disclosure-policy",
+    "preferred_languages": "en",
+    "reward": "monetary",
+    "safe_harbour": "not_stated",
+    "security_txt": "https://idura.eu/.well-known/security.txt",
+    "status": "active"
+  },
+  {
     "acknowledgments": "https://jd-services.eu/vdp/",
     "contact": [
       "https://jd-services.eu/vdp/"
@@ -68788,6 +68809,27 @@
     "safe_harbour": "not_stated",
     "security_txt": "https://www.docker.com/.well-known/security.txt",
     "status": "retired"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@arcjet.com"
+    ],
+    "country": "global",
+    "domain": "docs.arcjet.com",
+    "expires_on": "2025-01-03",
+    "first_seen": "2026-09-10",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-10",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": null,
+    "preferred_languages": "en",
+    "reward": "none",
+    "safe_harbour": "unknown",
+    "security_txt": "https://docs.arcjet.com/.well-known/security.txt",
+    "status": "expired"
   },
   {
     "acknowledgments": null,
@@ -111495,6 +111537,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@sqrx.com"
+    ],
+    "country": "global",
+    "domain": "sqrx.com",
+    "expires_on": "2025-09-09",
+    "first_seen": "2026-09-10",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-10",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://sqrx.com/bugbounty",
+    "preferred_languages": "en",
+    "reward": "monetary",
+    "safe_harbour": "not_stated",
+    "security_txt": "https://sqrx.com/.well-known/security.txt",
+    "status": "expired"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "https://www.squarespace.com/vulnerability-reporting"
     ],
     "country": "global",
@@ -115652,6 +115715,27 @@
     "reward": "none",
     "safe_harbour": "unknown",
     "security_txt": "https://tidal.com/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@tidalcyber.com"
+    ],
+    "country": "global",
+    "domain": "tidalcyber.com",
+    "expires_on": "2030-01-01",
+    "first_seen": "2026-09-10",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-10",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.tidalcyber.com/vulnerability-reporting-policy",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": "https://tidalcyber.com/.well-known/security.txt",
     "status": "active"
   },
   {
@@ -139547,6 +139631,27 @@
     "reward": "recognition",
     "safe_harbour": "not_stated",
     "security_txt": "https://www.toeslagen.nl/.well-known/security.txt",
+    "status": "expired"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@topicus.nl"
+    ],
+    "country": "nl",
+    "domain": "topicus.nl",
+    "expires_on": "2025-12-31",
+    "first_seen": "2026-09-10",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-10",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://topicus.nl/disclosure",
+    "preferred_languages": "nl, en",
+    "reward": "none",
+    "safe_harbour": "stated",
+    "security_txt": "https://topicus.nl/.well-known/security.txt",
     "status": "expired"
   },
   {

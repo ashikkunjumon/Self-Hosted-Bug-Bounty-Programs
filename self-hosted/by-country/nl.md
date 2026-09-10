@@ -1,6 +1,6 @@
 # Self-hosted programs — NL
 
-329 programs.
+330 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -288,6 +288,7 @@
 | `thuisarts.nl` | [policy](https://www.nhg.org/coordinatedvulnerabilitydisclosure/) | monetary | yes | active |
 | `tilburg.nl` | [policy](https://www.tilburg.nl/proclaimer/responsible-disclosure/) | — | — | active |
 | `toeslagen.nl` | [policy](https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/standaard_functies/individuals/contact/data-leak-vulnerability-abuse-computer-systems/coordinated-vulnerability-disclosure) | recognition | — | expired |
+| `topicus.nl` | [policy](https://topicus.nl/disclosure) | — | yes | expired |
 | `transip.nl` | [policy](https://www.transip.nl/legal-and-security/security/) | monetary | yes | active |
 | `treatwell.nl` | — | — | — | active |
 | `trimbos.nl` | [policy](https://www.trimbos.nl/over-deze-website/responsible-disclosure/) | — | yes | active |
