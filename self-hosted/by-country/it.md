@@ -1,6 +1,6 @@
 # Self-hosted programs — IT
 
-74 programs.
+77 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -59,7 +59,10 @@
 | `pixartprinting.it` | — | — | — | active |
 | `privacylab.it` | — | — | — | active |
 | `radioradicale.it` | — | — | — | active |
+| `rhoss.it` | [policy](https://www.rhoss.it/cyber-resilience-act/) | — | — | active |
 | `richslots.it` | — | — | — | retired |
+| `riello-solartech.it` | [policy](https://www.riello-solartech.it/approfondimento/vulnerability-and-incident-disclosure) | monetary | — | active |
+| `sandenvendo.it` | [policy](https://www.sandenvendo.it/pt/cra-security/) | — | — | active |
 | `sdabocconi.it` | [policy](https://unibocconi.it/security/vulnerability-disclosure) | monetary | — | active |
 | `seeweb.it` | — | — | — | active |
 | `subito.it` | [policy](https://adevinta.com/security-vulnerability/) | — | — | retired |

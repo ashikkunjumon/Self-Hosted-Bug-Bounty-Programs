@@ -506,6 +506,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@inqura.ai"
+    ],
+    "country": "ai",
+    "domain": "inqura.ai",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://inqura.ai/security",
+    "preferred_languages": null,
+    "reward": "recognition",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "mailto:security@insighthealth.ai"
     ],
     "country": "ai",
@@ -636,6 +657,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@l4is.ai?subject=Vulnerability%20report"
+    ],
+    "country": "ai",
+    "domain": "l4is.ai",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://l4is.ai/security",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "mailto:security@lvrg.ai"
     ],
     "country": "ai",
@@ -720,6 +762,28 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@nexusdsp.ai",
+      "mailto:security@amazon.com"
+    ],
+    "country": "ai",
+    "domain": "nexusdsp.ai",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://nexusdsp.ai/security",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "mailto:security@nullify.ai"
     ],
     "country": "ai",
@@ -737,6 +801,27 @@
     "safe_harbour": "stated",
     "security_txt": null,
     "status": "retired"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@occludra.ai"
+    ],
+    "country": "ai",
+    "domain": "occludra.ai",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://occludra.ai/security",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
   },
   {
     "acknowledgments": null,
@@ -869,6 +954,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@retano.ai"
+    ],
+    "country": "ai",
+    "domain": "retano.ai",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://retano.ai/coordinated-vulnerability-disclosure-policy/",
+    "preferred_languages": null,
+    "reward": "swag",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "mailto:security@silversight.ai"
     ],
     "country": "ai",
@@ -932,6 +1038,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@tibly.ai"
+    ],
+    "country": "ai",
+    "domain": "tibly.ai",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://tibly.ai/security",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "mailto:security@tightknit.ai"
     ],
     "country": "ai",
@@ -953,6 +1080,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@transglot.ai"
+    ],
+    "country": "ai",
+    "domain": "transglot.ai",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://transglot.ai/legal/vulnerability-disclosure",
+    "preferred_languages": null,
+    "reward": "recognition",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "mailto:security@transjt.ai"
     ],
     "country": "ai",
@@ -969,6 +1117,49 @@
     "reward": "swag",
     "safe_harbour": "stated",
     "security_txt": "https://app.transjt.ai/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@vals.ai",
+      "mailto:security@vals.ai?subject=Vulnerability%20report%3A%20%5Bbrief%20description%5D&body=Affected%20asset%20or%20URL%3A%0AVulnerability%20type%3A%0ADescription%20and%20potential%20impact%3A%0ASteps%20to%20reproduce%3A%0AProof%20of%20concept%20or%20supporting%20evidence%3A%0ADate%20and%20time%20observed%20(including%20time%20zone)%3A%0ADisclosure%20plans%2C%20if%20any%3A%0APreferred%20name%20or%20handle%20for%20credit%20(optional)%3A"
+    ],
+    "country": "ai",
+    "domain": "vals.ai",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.vals.ai/vulnerability-disclosure-program",
+    "preferred_languages": null,
+    "reward": "recognition",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@vantio.ai"
+    ],
+    "country": "ai",
+    "domain": "vantio.ai",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://vantio.ai/security-disclosure",
+    "preferred_languages": null,
+    "reward": "recognition",
+    "safe_harbour": "stated",
+    "security_txt": null,
     "status": "active"
   },
   {
@@ -1012,6 +1203,28 @@
     "safe_harbour": "stated",
     "security_txt": null,
     "status": "retired"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@wispr.ai",
+      "mailto:u003esecurity@wispr.ai"
+    ],
+    "country": "ai",
+    "domain": "wisprflow.ai",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://docs.wisprflow.ai/articles/3467817258-security-and-compliance-faq",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
   },
   {
     "acknowledgments": null,
@@ -4442,6 +4655,27 @@
     "reward": "none",
     "safe_harbour": "stated",
     "security_txt": "https://www.lectrum.com.au/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:datasecurity@vesync.com"
+    ],
+    "country": "au",
+    "domain": "levoit.au",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://levoit.au/pages/vesync-security?srsltid=AfmBOorapy4deguwCkYA0aIR6w8Fj7DZQ2-8zUo2ftY-Ydf5q6WQd6Iw",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "stated",
+    "security_txt": null,
     "status": "active"
   },
   {
@@ -10431,6 +10665,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@bcsa.bn"
+    ],
+    "country": "bn",
+    "domain": "bcsa.bn",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://bcsa.bn/security",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "https://admeen.com/?ref=1001jogos.com.br"
     ],
     "country": "br",
@@ -12366,6 +12621,27 @@
     "safe_harbour": "stated",
     "security_txt": null,
     "status": "retired"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@boompay.ca"
+    ],
+    "country": "ca",
+    "domain": "boompay.ca",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://boompay.ca/security",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
   },
   {
     "acknowledgments": null,
@@ -21705,6 +21981,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@zelp.co"
+    ],
+    "country": "co",
+    "domain": "zelp.co",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.zelp.co/vulnerability-disclosure-policy/",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "mailto:cybersecurity@zip.co"
     ],
     "country": "co",
@@ -30578,6 +30875,27 @@
     "status": "active"
   },
   {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:crasecurity@brunner.de"
+    ],
+    "country": "de",
+    "domain": "brunner.de",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.brunner.de/cra-security/",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
     "acknowledgments": "https://www.bsi.bund.de/DE/IT-Sicherheitsvorfall/IT-Schwachstellen/Hall_of_Fame/Hall_of_Fame_node.html",
     "contact": [
       "mailto:vulnerability@bsi.bund.de",
@@ -33205,6 +33523,28 @@
     "reward": "none",
     "safe_harbour": "unknown",
     "security_txt": "https://www.henkel.de/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:psirt@hermle.de",
+      "mailto:security@hermle.de"
+    ],
+    "country": "de",
+    "domain": "hermle.de",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.hermle.de/en/machining-centres-automation/digitization/product-security/",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
     "status": "active"
   },
   {
@@ -38009,6 +38349,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@vogelsbergkreis.de"
+    ],
+    "country": "de",
+    "domain": "vogelsbergkreis.de",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.vogelsbergkreis.de/informationen/sicherheitsluecke-melden/",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "cert-vw@volkswagen.de",
       "vulnerability@volkswagen.de"
     ],
@@ -39462,6 +39823,27 @@
     "reward": "none",
     "safe_harbour": "unknown",
     "security_txt": "https://kyedns.com/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@emri.dk"
+    ],
+    "country": "dk",
+    "domain": "emri.dk",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.emri.dk/security/",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "stated",
+    "security_txt": null,
     "status": "active"
   },
   {
@@ -42538,6 +42920,28 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@stacktr.ee",
+      "mailto:security@stacktr.ee?subject=Vendor%20review"
+    ],
+    "country": "ee",
+    "domain": "stacktr.ee",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://stacktr.ee/security",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "responsible-disclosure@swedbank.com"
     ],
     "country": "ee",
@@ -45504,6 +45908,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@foxiot.eu"
+    ],
+    "country": "eu",
+    "domain": "foxiot.eu",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://foxiot.eu/legal/security.html",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "mailto:security@huntr.dev"
     ],
     "country": "eu",
@@ -45588,6 +46013,27 @@
     "safe_harbour": "stated",
     "security_txt": null,
     "status": "retired"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@icapps.com"
+    ],
+    "country": "eu",
+    "domain": "sumzero.eu",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.sumzero.eu/responsible-disclosure-policy",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
   },
   {
     "acknowledgments": null,
@@ -51653,6 +52099,27 @@
   },
   {
     "acknowledgments": null,
+    "contact": [
+      "mailto:security@symetrie.fr"
+    ],
+    "country": "fr",
+    "domain": "symetrie.fr",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://symetrie.fr/en/coordinated-vulnerability-disclosure-policy/",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
     "contact": [],
     "country": "fr",
     "domain": "tendancehotellerie.fr",
@@ -52931,6 +53398,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@a1si.com"
+    ],
+    "country": "global",
+    "domain": "a1si.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.a1si.com/trust",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "mailto:it@a2gov.org"
     ],
     "country": "global",
@@ -52968,6 +53456,30 @@
     "reward": "monetary",
     "safe_harbour": "not_stated",
     "security_txt": "https://a4teams.com/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@a8core.com",
+      "https://hackerone.com/a8core"
+    ],
+    "country": "global",
+    "domain": "a8core.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "platform",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [
+      "HackerOne"
+    ],
+    "policy_dead": false,
+    "policy_url": "https://a8core.com/bug-bounty/",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "stated",
+    "security_txt": null,
     "status": "active"
   },
   {
@@ -56642,6 +57154,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@arrivena.com"
+    ],
+    "country": "global",
+    "domain": "arrivena.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://arrivena.com/trust/index.html",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "mailto:security@artech.com"
     ],
     "country": "global",
@@ -57063,6 +57596,27 @@
     "status": "active"
   },
   {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:bugbounty@astrill.com"
+    ],
+    "country": "global",
+    "domain": "astrill.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.astrill.com/bug-bounty",
+    "preferred_languages": null,
+    "reward": "recognition",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
     "acknowledgments": "https://www.asus.com/security-advisory/#hof",
     "contact": [
       "Mailto:security@asus.com",
@@ -57324,6 +57878,29 @@
   {
     "acknowledgments": null,
     "contact": [
+      "https://bugcrowd.com/4c372341-a31c-4ea4-a44f-a4f9ff4516d3/external/report"
+    ],
+    "country": "global",
+    "domain": "attendohr.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "platform",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [
+      "Bugcrowd"
+    ],
+    "policy_dead": false,
+    "policy_url": "https://attendohr.com/security",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "root@attrition.org"
     ],
     "country": "global",
@@ -57426,6 +58003,27 @@
     "reward": "none",
     "safe_harbour": "not_stated",
     "security_txt": "https://audiojungle.net/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@auditsu.com"
+    ],
+    "country": "global",
+    "domain": "auditsu.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://auditsu.com/security",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "stated",
+    "security_txt": null,
     "status": "active"
   },
   {
@@ -57623,6 +58221,27 @@
     "safe_harbour": "not_stated",
     "security_txt": "https://www.autoscout24.com/.well-known/security.txt",
     "status": "expired"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:vulnerability@autostoresystem.com"
+    ],
+    "country": "global",
+    "domain": "autostoresystem.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.autostoresystem.com/legal/vulnerability-disclosure-policy-responsible-research-guidelines",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
   },
   {
     "acknowledgments": null,
@@ -59349,6 +59968,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@bitscaled.tech"
+    ],
+    "country": "global",
+    "domain": "bitscaled.tech",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://bitscaled.tech/legal/vulnerability-disclosure",
+    "preferred_languages": null,
+    "reward": "swag",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "mailto:bug@bitsight.com"
     ],
     "country": "global",
@@ -60115,6 +60755,27 @@
     "safe_harbour": "unknown",
     "security_txt": "https://booking.com/.well-known/security.txt",
     "status": "expired"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@boon-health.com"
+    ],
+    "country": "global",
+    "domain": "boon-health.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.boon-health.com/security",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
   },
   {
     "acknowledgments": null,
@@ -61802,6 +62463,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:responsibledisclosure@cegeka.com"
+    ],
+    "country": "global",
+    "domain": "cegeka.com",
+    "expires_on": "2027-01-31",
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.cegeka.com/.well-known/responsibledisclosurepolicy.txt",
+    "preferred_languages": "en",
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": "https://www.cegeka.com/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "https://vdp.cegid.com/p/Send-a-report"
     ],
     "country": "global",
@@ -63071,6 +63753,50 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@classeve.com"
+    ],
+    "country": "global",
+    "domain": "classeve.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://classeve.com/security",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "https://hackerone.com/4f1f16ba-10d3-4d09-9ecc-c721aad90f24/embedded_submissions/new"
+    ],
+    "country": "global",
+    "domain": "claude.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "platform",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [
+      "HackerOne"
+    ],
+    "policy_dead": false,
+    "policy_url": "https://support.claude.com/en/articles/12119250-model-safety-bug-bounty-program",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "mailto:security@clay.com",
       "https://trust.clay.com"
     ],
@@ -63110,6 +63836,27 @@
     "reward": "monetary",
     "safe_harbour": "not_stated",
     "security_txt": "https://cleanfox.io/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@cleanshot.com"
+    ],
+    "country": "global",
+    "domain": "cleanshot.com",
+    "expires_on": "2026-12-09",
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://cleanshot.com/disclosure",
+    "preferred_languages": "en, pl",
+    "reward": "monetary",
+    "safe_harbour": "stated",
+    "security_txt": "https://cleanshot.com/.well-known/security.txt",
     "status": "active"
   },
   {
@@ -65146,6 +65893,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "https://coply.dev/p/security"
+    ],
+    "country": "global",
+    "domain": "coply.dev",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://coply.dev/p/security",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "marc@copytrans.net"
     ],
     "country": "global",
@@ -66709,6 +67477,27 @@
     "safe_harbour": "stated",
     "security_txt": null,
     "status": "retired"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:ITSecurity@daktronics.com"
+    ],
+    "country": "global",
+    "domain": "daktronics.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.daktronics.com/en-us/about-us/security-disclosure",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
   },
   {
     "acknowledgments": null,
@@ -68539,6 +69328,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@disguise.one"
+    ],
+    "country": "global",
+    "domain": "disguise.one",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.disguise.one/en/security",
+    "preferred_languages": null,
+    "reward": "recognition",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "https://www.gannett.com/responsible-disclosure-program/"
     ],
     "country": "global",
@@ -70141,6 +70951,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@eagleedgesoftware.com"
+    ],
+    "country": "global",
+    "domain": "eagleedgesoftware.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://eagleedgesoftware.com/security",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "https://pixl8.com/en/vulnerability-disclosure-policy.html"
     ],
     "country": "global",
@@ -70587,6 +71418,27 @@
     "safe_harbour": "not_stated",
     "security_txt": null,
     "status": "retired"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@ed.link"
+    ],
+    "country": "global",
+    "domain": "ed.link",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://ed.link/docs/legal/bug-bounty-program",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
   },
   {
     "acknowledgments": null,
@@ -71038,6 +71890,28 @@
     "reward": "none",
     "safe_harbour": "unknown",
     "security_txt": "https://elhacker.net/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:prod_security@ellab.com",
+      "https://www.ellab.com/about-ellab/report-security-vulnerability"
+    ],
+    "country": "global",
+    "domain": "ellab.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.ellab.com/about-ellab/report-security-vulnerability/",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
     "status": "active"
   },
   {
@@ -71666,6 +72540,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@enricx.com"
+    ],
+    "country": "global",
+    "domain": "enricx.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://enricx.com/security/",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "mailto:disclosures@enterprisedb.com"
     ],
     "country": "global",
@@ -71941,6 +72836,27 @@
     "reward": "none",
     "safe_harbour": "unknown",
     "security_txt": "https://equinor.com/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@eralytics.com"
+    ],
+    "country": "global",
+    "domain": "eralytics.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://eralytics.com/security/",
+    "preferred_languages": null,
+    "reward": "recognition",
+    "safe_harbour": "stated",
+    "security_txt": null,
     "status": "active"
   },
   {
@@ -72304,6 +73220,27 @@
     "reward": "none",
     "safe_harbour": "unknown",
     "security_txt": "https://www.eurail.com/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@eurobase.app"
+    ],
+    "country": "global",
+    "domain": "eurobase.app",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://eurobase.app/security",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "stated",
+    "security_txt": null,
     "status": "active"
   },
   {
@@ -73125,6 +74062,27 @@
     "reward": "none",
     "safe_harbour": "not_stated",
     "security_txt": "https://www.fab.com/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:PSIRT@fabmatics.com"
+    ],
+    "country": "global",
+    "domain": "fabmatics.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.fabmatics.com/service/coordinated-vulnerability-disclosure-policy/",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "stated",
+    "security_txt": null,
     "status": "active"
   },
   {
@@ -74127,6 +75085,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@fintual.com"
+    ],
+    "country": "global",
+    "domain": "fintual.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://fintual.com/security-policy.txt",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "https://vdp.yeswehack.com"
     ],
     "country": "global",
@@ -74429,6 +75408,27 @@
     "reward": "none",
     "safe_harbour": "not_stated",
     "security_txt": "https://www.flexport.com/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@flickercloud.com"
+    ],
+    "country": "global",
+    "domain": "flickercloud.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://flickercloud.com/security",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "stated",
+    "security_txt": null,
     "status": "active"
   },
   {
@@ -76159,6 +77159,48 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security_splicer@jp.fujikura.com"
+    ],
+    "country": "global",
+    "domain": "fujikura.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.optic-product.fujikura.com/support-resources_services/cvd-policy/",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:PSIRT@FullerTechnologies.com"
+    ],
+    "country": "global",
+    "domain": "fuller-technologies.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.fuller-technologies.com/psirt",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "mailto:webmaster+securitytxt@fullfact.org"
     ],
     "country": "global",
@@ -77629,6 +78671,28 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@zoundio.com?subject=Security%20vulnerability%20report",
+      "mailto:security@zoundio.com"
+    ],
+    "country": "global",
+    "domain": "gibson.app",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.gibson.app/security-policy",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "mailto:security-bugreports@planetart.com"
     ],
     "country": "global",
@@ -78944,6 +80008,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "https://docs.gravityforms.com/how-to-report-a-security-issue"
+    ],
+    "country": "global",
+    "domain": "gravityforms.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://docs.gravityforms.com/security/",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "security-reports-0017@grc.com"
     ],
     "country": "global",
@@ -79241,6 +80326,27 @@
     "reward": "none",
     "safe_harbour": "not_stated",
     "security_txt": "https://responsible-disclosure.security.flix.tech/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@gridconnect.com"
+    ],
+    "country": "global",
+    "domain": "gridconnect.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.gridconnect.com/pages/coordinated-vulnerability-disclosure-policy?srsltid=AfmBOoq3hSJFbKY67FdHahz3sqgs2DXrIEpAPrW2ZIgadIJWYVlPtULP",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "stated",
+    "security_txt": null,
     "status": "active"
   },
   {
@@ -80258,6 +81364,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@heliefb.com"
+    ],
+    "country": "global",
+    "domain": "heliefb.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://heliefb.com/security-policy.html",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "mailto:admin@heliohost.org"
     ],
     "country": "global",
@@ -80731,6 +81858,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:psirt@hiab.com"
+    ],
+    "country": "global",
+    "domain": "hiabgroup.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.hiabgroup.com/en/about-us/cyber-and-information-security/",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "mailto:disclosure@hiddenlayer.com"
     ],
     "country": "global",
@@ -80973,6 +82121,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:bugbounty@antimatter.com"
+    ],
+    "country": "global",
+    "domain": "hivenet.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.hivenet.com/bug-bounty",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "https://community.cyberbay.tech/bounty/detail/OY7oR8pqq_lCyvOShGib"
     ],
     "country": "global",
@@ -81010,6 +82179,27 @@
     "reward": "none",
     "safe_harbour": "unknown",
     "security_txt": "https://hma.eu/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "https://www.hmd.com/en_int/security-reporting"
+    ],
+    "country": "global",
+    "domain": "hmd.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.hmd.com/en_gb/policies/code-of-conduct/hmd-coordinated-vulnerability-disclosure-policy",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
     "status": "active"
   },
   {
@@ -81160,6 +82350,28 @@
     "safe_harbour": "unknown",
     "security_txt": "https://hollandsentinel.com/.well-known/security.txt",
     "status": "expired"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@holoeye.com",
+      "https://holoeye.com/security"
+    ],
+    "country": "global",
+    "domain": "holoeye.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://holoeye.com/security/",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
   },
   {
     "acknowledgments": null,
@@ -82164,6 +83376,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@iamtypist.dev"
+    ],
+    "country": "global",
+    "domain": "iamtypist.dev",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://iamtypist.dev/security",
+    "preferred_languages": null,
+    "reward": "recognition",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "mailto:information.security@iata.org"
     ],
     "country": "global",
@@ -82449,6 +83682,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "https://forms.office.com/e/y2Tn7cubST"
+    ],
+    "country": "global",
+    "domain": "idoxgroup.com",
+    "expires_on": "2027-12-01",
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.idoxgroup.com/.well-known/Idox-Group-Vulnerability-Disclosure-Policy.pdf",
+    "preferred_languages": "en",
+    "reward": "monetary",
+    "safe_harbour": "not_stated",
+    "security_txt": "https://www.idoxgroup.com/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "mailto:disclosure@level-level.com"
     ],
     "country": "global",
@@ -82684,6 +83938,27 @@
     "safe_harbour": "not_stated",
     "security_txt": "https://www.ikea.com/.well-known/security.txt",
     "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:cert@ilionx.com"
+    ],
+    "country": "global",
+    "domain": "ilionx.com",
+    "expires_on": "2025-09-06",
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.ilionx.com/en/contact/report-vulnerability-cvd/",
+    "preferred_languages": "nl, en",
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": "https://www.ilionx.com/.well-known/security.txt",
+    "status": "expired"
   },
   {
     "acknowledgments": null,
@@ -84481,6 +85756,27 @@
     "status": "retired"
   },
   {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:psirt@iqsight.com"
+    ],
+    "country": "global",
+    "domain": "iqsight.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.iqsight.com/en/support/cybersecurity",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
     "acknowledgments": "https://hackerone.com/irccloud/thanks",
     "contact": [
       "https://hackerone.com/irccloud"
@@ -84692,6 +85988,27 @@
     "reward": "none",
     "safe_harbour": "unknown",
     "security_txt": "https://it-daily.net/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "https://www.italtel.com/segnalazione-delle-vulnerabilita"
+    ],
+    "country": "global",
+    "domain": "italtel.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.italtel.com/segnalazione-delle-vulnerabilita/",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "stated",
+    "security_txt": null,
     "status": "active"
   },
   {
@@ -85481,6 +86798,27 @@
     "reward": "none",
     "safe_harbour": "unknown",
     "security_txt": "https://jlr.org/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security.team@jobandtalent.com"
+    ],
+    "country": "global",
+    "domain": "jobandtalent.com",
+    "expires_on": "2030-12-31",
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.jobandtalent.com/legal/vulnerability-disclosure-policy",
+    "preferred_languages": "en, es",
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": "https://jobandtalent.com/.well-known/security.txt",
     "status": "active"
   },
   {
@@ -90889,6 +92227,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@meilynx.com"
+    ],
+    "country": "global",
+    "domain": "meilynx.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.meilynx.com/security",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "mailto:security@meisterlabs.com"
     ],
     "country": "global",
@@ -91098,6 +92457,69 @@
     "reward": "none",
     "safe_harbour": "not_stated",
     "security_txt": "https://mention-me.com/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@mentraglass.com"
+    ],
+    "country": "global",
+    "domain": "mentraglass.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://mentraglass.com/security",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@menuclaw.com"
+    ],
+    "country": "global",
+    "domain": "menuclaw.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://menuclaw.com/security",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@menumint.app"
+    ],
+    "country": "global",
+    "domain": "menumint.app",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.menumint.app/security",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
     "status": "active"
   },
   {
@@ -92192,6 +93614,27 @@
     "status": "active"
   },
   {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@moduleworks.com"
+    ],
+    "country": "global",
+    "domain": "moduleworks.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.moduleworks.com/legal/cvd-policy/",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
     "acknowledgments": "https://support.modyo.com/hc/en-us/articles/4409032739597-Responsible-Vulnerability-Disclosure",
     "contact": [
       "mailto:security@modyo.com"
@@ -92700,6 +94143,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@movochat.com"
+    ],
+    "country": "global",
+    "domain": "movochat.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://movochat.com/security",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "mailto:infosec@tiny.cloud"
     ],
     "country": "global",
@@ -92953,6 +94417,28 @@
     "status": "active"
   },
   {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@muov.bike",
+      "https://www.muov.bike/pages/report-a-security-issue"
+    ],
+    "country": "global",
+    "domain": "muov.bike",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.muov.bike/pages/report-a-security-issue?srsltid=AfmBOooVfKzw1vI8wRz1WF2GXCsHFzvnFjSSOYlrphjqR_rPDc_Ebj3p",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
     "acknowledgments": "https://hackerone.com/nextcloud/thanks",
     "contact": [
       "https://hackerone.com/nextcloud"
@@ -92974,6 +94460,27 @@
     "safe_harbour": "not_stated",
     "security_txt": "https://murena.io/index.php/.well-known/security.txt",
     "status": "expired"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@musterproof.com"
+    ],
+    "country": "global",
+    "domain": "musterproof.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://musterproof.com/security",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
   },
   {
     "acknowledgments": null,
@@ -93410,6 +94917,27 @@
     "reward": "none",
     "safe_harbour": "unknown",
     "security_txt": "https://myrecipes.com/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@myshippilot.com"
+    ],
+    "country": "global",
+    "domain": "myshippilot.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://myshippilot.com/vulnerability-management",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "stated",
+    "security_txt": null,
     "status": "active"
   },
   {
@@ -97572,6 +99100,27 @@
     "status": "expired"
   },
   {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@onyxingenuity.com"
+    ],
+    "country": "global",
+    "domain": "onyxingenuity.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.onyxingenuity.com/security",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
     "acknowledgments": "https://hackerone.com/chaturbate/thanks?type=team",
     "contact": [
       "mailto:security@chaturbate.com"
@@ -99239,6 +100788,27 @@
     "status": "retired"
   },
   {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:XRPProductSecurity@xrite.com"
+    ],
+    "country": "global",
+    "domain": "pantone.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.pantone.com/na/en-us/about/product-security?srsltid=AfmBOopCThQBe---3ScVFSHD0FGUriF2XeQfhT0imkeTocRN_1DL7T7-",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
     "acknowledgments": "https://www.papercut.com/contact/security",
     "contact": [
       "mailto:security@papercut.com"
@@ -99257,6 +100827,27 @@
     "reward": "recognition",
     "safe_harbour": "unknown",
     "security_txt": "https://www.papercut.com/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@parational.com"
+    ],
+    "country": "global",
+    "domain": "parational.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://parational.com/security",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
     "status": "active"
   },
   {
@@ -99427,6 +101018,28 @@
     "reward": "none",
     "safe_harbour": "not_stated",
     "security_txt": "https://www.passes.com/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@password-generator.tools?subject=%5BSecurity%20Report%5D%20Short%20description",
+      "mailto:security@password-generator.tools"
+    ],
+    "country": "global",
+    "domain": "password-generator.tools",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://password-generator.tools/security/",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "stated",
+    "security_txt": null,
     "status": "active"
   },
   {
@@ -100116,6 +101729,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@peerdom.org"
+    ],
+    "country": "global",
+    "domain": "peerdom.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://peerdom.com/vulnerability-disclosure-policy",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "mailto:vulnerability@peerspace.com"
     ],
     "country": "global",
@@ -100176,6 +101810,48 @@
     "reward": "recognition",
     "safe_harbour": "unknown",
     "security_txt": "https://www.penny-arcade.com/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@penscan.org"
+    ],
+    "country": "global",
+    "domain": "penscan.org",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.penscan.org/responsible-disclosure/",
+    "preferred_languages": null,
+    "reward": "recognition",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security-disclosures@pentaho.com"
+    ],
+    "country": "global",
+    "domain": "pentaho.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://pentaho.com/vulnerability-disclosure-and-cve-coordination-policy/",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "stated",
+    "security_txt": null,
     "status": "active"
   },
   {
@@ -100306,6 +101982,27 @@
     "reward": "none",
     "safe_harbour": "unknown",
     "security_txt": "https://www.pepperl-fuchs.com/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@percidian.com"
+    ],
+    "country": "global",
+    "domain": "percidian.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://percidian.com/security/disclosure",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "stated",
+    "security_txt": null,
     "status": "active"
   },
   {
@@ -101207,6 +102904,48 @@
     "reward": "none",
     "safe_harbour": "unknown",
     "security_txt": "https://www.planetary.org/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@planwithzen.com"
+    ],
+    "country": "global",
+    "domain": "planwithzen.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://planwithzen.com/security.html",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@platformdtc.com"
+    ],
+    "country": "global",
+    "domain": "platformdtc.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://platformdtc.com/security",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "stated",
+    "security_txt": null,
     "status": "active"
   },
   {
@@ -102679,6 +104418,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@privatestackhub.com"
+    ],
+    "country": "global",
+    "domain": "privatestackhub.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://privatestackhub.com/security",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "https://matrix.to/#/@tommy:arcticfoxes.net",
       "https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FN_McQS3F9TGoh4ER0QstUf55kGnNSd-wXfNPZ7HukcM%3D%40smp19.simplex.im%2F03zrijd3pM0hi2AG6XLiMMpxEsjEqj_5%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAx3xSpEh_hRUiGatqlRxGajqIcg6H6xc9jf-2UfeJGA4%253D%26srv%3Di53bbtoqhlc365k6kxzwdp5w3cdt433s7bwh3y32rcbml2vztiyyz5id.onion",
       "mailto:contact@tommytran.io"
@@ -103489,6 +105249,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:product-security@qatm.com"
+    ],
+    "country": "global",
+    "domain": "qatm.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.qatm.com/contact-services/product-security/",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "mailto:security@qdrant.com"
     ],
     "country": "global",
@@ -103506,6 +105287,27 @@
     "safe_harbour": "stated",
     "security_txt": null,
     "status": "retired"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@qd-global.com"
+    ],
+    "country": "global",
+    "domain": "qdusa.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://qdusa.com/company/vulnerability_report_fm.html",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
   },
   {
     "acknowledgments": null,
@@ -103829,6 +105631,27 @@
     "reward": "none",
     "safe_harbour": "unknown",
     "security_txt": "https://www.queerty.com/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@querentapp.com"
+    ],
+    "country": "global",
+    "domain": "querentapp.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.querentapp.com/security",
+    "preferred_languages": null,
+    "reward": "recognition",
+    "safe_harbour": "stated",
+    "security_txt": null,
     "status": "active"
   },
   {
@@ -104219,6 +106042,27 @@
     "reward": "monetary",
     "safe_harbour": "stated",
     "security_txt": "https://raider.io/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:vdp@rain.xyz"
+    ],
+    "country": "global",
+    "domain": "rain.xyz",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.rain.xyz/security",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
     "status": "active"
   },
   {
@@ -105521,6 +107365,28 @@
     "reward": "none",
     "safe_harbour": "not_stated",
     "security_txt": "https://render.com/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@rendex.dev",
+      "mailto:abuse@rendex.dev"
+    ],
+    "country": "global",
+    "domain": "rendex.dev",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://rendex.dev/security",
+    "preferred_languages": null,
+    "reward": "swag",
+    "safe_harbour": "stated",
+    "security_txt": null,
     "status": "active"
   },
   {
@@ -108773,6 +110639,30 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@shamelstudio.com",
+      "https://hackerone.com/9021b9c3-1679-4632-a5d3-d8aa71e6b0d5/embedded_submissions/new?locale=en"
+    ],
+    "country": "global",
+    "domain": "shamelstudio.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "platform",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [
+      "HackerOne"
+    ],
+    "policy_dead": false,
+    "policy_url": "https://www.shamelstudio.com/security",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "https://hackerone.com/b6bf1613-5ba4-4ce3-b371-ac47e4507b5d/embedded_submissions/new"
     ],
     "country": "global",
@@ -108840,6 +110730,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@shdanegroup.com"
+    ],
+    "country": "global",
+    "domain": "shdanegroup.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://shdanegroup.com/security",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "https://www.shell.com/who-we-are/our-values/shell-global-helpline/responsible-disclosure-policy.html"
     ],
     "country": "global",
@@ -108877,6 +110788,27 @@
     "reward": "recognition",
     "safe_harbour": "unknown",
     "security_txt": "https://www.shellcheck.net/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@shellorbit.com"
+    ],
+    "country": "global",
+    "domain": "shellorbit.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://shellorbit.com/legal/responsible-disclosure/",
+    "preferred_languages": null,
+    "reward": "recognition",
+    "safe_harbour": "stated",
+    "security_txt": null,
     "status": "active"
   },
   {
@@ -109291,6 +111223,27 @@
     "safe_harbour": "not_stated",
     "security_txt": null,
     "status": "retired"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "https://www.sika.net/en/report-a-vulnerability"
+    ],
+    "country": "global",
+    "domain": "sika.net",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.sika.net/en/report-a-vulnerability/",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
   },
   {
     "acknowledgments": null,
@@ -110232,6 +112185,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@smartoptics.com"
+    ],
+    "country": "global",
+    "domain": "smartoptics.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://smartoptics.com/security-policy/",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "https://www.smartsheet.com/legal/bugbounty",
       "security@smartsheet.com"
     ],
@@ -110250,6 +112224,28 @@
     "safe_harbour": "unknown",
     "security_txt": "https://smartsheet.com/.well-known/security.txt",
     "status": "expired"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@expressluck.com",
+      "https://www.smarttech-tv.com/index.php?route=information/security"
+    ],
+    "country": "global",
+    "domain": "smarttech-tv.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.smarttech-tv.com/coordinated-vulnerability-disclosure-statement",
+    "preferred_languages": null,
+    "reward": "recognition",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
   },
   {
     "acknowledgments": null,
@@ -111233,6 +113229,29 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:productsecurity@uk.spiraxsarco.com?subject=Cybersecuity%20vulnerability%20alert",
+      "mailto:productsecurity@uk.spiraxsarco.com?subject=Cybersecuity%20vulnerability",
+      "mailto:productsecurity@uk.spiraxsarco.com"
+    ],
+    "country": "global",
+    "domain": "spiraxsarco.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.spiraxsarco.com/resources-and-design-tools/cybersecurity-vulnerability/report-a-cybersecurity-vulnerability",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "https://www.splashtop.com/legal/responsible-disclosure"
     ],
     "country": "global",
@@ -112195,6 +114214,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@stormrake.com"
+    ],
+    "country": "global",
+    "domain": "stormrake.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.stormrake.com/offering/stormrake-bug-bounty-program",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "https://security.storytel.com"
     ],
     "country": "global",
@@ -112523,6 +114563,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@subtitling.net"
+    ],
+    "country": "global",
+    "domain": "subtitling.net",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://subtitling.net/security",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "https://www.sap.com/report-a-vulnerability"
     ],
     "country": "global",
@@ -112740,6 +114801,27 @@
     "safe_harbour": "stated",
     "security_txt": null,
     "status": "retired"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@superdiffs.com"
+    ],
+    "country": "global",
+    "domain": "superdiffs.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.superdiffs.com/trust/security",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
   },
   {
     "acknowledgments": null,
@@ -113146,6 +115228,27 @@
     "reward": "none",
     "safe_harbour": "unknown",
     "security_txt": "https://swarovski.com/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@swipbox.com"
+    ],
+    "country": "global",
+    "domain": "swipbox.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.swipbox.com/en/disclosure-policy",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
     "status": "active"
   },
   {
@@ -116505,6 +118608,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@totsum.app"
+    ],
+    "country": "global",
+    "domain": "totsum.app",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.totsum.app/security/",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "mailto:security@tourradar.com"
     ],
     "country": "global",
@@ -117086,6 +119210,27 @@
     "reward": "monetary",
     "safe_harbour": "not_stated",
     "security_txt": "https://www.tribalfootball.com/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@tripkoz.com"
+    ],
+    "country": "global",
+    "domain": "tripkoz.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.tripkoz.com/responsible-disclosure",
+    "preferred_languages": null,
+    "reward": "recognition",
+    "safe_harbour": "stated",
+    "security_txt": null,
     "status": "active"
   },
   {
@@ -118506,6 +120651,32 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:cybersecurity@unesco.org",
+      "mailto:secureshield.ethicalhacking@gmail.com",
+      "mailto:abusedez72@gmail.com",
+      "mailto:security@rizky-tempest.my.id"
+    ],
+    "country": "global",
+    "domain": "unesco.org",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "platform",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [
+      "HackerOne"
+    ],
+    "policy_dead": false,
+    "policy_url": "https://www.unesco.org/en/vulnerability-disclosure",
+    "preferred_languages": null,
+    "reward": "recognition",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "mailto:soc@unibocconi.it"
     ],
     "country": "global",
@@ -118654,6 +120825,27 @@
     "reward": "recognition",
     "safe_harbour": "unknown",
     "security_txt": "https://univ-cotedazur.eu/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "https://psirt.teradyne.com"
+    ],
+    "country": "global",
+    "domain": "universal-robots.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.universal-robots.com/product-security/",
+    "preferred_languages": null,
+    "reward": "recognition",
+    "safe_harbour": "stated",
+    "security_txt": null,
     "status": "active"
   },
   {
@@ -119328,6 +121520,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@val.town"
+    ],
+    "country": "global",
+    "domain": "val.town",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://docs.val.town/contact-us/security",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "mailto:security-p8cm1w7a5n@valtech.com"
     ],
     "country": "global",
@@ -119344,6 +121557,29 @@
     "reward": "none",
     "safe_harbour": "unknown",
     "security_txt": "https://www.valtech.com/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "https://hackerone.com/vanguard"
+    ],
+    "country": "global",
+    "domain": "vanguard.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "platform",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [
+      "HackerOne"
+    ],
+    "policy_dead": false,
+    "policy_url": "https://investor.vanguard.com/trust-security/vulnerability-disclosure-program",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
     "status": "active"
   },
   {
@@ -119407,6 +121643,27 @@
     "reward": "none",
     "safe_harbour": "not_stated",
     "security_txt": "https://vanta.com/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@framework.org"
+    ],
+    "country": "global",
+    "domain": "varsitytutors.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.varsitytutors.com/practice/subjects/cyber-security/lessons/security-testing-ethics",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "stated",
+    "security_txt": null,
     "status": "active"
   },
   {
@@ -120950,6 +123207,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:cvd@vul.now"
+    ],
+    "country": "global",
+    "domain": "vulnow.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://vulnow.com/cvd",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "https://www.gannett.com/responsible-disclosure-program/"
     ],
     "country": "global",
@@ -121185,6 +123463,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@wallbox.com"
+    ],
+    "country": "global",
+    "domain": "wallbox.com",
+    "expires_on": "2027-07-22",
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://wallbox.com/.well-known/security-policy.html",
+    "preferred_languages": "en",
+    "reward": "monetary",
+    "safe_harbour": "stated",
+    "security_txt": "https://wallbox.com/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "https://walletconnect.network/security"
     ],
     "country": "global",
@@ -121243,6 +123542,27 @@
     "reward": "none",
     "safe_harbour": "unknown",
     "security_txt": "https://www.warbyparker.com/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@warp.dev"
+    ],
+    "country": "global",
+    "domain": "warp.dev",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://docs.warp.dev/support-and-community/community/contributing/",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
     "status": "active"
   },
   {
@@ -121661,6 +123981,27 @@
     "reward": "recognition",
     "safe_harbour": "not_stated",
     "security_txt": "https://www.weglot.com/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@lacspace.com"
+    ],
+    "country": "global",
+    "domain": "wegrownepal.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.wegrownepal.com/legal/security",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "stated",
+    "security_txt": null,
     "status": "active"
   },
   {
@@ -123773,6 +126114,27 @@
     "status": "expired"
   },
   {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:XRPProductSecurity@xrite.com"
+    ],
+    "country": "global",
+    "domain": "xrite.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.xrite.com/policies/product-security",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
     "acknowledgments": "https://www.xsisec.com/security#acknowledgments",
     "contact": [
       "mailto:security@xsisec.com",
@@ -124580,6 +126942,27 @@
     "status": "active"
   },
   {
+    "acknowledgments": null,
+    "contact": [
+      "https://www.zenya-software.com/coordinated-vulnerability-disclosure"
+    ],
+    "country": "global",
+    "domain": "zenya-software.com",
+    "expires_on": "2027-07-02",
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.zenya-software.com/coordinated-vulnerability-disclosure",
+    "preferred_languages": "nl, en",
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": "https://zenya-software.com/.well-known/security.txt",
+    "status": "active"
+  },
+  {
     "acknowledgments": "https://www.zerodayinitiative.com/advisories/",
     "contact": [
       "mailto:zdi@trendmicro.com"
@@ -124942,6 +127325,28 @@
     "reward": "monetary",
     "safe_harbour": "not_stated",
     "security_txt": "https://www.zope.dev/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@zoundio.com?subject=Security%20vulnerability%20report",
+      "mailto:security@zoundio.com"
+    ],
+    "country": "global",
+    "domain": "zoundio.com",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.zoundio.com/security-policy",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "stated",
+    "security_txt": null,
     "status": "active"
   },
   {
@@ -126746,6 +129151,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:tangselbounty@gmail.com"
+    ],
+    "country": "id",
+    "domain": "tangerangselatankota.go.id",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://bounty.tangerangselatankota.go.id/",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "mailto:abuse@tophost.ie",
       "mailto:security@tophost.ie"
     ],
@@ -127514,6 +129940,27 @@
     "status": "retired"
   },
   {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@starplaza.in"
+    ],
+    "country": "in",
+    "domain": "starplaza.in",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://starplaza.in/pages/responsible-disclosure",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
     "acknowledgments": "https://moodle.org/security/",
     "contact": [
       "https://moodle.org/security/report/"
@@ -127662,6 +130109,27 @@
     "reward": "none",
     "safe_harbour": "unknown",
     "security_txt": "https://www.vistaprint.in/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@zangler.in"
+    ],
+    "country": "in",
+    "domain": "zangler.in",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://zangler.in/security",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
     "status": "active"
   },
   {
@@ -128034,6 +130502,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@d-card.io"
+    ],
+    "country": "io",
+    "domain": "d-card.io",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://d-card.io/security",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "mailto:security@disclose.io",
       "https://disclose.io/security/"
     ],
@@ -128273,6 +130762,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:productsecurity@headspin.io"
+    ],
+    "country": "io",
+    "domain": "headspin.io",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.headspin.io/cvd-policy",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "mailto:security@honeycomb.io"
     ],
     "country": "io",
@@ -128336,6 +130846,27 @@
     "safe_harbour": "not_stated",
     "security_txt": null,
     "status": "retired"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@hybridai.one"
+    ],
+    "country": "io",
+    "domain": "hybridclaw.io",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://hybridclaw.io/en/security/",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
   },
   {
     "acknowledgments": null,
@@ -128578,6 +131109,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@multihub.io"
+    ],
+    "country": "io",
+    "domain": "multihub.io",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.multihub.io/security",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "mailto:security@mydukaan.io"
     ],
     "country": "io",
@@ -128774,6 +131326,29 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:psirt@qt.io",
+      "mailto:security@qt-project.org",
+      "mailto:security@qt.io"
+    ],
+    "country": "io",
+    "domain": "qt.io",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.qt.io/terms-conditions/coordinated-vulnerability-disclosure-policy-2026-09",
+    "preferred_languages": null,
+    "reward": "recognition",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "https://recruitcrm.io/legal/rcrm-vulnerability-disclosure-program/"
     ],
     "country": "io",
@@ -128791,6 +131366,28 @@
     "safe_harbour": "stated",
     "security_txt": null,
     "status": "retired"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@rekaz.io?subject=%5BRekaz%20Security%5D%20Vulnerability%20report",
+      "mailto:security@rekaz.io"
+    ],
+    "country": "io",
+    "domain": "rekaz.io",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://rekaz.io/home/en/vulnerability-disclosure/",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
   },
   {
     "acknowledgments": null,
@@ -130574,6 +133171,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@rhoss.com"
+    ],
+    "country": "it",
+    "domain": "rhoss.it",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.rhoss.it/cyber-resilience-act/",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "mailto:admin@infadawork.ee"
     ],
     "country": "it",
@@ -130591,6 +133209,48 @@
     "safe_harbour": "unknown",
     "security_txt": "https://richslots.it/.well-known/security.txt",
     "status": "retired"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security-incident@riello-ups.com"
+    ],
+    "country": "it",
+    "domain": "riello-solartech.it",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.riello-solartech.it/approfondimento/vulnerability-and-incident-disclosure",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@sandenvendo.it"
+    ],
+    "country": "it",
+    "domain": "sandenvendo.it",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.sandenvendo.it/pt/cra-security/",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
   },
   {
     "acknowledgments": null,
@@ -131768,6 +134428,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@neurobyte.co.ke"
+    ],
+    "country": "ke",
+    "domain": "neurobyte.co.ke",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.neurobyte.co.ke/security-policy",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "https://hackerone.com/airbnb/"
     ],
     "country": "kr",
@@ -132814,6 +135495,27 @@
     "reward": "monetary",
     "safe_harbour": "not_stated",
     "security_txt": "https://yandex.lv/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@didit.me"
+    ],
+    "country": "me",
+    "domain": "didit.me",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://didit.me/terms/information-security/",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
     "status": "active"
   },
   {
@@ -145788,6 +148490,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@fenko.nz"
+    ],
+    "country": "nz",
+    "domain": "fenko.nz",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://fenko.nz/security/",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "security@geekzone.co.nz"
     ],
     "country": "nz",
@@ -149611,6 +152334,27 @@
     "reward": "none",
     "safe_harbour": "unknown",
     "security_txt": "https://zory.pl/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@breeze.pm"
+    ],
+    "country": "pm",
+    "domain": "breeze.pm",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.breeze.pm/security",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
     "status": "active"
   },
   {
@@ -164129,6 +166873,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@volatile.sh"
+    ],
+    "country": "sh",
+    "domain": "volatile.sh",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://volatile.sh/security",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "security@acrossecurity.com"
     ],
     "country": "si",
@@ -167755,6 +170520,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@quarterwise.co.uk"
+    ],
+    "country": "uk",
+    "domain": "quarterwise.co.uk",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://quarterwise.co.uk/security/disclosure",
+    "preferred_languages": null,
+    "reward": "monetary",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "mailto:security@rodmena.co.uk"
     ],
     "country": "uk",
@@ -167864,6 +170650,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@utonomy.co.uk"
+    ],
+    "country": "uk",
+    "domain": "utonomy.co.uk",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://utonomy.co.uk/cvd-policy/",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "stated",
+    "security_txt": null,
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "https://hackerone.com/24958ce3-8373-4472-979b-a9eeb356d35c/embedded_submissions/new"
     ],
     "country": "uk",
@@ -167946,6 +170753,27 @@
     "safe_harbour": "not_stated",
     "security_txt": null,
     "status": "retired"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@timeoffmanager.us"
+    ],
+    "country": "us",
+    "domain": "timeoffmanager.us",
+    "expires_on": null,
+    "first_seen": "2026-09-12",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-12",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://timeoffmanager.us/security",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": null,
+    "status": "active"
   },
   {
     "acknowledgments": null,

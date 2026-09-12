@@ -1,6 +1,6 @@
 # Self-hosted programs — CO
 
-10 programs.
+11 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -13,4 +13,5 @@
 | `securepractice.co` | [policy](https://securepractice.co/support) | — | — | active |
 | `swile.co` | [policy](https://swile.co/security/disclosure-policy.txt) | recognition | — | active |
 | `vista.co` | [policy](https://www.vista.co/responsible-disclosure-policy) | recognition | — | active |
+| `zelp.co` | [policy](https://www.zelp.co/vulnerability-disclosure-policy/) | — | — | active |
 | `zip.co` | [policy](https://zip.co/vulnerability-disclosure-program) | — | — | retired |

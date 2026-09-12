@@ -1,12 +1,13 @@
 # Platform-hosted programs — GLOBAL
 
-585 programs.
+591 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `0xprial.com` | [policy](https://0xprial.com/how-to-get-into-bug-bounties-part-01/) | monetary | — | retired |
 | `1password.com` | — | monetary | — | active |
 | `60.122` | [policy](http://183.204.60.122:10081/ZF/jitsi-meet/src/commit/600af629451d5e836528b38d5ce5a879deb28708/SECURITY.md) | — | — | active |
+| `a8core.com` | [policy](https://a8core.com/bug-bounty/) | monetary | yes | active |
 | `aacounty.org` | [policy](https://www.aacounty.org/oit/vulnerability-disclosure-program) | monetary | — | retired |
 | `accorhotels.com` | — | — | — | active |
 | `acronis.com` | — | — | — | active |
@@ -42,6 +43,7 @@
 | `appian.com` | — | — | — | active |
 | `arc.net` | [policy](https://hackerone.com/bcny) | — | — | active |
 | `asana.com` | [policy](https://bugcrowd.com/asana) | monetary | — | active |
+| `attendohr.com` | [policy](https://attendohr.com/security) | monetary | yes | active |
 | `audemarspiguet.com` | — | — | — | active |
 | `auth0.com` | [policy](https://www.okta.com/vulnerability-reporting-policy/) | — | — | active |
 | `automattic.com` | [policy](https://hackerone.com/automattic) | — | — | active |
@@ -98,6 +100,7 @@
 | `christianriesen.com` | [policy](https://hackerone.com/automattic) | — | — | retired |
 | `cisa.gov` | [policy](https://www.cisa.gov/vulnerability-disclosure-policy-template) | monetary | — | retired |
 | `classdojo.com` | [policy](https://bugcrowd.com/engagements/classdojo) | monetary | — | expired |
+| `claude.com` | [policy](https://support.claude.com/en/articles/12119250-model-safety-bug-bounty-program) | monetary | — | active |
 | `clearme.com` | — | — | — | active |
 | `cloudflare.com` | [policy](https://www.cloudflare.com/disclosure/) | — | — | active |
 | `cloudways.com` | [policy](https://app.intigriti.com/programs/digitalocean/cloudways) | monetary | — | retired |
@@ -444,6 +447,7 @@
 | `sendsafely.com` | [policy](https://explore.sendsafely.com/security/bug-bounty/) | monetary | — | retired |
 | `seriouseats.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `sfpackage.com` | [policy](https://sfpackage.com/the-ultimate-guide-best-vpn-for-bug-bounty-hunting/) | monetary | — | retired |
+| `shamelstudio.com` | [policy](https://www.shamelstudio.com/security) | — | yes | active |
 | `shape.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `shapesecurity.com` | [policy](https://www.f5.com/support/report-a-vulnerability) | — | — | retired |
 | `shopify.com` | [policy](https://hackerone.com/shopify) | — | — | active |
@@ -527,6 +531,7 @@
 | `ui.com` | [policy](https://ui.com/security/) | monetary | — | active |
 | `uipath.com` | [policy](https://hackerone.com/uipath) | — | — | active |
 | `ultimateears.com` | [policy](https://hackerone.com/logitech) | — | — | active |
+| `unesco.org` | [policy](https://www.unesco.org/en/vulnerability-disclosure) | recognition | — | active |
 | `unico.io` | — | — | — | active |
 | `unrealengine.com` | [policy](https://hackerone.com/epicgames) | — | — | active |
 | `uphold.com` | [policy](https://app.intigriti.com/programs/Uphold/upholdcom/detail) | monetary | — | active |
@@ -535,6 +540,7 @@
 | `usitc.gov` | [policy](https://www.usitc.gov/vulnerability-disclosure-policy) | monetary | — | retired |
 | `uspharmacist.com` | — | — | — | active |
 | `va.gov` | [policy](https://www.va.gov/vulnerability-disclosure-policy/) | — | — | expired |
+| `vanguard.com` | [policy](https://investor.vanguard.com/trust-security/vulnerability-disclosure-program) | — | — | active |
 | `veeam.com` | [policy](https://hackerone.com/veeam?type=team) | — | — | expired |
 | `vercel.com` | [policy](https://security.vercel.com/) | — | — | active |
 | `verizonmedia.com` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — IN
 
-33 programs.
+35 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -29,6 +29,7 @@
 | `mirchi.in` | [policy](https://timesinternet.in/responsible-disclosure/policy.html) | — | yes | active |
 | `newaymsw.in` | [policy](https://www.agitex.africa.com/chinh-sach-bao-mat/) | — | — | active |
 | `onnetsolution.in` | — | — | — | active |
+| `starplaza.in` | [policy](https://starplaza.in/pages/responsible-disclosure) | monetary | — | active |
 | `symbiont.in` | [policy](https://moodledev.io/general/development/process/security) | monetary | — | expired |
 | `tax2win.in` | — | — | — | expired |
 | `tdacorp.in` | [policy](https://tdacorp.in/security) | — | — | active |
@@ -36,4 +37,5 @@
 | `timesinternet.in` | [policy](https://timesinternet.in/responsible-disclosure/policy.html) | — | yes | active |
 | `twinkl.co.in` | — | — | — | retired |
 | `vistaprint.in` | — | — | — | active |
+| `zangler.in` | [policy](https://zangler.in/security) | monetary | — | active |
 | `zoho.in` | [policy](https://bugbounty.zohocorp.com/bb/info) | monetary | — | expired |

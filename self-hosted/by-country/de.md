@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-400 programs.
+403 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -53,6 +53,7 @@
 | `bosch.de` | [policy](https://psirt.bosch.com/bosch-responsible-disclosure-policy/) | recognition | — | active |
 | `brandenburg.de` | — | — | — | active |
 | `braunschweiger-zeitung.de` | — | — | — | active |
+| `brunner.de` | [policy](https://www.brunner.de/cra-security/) | — | — | active |
 | `bsi.de` | [policy](https://www.bsi.bund.de/DE/IT-Sicherheitsvorfall/IT-Schwachstellen/it-schwachstellen_node.html) | recognition | — | active |
 | `bund.de` | — | — | — | active |
 | `bundesbank.de` | — | recognition | — | active |
@@ -169,6 +170,7 @@
 | `heise.de` | [policy](https://heise.de/-7513540) | monetary | — | active |
 | `helmholtz-hzi.de` | [policy](https://www.helmholtz-hzi.de/en/disclosure-policy/) | — | — | active |
 | `henkel.de` | — | — | — | active |
+| `hermle.de` | [policy](https://www.hermle.de/en/machining-centres-automation/digitization/product-security/) | — | — | active |
 | `hetzner.de` | — | — | — | active |
 | `heute.de` | — | — | — | active |
 | `hhv.de` | — | — | — | retired |
@@ -378,6 +380,7 @@
 | `verbraucherzentrale-energieberatung.de` | — | — | — | expired |
 | `verivox.de` | — | — | — | expired |
 | `vogel.de` | — | — | — | active |
+| `vogelsbergkreis.de` | [policy](https://www.vogelsbergkreis.de/informationen/sicherheitsluecke-melden/) | — | — | active |
 | `volkswagen.de` | — | — | — | active |
 | `vonovia.de` | — | — | — | active |
 | `vr-elibrary.de` | — | — | — | active |

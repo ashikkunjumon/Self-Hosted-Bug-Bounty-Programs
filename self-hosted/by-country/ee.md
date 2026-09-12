@@ -1,6 +1,6 @@
 # Self-hosted programs — EE
 
-32 programs.
+33 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -30,6 +30,7 @@
 | `pulmad.ee` | — | — | — | active |
 | `s.ee` | [policy](https://s.ee/terms/) | monetary | — | active |
 | `selver.ee` | — | — | — | expired |
+| `stacktr.ee` | [policy](https://stacktr.ee/security) | monetary | yes | active |
 | `swedbank.ee` | [policy](https://www.swedbank.se/om-oss/sakerhet/report-a-security-flaw.html) | — | — | active |
 | `tele2.ee` | — | — | — | active |
 | `ts.ee` | — | recognition | — | expired |

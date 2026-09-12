@@ -1,6 +1,6 @@
 # Self-hosted programs — FR
 
-156 programs.
+157 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -135,6 +135,7 @@
 | `somfy.fr` | [policy](https://vdp.somfy-group.com/) | — | — | active |
 | `speedy.fr` | — | — | — | active |
 | `spreadshirt.fr` | — | — | — | active |
+| `symetrie.fr` | [policy](https://symetrie.fr/en/coordinated-vulnerability-disclosure-policy/) | — | yes | active |
 | `tendancehotellerie.fr` | — | — | — | retired |
 | `thomann.fr` | — | — | — | active |
 | `toogoodtogo.fr` | — | — | — | active |
