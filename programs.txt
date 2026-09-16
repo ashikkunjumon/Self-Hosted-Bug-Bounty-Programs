@@ -4748,6 +4748,7 @@ photographyblog.com	https://www.photographyblog.com/security-policy
 photovoltaique.info	https://www.photovoltaique.info/security.txt
 php.net	https://github.com/php/policies/blob/main/security-classification.rst
 phpmyadmin.net	https://www.phpmyadmin.net/security/
+picnic.app	https://picnic.app/.well-known/security.txt
 picsart.com	https://hackerone.com/picsart
 picwish.com	https://picwish.com/.well-known/security.txt
 piensasolutions.com	https://www.piensasolutions.com/it-security

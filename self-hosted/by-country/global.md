@@ -1,6 +1,6 @@
 # Self-hosted programs — GLOBAL
 
-2,861 programs.
+2,862 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -1917,6 +1917,7 @@
 | `photovoltaique.info` | — | — | — | active |
 | `php.net` | [policy](https://github.com/php/policies/blob/main/security-classification.rst) | — | — | active |
 | `phpmyadmin.net` | [policy](https://www.phpmyadmin.net/security/) | — | — | active |
+| `picnic.app` | — | — | — | active |
 | `picwish.com` | — | — | — | active |
 | `piensasolutions.com` | [policy](https://www.piensasolutions.com/it-security) | monetary | — | active |
 | `pika-network.net` | [policy](https://craftigames.net/security) | monetary | — | active |

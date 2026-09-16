@@ -1,10 +1,10 @@
 # Self-Hosted Bug Bounty & Disclosure Programs
 
-**A list of 7,923 bug bounty and vulnerability disclosure programs
+**A list of 7,924 bug bounty and vulnerability disclosure programs
 run by the organisations themselves — not on HackerOne, Bugcrowd or Intigriti.**
 
 Built from `/.well-known/security.txt` files and published disclosure policies,
-indexed by country, and rebuilt daily. 6,882 of these are
+indexed by country, and rebuilt daily. 6,883 of these are
 self-hosted VDP and bug bounty programs, which is the half that platform
 directories do not list.
 
@@ -12,15 +12,15 @@ directories do not list.
 
 | Metric | Count |
 |---|---|
-| **Total Programs** | 7,923 |
-| **Self-hosted** | 6,882 |
+| **Total Programs** | 7,924 |
+| **Self-hosted** | 6,883 |
 | **Platform-hosted** | 1,041 |
-| **Active** | 5,946 |
+| **Active** | 5,947 |
 | **Offering a reward** | 2,284 |
 | **Stating safe harbour** | 818 |
 | **Countries** | 59 |
 
-*Last Updated: September 15, 2026 at 12:46 UTC*
+*Last Updated: September 16, 2026 at 12:41 UTC*
 
 ## Find bug bounty programs by country
 
@@ -43,7 +43,7 @@ is the number worth checking before you test anything.
 
 `programs.txt` gives a domain and a URL per line: the disclosure policy where
 one is published, and the `/.well-known/security.txt` file otherwise. Every one
-of the 7,923 entries carries a URL, so it loads straight into a
+of the 7,924 entries carries a URL, so it loads straight into a
 recon pipeline.
 
 ## Data files
@@ -57,7 +57,7 @@ A directory of organisations that accept vulnerability reports, built from what
 those organisations publish about themselves — their `/.well-known/security.txt`
 and their disclosure policy pages.
 
-Most of it is **self-hosted**: 6,882 of 7,923 programs run their own
+Most of it is **self-hosted**: 6,883 of 7,924 programs run their own
 disclosure process rather than sitting on a platform. Those are the hard ones to
 find. Programs on HackerOne, Bugcrowd and Intigriti are already indexed
 everywhere; a company that quietly published a security.txt is not.
@@ -72,7 +72,7 @@ everywhere; a company that quietly published a security.txt is not.
 | `live` | whether the domain still resolves and serves |
 | `policy_dead` | the policy URL was published but no longer loads |
 
-Only 818 of 7,923 programs state safe harbour explicitly. That is the
+Only 818 of 7,924 programs state safe harbour explicitly. That is the
 single most important column here, and the number is low.
 
 ### Before you test anything

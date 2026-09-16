@@ -102481,6 +102481,29 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@picnic.nl",
+      "mailto:security@picnic.de",
+      "mailto:security@picnic-app.fr"
+    ],
+    "country": "global",
+    "domain": "picnic.app",
+    "expires_on": "2099-12-31",
+    "first_seen": "2026-09-16",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-16",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": null,
+    "preferred_languages": "en,nl,de,fr",
+    "reward": "none",
+    "safe_harbour": "unknown",
+    "security_txt": "https://picnic.app/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "security@picsart.com"
     ],
     "country": "global",
@@ -114529,7 +114552,7 @@
     "first_seen": "2026-07-28",
     "hosting": "self_hosted",
     "last_seen": "2026-09-04",
-    "live": false,
+    "live": true,
     "platforms": [],
     "policy_dead": false,
     "policy_url": "https://www.nuffic.nl/onderwerpen/over-ons/kwetsbaarheid-melden",
@@ -142191,7 +142214,7 @@
     "first_seen": "2026-07-28",
     "hosting": "self_hosted",
     "last_seen": "2026-09-04",
-    "live": false,
+    "live": true,
     "platforms": [],
     "policy_dead": false,
     "policy_url": "https://www.nuffic.nl/onderwerpen/over-ons/kwetsbaarheid-melden",
