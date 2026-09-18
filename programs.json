@@ -100488,6 +100488,27 @@
     "status": "expired"
   },
   {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@pactum.com"
+    ],
+    "country": "global",
+    "domain": "pactum.com",
+    "expires_on": "2027-05-24",
+    "first_seen": "2026-09-18",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-18",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://pactum.com/responsible-disclosure",
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": "https://pactum.com/.well-known/security.txt",
+    "status": "active"
+  },
+  {
     "acknowledgments": "https://www.paddle.com/security/acknowledgments",
     "contact": [
       "https://vdp.paddle.com/",
@@ -108939,6 +108960,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@salv.com"
+    ],
+    "country": "global",
+    "domain": "salv.com",
+    "expires_on": "2030-05-25",
+    "first_seen": "2026-09-18",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-18",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://salv.com/bug-bounty/",
+    "preferred_languages": "en",
+    "reward": "recognition",
+    "safe_harbour": "not_stated",
+    "security_txt": "https://salv.com/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "https://www.bigbluedoor.net/contact",
       "mailto:security@bigbluedoor.net"
     ],
@@ -113768,6 +113810,28 @@
     "status": "retired"
   },
   {
+    "acknowledgments": "https://github.com/stalwartlabs/stalwart/security/advisories",
+    "contact": [
+      "mailto:security@stalw.art",
+      "https://github.com/stalwartlabs/stalwart/security/advisories/new"
+    ],
+    "country": "global",
+    "domain": "stalw.art",
+    "expires_on": "2027-05-03",
+    "first_seen": "2026-09-18",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-18",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://stalw.art/legal/security",
+    "preferred_languages": "en",
+    "reward": "swag",
+    "safe_harbour": "stated",
+    "security_txt": "https://stalw.art/.well-known/security.txt",
+    "status": "active"
+  },
+  {
     "acknowledgments": null,
     "contact": [
       "https://hackerone.com/twitter?type=team",
@@ -114552,7 +114616,7 @@
     "first_seen": "2026-07-28",
     "hosting": "self_hosted",
     "last_seen": "2026-09-04",
-    "live": true,
+    "live": false,
     "platforms": [],
     "policy_dead": false,
     "policy_url": "https://www.nuffic.nl/onderwerpen/over-ons/kwetsbaarheid-melden",
@@ -121679,7 +121743,7 @@
     "first_seen": "2026-09-12",
     "hosting": "self_hosted",
     "last_seen": "2026-09-12",
-    "live": true,
+    "live": false,
     "platforms": [],
     "policy_dead": false,
     "policy_url": "https://www.varsitytutors.com/practice/subjects/cyber-security/lessons/security-testing-ethics",
@@ -142214,7 +142278,7 @@
     "first_seen": "2026-07-28",
     "hosting": "self_hosted",
     "last_seen": "2026-09-04",
-    "live": true,
+    "live": false,
     "platforms": [],
     "policy_dead": false,
     "policy_url": "https://www.nuffic.nl/onderwerpen/over-ons/kwetsbaarheid-melden",

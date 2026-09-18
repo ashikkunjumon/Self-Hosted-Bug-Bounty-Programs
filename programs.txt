@@ -4655,6 +4655,7 @@ owncloud.com	https://security.owncloud.com/p/Policy
 owncloud.org	https://security.owncloud.com/p/Policy
 oxyfi.com	https://oxyfi.com/security/
 packetstormsecurity.com	https://packetstorm.news/help/
+pactum.com	https://pactum.com/responsible-disclosure
 paddle.com	https://www.paddle.com/vulnerability-disclosure-policy
 padlet.com	https://padlet.com/.well-known/security.txt
 padlet.org	https://padlet.org/.well-known/security.txt
@@ -5048,6 +5049,7 @@ salecycle.com	https://cdn.prod.website-files.com/660535b6b49625d120f0f4e3/6a549a
 salesflare.com	https://salesflare.com/vdp
 salesloft.com	https://www.salesloft.com/legal/vulnerability-disclosure-program
 salomon.com	https://magento.com/security
+salv.com	https://salv.com/bug-bounty/
 salvationarmy.org	https://github.com/ukncsc/Vulnerability-Disclosure/blob/master/UK-Government-Vulnerability-Disclosure-Policy.md
 samaritanspurse.org	https://samaritanspurse.org/.well-known/security.txt
 samba.org	https://wiki.samba.org/index.php/Samba_Security_Process
@@ -5271,6 +5273,7 @@ sslshopper.com	https://sslshopper.com/.well-known/security.txt
 sss.gov	https://www.sss.gov/vulnerability-disclosure-policy/
 stad.gent	https://stad.gent/fr/responsible-disclosure
 stagehand.dev	https://stagehand.dev/.well-known/security.txt
+stalw.art	https://stalw.art/legal/security
 standoff365.com	https://standoff365.com/en-US/articles/bug-bounty-platform-analytics-2022/
 standup-and-prosper.com	https://standup-and-prosper/app/#/disclosure
 stanford.edu	https://uit.stanford.edu/security/vulnerability-disclosure

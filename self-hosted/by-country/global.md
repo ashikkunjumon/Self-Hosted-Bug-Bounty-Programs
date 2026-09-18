@@ -1,6 +1,6 @@
 # Self-hosted programs — GLOBAL
 
-2,862 programs.
+2,865 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -1833,6 +1833,7 @@
 | `owncloud.org` | [policy](https://security.owncloud.com/p/Policy) | — | — | active |
 | `oxyfi.com` | [policy](https://oxyfi.com/security/) | monetary | yes | retired |
 | `packetstormsecurity.com` | [policy](https://packetstorm.news/help/) | — | — | expired |
+| `pactum.com` | [policy](https://pactum.com/responsible-disclosure) | — | — | active |
 | `padlet.com` | — | — | — | active |
 | `padlet.org` | — | — | — | active |
 | `paessler.com` | [policy](https://www.paessler.com/vulnerability-disclosure-program) | — | — | active |
@@ -2168,6 +2169,7 @@
 | `salesflare.com` | [policy](https://salesflare.com/vdp) | monetary | — | retired |
 | `salesloft.com` | [policy](https://www.salesloft.com/legal/vulnerability-disclosure-program) | monetary | yes | retired |
 | `salomon.com` | [policy](https://magento.com/security) | monetary | — | active |
+| `salv.com` | [policy](https://salv.com/bug-bounty/) | recognition | — | active |
 | `salvationarmy.org` | [policy](https://github.com/ukncsc/Vulnerability-Disclosure/blob/master/UK-Government-Vulnerability-Disclosure-Policy.md) | — | — | active |
 | `samaritanspurse.org` | — | — | — | active |
 | `samba.org` | [policy](https://wiki.samba.org/index.php/Samba_Security_Process) | — | — | active |
@@ -2356,6 +2358,7 @@
 | `sss.gov` | [policy](https://www.sss.gov/vulnerability-disclosure-policy/) | monetary | — | active |
 | `stad.gent` | [policy](https://stad.gent/fr/responsible-disclosure) | recognition | — | retired |
 | `stagehand.dev` | — | — | — | retired |
+| `stalw.art` | [policy](https://stalw.art/legal/security) | swag | yes | active |
 | `standup-and-prosper.com` | [policy](https://standup-and-prosper/app/#/disclosure) | recognition | — | active |
 | `stanford.edu` | [policy](https://uit.stanford.edu/security/vulnerability-disclosure) | monetary | — | retired |
 | `starlingbank.com` | [policy](https://www.starlingbank.com/security/disclosure/) | — | — | active |
