@@ -95773,7 +95773,7 @@
     "first_seen": "2026-07-28",
     "hosting": "self_hosted",
     "last_seen": "2026-09-04",
-    "live": true,
+    "live": false,
     "platforms": [],
     "policy_dead": false,
     "policy_url": "https://neo4j.com/trust-center/responsible-disclosure/",
@@ -106452,6 +106452,28 @@
     "reward": "monetary",
     "safe_harbour": "not_stated",
     "security_txt": "https://www.raspberrypi.org/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "https://ravelin.com/responsible-disclosure-policy",
+      "vulnerability.disclosure@ravelin.com"
+    ],
+    "country": "global",
+    "domain": "ravelin.com",
+    "expires_on": null,
+    "first_seen": "2026-09-20",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-20",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": null,
+    "preferred_languages": null,
+    "reward": "none",
+    "safe_harbour": "unknown",
+    "security_txt": "https://www.ravelin.com/.well-known/security.txt",
     "status": "active"
   },
   {
@@ -121743,7 +121765,7 @@
     "first_seen": "2026-09-12",
     "hosting": "self_hosted",
     "last_seen": "2026-09-12",
-    "live": false,
+    "live": true,
     "platforms": [],
     "policy_dead": false,
     "policy_url": "https://www.varsitytutors.com/practice/subjects/cyber-security/lessons/security-testing-ethics",
@@ -131561,6 +131583,27 @@
     "safe_harbour": "stated",
     "security_txt": null,
     "status": "retired"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@senseon.io"
+    ],
+    "country": "io",
+    "domain": "senseon.io",
+    "expires_on": "2027-09-20",
+    "first_seen": "2026-09-20",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-20",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.senseon.io/responsible-disclosure-policy",
+    "preferred_languages": "en",
+    "reward": "recognition",
+    "safe_harbour": "stated",
+    "security_txt": "https://www.senseon.io/.well-known/security.txt",
+    "status": "active"
   },
   {
     "acknowledgments": null,

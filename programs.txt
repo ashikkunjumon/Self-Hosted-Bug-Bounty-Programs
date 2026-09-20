@@ -4933,6 +4933,7 @@ raptive.com	https://raptive.com/.well-known/security.txt
 rarlab.com	https://www.rarlab.com/.well-known/security.txt
 raspberrypi.com	https://www.raspberrypi.com/security/
 raspberrypi.org	https://www.raspberrypi.org/contact/security/
+ravelin.com	https://www.ravelin.com/.well-known/security.txt
 raycast.com	https://www.raycast.com/security.txt
 rayspec.dev	https://rayspec.dev/docs/security-policy
 razorpay.com	https://razorpay.com/responsible-disclosure/
@@ -6092,6 +6093,7 @@ salestrail.io	https://www.salestrail.io/vulnerability
 scrapfly.io	https://scrapfly.io/bug-bounty-program
 secrethub.io	https://secrethub.io/security/responsible-disclosure/
 securin.io	https://www.securin.io/zero-days/disclosure-policy
+senseon.io	https://www.senseon.io/responsible-disclosure-policy
 siteconnect.io	https://siteconnect.io/security-hall-of-fame/
 smokescreen.io	https://www.smokescreen.io/responsible-disclosure-policy/
 sociality.io	https://sociality.io/security

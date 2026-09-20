@@ -1,6 +1,6 @@
 # Self-hosted programs — GLOBAL
 
-2,865 programs.
+2,866 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -2077,6 +2077,7 @@
 | `rarlab.com` | — | — | — | active |
 | `raspberrypi.com` | [policy](https://www.raspberrypi.com/security/) | recognition | — | active |
 | `raspberrypi.org` | [policy](https://www.raspberrypi.org/contact/security/) | monetary | — | active |
+| `ravelin.com` | — | — | — | active |
 | `raycast.com` | — | — | — | expired |
 | `rayspec.dev` | [policy](https://rayspec.dev/docs/security-policy) | — | — | retired |
 | `razorpay.com` | [policy](https://razorpay.com/responsible-disclosure/) | monetary | — | expired |

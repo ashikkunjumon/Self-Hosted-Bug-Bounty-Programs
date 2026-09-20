@@ -1,6 +1,6 @@
 # Self-hosted programs — IO
 
-60 programs.
+61 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -54,6 +54,7 @@
 | `salestrail.io` | [policy](https://www.salestrail.io/vulnerability) | — | — | retired |
 | `secrethub.io` | [policy](https://secrethub.io/security/responsible-disclosure/) | — | — | retired |
 | `securin.io` | [policy](https://www.securin.io/zero-days/disclosure-policy) | monetary | yes | retired |
+| `senseon.io` | [policy](https://www.senseon.io/responsible-disclosure-policy) | recognition | yes | active |
 | `siteconnect.io` | [policy](https://siteconnect.io/security-hall-of-fame/) | recognition | — | retired |
 | `smokescreen.io` | [policy](https://www.smokescreen.io/responsible-disclosure-policy/) | monetary | — | retired |
 | `sociality.io` | [policy](https://sociality.io/security) | monetary | yes | retired |
