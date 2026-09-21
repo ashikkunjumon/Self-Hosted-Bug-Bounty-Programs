@@ -20,7 +20,7 @@ directories do not list.
 | **Stating safe harbour** | 820 |
 | **Countries** | 59 |
 
-*Last Updated: September 20, 2026 at 12:32 UTC*
+*Last Updated: September 21, 2026 at 14:24 UTC*
 
 ## Find bug bounty programs by country
 
