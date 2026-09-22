@@ -5243,6 +5243,7 @@ spacehey.com	https://spacehey.com/.well-known/security.txt
 spaceweatherlive.com	https://spaceweatherlive.com/.well-known/security.txt
 spacex.com	https://www.spacex.com/.well-known/security.txt
 spanishdict.com	https://www.spanishdict.com/.well-known/security.txt
+speakeasy.com	https://www.speakeasy.com/legal/security-policy
 spectreassure.com	https://spectreassure.com/security-policy/
 spectrocoin.com	https://spectrocoin.com/bug-bounty.html
 speedrun.com	https://www.speedrun.com/security.txt
@@ -5548,6 +5549,7 @@ trybooking.com	https://www.trybooking.com/.well-known/security.txt
 trychameleon.com	https://www.chameleon.io/disclosure
 tryhema.com	https://www.tryhema.com/legal/vulnerability-reporting
 tryportal.com	https://www.passlane.com/vdp
+tryprofound.com	https://www.tryprofound.com/vulnerability-reporting
 ts.net	https://tailscale.com/security
 tsh.io	https://tsh.io/.well-known/security.txt
 tubebuddy.com	https://www.tubebuddy.com/.well-known/security.txt

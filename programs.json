@@ -113163,6 +113163,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@speakeasy.com"
+    ],
+    "country": "global",
+    "domain": "speakeasy.com",
+    "expires_on": "2027-01-01",
+    "first_seen": "2026-09-22",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-22",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.speakeasy.com/legal/security-policy",
+    "preferred_languages": "en",
+    "reward": "none",
+    "safe_harbour": "not_stated",
+    "security_txt": "https://www.speakeasy.com/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "mailto:security@spectreassure.com"
     ],
     "country": "global",
@@ -119755,6 +119776,27 @@
     "safe_harbour": "stated",
     "security_txt": null,
     "status": "retired"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@tryprofound.com"
+    ],
+    "country": "global",
+    "domain": "tryprofound.com",
+    "expires_on": "2027-04-01",
+    "first_seen": "2026-09-22",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-22",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.tryprofound.com/vulnerability-reporting",
+    "preferred_languages": "en",
+    "reward": "monetary",
+    "safe_harbour": "stated",
+    "security_txt": "https://www.tryprofound.com/.well-known/security.txt",
+    "status": "active"
   },
   {
     "acknowledgments": null,

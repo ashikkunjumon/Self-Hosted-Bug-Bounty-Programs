@@ -1,10 +1,10 @@
 # Self-hosted programs
 
-6,888 programs across 58 countries.
+6,890 programs across 58 countries.
 
 | Country | Programs |
 |---|---|
-| [GLOBAL](by-country/global.md) | 2,866 |
+| [GLOBAL](by-country/global.md) | 2,868 |
 | [SE](by-country/se.md) | 496 |
 | [DE](by-country/de.md) | 403 |
 | [CH](by-country/ch.md) | 353 |

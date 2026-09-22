@@ -1,6 +1,6 @@
 # Self-hosted programs — GLOBAL
 
-2,866 programs.
+2,868 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -2331,6 +2331,7 @@
 | `spaceweatherlive.com` | — | — | — | expired |
 | `spacex.com` | — | — | — | active |
 | `spanishdict.com` | — | — | — | active |
+| `speakeasy.com` | [policy](https://www.speakeasy.com/legal/security-policy) | — | — | active |
 | `spectreassure.com` | [policy](https://spectreassure.com/security-policy/) | monetary | yes | retired |
 | `spectrocoin.com` | [policy](https://spectrocoin.com/bug-bounty.html) | monetary | — | retired |
 | `speedrun.com` | — | — | — | active |
@@ -2586,6 +2587,7 @@
 | `trychameleon.com` | [policy](https://www.chameleon.io/disclosure) | monetary | yes | retired |
 | `tryhema.com` | [policy](https://www.tryhema.com/legal/vulnerability-reporting) | — | yes | retired |
 | `tryportal.com` | [policy](https://www.passlane.com/vdp) | monetary | yes | retired |
+| `tryprofound.com` | [policy](https://www.tryprofound.com/vulnerability-reporting) | monetary | yes | active |
 | `ts.net` | [policy](https://tailscale.com/security) | — | — | active |
 | `tsh.io` | — | — | — | active |
 | `tubebuddy.com` | — | — | — | expired |
