@@ -2562,6 +2562,7 @@ all-hands.dev	https://openhands.dev/responsible-disclosure-policy
 allegion.com	https://trust.allegion.com/
 allego.eu	https://www.allego.eu/.well-known/security.txt
 allenai.org	https://allenai.org/.well-known/security.txt
+alliander.com	https://www.alliander.com/nl/coordinated-vulnerability-disclosure/
 allianz.com	https://www.allianz.com/en/disclosure-policy.html
 alllaw.com	https://alllaw.com/.well-known/security.txt
 allmodern.com	https://www.allmodern.com/.well-known/security.txt
@@ -3723,6 +3724,7 @@ greyhound.com	https://global.flixbus.com/responsible-disclosure
 gridconnect.com	https://www.gridconnect.com/pages/coordinated-vulnerability-disclosure-policy?srsltid=AfmBOoq3hSJFbKY67FdHahz3sqgs2DXrIEpAPrW2ZIgadIJWYVlPtULP
 gro.now	https://gro.now/en/legal/security
 grok.com	https://grok.com/.well-known/security.txt
+groningen-seaports.com	https://www.groningen-seaports.com/responsible-disclosure/
 groq.com	https://groq.com/.well-known/security.txt
 group.jumia.com	https://group.jumia.com/security/
 group.renault.com	https://www.renaultgroup.com/en/vulnerability-disclosure-policy/
@@ -6408,6 +6410,7 @@ fok.nl	https://fok.nl/.well-known/security.txt
 fontys.nl	https://www.fontys.nl/en/About-Fontys/Who-we-are/Our-organisation/Rules-regulations/Report-a-Vulnerability-to-Fontys-Coordinated-Vulnerability-Disclosure.htm
 friesland.nl	https://www.friesland.nl/security.txt
 ftm.nl	https://www.ftm.nl/.well-known/security.txt
+gasunie.nl	https://www.gasunie.nl/en/responsible-disclosure
 gelderland.nl	https://www.gelderland.nl/security.txt
 gelderlander.nl	https://gelderlander.nl/.well-known/security.txt
 gemeentemaastricht.nl	https://cert-gm.net/policy.md

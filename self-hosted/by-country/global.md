@@ -1,6 +1,6 @@
 # Self-hosted programs — GLOBAL
 
-2,868 programs.
+2,870 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -93,6 +93,7 @@
 | `all-hands.dev` | [policy](https://openhands.dev/responsible-disclosure-policy) | — | yes | active |
 | `allego.eu` | — | — | — | active |
 | `allenai.org` | — | — | — | expired |
+| `alliander.com` | [policy](https://www.alliander.com/nl/coordinated-vulnerability-disclosure/) | swag | yes | active |
 | `allianz.com` | [policy](https://www.allianz.com/en/disclosure-policy.html) | — | — | retired |
 | `allmodern.com` | — | — | — | active |
 | `alloy.app` | [policy](https://alloy.app/security/responsible-disclosure) | monetary | yes | retired |
@@ -1060,6 +1061,7 @@
 | `gridconnect.com` | [policy](https://www.gridconnect.com/pages/coordinated-vulnerability-disclosure-policy?srsltid=AfmBOoq3hSJFbKY67FdHahz3sqgs2DXrIEpAPrW2ZIgadIJWYVlPtULP) | — | yes | active |
 | `gro.now` | [policy](https://gro.now/en/legal/security) | — | yes | active |
 | `grok.com` | — | — | — | active |
+| `groningen-seaports.com` | [policy](https://www.groningen-seaports.com/responsible-disclosure/) | — | — | active |
 | `groq.com` | — | — | — | active |
 | `group.renault.com` | [policy](https://www.renaultgroup.com/en/vulnerability-disclosure-policy/) | — | — | retired |
 | `grsecurity.net` | — | — | — | active |

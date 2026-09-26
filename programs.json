@@ -55328,6 +55328,29 @@
   {
     "acknowledgments": null,
     "contact": [
+      "https://www.alliander.com/nl/contactformulier-cvd/",
+      "https://www.alliander.com/en/contact-form-cvd/",
+      "mailto:responsible.disclosure@alliander.com"
+    ],
+    "country": "global",
+    "domain": "alliander.com",
+    "expires_on": "2028-01-31",
+    "first_seen": "2026-09-26",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-26",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.alliander.com/nl/coordinated-vulnerability-disclosure/",
+    "preferred_languages": "nl,en",
+    "reward": "swag",
+    "safe_harbour": "stated",
+    "security_txt": "https://www.alliander.com/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "mailto:security@allianz.com"
     ],
     "country": "global",
@@ -80389,6 +80412,27 @@
     "reward": "none",
     "safe_harbour": "unknown",
     "security_txt": "https://grok.com/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@groningen-seaports.com"
+    ],
+    "country": "global",
+    "domain": "groningen-seaports.com",
+    "expires_on": "2026-12-31",
+    "first_seen": "2026-09-26",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-26",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.groningen-seaports.com/responsible-disclosure/",
+    "preferred_languages": "nl, en",
+    "reward": "none",
+    "safe_harbour": "unknown",
+    "security_txt": "https://www.groningen-seaports.com/.well-known/security.txt",
     "status": "active"
   },
   {
@@ -138407,6 +138451,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:responsibledisclosure@gasunie.nl"
+    ],
+    "country": "nl",
+    "domain": "gasunie.nl",
+    "expires_on": "2027-06-30",
+    "first_seen": "2026-09-26",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-26",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.gasunie.nl/en/responsible-disclosure",
+    "preferred_languages": "nl,en",
+    "reward": "monetary",
+    "safe_harbour": "stated",
+    "security_txt": "https://www.gasunie.nl/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "mailto:security@gelderland.nl"
     ],
     "country": "nl",
@@ -170742,7 +170807,7 @@
     "first_seen": "2026-08-08",
     "hosting": "self_hosted",
     "last_seen": "2026-08-08",
-    "live": true,
+    "live": false,
     "platforms": [],
     "policy_dead": false,
     "policy_url": "https://streetworkshub.co.uk/security-policy/",
