@@ -4514,6 +4514,7 @@ nordics.info	https://nordics.info/.well-known/security.txt
 nordlayer.com	https://nordlayer.com/.well-known/security.txt
 normative.io	https://normative.io/.well-known/security.txt
 northjersey.com	https://www.gannett.com/responsible-disclosure-program/
+northseaport.com	https://www.northseaport.com/responsible-disclosure
 northwave-cybersecurity.com	https://northwave-cybersecurity.com/responsible-disclosure
 northwesternmutual.com	https://bugcrowd.com/engagements/northwestern-mutual-mbb-og
 norton.com	https://www.gendigital.com/security.txt
@@ -4811,6 +4812,7 @@ poplico.com	https://assoconnect.notion.site/Vulnerability-Reward-Policy-67c26374
 porch.com	https://porch.com/responsible-disclosure
 porsche.com	https://www.porsche.com/international/information-security/
 portableapps.com	https://portableapps.com/security.txt
+portofamsterdam.com	https://www.portofamsterdam.com/.well-known/security.txt
 portofantwerp.com	https://www.portofantwerpbruges.com/en/responsible-disclosure-cvd
 portofrotterdam.com	https://www.portofrotterdam.com/.well-known/security.txt
 positivessl.com	https://www.positivessl.com/security-policy

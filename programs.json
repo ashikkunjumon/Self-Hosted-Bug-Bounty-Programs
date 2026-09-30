@@ -17951,7 +17951,7 @@
     "first_seen": "2026-07-28",
     "hosting": "platform",
     "last_seen": "2026-09-03",
-    "live": false,
+    "live": true,
     "platforms": [
       "YesWeHack"
     ],
@@ -97456,6 +97456,27 @@
   {
     "acknowledgments": null,
     "contact": [
+      "mailto:security@northseaport.com"
+    ],
+    "country": "global",
+    "domain": "northseaport.com",
+    "expires_on": "2027-02-02",
+    "first_seen": "2026-09-30",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-30",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": "https://www.northseaport.com/responsible-disclosure",
+    "preferred_languages": "en,nl",
+    "reward": "none",
+    "safe_harbour": "stated",
+    "security_txt": "https://www.northseaport.com/.well-known/security.txt",
+    "status": "active"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
       "mailto:responsibledisclosure@northwave.nl"
     ],
     "country": "global",
@@ -103827,6 +103848,27 @@
     "safe_harbour": "unknown",
     "security_txt": "https://portableapps.com/security.txt",
     "status": "retired"
+  },
+  {
+    "acknowledgments": null,
+    "contact": [
+      "mailto:security@portofamsterdam.com"
+    ],
+    "country": "global",
+    "domain": "portofamsterdam.com",
+    "expires_on": "2025-08-07",
+    "first_seen": "2026-09-30",
+    "hosting": "self_hosted",
+    "last_seen": "2026-09-30",
+    "live": true,
+    "platforms": [],
+    "policy_dead": false,
+    "policy_url": null,
+    "preferred_languages": "nl, en",
+    "reward": "none",
+    "safe_harbour": "unknown",
+    "security_txt": "https://www.portofamsterdam.com/.well-known/security.txt",
+    "status": "expired"
   },
   {
     "acknowledgments": "https://app.intigriti.com/programs/portofantwerp/portofantwerp/detail",

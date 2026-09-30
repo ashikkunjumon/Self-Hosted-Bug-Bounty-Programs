@@ -1,6 +1,6 @@
 # Self-hosted programs — GLOBAL
 
-2,870 programs.
+2,872 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -1712,6 +1712,7 @@
 | `nordlayer.com` | — | — | — | active |
 | `normative.io` | — | — | — | active |
 | `northjersey.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | expired |
+| `northseaport.com` | [policy](https://www.northseaport.com/responsible-disclosure) | — | yes | active |
 | `northwave-cybersecurity.com` | [policy](https://northwave-cybersecurity.com/responsible-disclosure) | — | yes | active |
 | `norton.com` | — | recognition | — | expired |
 | `norvato.com` | [policy](https://norvato.com/responsible-disclosure) | recognition | yes | active |
@@ -1973,6 +1974,7 @@
 | `porch.com` | [policy](https://porch.com/responsible-disclosure) | recognition | yes | active |
 | `porsche.com` | [policy](https://www.porsche.com/international/information-security/) | — | — | active |
 | `portableapps.com` | — | — | — | retired |
+| `portofamsterdam.com` | — | — | — | expired |
 | `portofrotterdam.com` | — | — | — | active |
 | `positivessl.com` | [policy](https://www.positivessl.com/security-policy) | recognition | — | active |
 | `postcrescent.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | expired |
