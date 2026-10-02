@@ -4,4 +4,4 @@
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
-| `breeze.pm` | [policy](https://www.breeze.pm/security) | — | — | active |
+| `breeze.pm` | [policy](https://www.breeze.pm/vulnerability-disclosure) | swag | yes | active |

@@ -10,7 +10,7 @@
 | `brainly.in` | [policy](https://brainly.com/responsible-disclosure-program) | — | — | active |
 | `capterra.in` | — | — | — | active |
 | `cleartax.in` | — | — | — | active |
-| `cuh.ac.in` | [policy](https://www.cuh.ac.in/uploads/policies/Clean_ICT_POLICY%5B1%5D.pdf) | recognition | — | active |
+| `cuh.ac.in` | [policy](https://www.cuh.ac.in/uploads/policies/Clean_ICT_POLICY%5B1%5D.pdf) | — | — | active |
 | `droom.in` | [policy](https://droom.in/bugbounty) | monetary | — | retired |
 | `enj.in` | [policy](https://enj.in/security) | — | — | active |
 | `expedia.co.in` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
@@ -19,7 +19,7 @@
 | `gettyimages.in` | — | — | — | retired |
 | `hotfrog.in` | — | — | — | active |
 | `huffingtonpost.in` | — | monetary | — | active |
-| `intel.in` | [policy](https://www.intel.com/content/www/us/en/security-center/vulnerability-handling-guidelines.html) | monetary | — | active |
+| `intel.in` | [policy](https://www.intel.com/content/www/us/en/security-center/vulnerability-handling-guidelines.html) | — | — | active |
 | `krmangalam.edu.in` | — | — | — | active |
 | `linktw.in` | — | — | — | active |
 | `livescore.in` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
@@ -30,7 +30,7 @@
 | `newaymsw.in` | [policy](https://www.agitex.africa.com/chinh-sach-bao-mat/) | — | — | active |
 | `onnetsolution.in` | — | — | — | active |
 | `starplaza.in` | [policy](https://starplaza.in/pages/responsible-disclosure) | monetary | — | active |
-| `symbiont.in` | [policy](https://moodledev.io/general/development/process/security) | monetary | — | expired |
+| `symbiont.in` | [policy](https://moodledev.io/general/development/process/security) | monetary | — | retired |
 | `tax2win.in` | — | — | — | expired |
 | `tdacorp.in` | [policy](https://tdacorp.in/security) | — | — | active |
 | `telco.in` | — | — | — | retired |
@@ -38,4 +38,4 @@
 | `twinkl.co.in` | — | — | — | retired |
 | `vistaprint.in` | — | — | — | active |
 | `zangler.in` | [policy](https://zangler.in/security) | monetary | — | active |
-| `zoho.in` | [policy](https://bugbounty.zohocorp.com/bb/info) | monetary | — | expired |
+| `zoho.in` | [policy](https://bugbounty.zohocorp.com/bb/info) | monetary | — | active |

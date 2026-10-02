@@ -1,6 +1,6 @@
 # Self-hosted programs — NO
 
-223 programs.
+222 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -36,7 +36,6 @@
 | `diakonhjemmetsykehus.no` | — | — | — | active |
 | `digdir.no` | [policy](https://www.digdir.no/digdir/responsible-disclosure-policy/6386) | recognition | yes | active |
 | `digi.no` | — | — | — | expired |
-| `digipost.no` | — | — | — | active |
 | `dirnat.no` | — | — | — | active |
 | `dmp.no` | — | — | — | active |
 | `dnb.no` | — | — | — | active |
@@ -148,7 +147,7 @@
 | `npe.no` | — | — | — | active |
 | `nrk.no` | [policy](https://info.nrk.no/hjem/responsible-disclosure-policy/) | recognition | — | active |
 | `nrkbeta.no` | [policy](https://info.nrk.no/hjem/responsible-disclosure-policy/) | recognition | — | expired |
-| `nsd.no` | [policy](https://sikt.no/security-policy) | recognition | yes | active |
+| `nsd.no` | [policy](https://www.sikt.no/security-policy) | recognition | yes | active |
 | `nsm.no` | — | — | — | active |
 | `nte.no` | — | — | — | active |
 | `ntnu.no` | — | — | — | active |
@@ -175,7 +174,7 @@
 | `samforsk.no` | [policy](https://samforsk.no/security-policy) | recognition | — | active |
 | `sas.no` | [policy](https://www.sasgroup.net/contact/vulnerability-disclosure-policy/) | recognition | yes | retired |
 | `sbanken.no` | — | — | — | active |
-| `sikt.no` | [policy](https://sikt.no/security-policy) | recognition | yes | active |
+| `sikt.no` | [policy](https://www.sikt.no/security-policy) | recognition | yes | active |
 | `siv.no` | [policy](https://www.sykehuspartner.no/siteassets/documents/sikkerhet---regionale-bruksvilkar/no-38---responsible-disclosure-policy-engelsk.pdf) | — | — | active |
 | `skatteetaten.no` | — | — | — | active |
 | `snl.no` | — | — | — | expired |
@@ -213,8 +212,8 @@
 | `tv2.no` | [policy](https://info.tv2.no/info/artikkel/responsible-disclosure-policy) | swag | yes | active |
 | `udi.no` | — | — | — | active |
 | `uio.no` | [policy](https://cert.uio.no/vulnerability-disclosure-policy.html) | monetary | — | active |
-| `uninett.no` | [policy](https://sikt.no/security-policy) | recognition | yes | active |
-| `unit.no` | [policy](https://sikt.no/security-policy) | recognition | yes | active |
+| `uninett.no` | [policy](https://www.sikt.no/security-policy) | recognition | yes | active |
+| `unit.no` | [policy](https://www.sikt.no/security-policy) | recognition | yes | active |
 | `unn.no` | — | — | — | active |
 | `valg.no` | — | recognition | — | active |
 | `vegvesen.no` | — | — | — | active |

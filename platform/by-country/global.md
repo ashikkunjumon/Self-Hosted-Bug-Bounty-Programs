@@ -1,13 +1,12 @@
 # Platform-hosted programs — GLOBAL
 
-591 programs.
+587 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `0xprial.com` | [policy](https://0xprial.com/how-to-get-into-bug-bounties-part-01/) | monetary | — | retired |
 | `1password.com` | — | monetary | — | active |
 | `60.122` | [policy](http://183.204.60.122:10081/ZF/jitsi-meet/src/commit/600af629451d5e836528b38d5ce5a879deb28708/SECURITY.md) | — | — | active |
-| `a8core.com` | [policy](https://a8core.com/bug-bounty/) | monetary | yes | active |
 | `aacounty.org` | [policy](https://www.aacounty.org/oit/vulnerability-disclosure-program) | monetary | — | retired |
 | `accorhotels.com` | — | — | — | active |
 | `acronis.com` | — | — | — | active |
@@ -31,13 +30,13 @@
 | `allrecipes.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `alphabet.com` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
 | `amazon.com` | [policy](https://hackerone.com/amazonvrp) | — | — | active |
-| `amazonaws.com` | [policy](https://vdp.aws.security/) | — | — | active |
-| `amazonwebservices.com` | [policy](https://vdp.aws.security/) | — | — | active |
+| `amazonaws.com` | [policy](https://vdp.aws.security/) | — | — | expired |
+| `amazonwebservices.com` | [policy](https://vdp.aws.security/) | — | — | expired |
 | `amplitude.com` | [policy](https://amplitude.com/docs/faq/security-and-privacy) | monetary | — | active |
 | `amsterdamuas.com` | [policy](https://www.amsterdamuas.com/practical-matters/coordinated-vulnerability-disclosure) | monetary | — | retired |
 | `amzn.com` | [policy](https://hackerone.com/amazonvrp) | — | — | active |
-| `anaconda.com` | — | — | — | active |
-| `anaconda.org` | — | — | — | active |
+| `anaconda.com` | — | — | — | expired |
+| `anaconda.org` | — | — | — | expired |
 | `anthropic.com` | [policy](https://www.anthropic.com/responsible-disclosure-policy) | monetary | yes | active |
 | `anz.com` | — | — | — | active |
 | `appian.com` | — | — | — | active |
@@ -52,8 +51,8 @@
 | `aveva.com` | — | — | — | active |
 | `avvo.com` | — | — | — | active |
 | `awin.com` | — | — | — | active |
-| `aws.com` | [policy](https://vdp.aws.security/) | — | — | active |
-| `awscloud.com` | [policy](https://vdp.aws.security/) | — | — | active |
+| `aws.com` | [policy](https://vdp.aws.security/) | — | — | expired |
+| `awscloud.com` | [policy](https://vdp.aws.security/) | — | — | expired |
 | `axelspringer.com` | — | monetary | — | active |
 | `axis.com` | [policy](https://help.axis.com/axis-vulnerability-management-policy) | monetary | — | active |
 | `backblaze.com` | [policy](https://www.backblaze.com/cloud-storage/security) | monetary | — | retired |
@@ -93,7 +92,7 @@
 | `carsdirect.com` | — | — | — | active |
 | `casepoint.com` | [policy](https://www.casepoint.com/vulnerability-disclosure-policy/) | — | — | retired |
 | `cengage.com` | — | recognition | — | expired |
-| `cfpb.gov` | [policy](https://www.consumerfinance.gov/vulnerability-disclosure-policy/) | — | — | active |
+| `cfpb.gov` | [policy](https://www.consumerfinance.gov/vulnerability-disclosure-policy/) | — | — | expired |
 | `chat.openai.com` | [policy](https://openai.com/policies/coordinated-vulnerability-disclosure-policy) | recognition | — | active |
 | `chatgpt.com` | [policy](https://openai.com/policies/coordinated-vulnerability-disclosure-policy) | recognition | — | active |
 | `cheapflights.com` | [policy](https://www.kayak.com/security/) | monetary | — | active |
@@ -112,10 +111,10 @@
 | `community.com` | [policy](https://community.com/legal/vulnerability-disclosure-policy) | — | — | retired |
 | `comparethemarket.com` | — | — | — | active |
 | `conceptboard.com` | [policy](https://conceptboard.com/bug-bounty-program/) | monetary | yes | retired |
-| `conda.io` | — | — | — | active |
-| `consumerfinance.gov` | [policy](https://www.consumerfinance.gov/vulnerability-disclosure-policy/) | — | — | active |
+| `conda.io` | — | — | — | expired |
+| `consumerfinance.gov` | [policy](https://www.consumerfinance.gov/vulnerability-disclosure-policy/) | — | — | expired |
 | `contentsquare.com` | [policy](https://contentsquare.com/disclosure) | monetary | — | active |
-| `continuum.io` | — | — | — | active |
+| `continuum.io` | — | — | — | expired |
 | `cookinglight.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `coveo.com` | — | — | — | retired |
 | `covermymeds.com` | [policy](https://www.mckesson.com/cybersecurity/coordinated-vulnerability-disclosure/) | monetary | — | active |
@@ -123,7 +122,6 @@
 | `cpanel.net` | — | — | — | active |
 | `crawler.ninja` | [policy](https://crawler.ninja/files/security-txt-values.txt) | monetary | yes | retired |
 | `creditkarma.com` | [policy](https://hackerone.com/creditkarma) | — | — | active |
-| `crewai.com` | [policy](https://github.com/crewAIInc/crewAI/blob/main/.github/security.md) | — | — | active |
 | `criminaldefenselawyer.com` | — | — | — | active |
 | `csosa.gov` | [policy](https://www.csosa.gov/vulnerability-disclosure-policy/) | — | — | active |
 | `cyberghostvpn.com` | — | monetary | — | active |
@@ -140,7 +138,7 @@
 | `devolutions.net` | [policy](https://devolutions.net/security/report-issue/) | monetary | — | active |
 | `dfc.gov` | [policy](https://www.dfc.gov/vulnerability-disclosure-policy) | monetary | yes | retired |
 | `dhl.com` | [policy](https://group.dhl.com/en/sustainability/governance/cyber-security/vulnerability-disclosure-policy.html) | — | yes | active |
-| `digitalocean.com` | [policy](https://app.intigriti.com/programs/digitalocean/digitalocean) | monetary | — | expired |
+| `digitalocean.com` | [policy](https://app.intigriti.com/programs/digitalocean/digitalocean) | monetary | — | active |
 | `discover.com` | [policy](https://www.discover.com/responsible-disclosure/) | monetary | — | retired |
 | `docs.ens.domains` | [policy](https://docs.ens.domains/bugs/) | monetary | — | retired |
 | `docs.multichain.org` | [policy](https://docs.multichain.org/getting-started/security/bug-bounty-immunefi) | monetary | — | retired |
@@ -176,7 +174,7 @@
 | `fab.com` | [policy](https://hackerone.com/epicgames) | — | — | active |
 | `factorialhr.com` | [policy](https://hackerone.com/factorial) | — | — | retired |
 | `fanduel.com` | — | monetary | — | active |
-| `fareharbor.com` | — | monetary | — | expired |
+| `fareharbor.com` | — | monetary | — | active |
 | `fastly.com` | [policy](https://www.fastly.com/security/report-security-issue) | swag | — | retired |
 | `ferrero.com` | [policy](https://www.ferrero.com/gcc/en/vulnerability-disclosure-policy) | — | yes | retired |
 | `fetlife.com` | — | — | — | active |
@@ -212,8 +210,8 @@
 | `github.com` | [policy](https://bounty.github.com) | monetary | — | active |
 | `gitlab.com` | [policy](https://hackerone.com/gitlab/) | — | — | active |
 | `glean.com` | [policy](https://bugcrowd.com/engagements/glean-technologies-public) | monetary | — | active |
-| `global.com` | [policy](https://global.com/bug-bounty-policy/) | monetary | yes | active |
-| `globalsign.com` | — | — | — | active |
+| `global.com` | [policy](https://global.com/bug-bounty-policy/) | monetary | yes | retired |
+| `globalsign.com` | — | — | — | expired |
 | `gocardless.com` | [policy](https://gocardless.com/faq/merchants/security/) | monetary | — | active |
 | `goodnotes.com` | [policy](https://hackerone.com/goodnotes) | — | — | active |
 | `grab.com` | [policy](https://hackerone.com/grab?view_policy=true) | — | — | active |
@@ -222,7 +220,7 @@
 | `greenhouse.com` | [policy](https://hackerone.com/greenhouse?type=team) | — | — | expired |
 | `greenhouse.io` | [policy](https://hackerone.com/greenhouse?type=team) | — | — | expired |
 | `group.jumia.com` | [policy](https://group.jumia.com/security/) | recognition | — | active |
-| `gsa.gov` | [policy](https://gsa.gov/vulnerability-disclosure-policy) | — | — | active |
+| `gsa.gov` | [policy](https://gsa.gov/vulnerability-disclosure-policy) | — | — | expired |
 | `gumtree.com` | — | monetary | — | active |
 | `hackerone.com` | [policy](https://hackerone.com/security) | — | — | active |
 | `hackthebox.com` | — | — | — | active |
@@ -331,7 +329,7 @@
 | `moonpay.com` | — | — | — | active |
 | `motorauthority.com` | — | — | — | active |
 | `mtpelerin.com` | [policy](https://www.mtpelerin.com/responsible-disclosure-policy) | monetary | — | retired |
-| `murena.io` | [policy](https://hackerone.com/nextcloud) | — | — | expired |
+| `murena.io` | [policy](https://hackerone.com/nextcloud) | — | — | active |
 | `my.xfinity.com` | [policy](https://www.xfinity.com/vulnerabilityreport) | monetary | — | retired |
 | `mydomaine.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `myemma.com` | [policy](https://myemma.com/trust/security) | — | — | expired |
@@ -343,12 +341,11 @@
 | `natwestgroup.com` | [policy](https://bugcrowd.com/natwest-vdp) | — | — | active |
 | `nautadutilh.com` | [policy](https://www.nautadutilh.com/en/responsible-disclosure) | — | — | active |
 | `ncua.gov` | [policy](https://ncua.gov/vulnerability-disclosure-policy) | monetary | — | retired |
-| `nebraska.edu` | [policy](https://nebraska.edu/offices/information-technology-services/vulnerability-disclosure-program/) | recognition | yes | retired |
 | `nedap.com` | [policy](https://www.nedap.com/en/coordinated-vulnerability-disclosure-policy) | — | yes | active |
 | `netflix.com` | [policy](https://hackerone.com/netflix) | — | — | active |
 | `netflix.io` | [policy](https://hackerone.com/netflix) | — | — | active |
 | `netflix.net` | [policy](https://hackerone.com/netflix) | — | — | active |
-| `netim.com` | — | — | — | active |
+| `netim.com` | — | — | — | expired |
 | `newrelic.com` | [policy](https://hackerone.com/newrelic) | recognition | — | active |
 | `newscorp.com` | [policy](https://newscorp.com/vulnerability-disclosure-policy/) | monetary | — | retired |
 | `nexo.com` | [policy](https://nexo.com/vulnerability-disclosure) | monetary | yes | active |
@@ -430,7 +427,7 @@
 | `rentalcars.com` | — | — | — | active |
 | `responsibledisclosure.com` | [policy](https://impact.responsibledisclosure.com/hc/en-us) | recognition | — | active |
 | `ring.com` | [policy](https://hackerone.com/ring) | — | — | active |
-| `robinhood.com` | [policy](https://hackerone.com/robinhood) | — | — | expired |
+| `robinhood.com` | [policy](https://hackerone.com/robinhood) | — | — | active |
 | `roche.com` | [policy](https://hackerone.com/roche?view_policy=true) | — | — | active |
 | `rockstargames.com` | [policy](https://hackerone.com/rockstargames?type=team) | — | — | expired |
 | `rohde-schwarz.com` | — | — | — | active |
@@ -447,7 +444,7 @@
 | `sendsafely.com` | [policy](https://explore.sendsafely.com/security/bug-bounty/) | monetary | — | retired |
 | `seriouseats.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `sfpackage.com` | [policy](https://sfpackage.com/the-ultimate-guide-best-vpn-for-bug-bounty-hunting/) | monetary | — | retired |
-| `shamelstudio.com` | [policy](https://www.shamelstudio.com/security) | — | yes | active |
+| `shamelstudio.com` | [policy](https://www.shamelstudio.com/security#vulnerability-disclosure) | — | yes | active |
 | `shape.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `shapesecurity.com` | [policy](https://www.f5.com/support/report-a-vulnerability) | — | — | retired |
 | `shopify.com` | [policy](https://hackerone.com/shopify) | — | — | active |
@@ -516,7 +513,6 @@
 | `treasury.gov` | [policy](https://home.treasury.gov/vulnerability-disclosure-policy) | monetary | — | active |
 | `treehugger.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `tripsavvy.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
-| `truecaller.com` | — | — | — | active |
 | `truelayer.com` | [policy](https://truelayer.com/security/security-vulnerability-disclosure-programme/) | monetary | — | expired |
 | `trustly.com` | [policy](https://www.trustly.com/security/disclosure) | monetary | — | retired |
 | `trustwave.com` | [policy](https://www.levelblue.com/legal/privacy-policy) | — | — | active |

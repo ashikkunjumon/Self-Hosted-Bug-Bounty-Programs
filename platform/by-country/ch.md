@@ -29,7 +29,7 @@
 | `indeed.ch` | [policy](https://www.indeed.com/legal?hl=en&from=gnav-homepage#ivrp) | — | — | retired |
 | `infomaniak.ch` | [policy](https://infomaniak.vulnerability-disclosure.com) | — | — | active |
 | `jugendundsport.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | recognition | yes | active |
-| `jungfrau.ch` | — | — | — | expired |
+| `jungfrau.ch` | — | — | — | active |
 | `jura.ch` | [policy](https://www.jura.ch/scripts/index.aspx?idn=12853) | monetary | yes | active |
 | `kayak.ch` | [policy](https://www.kayak.com/security/) | monetary | — | active |
 | `kkg.ch` | — | — | — | active |

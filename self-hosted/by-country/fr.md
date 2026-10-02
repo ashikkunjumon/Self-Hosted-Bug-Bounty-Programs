@@ -1,6 +1,6 @@
 # Self-hosted programs — FR
 
-157 programs.
+159 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -48,6 +48,7 @@
 | `ec-nantes.fr` | — | recognition | — | active |
 | `ekomi.fr` | — | — | — | active |
 | `ekwateur.fr` | — | recognition | — | active |
+| `ensicaen.fr` | — | — | — | active |
 | `euromaster.fr` | — | recognition | — | active |
 | `evaneos.fr` | [policy](https://vdp.evaneos.com/) | — | — | active |
 | `expedia.fr` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
@@ -104,7 +105,7 @@
 | `michelin.fr` | — | — | — | active |
 | `mouv.fr` | — | — | — | active |
 | `msa.fr` | — | — | — | active |
-| `museeairespace.fr` | — | — | — | retired |
+| `museeairespace.fr` | — | — | — | active |
 | `museepicassoparis.fr` | — | — | — | active |
 | `naolib.fr` | — | recognition | — | active |
 | `notino.fr` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
@@ -161,3 +162,4 @@
 | `vistaprint.fr` | — | — | — | active |
 | `wanadoo.fr` | — | — | — | active |
 | `webador.fr` | — | — | — | active |
+| `yandex.fr` | [policy](https://ya.cc/t/1cSZixjB3gkSva) | monetary | — | active |

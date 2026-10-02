@@ -8,7 +8,7 @@
 | `crcx.eu` | [policy](https://crcx.eu/legal/responsible-disclosure) | — | yes | active |
 | `databalance.eu` | [policy](https://www.databalance.eu/en/responsible-disclosure/) | monetary | — | retired |
 | `forculus.eu` | [policy](https://www.forculus.eu/responsible-disclosure) | monetary | yes | retired |
-| `foxiot.eu` | [policy](https://foxiot.eu/legal/security.html) | — | yes | active |
+| `foxiot.eu` | [policy](https://www.foxiot.eu/legal/security.html) | — | yes | active |
 | `idura.eu` | [policy](https://idura.eu/legal/vulnerability-disclosure-policy) | monetary | — | active |
 | `jd-services.eu` | [policy](https://jd-services.eu/vdp/) | monetary | yes | active |
 | `medcite.eu` | [policy](https://medcite.eu/us/responsible-disclosure) | monetary | yes | retired |

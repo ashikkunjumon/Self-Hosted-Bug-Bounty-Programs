@@ -1,6 +1,6 @@
 # Self-hosted programs — IO
 
-61 programs.
+62 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -11,14 +11,14 @@
 | `axoniq.io` | [policy](https://www.axoniq.io/legal/responsible-disclosure-disclaimer) | recognition | yes | retired |
 | `bluecanvas.io` | [policy](https://bluecanvas.io/report-vulnerability) | recognition | yes | retired |
 | `brakepoint.io` | [policy](https://www.brakepoint.io/en/security/) | swag | yes | active |
-| `buildpulse.io` | [policy](https://buildpulse.io/security) | — | — | retired |
+| `buildpulse.io` | [policy](https://buildpulse.io/security) | — | — | active |
 | `captainfact.io` | [policy](https://captainfact.io/help/bug_report) | — | — | active |
 | `chameleon.io` | [policy](https://www.chameleon.io/disclosure) | monetary | yes | retired |
 | `clazar.io` | [policy](https://clazar.io/vulnerability-disclosure-policy) | recognition | yes | retired |
 | `cloudfiles.io` | [policy](https://www.cloudfiles.io/responsible-disclosure) | — | — | active |
 | `clubhouse.io` | [policy](https://www.shortcut.com/disclosure/) | recognition | — | retired |
 | `customer.io` | [policy](https://customer.io/legal/reporting-vulnerability) | swag | — | retired |
-| `d-card.io` | [policy](https://d-card.io/security) | monetary | — | active |
+| `d-card.io` | [policy](https://d-card.io/security) | — | — | active |
 | `disclose.io` | [policy](https://disclose.io/security/) | recognition | yes | active |
 | `docs.elmah.io` | [policy](https://docs.elmah.io/vulnerability-disclosure-program/) | monetary | — | active |
 | `docs.szns.io` | [policy](https://docs.szns.io/smart-contracts/bug-bounty) | monetary | — | retired |
@@ -28,10 +28,9 @@
 | `gitpod.io` | [policy](https://ona.com/docs/ona/security/report) | — | yes | retired |
 | `hackhq.io` | [policy](https://hackhq.io/security) | — | yes | active |
 | `hadrian.io` | [policy](https://hadrian.io/vulnerability-disclosure-policy) | — | — | active |
-| `headspin.io` | [policy](https://www.headspin.io/cvd-policy) | — | yes | active |
 | `honeycomb.io` | [policy](https://docs.honeycomb.io/security-compliance/bug-bounty-program) | monetary | — | retired |
 | `hrpartner.io` | [policy](https://www.hrpartner.io/security.html) | — | — | retired |
-| `hybridclaw.io` | [policy](https://hybridclaw.io/en/security/) | monetary | yes | active |
+| `hybridclaw.io` | [policy](https://hybridclaw.io/security) | recognition | yes | active |
 | `idena.io` | [policy](https://www.idena.io/contribute) | monetary | — | retired |
 | `immutablesoft.github.io` | [policy](https://immutablesoft.github.io/ImmutableEcosystem/) | monetary | — | retired |
 | `infodeck.io` | [policy](https://www.infodeck.io/responsible-disclosure/) | swag | — | retired |
@@ -40,18 +39,20 @@
 | `kpa.io` | [policy](https://hs.kpa.io/responsible-disclosure-policy) | monetary | yes | retired |
 | `leantime.io` | [policy](https://leantime.io/responsible-disclosure-policy/) | — | — | retired |
 | `lisk.io` | [policy](https://lisk.com/legal/privacy/) | monetary | yes | active |
-| `mlaify.io` | [policy](https://matthewd.xyz/security/) | — | yes | retired |
+| `mlaify.io` | [policy](https://mlaify.io/security/) | — | yes | active |
 | `multihub.io` | [policy](https://www.multihub.io/security) | monetary | — | active |
 | `mydukaan.io` | [policy](https://mydukaan.io/bugbounty/) | monetary | — | retired |
 | `onpay.io` | [policy](https://onpay.io/responsible-disclosure) | monetary | yes | active |
 | `overblock.io` | [policy](https://overblock.io/security) | recognition | — | expired |
 | `parity.io` | [policy](https://www.parity.io/bug-bounty) | monetary | — | retired |
+| `phished.io` | [policy](https://security.phished.io/en/#disclosure) | recognition | — | active |
 | `primer.io` | [policy](https://primer.io/responsible-disclosure) | monetary | yes | retired |
 | `pwnedlabs.io` | [policy](https://pwnedlabs.io/security-policy) | swag | yes | active |
-| `qt.io` | [policy](https://www.qt.io/terms-conditions/coordinated-vulnerability-disclosure-policy-2026-09) | recognition | yes | active |
+| `qt.io` | [policy](https://www.qt.io/terms-conditions/responsible-vulnerability-disclosure-process) | recognition | yes | active |
 | `recruitcrm.io` | [policy](https://recruitcrm.io/legal/rcrm-vulnerability-disclosure-program/) | — | yes | retired |
 | `rekaz.io` | [policy](https://rekaz.io/home/en/vulnerability-disclosure/) | — | — | active |
 | `salestrail.io` | [policy](https://www.salestrail.io/vulnerability) | — | — | retired |
+| `scrapfly.io` | [policy](https://scrapfly.io/bug-bounty-program) | — | — | active |
 | `secrethub.io` | [policy](https://secrethub.io/security/responsible-disclosure/) | — | — | retired |
 | `securin.io` | [policy](https://www.securin.io/zero-days/disclosure-policy) | monetary | yes | retired |
 | `senseon.io` | [policy](https://www.senseon.io/responsible-disclosure-policy) | recognition | yes | active |

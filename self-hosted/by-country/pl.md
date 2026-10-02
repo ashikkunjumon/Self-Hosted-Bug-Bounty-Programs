@@ -63,8 +63,8 @@
 | `home.pl` | — | — | — | active |
 | `homebook.pl` | — | — | — | active |
 | `i.pl` | — | — | — | expired |
-| `infakt.pl` | [policy](https://www.infakt.pl/bugbounty/) | monetary | — | active |
-| `intel.pl` | [policy](https://www.intel.com/content/www/us/en/security-center/vulnerability-handling-guidelines.html) | monetary | — | active |
+| `inpost.pl` | [policy](https://vdp.inpost.pl/p/Policy?lang=en-gb) | — | — | active |
+| `intel.pl` | [policy](https://www.intel.com/content/www/us/en/security-center/vulnerability-handling-guidelines.html) | — | — | active |
 | `jakdojade.pl` | — | — | — | active |
 | `jastrzabpost.pl` | — | — | — | active |
 | `kafeteria.pl` | — | — | — | active |

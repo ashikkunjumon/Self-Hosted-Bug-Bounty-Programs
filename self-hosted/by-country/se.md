@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-496 programs.
+499 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -11,11 +11,11 @@
 | `aftonbladet.se` | [policy](https://www.schibsted.com/about/security-in-schibsted/schibsted-security-policy/) | — | — | active |
 | `aimopark.se` | — | — | — | active |
 | `akademikernasakassa.se` | — | — | — | active |
-| `akademiska.se` | — | — | — | expired |
+| `akademiska.se` | — | — | — | active |
 | `aktuellhallbarhet.se` | — | — | — | active |
 | `albanova.se` | — | — | — | active |
 | `ale.se` | — | — | — | active |
-| `alingsas.se` | — | — | — | active |
+| `alingsas.se` | — | — | — | expired |
 | `allehanda.se` | — | — | — | active |
 | `almhult.se` | — | — | — | active |
 | `alvdalen.se` | — | — | — | active |
@@ -136,13 +136,14 @@
 | `government.se` | — | — | — | active |
 | `grandhotel.se` | — | — | — | active |
 | `granngarden.se` | [policy](https://www.granngarden.se/dataskydd/personuppgiftspolicy) | monetary | — | active |
+| `guldfynd.se` | [policy](https://www.viskan.com/en-eu/responsible-disclosure/) | — | yes | active |
 | `gymnastik.se` | — | — | — | active |
 | `habo.se` | — | — | — | active |
 | `hagfors.se` | — | — | — | active |
 | `hallakonsument.se` | — | — | — | expired |
 | `hallstahammar.se` | — | — | — | active |
 | `halmstad.se` | — | — | — | active |
-| `handelsbanken.se` | — | — | — | active |
+| `handelsbanken.se` | — | — | — | expired |
 | `haninge.se` | — | — | — | active |
 | `haparanda.se` | — | — | — | active |
 | `harnosand.se` | — | — | — | active |
@@ -159,6 +160,7 @@
 | `hkr.se` | [policy](https://www.hkr.se/infosakerhet/) | — | — | expired |
 | `hoganas.se` | — | — | — | active |
 | `hogia.se` | — | — | — | active |
+| `hogstadomstolen.se` | — | — | — | active |
 | `hornbach.se` | — | — | — | active |
 | `ht.se` | — | — | — | active |
 | `huddinge.se` | — | — | — | active |
@@ -167,7 +169,7 @@
 | `ica.se` | — | — | — | active |
 | `icaforsakring.se` | — | — | — | active |
 | `icagruppen.se` | — | — | — | active |
-| `imy.se` | — | — | — | expired |
+| `imy.se` | — | — | — | active |
 | `indie-ver.se` | — | — | — | active |
 | `inet.se` | — | — | — | retired |
 | `informationsverige.se` | — | — | — | active |
@@ -181,7 +183,7 @@
 | `jamtkraft.se` | — | — | — | expired |
 | `janusinfo.se` | — | — | — | active |
 | `jarfalla.se` | — | — | — | active |
-| `jernhusen.se` | — | — | — | active |
+| `jernhusen.se` | — | — | — | expired |
 | `jnytt.se` | — | — | — | active |
 | `jo.se` | — | — | — | expired |
 | `jonkoping.se` | — | — | — | expired |
@@ -225,7 +227,7 @@
 | `kungligaslotten.se` | — | — | — | active |
 | `kungsbacka.se` | — | — | — | active |
 | `kunskapsstyrningvard.se` | — | — | — | active |
-| `kustbevakningen.se` | — | — | — | active |
+| `kustbevakningen.se` | — | — | — | expired |
 | `laholm.se` | — | — | — | active |
 | `lakareutangranser.se` | — | — | — | active |
 | `lakemedelsboken.se` | [policy](https://www.lakemedelsverket.se/en/security/responsible-disclosure) | — | — | active |
@@ -261,7 +263,7 @@
 | `mark.se` | — | — | — | active |
 | `markaryd.se` | — | — | — | active |
 | `market.se` | — | — | — | active |
-| `matsmart.se` | — | — | — | active |
+| `matsmart.se` | — | — | — | expired |
 | `mau.se` | — | — | — | active |
 | `max.se` | — | — | — | active |
 | `mcf.se` | — | — | — | active |
@@ -294,7 +296,7 @@
 | `newsmill.se` | — | — | — | active |
 | `nibe.se` | [policy](https://vdp.nibegroup.com) | recognition | — | active |
 | `nlt.se` | — | — | — | active |
-| `nok.se` | — | recognition | — | expired |
+| `nok.se` | — | recognition | — | active |
 | `nordicchoicehotels.se` | — | — | — | expired |
 | `nordiskamuseet.se` | — | — | — | expired |
 | `nordnet.se` | [policy](https://www.nordnet.se/security-disclosure) | monetary | — | active |
@@ -341,7 +343,7 @@
 | `regionkalmar.se` | — | — | — | active |
 | `regionostergotland.se` | — | — | — | active |
 | `regionstockholm.se` | — | — | — | active |
-| `regionuppsala.se` | — | — | — | expired |
+| `regionuppsala.se` | — | — | — | active |
 | `regionvasterbotten.se` | — | — | — | active |
 | `rf.se` | — | — | — | active |
 | `rfsisu.se` | — | — | — | active |
@@ -359,7 +361,7 @@
 | `sahlgrenska.se` | — | — | — | active |
 | `sandviken.se` | — | — | — | active |
 | `sas.se` | [policy](https://www.sasgroup.net/contact/vulnerability-disclosure-policy/) | recognition | yes | retired |
-| `sbab.se` | [policy](https://sbab.se/1/sidfotsmeny_2/sakerhet/responsible_disclosure.html) | — | — | active |
+| `sbab.se` | [policy](https://sbab.se/1/sidfotsmeny_2/sakerhet/responsible_disclosure.html) | monetary | — | active |
 | `sbf.se` | — | — | — | active |
 | `scb.se` | — | — | — | expired |
 | `scilifelab.se` | — | — | — | active |
@@ -386,6 +388,7 @@
 | `skurup.se` | — | — | — | active |
 | `sla.se` | — | — | — | active |
 | `slf.se` | — | — | — | expired |
+| `slu.se` | — | — | — | active |
 | `smalandsdagblad.se` | — | — | — | active |
 | `smalanningen.se` | — | — | — | active |
 | `smp.se` | — | — | — | active |

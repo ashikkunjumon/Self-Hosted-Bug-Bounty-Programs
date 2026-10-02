@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-403 programs.
+406 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@
 | `badische-zeitung.de` | — | — | — | active |
 | `bagso.de` | — | — | — | active |
 | `bahn.de` | — | — | — | active |
-| `bamf.de` | — | — | — | active |
+| `bamf.de` | — | — | — | expired |
 | `barmenia.de` | — | — | — | active |
 | `barmeniagothaer.de` | — | — | — | active |
 | `barmer.de` | — | — | — | active |
@@ -53,7 +53,7 @@
 | `bosch.de` | [policy](https://psirt.bosch.com/bosch-responsible-disclosure-policy/) | recognition | — | active |
 | `brandenburg.de` | — | — | — | active |
 | `braunschweiger-zeitung.de` | — | — | — | active |
-| `brunner.de` | [policy](https://www.brunner.de/cra-security/) | — | — | active |
+| `brunner.de` | [policy](https://www.brunner.de/cra-security) | — | — | active |
 | `bsi.de` | [policy](https://www.bsi.bund.de/DE/IT-Sicherheitsvorfall/IT-Schwachstellen/it-schwachstellen_node.html) | recognition | — | active |
 | `bund.de` | — | — | — | active |
 | `bundesbank.de` | — | recognition | — | active |
@@ -85,7 +85,7 @@
 | `datenschutzzentrum.de` | — | — | — | active |
 | `datev.de` | [policy](https://serviceformulare.datev.de/link/ShowDoForm?FormID=7110) | — | — | active |
 | `decathlon.de` | [policy](https://vdp.decathlon.net) | — | — | active |
-| `denic.de` | [policy](https://www.denic.de/security/responsible-disclosure-policy) | recognition | — | active |
+| `denic.de` | [policy](https://www.denic.de/security/responsible-disclosure-policy) | recognition | yes | active |
 | `denx.de` | — | — | — | expired |
 | `desired.de` | — | — | — | active |
 | `desy.de` | — | monetary | — | active |
@@ -110,7 +110,7 @@
 | `drk-blutspende.de` | — | — | — | active |
 | `dstgb.de` | — | — | — | active |
 | `eco.de` | — | — | — | expired |
-| `ekd.de` | — | — | — | expired |
+| `ekd.de` | — | — | — | active |
 | `ekomi.de` | — | — | — | active |
 | `eon.de` | — | — | — | active |
 | `erasmusplus.de` | — | — | — | active |
@@ -142,11 +142,11 @@
 | `fuerth.de` | — | — | — | active |
 | `funkemedien.de` | — | — | — | retired |
 | `g7germany.de` | — | — | — | active |
-| `galaxus.de` | [policy](https://www.galaxus.ch/security) | monetary | yes | expired |
+| `galaxus.de` | [policy](https://www.galaxus.ch/security) | monetary | yes | active |
 | `gambio.de` | — | — | — | active |
 | `gamestar.de` | — | — | — | retired |
 | `gameswelt.de` | — | — | — | active |
-| `gdata.de` | [policy](https://www.gdatasoftware.com/privacy/vulnerability-disclosure) | — | yes | active |
+| `gdata.de` | [policy](https://www.gdata.de/en/privacy/vulnerability-disclosure) | recognition | yes | active |
 | `gelsenkirchen.de` | — | — | — | active |
 | `germany4ukraine.de` | — | — | — | retired |
 | `gettyimages.de` | — | — | — | retired |
@@ -198,7 +198,7 @@
 | `it-recht-kanzlei.de` | — | recognition | — | active |
 | `izzysoft.de` | — | — | — | active |
 | `jameda.de` | — | — | — | active |
-| `jochen-schweizer.de` | [policy](https://public-jsmd.s3.eu-central-1.amazonaws.com/Bug-Bounty-Policy-1.2.pdf) | monetary | — | expired |
+| `jochen-schweizer.de` | [policy](https://public-jsmd.s3.eu-central-1.amazonaws.com/Bug-Bounty-Policy-1.3.pdf) | monetary | — | active |
 | `jpberlin.de` | — | — | — | active |
 | `jtl-url.de` | — | — | — | active |
 | `juris.de` | — | — | — | active |
@@ -228,6 +228,7 @@
 | `lotto.de` | [policy](https://vdp.lotto-niedersachsen.de/p/Policy) | — | — | expired |
 | `ludwigsburg.de` | — | — | — | active |
 | `lvr.de` | — | — | — | active |
+| `lvz.de` | — | — | — | active |
 | `mainz.de` | [policy](https://mainz.de/cvd) | recognition | — | active |
 | `marburg.de` | — | — | — | active |
 | `mdc-berlin.de` | — | — | — | active |
@@ -246,7 +247,7 @@
 | `mvg.de` | — | — | — | active |
 | `mvv.de` | — | — | — | active |
 | `my-hammer.de` | — | — | — | expired |
-| `mydays.de` | [policy](https://public-jsmd.s3.eu-central-1.amazonaws.com/Bug-Bounty-Policy-1.2.pdf) | monetary | — | expired |
+| `mydays.de` | [policy](https://public-jsmd.s3.eu-central-1.amazonaws.com/Bug-Bounty-Policy-1.3.pdf) | monetary | — | active |
 | `neoshare.de` | [policy](https://neoshare.de/responsible-disclosure-program) | recognition | — | retired |
 | `netto-online.de` | — | — | — | active |
 | `nius.de` | — | — | — | active |
@@ -267,10 +268,11 @@
 | `password-depot.de` | [policy](https://www.password-depot.de/en/resources/trust-center/vulnerability-disclosure-policy.htm) | monetary | yes | active |
 | `penny.de` | — | — | — | active |
 | `personalausweisportal.de` | — | — | — | active |
+| `ph-freiburg.de` | — | — | — | active |
 | `phoenix.de` | — | — | — | active |
 | `phpunit.de` | [policy](https://github.com/sebastianbergmann/phpunit-website/blob/main/SECURITY.md) | — | — | active |
-| `pixum.de` | — | — | — | active |
-| `pnn.de` | — | — | — | expired |
+| `pixum.de` | — | — | — | expired |
+| `pnn.de` | — | — | — | active |
 | `pnp.de` | — | — | — | active |
 | `poppen.de` | — | — | — | expired |
 | `porsche.de` | [policy](https://www.porsche.com/international/information-security/) | — | — | active |
@@ -308,7 +310,7 @@
 | `slub-dresden.de` | — | — | — | active |
 | `sma.de` | [policy](https://www.sma.de/en/cybersecurity/responsible-disclosure) | — | — | active |
 | `soscisurvey.de` | [policy](https://www.soscisurvey.de/en/security) | monetary | — | active |
-| `sparkasse.de` | [policy](https://www.s-communication.de/BugBounty.html) | monetary | — | expired |
+| `sparkasse.de` | [policy](https://www.s-communication.de/BugBounty.html) | monetary | — | active |
 | `spdfraktion.de` | — | — | — | expired |
 | `speyer.de` | — | — | — | active |
 | `spreadshirt.de` | — | — | — | active |
@@ -322,7 +324,8 @@
 | `swm.de` | — | — | — | active |
 | `swr.de` | — | — | — | active |
 | `swr3.de` | — | — | — | active |
-| `tagesspiegel.de` | — | — | — | expired |
+| `tagesspiegel.de` | — | — | — | active |
+| `taskcards.de` | — | — | — | active |
 | `tchibo.de` | — | — | — | active |
 | `telekom.de` | [policy](https://www.telekom.com/bugbounty) | monetary | — | retired |
 | `telepolis.de` | [policy](https://heise.de/-7513540) | monetary | — | active |

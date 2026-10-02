@@ -55,13 +55,13 @@
 | `notino.it` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
 | `openfiber.it` | [policy](https://openfiber.it/responsible-disclosure/) | — | — | active |
 | `pagopa.gov.it` | [policy](https://www.pagopa.gov.it/security.html) | recognition | — | active |
-| `peacelink.it` | [policy](https://www.peacelink.it/peacelink/sicurezza) | — | yes | expired |
+| `peacelink.it` | [policy](https://www.peacelink.it/peacelink/sicurezza) | recognition | yes | expired |
 | `pixartprinting.it` | — | — | — | active |
 | `privacylab.it` | — | — | — | active |
 | `radioradicale.it` | — | — | — | active |
 | `rhoss.it` | [policy](https://www.rhoss.it/cyber-resilience-act/) | — | — | active |
 | `richslots.it` | — | — | — | retired |
-| `riello-solartech.it` | [policy](https://www.riello-solartech.it/approfondimento/vulnerability-and-incident-disclosure) | monetary | — | active |
+| `riello-solartech.it` | [policy](https://www.riello-solartech.com/insight/vulnerability-and-incident-disclosure) | monetary | — | active |
 | `sandenvendo.it` | [policy](https://www.sandenvendo.it/pt/cra-security/) | — | — | active |
 | `sdabocconi.it` | [policy](https://unibocconi.it/security/vulnerability-disclosure) | monetary | — | active |
 | `seeweb.it` | — | — | — | active |

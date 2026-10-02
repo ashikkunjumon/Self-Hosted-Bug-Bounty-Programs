@@ -1,11 +1,12 @@
 # Self-hosted programs — GR
 
-22 programs.
+23 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `aboutyou.gr` | — | monetary | — | retired |
 | `athexgroup.gr` | — | — | — | active |
+| `bestprice.gr` | — | — | — | active |
 | `cityofathens.gr` | — | — | — | active |
 | `emathisi.gr` | [policy](https://docs.moodle.org/dev/Moodle_security_procedures) | recognition | — | expired |
 | `esky.gr` | — | recognition | — | active |

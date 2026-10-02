@@ -1,12 +1,12 @@
 # Self-hosted programs — FI
 
-120 programs.
+121 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `1xbet.fi` | — | monetary | — | active |
 | `a-lehdet.fi` | — | — | — | active |
-| `aamulehti.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | active |
+| `aamulehti.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | expired |
 | `aimopark.fi` | — | — | — | active |
 | `aktia.fi` | [policy](https://www.aktia.fi/fi/aktia-responsible-disclosure) | — | yes | active |
 | `alandsbanken.fi` | [policy](https://www.alandsbanken.fi/security-policy) | recognition | — | active |
@@ -39,22 +39,22 @@
 | `gloria.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | active |
 | `hameenlinna.fi` | — | — | — | active |
 | `hbl.fi` | — | — | — | active |
-| `helsinginsanomat.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | active |
+| `helsinginsanomat.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | expired |
 | `helsinki.fi` | — | — | — | active |
 | `hintaopas.fi` | — | — | — | expired |
-| `hs.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | active |
+| `hs.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | expired |
 | `huoltovarmuuskeskus.fi` | — | — | — | expired |
 | `hus.fi` | — | — | — | active |
 | `hyvaterveys.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | active |
 | `inet.fi` | — | — | — | active |
 | `intersport.fi` | — | — | — | expired |
-| `is.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | active |
+| `is.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | expired |
 | `joutsenmerkki.fi` | — | — | — | active |
 | `jylkkari.fi` | [policy](https://handbook.dude.fi/security-policy) | monetary | — | active |
 | `k-auto.fi` | — | — | — | expired |
 | `k-rauta.fi` | — | — | — | expired |
 | `k-ruoka.fi` | — | — | — | active |
-| `kankaanpaanseutu.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | active |
+| `kankaanpaanseutu.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | expired |
 | `kanta.fi` | — | — | — | active |
 | `kapsi.fi` | — | — | — | active |
 | `katsomo.fi` | [policy](https://responsible-disclosure.tv4.se/01-policy.html) | recognition | yes | active |
@@ -71,6 +71,7 @@
 | `lippu.fi` | — | — | — | active |
 | `lynex.fi` | — | — | — | active |
 | `lyyti.fi` | — | — | — | active |
+| `maaseuduntulevaisuus.fi` | — | — | — | active |
 | `mobilepay.fi` | [policy](https://vdp.vippsmobilepay.com) | — | — | active |
 | `motonet.fi` | — | — | — | expired |
 | `mtv.fi` | [policy](https://responsible-disclosure.tv4.se/01-policy.html) | recognition | yes | active |
@@ -89,7 +90,7 @@
 | `rakentaja.fi` | — | — | — | active |
 | `risingshadow.fi` | — | — | — | active |
 | `sanoma.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | expired |
-| `satakunnankansa.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | active |
+| `satakunnankansa.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | expired |
 | `seravo.fi` | — | — | — | active |
 | `solita.fi` | [policy](https://www.solita.fi/security-policy.txt) | — | — | active |
 | `speedzone.fi` | — | — | — | retired |
@@ -107,16 +108,16 @@
 | `tuni.fi` | — | — | — | expired |
 | `turva.fi` | — | — | — | active |
 | `tuulivoimayhdistys.fi` | [policy](https://handbook.dude.fi/security-policy) | monetary | — | active |
-| `tyrvaansanomat.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | active |
+| `tyrvaansanomat.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | expired |
 | `um.fi` | — | — | — | active |
 | `ursa.fi` | — | — | — | active |
 | `uta.fi` | — | — | — | expired |
 | `utu.fi` | — | recognition | — | active |
-| `valkeakoskensanomat.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | active |
+| `valkeakoskensanomat.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | expired |
 | `valtiolle.fi` | — | — | — | active |
 | `vasabladet.fi` | — | — | — | active |
 | `vastranyland.fi` | — | — | — | active |
-| `veikkaus.fi` | — | — | — | active |
+| `veikkaus.fi` | [policy](https://www.veikkausgroup.com/en/veikkaus-vulnerability-disclosure-policy-vdp) | — | yes | active |
 | `vero.fi` | — | — | — | active |
 | `visitpori.fi` | — | — | — | active |
 | `vr.fi` | — | — | — | active |

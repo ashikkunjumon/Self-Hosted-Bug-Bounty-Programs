@@ -20,7 +20,7 @@
 | `kayak.fr` | [policy](https://www.kayak.com/security/) | monetary | — | active |
 | `laredoute.fr` | [policy](https://www.laredoute.com/vulnerability_disclosure_program.aspx) | — | — | expired |
 | `momondo.fr` | [policy](https://www.kayak.com/security/) | monetary | — | active |
-| `netim.fr` | — | — | — | active |
+| `netim.fr` | — | — | — | expired |
 | `norauto.fr` | — | — | — | active |
 | `randstad.fr` | [policy](https://www.randstad.com/report-a-security-problem/) | — | — | active |
 | `roche.fr` | [policy](https://hackerone.com/roche?view_policy=true) | — | — | active |

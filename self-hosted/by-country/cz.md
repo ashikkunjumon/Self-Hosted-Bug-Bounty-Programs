@@ -260,7 +260,7 @@
 | `queens.cz` | — | — | — | active |
 | `rako.cz` | — | — | — | active |
 | `raynet.cz` | — | — | — | active |
-| `rb.cz` | — | — | — | active |
+| `rb.cz` | [policy](https://www.rb.cz/.well-known/cvd-policy) | monetary | — | active |
 | `regzone.cz` | — | — | — | expired |
 | `reservanto.cz` | — | — | — | active |
 | `rigad.cz` | — | — | — | active |
@@ -319,7 +319,7 @@
 | `usetreno.cz` | — | — | — | retired |
 | `varnsdorf.cz` | — | — | — | active |
 | `vas-hosting.cz` | — | — | — | active |
-| `vedos.cz` | [policy](https://vedos.cz/security-policy) | — | — | retired |
+| `vedos.cz` | [policy](https://vedos.cz/security-policy) | recognition | — | active |
 | `velkemezirici.cz` | — | — | — | active |
 | `vesmir.cz` | — | — | — | active |
 | `vetkom.cz` | — | — | — | active |

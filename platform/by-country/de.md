@@ -25,7 +25,7 @@
 | `magentacloud.de` | [policy](https://hackerone.com/nextcloud) | — | — | active |
 | `momondo.de` | [policy](https://www.kayak.com/security/) | monetary | — | active |
 | `mydealz.de` | [policy](https://atolls.com/disclosure-policy) | — | — | active |
-| `otto.de` | [policy](https://yeswehack.com/programs/otto-de-bug-bounty) | monetary | — | expired |
+| `otto.de` | [policy](https://yeswehack.com/programs/otto-de-bug-bounty) | monetary | — | active |
 | `randstad.de` | [policy](https://www.randstad.com/report-a-security-problem/) | — | — | active |
 | `sixt.de` | [policy](https://bugcrowd.com/a22b9798-491e-4d3a-87f3-a69484e02a2f/external/report) | — | — | active |
 | `techbook.de` | [policy](https://app.intigriti.com/programs/axelspringerse/nmt/detail) | monetary | — | expired |

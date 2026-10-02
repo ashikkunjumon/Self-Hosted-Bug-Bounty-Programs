@@ -4,4 +4,4 @@
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
-| `neurobyte.co.ke` | [policy](https://www.neurobyte.co.ke/security-policy) | — | yes | active |
+| `neurobyte.co.ke` | [policy](https://www.neurobyte.co.ke/security) | recognition | yes | active |

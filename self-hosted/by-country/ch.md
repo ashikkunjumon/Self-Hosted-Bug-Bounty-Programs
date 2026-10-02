@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-353 programs.
+357 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@
 | `dietikon.ch` | — | — | — | active |
 | `digicomp.ch` | — | — | — | active |
 | `digitale-gesellschaft.ch` | — | — | — | active |
-| `digitec.ch` | [policy](https://www.digitec.ch/security) | monetary | yes | expired |
+| `digitec.ch` | [policy](https://www.digitec.ch/security) | monetary | yes | active |
 | `digithek.ch` | [policy](https://developer.joomla.org/security.html) | monetary | — | active |
 | `doitgarden.ch` | — | — | — | active |
 | `drs.ch` | — | — | — | active |
@@ -100,15 +100,16 @@
 | `flatfox.ch` | — | — | — | active |
 | `fnac.ch` | — | — | — | active |
 | `fondation-barry.ch` | — | — | — | active |
+| `fondationbeyeler.ch` | — | — | — | active |
 | `fr.ch` | — | — | — | active |
 | `frauenfeld.ch` | — | — | — | active |
 | `freiburger-nachrichten.ch` | — | — | — | active |
-| `galaxus.ch` | [policy](https://www.galaxus.ch/security) | monetary | yes | expired |
+| `galaxus.ch` | [policy](https://www.galaxus.ch/security) | monetary | yes | active |
 | `gameswelt.ch` | — | — | — | active |
 | `gemeindedavos.ch` | — | — | — | active |
 | `gettyimages.ch` | — | — | — | retired |
 | `ghisler.ch` | — | recognition | — | active |
-| `gkb.ch` | — | — | — | active |
+| `gkb.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/gkb-bug-bounty) | monetary | — | active |
 | `glamos.ch` | — | — | — | active |
 | `glassdoor.ch` | [policy](https://help.glassdoor.com/s/article/Bug-Bounty-Program?language=en_US) | — | — | retired |
 | `glueckskette.ch` | — | — | — | active |
@@ -122,7 +123,7 @@
 | `gruene.ch` | — | — | — | active |
 | `gurtenpark.ch` | — | — | — | active |
 | `hbl.ch` | — | — | — | active |
-| `heg-fr.ch` | [policy](https://go.hefr.ch/sinfofr/security-report-scopes-and-rules) | recognition | — | active |
+| `heg-fr.ch` | [policy](https://go.hefr.ch/sinfofr/security-report-scopes-and-rules) | recognition | — | expired |
 | `heia-fr.ch` | [policy](https://go.hefr.ch/sinfofr/security-report-scopes-and-rules) | recognition | — | active |
 | `helbing.ch` | — | — | — | retired |
 | `helsana.ch` | — | — | — | expired |
@@ -148,9 +149,10 @@
 | `infoguard.ch` | [policy](https://www.infoguard.ch/en/security-policy) | — | — | active |
 | `insel.ch` | — | — | — | active |
 | `inselgruppe.ch` | — | — | — | active |
-| `interdiscount.ch` | — | monetary | — | expired |
+| `interdiscount.ch` | — | monetary | — | active |
 | `ipng.ch` | — | — | — | active |
 | `isb-sib.ch` | — | — | — | expired |
+| `isolutions.ch` | — | — | — | active |
 | `iway.ch` | — | — | — | expired |
 | `iwb.ch` | — | — | — | expired |
 | `jobcloud.ch` | — | — | — | active |
@@ -189,7 +191,7 @@
 | `melectronics.ch` | — | — | — | active |
 | `meteotest.ch` | — | — | — | active |
 | `michaelpage.ch` | — | — | — | expired |
-| `microspot.ch` | — | monetary | — | expired |
+| `microspot.ch` | — | monetary | — | active |
 | `migrol.ch` | — | — | — | active |
 | `migros-ferien.ch` | — | — | — | active |
 | `migros-kulturprozent-classics.ch` | — | — | — | active |
@@ -202,7 +204,7 @@
 | `mycloud.ch` | [policy](https://github.com/swisscom/bugbounty) | monetary | yes | active |
 | `myvaud.ch` | — | — | — | active |
 | `nationalmuseum.ch` | — | — | — | active |
-| `ne.ch` | — | — | — | expired |
+| `ne.ch` | — | recognition | — | active |
 | `nic.ch` | [policy](https://www.switch.ch/security/SWITCH-CERT.txt) | — | — | active |
 | `nivea.ch` | [policy](https://soc.beiersdorf.com/disclosurepolicy.html) | — | yes | active |
 | `notino.ch` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
@@ -261,6 +263,7 @@
 | `sion.ch` | — | — | — | active |
 | `sky.ch` | — | — | — | expired |
 | `slotcoordination.ch` | — | — | — | active |
+| `smgv.ch` | — | — | — | active |
 | `smood.ch` | — | — | — | active |
 | `snb.ch` | [policy](https://www.snb.ch/en/particular/vdp) | monetary | yes | active |
 | `snf.ch` | — | — | — | active |
@@ -297,6 +300,7 @@
 | `swisstph.ch` | — | — | — | active |
 | `swisstxt.ch` | — | — | — | expired |
 | `swissvotes.ch` | [policy](https://www.seantis.ch/security) | recognition | yes | active |
+| `switch.ch` | [policy](https://www.switch.ch/security/SWITCH-CERT.txt) | — | — | active |
 | `sympany.ch` | — | — | — | active |
 | `sz.ch` | — | — | — | active |
 | `tchibo.ch` | — | — | — | active |
@@ -306,11 +310,11 @@
 | `telem1.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/compass-bug-bounty) | monetary | — | active |
 | `telezueri.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/compass-bug-bounty) | monetary | — | active |
 | `theaterspektakel.ch` | — | — | — | active |
-| `theaterwissenschaft.ch` | — | — | — | active |
+| `theaterwissenschaft.ch` | — | — | — | expired |
 | `thomannmusic.ch` | — | — | — | active |
 | `thun.ch` | — | — | — | active |
 | `thurbo.ch` | — | — | — | active |
-| `ti.ch` | — | — | — | expired |
+| `ti.ch` | — | — | — | active |
 | `ticketcorner.ch` | — | — | — | active |
 | `tissot.ch` | — | — | — | active |
 | `tpc.ch` | — | — | — | active |
@@ -319,7 +323,7 @@
 | `tui.ch` | [policy](https://vdp.tui.com/p/Policy) | — | — | active |
 | `tvo-online.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/compass-bug-bounty) | monetary | — | active |
 | `uncoded.ch` | — | — | — | active |
-| `unibe.ch` | — | — | — | active |
+| `unibe.ch` | — | — | — | expired |
 | `unicef.ch` | — | — | — | retired |
 | `unil.ch` | — | — | — | active |
 | `unisante.ch` | — | — | — | active |

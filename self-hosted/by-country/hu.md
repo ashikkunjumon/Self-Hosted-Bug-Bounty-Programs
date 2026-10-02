@@ -28,7 +28,7 @@
 | `lidl.hu` | — | — | — | active |
 | `lisztacademy.hu` | — | recognition | — | active |
 | `lisztmuseum.hu` | — | recognition | — | active |
-| `mbvk.hu` | — | — | — | expired |
+| `mbvk.hu` | — | — | — | active |
 | `media1.hu` | — | — | — | active |
 | `metro.hu` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | active |
 | `mountex.hu` | [policy](https://www.mountex.hu/security-policy) | — | — | active |

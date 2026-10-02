@@ -24,7 +24,7 @@
 | `lorealparis.com.tr` | — | recognition | — | active |
 | `michelin.com.tr` | — | — | — | active |
 | `pluxee.com.tr` | [policy](https://vdp.pluxee.app/p/Policy) | — | — | active |
-| `rossmann.com.tr` | — | — | — | retired |
+| `rossmann.com.tr` | — | — | — | expired |
 | `rumeli.edu.tr` | — | — | — | expired |
 | `tchibo.com.tr` | — | — | — | active |
 | `togg.com.tr` | — | — | — | active |

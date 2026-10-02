@@ -1,6 +1,6 @@
 # Platform-hosted programs — BR
 
-12 programs.
+13 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -8,6 +8,7 @@
 | `blablacar.com.br` | — | monetary | — | active |
 | `bmw.com.br` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
 | `cade.com.br` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | expired |
+| `crazy-time-brazil.com.br` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | active |
 | `kayak.com.br` | [policy](https://www.kayak.com/security/) | monetary | — | active |
 | `momondo.com.br` | [policy](https://www.kayak.com/security/) | monetary | — | active |
 | `nubank.com.br` | — | monetary | — | active |

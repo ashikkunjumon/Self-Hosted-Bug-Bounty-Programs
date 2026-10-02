@@ -6,4 +6,4 @@
 |---|---|---|---|---|
 | `platform.sh` | [policy](https://platform.sh/trust-center/security/responsible-disclosure/) | monetary | yes | active |
 | `scarf.sh` | [policy](https://about.scarf.sh/security-statement/) | monetary | — | retired |
-| `volatile.sh` | [policy](https://volatile.sh/security) | monetary | yes | active |
+| `volatile.sh` | [policy](https://volatile.sh/security-policy) | recognition | yes | active |

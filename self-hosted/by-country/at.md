@@ -1,6 +1,6 @@
 # Self-hosted programs — AT
 
-141 programs.
+142 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -10,7 +10,7 @@
 | `ankoe.at` | — | — | — | active |
 | `apg.at` | — | — | — | active |
 | `ara.at` | — | — | — | active |
-| `auva.at` | — | — | — | active |
+| `auva.at` | — | — | — | expired |
 | `axians.at` | — | — | — | active |
 | `bank99.at` | [policy](https://bank99.at/responsible-disclosure-policy) | — | — | active |
 | `basemap.at` | — | — | — | active |
@@ -19,15 +19,15 @@
 | `bellaflora.at` | — | — | — | active |
 | `bks.at` | — | recognition | — | expired |
 | `bosch.at` | [policy](https://psirt.bosch.com/bosch-responsible-disclosure-policy/) | recognition | — | active |
-| `bruckneruni.ac.at` | — | — | — | expired |
-| `bruckneruni.at` | — | — | — | expired |
+| `bruckneruni.ac.at` | — | — | — | active |
+| `bruckneruni.at` | — | — | — | active |
 | `bundeskanzleramt.at` | [policy](https://www.bundeskanzleramt.gv.at/themen/cybersicherheit/ansprechstellen.html) | — | — | active |
-| `bvaeb.at` | — | — | — | active |
+| `bvaeb.at` | — | — | — | expired |
 | `cal-group.at` | [policy](https://www.glueckimjob.cal-group.at/responsible-disclosure?utm_source=karriere.at&utm_medium=Iventa&utm_campaign=Stellenanzeige) | — | — | active |
 | `capterra.at` | — | — | — | active |
 | `cert.at` | [policy](https://cert.at/de/ueber-uns/rfc2350/) | — | — | active |
 | `cewe-fotoservice.at` | — | — | — | active |
-| `chipkarte.at` | — | — | — | active |
+| `chipkarte.at` | — | — | — | expired |
 | `cookidoo.at` | — | — | — | active |
 | `dm-drogeriemarkt.at` | — | — | — | active |
 | `dm.at` | — | — | — | active |
@@ -35,8 +35,9 @@
 | `druck.at` | [policy](https://cimpress.com/privacy-security/) | — | — | active |
 | `easyname.at` | [policy](https://www.easyname.com/en/support/easyname/253-bug-bounty-program) | monetary | — | expired |
 | `eduscho.at` | — | — | — | active |
-| `elda.at` | — | — | — | active |
+| `elda.at` | — | — | — | expired |
 | `eucerin.at` | [policy](https://soc.beiersdorf.com/disclosurepolicy.html) | — | yes | active |
+| `eversports.at` | — | — | — | active |
 | `expedia.at` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
 | `exxpress.at` | [policy](https://exxpress.at/security-policy) | recognition | — | active |
 | `fhstp.ac.at` | [policy](https://www.ustp.at/de/security-disclosure-policy) | swag | — | active |
@@ -46,9 +47,9 @@
 | `flatex.at` | [policy](https://www.flatexdegiro.com/security) | — | yes | active |
 | `flixbus.at` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |
 | `futureweb.at` | — | — | — | active |
-| `galaxus.at` | [policy](https://www.galaxus.ch/security) | monetary | yes | expired |
+| `galaxus.at` | [policy](https://www.galaxus.ch/security) | monetary | yes | active |
 | `gameswelt.at` | — | — | — | active |
-| `gesundheitskasse.at` | — | — | — | active |
+| `gesundheitskasse.at` | — | — | — | expired |
 | `gesundheitsverbund.at` | — | — | — | active |
 | `gettyimages.at` | — | — | — | retired |
 | `gmx.at` | [policy](https://bugbounty.gmx.net) | monetary | — | active |
@@ -63,7 +64,7 @@
 | `ionos.at` | [policy](https://www.ionos.com/it-security) | — | — | active |
 | `iqoqi.at` | — | — | — | active |
 | `jobs.at` | — | — | — | active |
-| `jochen-schweizer.at` | [policy](https://public-jsmd.s3.eu-central-1.amazonaws.com/Bug-Bounty-Policy-1.2.pdf) | monetary | — | expired |
+| `jochen-schweizer.at` | [policy](https://public-jsmd.s3.eu-central-1.amazonaws.com/Bug-Bounty-Policy-1.3.pdf) | monetary | — | active |
 | `karl-voit.at` | — | — | — | active |
 | `karriere.at` | — | — | — | active |
 | `kleine.at` | — | — | — | expired |
@@ -75,30 +76,30 @@
 | `latini.at` | — | — | — | active |
 | `lidl.at` | — | — | — | active |
 | `linuxtage.at` | — | — | — | active |
-| `linzag.at` | — | — | — | active |
+| `linzag.at` | — | — | — | expired |
 | `lions.at` | — | — | — | active |
 | `lionshome.at` | — | — | — | retired |
 | `lknoe.at` | [policy](https://www.landesgesundheitsagentur.at/fileadmin/media_data/Dateien/NOELGA/rfc2350_noelga_v2.txt) | — | — | active |
 | `lotterien.at` | [policy](https://www.lotterien.at/responsible-disclosure-1-1) | — | — | active |
 | `meindm.at` | — | — | — | active |
 | `metro.at` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | active |
-| `mydays.at` | [policy](https://public-jsmd.s3.eu-central-1.amazonaws.com/Bug-Bounty-Policy-1.2.pdf) | monetary | — | expired |
+| `mydays.at` | [policy](https://public-jsmd.s3.eu-central-1.amazonaws.com/Bug-Bounty-Policy-1.3.pdf) | monetary | — | active |
 | `nessus.at` | — | — | — | active |
-| `netzwerk-bgf.at` | — | — | — | active |
-| `newsflix.at` | — | — | — | active |
+| `netzwerk-bgf.at` | — | — | — | expired |
+| `newsflix.at` | — | — | — | expired |
 | `nivea.at` | [policy](https://soc.beiersdorf.com/disclosurepolicy.html) | — | yes | active |
 | `notino.at` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
 | `obdev.at` | [policy](https://obdev.at/cve/vulnerability-disclosure-policy.html) | monetary | yes | active |
 | `oebb.at` | — | — | — | active |
-| `oegk.at` | — | — | — | active |
+| `oegk.at` | — | — | — | expired |
 | `omv.at` | — | — | — | active |
 | `opensocial.at` | [policy](https://friendi.ca/security-policy/) | monetary | — | active |
 | `orf.at` | [policy](https://der.orf.at/vdp100.html) | monetary | yes | active |
 | `ortsinfo.at` | — | — | — | active |
 | `parship.at` | — | — | — | active |
 | `pearle.at` | [policy](https://essilorluxottica.vulnerability-disclosure.com/) | — | — | active |
-| `pensionsversicherung.at` | — | — | — | active |
-| `pixum.at` | — | — | — | active |
+| `pensionsversicherung.at` | — | — | — | expired |
+| `pixum.at` | — | — | — | expired |
 | `playlists.at` | — | — | — | active |
 | `plus.ac.at` | — | — | — | expired |
 | `porsche.at` | [policy](https://security-report.porscheinformatik.com/security-reporting-policy/) | — | — | active |
@@ -106,7 +107,7 @@
 | `post.at` | — | — | — | active |
 | `postbus.at` | — | — | — | active |
 | `promomasters.at` | — | — | — | active |
-| `pv.at` | — | — | — | active |
+| `pv.at` | — | — | — | expired |
 | `redbullsalzburg.at` | — | — | — | active |
 | `sagedpw.at` | [policy](https://www.sage.com/en-gb/trust-security/) | recognition | — | active |
 | `sbausparkasse.at` | [policy](https://www.sparkasse.at/sicherheitscenter-en/report-potential-security-vulnerability) | — | yes | expired |
@@ -114,14 +115,14 @@
 | `shoppingnord.at` | [policy](https://www.shoppingnord.at/agbs-datenschutz) | — | yes | active |
 | `siemens.at` | — | — | — | active |
 | `sola.at` | — | — | — | active |
-| `sozialversicherung.at` | — | — | — | active |
+| `sozialversicherung.at` | — | — | — | expired |
 | `sparkasse.at` | [policy](https://www.sparkasse.at/sicherheitscenter-en/report-potential-security-vulnerability) | — | yes | expired |
 | `spreadshirt.at` | — | — | — | active |
 | `spusu.at` | — | — | — | active |
 | `stopptdierechten.at` | — | — | — | active |
 | `studentjob.at` | [policy](https://www.youngcapital.nl/security) | monetary | yes | expired |
 | `stylight.at` | — | — | — | active |
-| `svs.at` | — | — | — | active |
+| `svs.at` | — | — | — | expired |
 | `tchibo.at` | — | — | — | active |
 | `thomann.at` | — | — | — | active |
 | `time2win.at` | [policy](https://bbtiming.com/page/vulnerability-policy) | — | yes | active |
@@ -141,7 +142,7 @@
 | `vpnoe.at` | — | — | — | active |
 | `webador.at` | — | — | — | active |
 | `wien.at` | — | — | — | active |
-| `wienerstadtwerke.at` | — | — | — | active |
+| `wienerstadtwerke.at` | [policy](https://www.wienerstadtwerke.at/datenschutz) | — | — | active |
 | `wiiw.ac.at` | — | — | — | active |
 | `willhaben.at` | [policy](https://vdp.willhaben.at) | — | — | active |
 | `win2day.at` | [policy](https://www.lotterien.at/responsible-disclosure) | — | — | active |

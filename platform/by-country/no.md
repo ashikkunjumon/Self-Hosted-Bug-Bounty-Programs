@@ -1,11 +1,12 @@
 # Platform-hosted programs — NO
 
-10 programs.
+11 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `airbnb.no` | [policy](https://hackerone.com/airbnb#overview) | — | — | active |
 | `bmw.no` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
+| `digipost.no` | — | — | — | active |
 | `kayak.no` | [policy](https://www.kayak.com/security/) | monetary | — | active |
 | `momondo.no` | [policy](https://www.kayak.com/security/) | monetary | — | active |
 | `norwegian.no` | — | — | — | expired |

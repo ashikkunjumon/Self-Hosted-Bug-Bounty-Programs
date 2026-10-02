@@ -6,6 +6,6 @@
 |---|---|---|---|---|
 | `elisa.ee` | [policy](https://elisa.fi/en/vulnerabilities/) | monetary | — | active |
 | `mariacasino.ee` | — | monetary | — | retired |
-| `prismamarket.ee` | — | — | — | expired |
+| `prismamarket.ee` | — | — | — | retired |
 | `telia.ee` | [policy](https://hackerone.com/telia_eesti?view_policy=true) | recognition | — | active |
 | `unibet.ee` | — | monetary | — | retired |
