@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-406 programs.
+408 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -155,6 +155,7 @@
 | `glassdoor.de` | [policy](https://help.glassdoor.com/s/article/Bug-Bounty-Program?language=en_US) | — | — | retired |
 | `gmx.de` | [policy](https://bugbounty.gmx.net) | monetary | — | active |
 | `goettingen.de` | — | — | — | active |
+| `goettinger-tageblatt.de` | — | — | — | active |
 | `golem.de` | — | — | — | active |
 | `goneo.de` | — | — | — | active |
 | `gothaer.de` | — | — | — | active |
@@ -182,7 +183,7 @@
 | `hs-bremen.de` | [policy](https://www.hs-bremen.de/en/security/disclosure-policy) | swag | — | active |
 | `hs-fulda.de` | [policy](https://it-sicherheit.hs-fulda.de/en/vorfall_melden/schwachstelle/index.html) | — | — | active |
 | `hs-furtwangen.de` | — | — | — | active |
-| `hs-heilbronn.de` | — | — | — | active |
+| `hs-heilbronn.de` | — | — | — | retired |
 | `hs-koblenz.de` | — | — | — | active |
 | `hs-niederrhein.de` | — | — | — | active |
 | `hu-berlin.de` | [policy](https://informationssicherheit.hu-berlin.de/de/schwachstellenmeldung) | — | — | active |
@@ -232,6 +233,7 @@
 | `mainz.de` | [policy](https://mainz.de/cvd) | recognition | — | active |
 | `marburg.de` | — | — | — | active |
 | `mdc-berlin.de` | — | — | — | active |
+| `medatixx.de` | [policy](https://medatixx.de/security-policy) | monetary | yes | active |
 | `medpex.de` | [policy](https://www.medpex.de/ueber-uns/cyber-sicherheit) | — | yes | active |
 | `meineschufa.de` | — | — | — | active |
 | `metro.de` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | active |
@@ -313,7 +315,7 @@
 | `sparkasse.de` | [policy](https://www.s-communication.de/BugBounty.html) | monetary | — | active |
 | `spdfraktion.de` | — | — | — | expired |
 | `speyer.de` | — | — | — | active |
-| `spreadshirt.de` | — | — | — | active |
+| `spreadshirt.de` | — | — | — | retired |
 | `srlabs.de` | — | — | — | active |
 | `stadt-koeln.de` | — | — | — | expired |
 | `stadtlindau.de` | — | — | — | active |

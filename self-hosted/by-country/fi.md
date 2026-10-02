@@ -94,7 +94,7 @@
 | `seravo.fi` | — | — | — | active |
 | `solita.fi` | [policy](https://www.solita.fi/security-policy.txt) | — | — | active |
 | `speedzone.fi` | — | — | — | retired |
-| `spreadshirt.fi` | — | — | — | active |
+| `spreadshirt.fi` | — | — | — | retired |
 | `strawberry.fi` | — | — | — | expired |
 | `summarum.fi` | — | — | — | active |
 | `suomenlatu.fi` | [policy](https://handbook.dude.fi/security-policy) | monetary | — | active |

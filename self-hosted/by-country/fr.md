@@ -135,7 +135,7 @@
 | `societedugrandparis.fr` | — | — | — | expired |
 | `somfy.fr` | [policy](https://vdp.somfy-group.com/) | — | — | active |
 | `speedy.fr` | — | — | — | active |
-| `spreadshirt.fr` | — | — | — | active |
+| `spreadshirt.fr` | — | — | — | retired |
 | `symetrie.fr` | [policy](https://symetrie.fr/en/coordinated-vulnerability-disclosure-policy/) | — | yes | active |
 | `tendancehotellerie.fr` | — | — | — | retired |
 | `thomann.fr` | — | — | — | active |

@@ -117,7 +117,7 @@
 | `sola.at` | — | — | — | active |
 | `sozialversicherung.at` | — | — | — | expired |
 | `sparkasse.at` | [policy](https://www.sparkasse.at/sicherheitscenter-en/report-potential-security-vulnerability) | — | yes | expired |
-| `spreadshirt.at` | — | — | — | active |
+| `spreadshirt.at` | — | — | — | retired |
 | `spusu.at` | — | — | — | active |
 | `stopptdierechten.at` | — | — | — | active |
 | `studentjob.at` | [policy](https://www.youngcapital.nl/security) | monetary | yes | expired |

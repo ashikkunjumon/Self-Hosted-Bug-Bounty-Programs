@@ -1,6 +1,6 @@
 # Self-hosted programs — BR
 
-77 programs.
+78 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -10,6 +10,7 @@
 | `aegro.com.br` | [policy](https://aegro.com.br/security-policy) | recognition | — | expired |
 | `agricultura.gov.br` | [policy](https://www.gov.br/agricultura/pt-br/acesso-a-informacao/tecnologia-da-informacao/seguranca-da-informacao/politica-de-seguranca-da-informacao-e-comunicacao-posic) | — | — | active |
 | `b3.com.br` | — | — | — | active |
+| `bancobs2.com.br` | — | — | — | active |
 | `bcb.gov.br` | — | recognition | — | active |
 | `bitrix24.com.br` | — | — | — | active |
 | `bnews.com.br` | — | — | — | active |

@@ -179,7 +179,7 @@
 | `skatteetaten.no` | — | — | — | active |
 | `snl.no` | — | — | — | expired |
 | `spillespill.no` | — | — | — | active |
-| `spreadshirt.no` | — | — | — | active |
+| `spreadshirt.no` | — | — | — | retired |
 | `spv.no` | — | — | — | active |
 | `ssb.no` | — | — | — | active |
 | `sshf.no` | [policy](https://www.sykehuspartner.no/siteassets/documents/sikkerhet---regionale-bruksvilkar/no-38---responsible-disclosure-policy-engelsk.pdf) | — | — | active |

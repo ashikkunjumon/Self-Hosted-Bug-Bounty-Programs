@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-225 programs.
+226 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -31,6 +31,7 @@
 | `braine-le-comte.be` | — | — | — | active |
 | `capterra.be` | — | — | — | active |
 | `casinoking.be` | — | — | — | active |
+| `ccbrugge.be` | — | — | — | active |
 | `ccsint-niklaas.be` | — | — | — | active |
 | `century21.be` | — | — | — | active |
 | `ciney.be` | — | — | — | active |
@@ -179,7 +180,7 @@
 | `spa-info.be` | — | — | — | active |
 | `spacepage.be` | — | — | — | active |
 | `sporza.be` | [policy](https://www.vrt.be/en/responsible-disclosure-policy-english-version/) | recognition | — | active |
-| `spreadshirt.be` | — | — | — | active |
+| `spreadshirt.be` | — | — | — | retired |
 | `starcasino.be` | — | — | — | active |
 | `starcasinosport.be` | — | — | — | active |
 | `stavelot.be` | — | — | — | active |

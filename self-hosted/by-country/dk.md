@@ -126,7 +126,7 @@
 | `spilxl.dk` | — | — | — | active |
 | `sportstiming.dk` | [policy](https://bbtiming.com/page/vulnerability-policy) | — | yes | active |
 | `spotfestival.dk` | — | — | — | retired |
-| `spreadshirt.dk` | — | — | — | active |
+| `spreadshirt.dk` | — | — | — | retired |
 | `stiften.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
 | `strawberry.dk` | — | — | — | expired |
 | `superheltenlegetoej.dk` | — | — | — | active |

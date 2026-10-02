@@ -45,7 +45,7 @@
 | `attendohr.com` | [policy](https://attendohr.com/security) | monetary | yes | active |
 | `audemarspiguet.com` | — | — | — | active |
 | `auth0.com` | [policy](https://www.okta.com/vulnerability-reporting-policy/) | — | — | active |
-| `automattic.com` | [policy](https://hackerone.com/automattic) | — | — | active |
+| `automattic.com` | [policy](https://hackerone.com/automattic) | — | — | retired |
 | `autoscout24.com` | [policy](https://app.intigriti.com/programs/autoscout/autoscout24-vdp/detail) | monetary | — | expired |
 | `avalara.com` | [policy](https://www.avalara.com/us/en/legal/responsible-disclosure.html) | recognition | — | retired |
 | `aveva.com` | — | — | — | active |
@@ -365,7 +365,7 @@
 | `oberlo.com` | [policy](https://hackerone.com/shopify) | — | — | active |
 | `octopus.com` | [policy](https://g.octopushq.com/disclosure) | swag | — | active |
 | `okta.com` | [policy](https://www.okta.com/vulnerability-reporting-policy/) | — | — | active |
-| `oohcams.com` | [policy](https://hackerone.com/chaturbate?type=team&view_policy=true) | — | — | active |
+| `oohcams.com` | [policy](https://hackerone.com/chaturbate?type=team&view_policy=true) | — | — | retired |
 | `ookla.com` | [policy](https://security.ookla.com) | — | — | active |
 | `openai.com` | [policy](https://openai.com/policies/coordinated-vulnerability-disclosure-policy) | recognition | — | active |
 | `opensea.io` | [policy](https://bugcrowd.com/opensea) | monetary | — | active |
@@ -570,13 +570,13 @@
 | `wolt.com` | [policy](https://hackerone.com/wolt) | — | — | active |
 | `woodmagazine.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `wordcamp.org` | [policy](https://make.wordpress.org/core/handbook/testing/reporting-security-vulnerabilities/) | monetary | — | active |
-| `wordpress.com` | [policy](https://hackerone.com/automattic) | — | — | active |
+| `wordpress.com` | [policy](https://hackerone.com/automattic) | — | — | retired |
 | `wordpress.net` | [policy](https://make.wordpress.org/core/handbook/testing/reporting-security-vulnerabilities/) | monetary | — | active |
 | `wordpress.org` | [policy](https://make.wordpress.org/core/handbook/testing/reporting-security-vulnerabilities/) | monetary | — | active |
 | `workopolis.com` | [policy](https://www.indeed.com/legal?hl=en&from=gnav-homepage#ivrp) | — | — | retired |
 | `world.org` | [policy](https://hackerone.com/toolsforhumanity) | — | — | active |
 | `worldcoin.org` | [policy](https://hackerone.com/toolsforhumanity) | — | — | active |
-| `wp.com` | [policy](https://hackerone.com/automattic) | — | — | active |
+| `wp.com` | [policy](https://hackerone.com/automattic) | — | — | retired |
 | `wpguardian.com` | — | — | — | active |
 | `wpguardian.io` | — | — | — | active |
 | `x.com` | — | — | — | expired |

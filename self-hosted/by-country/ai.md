@@ -1,6 +1,6 @@
 # Self-hosted programs — AI
 
-57 programs.
+58 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -30,6 +30,7 @@
 | `indykite.ai` | [policy](https://indykite.com/responsible-disclosure-policy/) | swag | yes | active |
 | `inqura.ai` | [policy](https://inqura.ai/security) | recognition | yes | active |
 | `insighthealth.ai` | [policy](https://insighthealth.ai/security) | recognition | — | active |
+| `juicebox.ai` | [policy](https://juicebox.ai/responsible-disclosure) | — | — | active |
 | `kavion.ai` | [policy](https://www.kavion.ai/responsible-disclosure-policy) | recognition | yes | retired |
 | `kayiq.ai` | [policy](https://kayiq.ai/security) | — | — | retired |
 | `kindo.ai` | [policy](https://kindo.ai/vulnerability-disclosure-program) | monetary | yes | expired |

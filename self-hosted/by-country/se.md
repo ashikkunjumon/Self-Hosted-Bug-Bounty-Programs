@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-499 programs.
+500 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -124,6 +124,7 @@
 | `gettyimages.se` | — | — | — | retired |
 | `giftinformation.se` | [policy](https://www.lakemedelsverket.se/en/security/responsible-disclosure) | — | — | active |
 | `gih.se` | — | — | — | active |
+| `gislaved.se` | — | — | — | active |
 | `gjensidige.se` | — | — | — | active |
 | `glesys.se` | [policy](https://docs.glesys.com/security/security-overview/responsible-disclosure-and-vulnerability-reporting) | monetary | yes | active |
 | `gnm.se` | — | — | — | active |
@@ -408,7 +409,7 @@
 | `spelo.se` | — | — | — | active |
 | `spelpaus.se` | — | — | — | active |
 | `sprakochfolkminnen.se` | — | — | — | expired |
-| `spreadshirt.se` | — | — | — | active |
+| `spreadshirt.se` | — | — | — | retired |
 | `srat.se` | — | — | — | active |
 | `stenungsund.se` | — | — | — | active |
 | `stim.se` | [policy](https://stim.se/security-policy) | — | — | active |

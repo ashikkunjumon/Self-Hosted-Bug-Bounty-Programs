@@ -270,7 +270,7 @@
 | `sob.ch` | — | — | — | active |
 | `solnet.ch` | — | — | — | active |
 | `solothurnerspitaeler.ch` | — | — | — | active |
-| `spreadshirt.ch` | — | — | — | active |
+| `spreadshirt.ch` | — | — | — | retired |
 | `srf.ch` | — | — | — | active |
 | `stadt-schaffhausen.ch` | — | — | — | active |
 | `stadt-zuerich.ch` | — | — | — | active |

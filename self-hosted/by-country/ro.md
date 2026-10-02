@@ -1,6 +1,6 @@
 # Self-hosted programs — RO
 
-54 programs.
+56 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -16,6 +16,7 @@
 | `certsign.ro` | — | — | — | expired |
 | `clausweb.ro` | — | — | — | active |
 | `cnpp.ro` | — | — | — | active |
+| `comunadezna.ro` | — | — | — | active |
 | `comunadumesti.ro` | — | — | — | active |
 | `cora.ro` | [policy](https://carrefour.com/disclosure) | — | — | active |
 | `dcbusiness.ro` | — | recognition | — | active |
@@ -33,6 +34,7 @@
 | `flashscore.ro` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `galantom.ro` | — | — | — | active |
 | `glami.ro` | — | monetary | — | active |
+| `hornbach.ro` | — | — | — | active |
 | `imobiliare.ro` | — | — | — | active |
 | `infomusic.ro` | — | recognition | — | active |
 | `lidl.ro` | — | — | — | active |
