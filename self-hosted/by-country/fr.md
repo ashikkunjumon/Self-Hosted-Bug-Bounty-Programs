@@ -136,7 +136,7 @@
 | `somfy.fr` | [policy](https://vdp.somfy-group.com/) | — | — | active |
 | `speedy.fr` | — | — | — | active |
 | `spreadshirt.fr` | — | — | — | retired |
-| `symetrie.fr` | [policy](https://symetrie.fr/en/coordinated-vulnerability-disclosure-policy/) | — | yes | active |
+| `symetrie.fr` | [policy](https://symetrie.fr/en/coordinated-vulnerability-disclosure-policy/) | — | yes | retired |
 | `tendancehotellerie.fr` | — | — | — | retired |
 | `thomann.fr` | — | — | — | active |
 | `toogoodtogo.fr` | — | — | — | active |

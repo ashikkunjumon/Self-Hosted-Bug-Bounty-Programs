@@ -46,7 +46,7 @@
 | `cdv.cz` | — | — | — | active |
 | `cdv.gov.cz` | — | — | — | active |
 | `cebia.cz` | — | — | — | active |
-| `celeceskoctedetem.cz` | — | — | — | active |
+| `celeceskoctedetem.cz` | — | — | — | retired |
 | `celnisprava.cz` | — | — | — | active |
 | `celnisprava.gov.cz` | — | — | — | active |
 | `ceskatelevize.cz` | — | — | — | active |
@@ -307,7 +307,7 @@
 | `techlib.cz` | — | — | — | active |
 | `techmania.cz` | — | — | — | active |
 | `televizeseznam.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | — | yes | active |
-| `top-pojisteni.cz` | — | — | — | active |
+| `top-pojisteni.cz` | — | — | — | retired |
 | `toprecepty.cz` | — | — | — | active |
 | `tribune.cz` | — | — | — | active |
 | `tul.cz` | — | — | — | active |

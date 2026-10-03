@@ -28,7 +28,7 @@
 | `hackzero.ai` | [policy](https://hackzero.ai/legal/security) | recognition | yes | active |
 | `incidentfox.ai` | [policy](https://www.incidentfox.ai/vulnerability.html) | — | yes | retired |
 | `indykite.ai` | [policy](https://indykite.com/responsible-disclosure-policy/) | swag | yes | active |
-| `inqura.ai` | [policy](https://inqura.ai/security) | recognition | yes | active |
+| `inqura.ai` | [policy](https://inqura.ai/security) | recognition | yes | retired |
 | `insighthealth.ai` | [policy](https://insighthealth.ai/security) | recognition | — | active |
 | `juicebox.ai` | [policy](https://juicebox.ai/responsible-disclosure) | — | — | active |
 | `kavion.ai` | [policy](https://www.kavion.ai/responsible-disclosure-policy) | recognition | yes | retired |
@@ -48,11 +48,11 @@
 | `pro5.ai` | [policy](https://www.pro5.ai/pro5-vulnerability-disclosure-program) | monetary | yes | retired |
 | `proon.ai` | [policy](https://www.proon.ai/security) | monetary | — | active |
 | `purple.ai` | [policy](https://www.purple.ai/en-gb/responsible-disclosure) | — | yes | active |
-| `retano.ai` | [policy](https://retano.ai/coordinated-vulnerability-disclosure-policy/) | swag | yes | active |
+| `retano.ai` | [policy](https://retano.ai/coordinated-vulnerability-disclosure-policy/) | swag | yes | retired |
 | `silversight.ai` | [policy](https://silversight.ai/vulnerability-disclosure-policy) | monetary | — | active |
 | `smackdab.ai` | [policy](https://smackdab.ai/legal/responsible-disclosure-policy/) | monetary | yes | active |
 | `spicychat.ai` | [policy](https://docs.spicychat.ai/security-and-vulnerability-reporting) | recognition | yes | retired |
-| `tibly.ai` | [policy](https://tibly.ai/security) | — | yes | active |
+| `tibly.ai` | [policy](https://tibly.ai/security) | — | yes | retired |
 | `tightknit.ai` | [policy](https://tightknit.ai/legal/responsible-disclosure) | monetary | yes | active |
 | `transglot.ai` | [policy](https://transglot.ai/legal/vulnerability-disclosure) | — | — | active |
 | `transjt.ai` | [policy](https://transjt.ai/security) | swag | yes | active |
@@ -60,5 +60,5 @@
 | `vantio.ai` | [policy](https://vantio.ai/security-disclosure) | — | yes | active |
 | `viktor.ai` | [policy](https://www.viktor.ai/responsible-disclosure) | — | — | retired |
 | `wastevision.ai` | [policy](https://wastevision.ai/Website%20legal/responsible-disclosure.html) | monetary | yes | retired |
-| `wisprflow.ai` | [policy](https://docs.wisprflow.ai/articles/3467817258-security-and-compliance-faq) | — | — | active |
+| `wisprflow.ai` | [policy](https://docs.wisprflow.ai/articles/3467817258-security-and-compliance-faq) | — | — | retired |
 | `yellow.ai` | [policy](https://yellow.ai/vulnerability-disclosure-program/) | monetary | — | retired |

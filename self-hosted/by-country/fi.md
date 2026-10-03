@@ -1,6 +1,6 @@
 # Self-hosted programs — FI
 
-121 programs.
+122 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -61,6 +61,7 @@
 | `kela.fi` | — | — | — | active |
 | `kesko.fi` | — | — | — | expired |
 | `kiinteistolehti.fi` | [policy](https://handbook.dude.fi/security-policy) | monetary | — | active |
+| `kiln.fi` | [policy](https://www.kiln.fi/vulnerability-disclosure-policy) | monetary | — | active |
 | `kodinkuvalehti.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | active |
 | `kuntarekry.fi` | — | — | — | active |
 | `kyberturvallisuuskeskus.fi` | — | — | — | active |

@@ -12,5 +12,5 @@
 | `idura.eu` | [policy](https://idura.eu/legal/vulnerability-disclosure-policy) | monetary | — | active |
 | `jd-services.eu` | [policy](https://jd-services.eu/vdp/) | monetary | yes | active |
 | `medcite.eu` | [policy](https://medcite.eu/us/responsible-disclosure) | monetary | yes | retired |
-| `sumzero.eu` | [policy](https://www.sumzero.eu/responsible-disclosure-policy) | — | — | active |
+| `sumzero.eu` | [policy](https://www.sumzero.eu/responsible-disclosure-policy) | — | — | retired |
 | `wandercraft.eu` | [policy](https://en.wandercraft.eu/de/mentions-legales) | monetary | — | retired |

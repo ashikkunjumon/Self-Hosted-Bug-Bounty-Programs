@@ -19,7 +19,7 @@
 | `billigvvs.dk` | — | — | — | expired |
 | `bold.dk` | — | — | — | active |
 | `boligsiden.dk` | — | — | — | retired |
-| `bring.dk` | — | — | — | active |
+| `bring.dk` | — | — | — | retired |
 | `brk.dk` | — | — | — | expired |
 | `cochrane.dk` | — | — | — | active |
 | `conferencemanager.dk` | — | — | — | active |
@@ -40,7 +40,7 @@
 | `dustin.dk` | — | — | — | active |
 | `dustinhome.dk` | — | — | — | active |
 | `dyndns.dk` | — | — | — | active |
-| `emri.dk` | [policy](https://www.emri.dk/security/) | monetary | yes | active |
+| `emri.dk` | [policy](https://www.emri.dk/security/) | monetary | yes | retired |
 | `enavn.dk` | — | — | — | active |
 | `eon.dk` | — | — | — | active |
 | `erhvervplus.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
@@ -57,7 +57,7 @@
 | `folkebladetlemvig.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
 | `frdb.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
 | `frederiksbergliv.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
-| `fyens.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
+| `fyens.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | retired |
 | `gettyimages.dk` | — | — | — | retired |
 | `gigahost.dk` | — | — | — | active |
 | `gisselfeld-kloster.dk` | — | — | — | active |
@@ -69,7 +69,7 @@
 | `helsingordagblad.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
 | `hessel.dk` | — | — | — | active |
 | `htk.dk` | — | monetary | — | active |
-| `hvidovre.dk` | — | — | — | active |
+| `hvidovre.dk` | — | — | — | retired |
 | `idenyt.dk` | — | — | — | active |
 | `imusic.dk` | — | recognition | — | active |
 | `ing.dk` | — | — | — | active |
@@ -99,7 +99,7 @@
 | `optagelse.dk` | — | — | — | active |
 | `pegani.dk` | — | — | — | active |
 | `permin.dk` | — | — | — | active |
-| `piefed.dk` | — | — | — | active |
+| `piefed.dk` | — | — | — | retired |
 | `pixelfed.dk` | — | — | — | active |
 | `pka.dk` | — | — | — | active |
 | `polarportal.dk` | — | — | — | active |
@@ -143,7 +143,7 @@
 | `udeoghjemme.dk` | — | — | — | expired |
 | `vafo.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
 | `version2.dk` | — | — | — | active |
-| `viborg-folkeblad.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
+| `viborg-folkeblad.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | retired |
 | `viborg.dk` | — | — | — | active |
 | `vielskerserier.dk` | — | — | — | expired |
 | `wannafind.dk` | — | — | — | active |

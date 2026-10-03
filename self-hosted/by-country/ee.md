@@ -9,7 +9,7 @@
 | `cooppank.ee` | — | — | — | active |
 | `crypt.ee` | [policy](https://github.com/cryptee/web-client/blob/v3/security.md) | — | — | active |
 | `eans.ee` | — | recognition | — | active |
-| `elering.ee` | — | — | — | active |
+| `elering.ee` | — | — | — | retired |
 | `enefit.ee` | — | — | — | active |
 | `energia.ee` | — | — | — | active |
 | `err.ee` | — | — | — | retired |

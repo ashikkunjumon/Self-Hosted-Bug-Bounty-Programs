@@ -12,7 +12,7 @@
 | `bluecanvas.io` | [policy](https://bluecanvas.io/report-vulnerability) | recognition | yes | retired |
 | `brakepoint.io` | [policy](https://www.brakepoint.io/en/security/) | swag | yes | active |
 | `buildpulse.io` | [policy](https://buildpulse.io/security) | — | — | active |
-| `captainfact.io` | [policy](https://captainfact.io/help/bug_report) | — | — | active |
+| `captainfact.io` | [policy](https://captainfact.io/help/bug_report) | — | — | retired |
 | `chameleon.io` | [policy](https://www.chameleon.io/disclosure) | monetary | yes | retired |
 | `clazar.io` | [policy](https://clazar.io/vulnerability-disclosure-policy) | recognition | yes | retired |
 | `cloudfiles.io` | [policy](https://www.cloudfiles.io/responsible-disclosure) | — | — | active |
@@ -40,7 +40,7 @@
 | `leantime.io` | [policy](https://leantime.io/responsible-disclosure-policy/) | — | — | retired |
 | `lisk.io` | [policy](https://lisk.com/legal/privacy/) | monetary | yes | active |
 | `mlaify.io` | [policy](https://mlaify.io/security/) | — | yes | active |
-| `multihub.io` | [policy](https://www.multihub.io/security) | monetary | — | active |
+| `multihub.io` | [policy](https://www.multihub.io/security) | monetary | — | retired |
 | `mydukaan.io` | [policy](https://mydukaan.io/bugbounty/) | monetary | — | retired |
 | `onpay.io` | [policy](https://onpay.io/responsible-disclosure) | monetary | yes | active |
 | `overblock.io` | [policy](https://overblock.io/security) | recognition | — | expired |
@@ -50,7 +50,7 @@
 | `pwnedlabs.io` | [policy](https://pwnedlabs.io/security-policy) | swag | yes | active |
 | `qt.io` | [policy](https://www.qt.io/terms-conditions/responsible-vulnerability-disclosure-process) | recognition | yes | active |
 | `recruitcrm.io` | [policy](https://recruitcrm.io/legal/rcrm-vulnerability-disclosure-program/) | — | yes | retired |
-| `rekaz.io` | [policy](https://rekaz.io/home/en/vulnerability-disclosure/) | — | — | active |
+| `rekaz.io` | [policy](https://rekaz.io/home/en/vulnerability-disclosure/) | — | — | retired |
 | `salestrail.io` | [policy](https://www.salestrail.io/vulnerability) | — | — | retired |
 | `scrapfly.io` | [policy](https://scrapfly.io/bug-bounty-program) | — | — | active |
 | `secrethub.io` | [policy](https://secrethub.io/security/responsible-disclosure/) | — | — | retired |

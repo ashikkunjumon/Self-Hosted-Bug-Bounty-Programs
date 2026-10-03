@@ -4,4 +4,4 @@
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
-| `didit.me` | [policy](https://didit.me/terms/information-security/) | monetary | — | active |
+| `didit.me` | [policy](https://didit.me/terms/information-security/) | monetary | — | retired |

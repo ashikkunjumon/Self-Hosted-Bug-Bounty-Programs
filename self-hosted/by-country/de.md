@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-408 programs.
+410 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -143,7 +143,7 @@
 | `funkemedien.de` | — | — | — | retired |
 | `g7germany.de` | — | — | — | active |
 | `galaxus.de` | [policy](https://www.galaxus.ch/security) | monetary | yes | active |
-| `gambio.de` | — | — | — | active |
+| `gambio.de` | — | — | — | retired |
 | `gamestar.de` | — | — | — | retired |
 | `gameswelt.de` | — | — | — | active |
 | `gdata.de` | [policy](https://www.gdata.de/en/privacy/vulnerability-disclosure) | recognition | yes | active |
@@ -179,16 +179,17 @@
 | `hochschulkompass.de` | — | — | — | active |
 | `hochschulstart.de` | — | — | — | active |
 | `hpi.de` | — | — | — | expired |
-| `hs-augsburg.de` | — | — | — | expired |
+| `hs-augsburg.de` | — | — | — | retired |
 | `hs-bremen.de` | [policy](https://www.hs-bremen.de/en/security/disclosure-policy) | swag | — | active |
 | `hs-fulda.de` | [policy](https://it-sicherheit.hs-fulda.de/en/vorfall_melden/schwachstelle/index.html) | — | — | active |
 | `hs-furtwangen.de` | — | — | — | active |
-| `hs-heilbronn.de` | — | — | — | retired |
+| `hs-heilbronn.de` | — | — | — | active |
 | `hs-koblenz.de` | — | — | — | active |
 | `hs-niederrhein.de` | — | — | — | active |
 | `hu-berlin.de` | [policy](https://informationssicherheit.hu-berlin.de/de/schwachstellenmeldung) | — | — | active |
+| `hwk-muenchen.de` | — | — | — | active |
 | `hzdr.de` | — | — | — | active |
-| `iab.de` | — | — | — | active |
+| `iab.de` | — | — | — | retired |
 | `ihk.de` | — | — | — | active |
 | `immobilienscout24.de` | — | monetary | — | active |
 | `in-berlin.de` | — | — | — | active |
@@ -313,11 +314,11 @@
 | `sma.de` | [policy](https://www.sma.de/en/cybersecurity/responsible-disclosure) | — | — | active |
 | `soscisurvey.de` | [policy](https://www.soscisurvey.de/en/security) | monetary | — | active |
 | `sparkasse.de` | [policy](https://www.s-communication.de/BugBounty.html) | monetary | — | active |
-| `spdfraktion.de` | — | — | — | expired |
+| `spdfraktion.de` | — | — | — | retired |
 | `speyer.de` | — | — | — | active |
 | `spreadshirt.de` | — | — | — | retired |
 | `srlabs.de` | — | — | — | active |
-| `stadt-koeln.de` | — | — | — | expired |
+| `stadt-koeln.de` | — | — | — | retired |
 | `stadtlindau.de` | — | — | — | active |
 | `strato.de` | [policy](https://www.strato.de/it-security) | monetary | — | active |
 | `study-in-germany.de` | — | — | — | active |
@@ -335,8 +336,8 @@
 | `testberichte.de` | — | — | — | active |
 | `th-deg.de` | — | — | — | active |
 | `th-wildau.de` | — | — | — | expired |
-| `tha.de` | — | — | — | expired |
-| `thi.de` | — | — | — | expired |
+| `tha.de` | — | — | — | retired |
+| `thi.de` | — | — | — | retired |
 | `thomann.de` | — | — | — | active |
 | `thueringer-allgemeine.de` | — | — | — | active |
 | `thws.de` | — | — | — | active |
@@ -350,13 +351,14 @@
 | `tu-dresden.de` | — | recognition | — | active |
 | `tu-freiberg.de` | — | — | — | active |
 | `tu-ilmenau.de` | — | recognition | — | active |
+| `tuhh.de` | — | — | — | active |
 | `tum.de` | — | — | — | active |
 | `ulm.de` | — | — | — | retired |
 | `uni-augsburg.de` | [policy](https://www.uni-augsburg.de/datenschutz) | — | — | active |
 | `uni-bamberg.de` | — | — | — | active |
 | `uni-bonn.de` | — | — | — | active |
-| `uni-due.de` | — | recognition | — | active |
-| `uni-duisburg-essen.de` | — | recognition | — | active |
+| `uni-due.de` | — | recognition | — | retired |
+| `uni-duisburg-essen.de` | — | recognition | — | retired |
 | `uni-erlangen.de` | — | — | — | active |
 | `uni-frankfurt.de` | — | — | — | active |
 | `uni-freiburg.de` | — | — | — | active |
@@ -386,7 +388,7 @@
 | `verivox.de` | — | — | — | expired |
 | `vogel.de` | — | — | — | active |
 | `vogelsbergkreis.de` | [policy](https://www.vogelsbergkreis.de/informationen/sicherheitsluecke-melden/) | — | — | active |
-| `volkswagen.de` | — | — | — | active |
+| `volkswagen.de` | — | — | — | retired |
 | `vonovia.de` | — | — | — | active |
 | `vr-elibrary.de` | — | — | — | active |
 | `vwbk.de` | [policy](https://g.co/vrp) | — | — | active |
@@ -408,7 +410,7 @@
 | `wuerzburg.de` | — | — | — | active |
 | `wuppertal.de` | [policy](https://digital.wuppertal.de/medien_digitalisierung/10_ISMS_Stadt_Wuppertal_Richtlinie_zur_Offenlegung_von_Sicherheitsluecken_V2.0.pdf) | monetary | — | active |
 | `xing.de` | [policy](https://www.new-work.se/.well-known/rfc-2350.txt) | — | — | expired |
-| `zdf.de` | — | — | — | active |
+| `zdf.de` | — | — | — | expired |
 | `zdfheute.de` | — | — | — | active |
 | `zdh.de` | — | — | — | active |
-| `zentrale.de` | — | — | — | active |
+| `zentrale.de` | — | — | — | retired |

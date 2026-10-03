@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 | `1177.se` | — | — | — | active |
 | `abc.se` | — | — | — | retired |
-| `advisa.se` | [policy](https://samblagroup.com/responsible-disclosure) | — | yes | active |
+| `advisa.se` | [policy](https://samblagroup.com/responsible-disclosure) | — | yes | retired |
 | `afaforsakring.se` | — | — | — | active |
 | `aftonbladet.se` | [policy](https://www.schibsted.com/about/security-in-schibsted/schibsted-security-policy/) | — | — | active |
 | `aimopark.se` | — | — | — | active |
@@ -53,7 +53,7 @@
 | `botkyrka.se` | — | — | — | active |
 | `boxer.se` | — | — | — | active |
 | `bra.se` | — | — | — | active |
-| `bring.se` | — | — | — | active |
+| `bring.se` | — | — | — | retired |
 | `bt.se` | — | — | — | active |
 | `bth.se` | — | — | — | active |
 | `businessregiongoteborg.se` | — | — | — | expired |
@@ -174,7 +174,7 @@
 | `indie-ver.se` | — | — | — | active |
 | `inet.se` | — | — | — | retired |
 | `informationsverige.se` | — | — | — | active |
-| `internetkunskap.se` | [policy](https://internetstiftelsen.se/en/about-this-website/responsible-disclosure/) | — | — | expired |
+| `internetkunskap.se` | [policy](https://internetstiftelsen.se/en/about-this-website/responsible-disclosure/) | — | — | retired |
 | `internetmedicin.se` | — | — | — | active |
 | `internetmuseum.se` | [policy](https://internetstiftelsen.se/en/about-this-website/responsible-disclosure/) | — | — | expired |
 | `internetstiftelsen.se` | [policy](https://internetstiftelsen.se/en/about-this-website/responsible-disclosure/) | — | — | expired |
@@ -322,7 +322,7 @@
 | `oru.se` | — | — | — | active |
 | `orust.se` | — | — | — | active |
 | `osby.se` | — | — | — | active |
-| `ostersund.se` | — | — | — | expired |
+| `ostersund.se` | — | — | — | retired |
 | `ostgotatrafiken.se` | — | — | — | active |
 | `ostragoinge.se` | — | — | — | active |
 | `ovanaker.se` | — | — | — | active |

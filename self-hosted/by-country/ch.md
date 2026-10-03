@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-357 programs.
+358 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@
 | `expertsuisse.ch` | — | — | — | active |
 | `ffhs.ch` | — | — | — | active |
 | `financescout24.ch` | — | — | — | active |
-| `finanzen.ch` | [policy](https://www.finanzen.net/.well-known/bugbounty.txt) | monetary | yes | active |
+| `finanzen.ch` | [policy](https://www.finanzen.net/.well-known/bugbounty.txt) | monetary | yes | retired |
 | `finma.ch` | — | — | — | active |
 | `fiz-info.ch` | — | recognition | — | active |
 | `flatfox.ch` | — | — | — | active |
@@ -239,6 +239,7 @@
 | `reka.ch` | — | — | — | active |
 | `renens.ch` | — | — | — | active |
 | `republik.ch` | — | — | — | expired |
+| `riffraff-houdini.ch` | — | — | — | active |
 | `risch.ch` | — | — | — | active |
 | `rosengart.ch` | — | recognition | — | active |
 | `roundshot.ch` | — | — | — | active |

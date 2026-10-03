@@ -34,7 +34,7 @@
 | `medoc.ua` | — | — | — | active |
 | `metro.ua` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | active |
 | `mfa.gov.ua` | — | — | — | active |
-| `mtsbu.ua` | — | — | — | active |
+| `mtsbu.ua` | — | — | — | retired |
 | `notino.ua` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
 | `nubip.edu.ua` | — | — | — | retired |
 | `okko.ua` | — | — | — | expired |

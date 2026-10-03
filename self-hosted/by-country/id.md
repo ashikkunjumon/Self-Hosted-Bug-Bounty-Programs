@@ -9,4 +9,4 @@
 | `kelashack.id` | [policy](https://kelashack.id/vulnerability-disclosure-program) | monetary | — | retired |
 | `kredivo.id` | [policy](https://kredivo.id/en/bug-bounty.html) | monetary | yes | retired |
 | `myinternship.id` | [policy](https://myinternship.id/security-policy) | — | yes | active |
-| `tangerangselatankota.go.id` | [policy](https://bounty.tangerangselatankota.go.id/) | monetary | — | active |
+| `tangerangselatankota.go.id` | [policy](https://bounty.tangerangselatankota.go.id/) | monetary | — | retired |

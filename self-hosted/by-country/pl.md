@@ -81,7 +81,7 @@
 | `lidl.pl` | — | — | — | active |
 | `lorealparis.pl` | — | recognition | — | active |
 | `makro.pl` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | active |
-| `mamotoja.pl` | [policy](https://www.immediate.co.uk/security-disclosure-policy/) | — | — | expired |
+| `mamotoja.pl` | [policy](https://www.immediate.co.uk/security-disclosure-policy/) | — | — | retired |
 | `mapa-turystyczna.pl` | — | — | — | active |
 | `mbank.pl` | [policy](https://www.mbank.pl/pdf/inne/cert-mbank-rfc2350.pdf) | monetary | — | active |
 | `mediaexpert.pl` | — | — | — | active |
@@ -93,7 +93,7 @@
 | `muzhp.pl` | — | — | — | active |
 | `nask.pl` | — | — | — | active |
 | `naszemiasto.pl` | — | — | — | expired |
-| `national-geographic.pl` | [policy](https://www.immediate.co.uk/security-disclosure-policy/) | — | — | expired |
+| `national-geographic.pl` | [policy](https://www.immediate.co.uk/security-disclosure-policy/) | — | — | retired |
 | `newsweek.pl` | — | — | — | active |
 | `niebezpiecznik.pl` | — | — | — | active |
 | `nivea.pl` | [policy](https://soc.beiersdorf.com/disclosurepolicy.html) | — | yes | active |
@@ -160,7 +160,7 @@
 | `wakacje.pl` | — | — | — | active |
 | `wiadomosci24.pl` | — | — | — | expired |
 | `wirtualnemedia.pl` | — | — | — | active |
-| `wizaz.pl` | [policy](https://www.immediate.co.uk/security-disclosure-policy/) | — | — | expired |
+| `wizaz.pl` | [policy](https://www.immediate.co.uk/security-disclosure-policy/) | — | — | retired |
 | `wp.pl` | — | — | — | active |
 | `wroclaw.naszemiasto.pl` | — | — | — | expired |
 | `wspolczesna.pl` | — | — | — | expired |

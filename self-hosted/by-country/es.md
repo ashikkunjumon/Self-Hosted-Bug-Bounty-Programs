@@ -98,7 +98,7 @@
 | `vilaviniteca.es` | — | — | — | active |
 | `vinted.es` | — | — | — | active |
 | `vistaprint.es` | — | — | — | active |
-| `volkswagen.es` | — | — | — | active |
+| `volkswagen.es` | — | — | — | retired |
 | `webador.es` | — | — | — | active |
 | `werstreamt.es` | — | — | — | active |
 | `worten.es` | — | recognition | — | active |

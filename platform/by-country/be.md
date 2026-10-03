@@ -35,7 +35,7 @@
 | `sixt.be` | [policy](https://bugcrowd.com/a22b9798-491e-4d3a-87f3-a69484e02a2f/external/report) | — | — | active |
 | `spaargids.be` | — | monetary | — | active |
 | `streamz.be` | — | monetary | — | active |
-| `tempo-team.be` | [policy](https://www.randstad.com/report-a-security-problem/) | — | — | active |
+| `tempo-team.be` | [policy](https://www.randstad.com/report-a-security-problem/) | — | — | retired |
 | `toyota.be` | — | monetary | — | expired |
 | `unibet.be` | — | monetary | — | retired |
 | `unibetcasino.be` | — | monetary | — | retired |

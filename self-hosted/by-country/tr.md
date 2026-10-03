@@ -19,7 +19,7 @@
 | `hopi.com.tr` | — | monetary | — | active |
 | `ifade.org.tr` | — | — | — | active |
 | `iha.com.tr` | [policy](https://iha.com.tr/security-policy) | — | — | active |
-| `investaz.com.tr` | — | — | — | active |
+| `investaz.com.tr` | — | — | — | retired |
 | `kamilkoc.com.tr` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |
 | `lorealparis.com.tr` | — | recognition | — | active |
 | `michelin.com.tr` | — | — | — | active |

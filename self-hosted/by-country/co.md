@@ -13,5 +13,5 @@
 | `securepractice.co` | [policy](https://securepractice.co/support) | — | — | active |
 | `swile.co` | [policy](https://swile.co/security/disclosure-policy.txt) | recognition | — | active |
 | `vista.co` | [policy](https://www.vista.co/responsible-disclosure-policy) | recognition | — | active |
-| `zelp.co` | [policy](https://www.zelp.co/vulnerability-disclosure-policy/) | — | — | active |
+| `zelp.co` | [policy](https://www.zelp.co/vulnerability-disclosure-policy/) | — | — | retired |
 | `zip.co` | [policy](https://zip.co/vulnerability-disclosure-program) | — | — | retired |

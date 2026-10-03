@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 | `2dehands.be` | [policy](https://adevinta.com/security-vulnerability/) | recognition | yes | active |
 | `2ememain.be` | [policy](https://adevinta.com/security-vulnerability/) | recognition | yes | active |
-| `4gamers.be` | — | — | — | active |
+| `4gamers.be` | — | — | — | retired |
 | `aalter.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `aanbieders.be` | [policy](https://www.aanbieders.be/privacyverklaring) | — | — | active |
 | `aarschot.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
@@ -218,7 +218,7 @@
 | `vivaqua.be` | [policy](https://www.vivaqua.be/en/vulnerability-report) | — | — | active |
 | `vliz.be` | — | — | — | active |
 | `voka.be` | — | — | — | expired |
-| `volero.be` | [policy](https://www.registrarhub.net/.well-known/responsible_disclosure.txt) | — | — | active |
+| `volero.be` | [policy](https://www.registrarhub.net/.well-known/responsible_disclosure.txt) | — | — | retired |
 | `vrt.be` | [policy](https://www.vrt.be/en/responsible-disclosure-policy-english-version/) | recognition | — | active |
 | `warande.be` | — | — | — | active |
 | `wavre.be` | — | — | — | active |

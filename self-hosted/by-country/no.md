@@ -1,6 +1,6 @@
 # Self-hosted programs — NO
 
-222 programs.
+224 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@
 | `detnorsketeatret.no` | [policy](https://www.detnorsketeatret.no/security-policy) | recognition | — | active |
 | `diakonhjemmetsykehus.no` | — | — | — | active |
 | `digdir.no` | [policy](https://www.digdir.no/digdir/responsible-disclosure-policy/6386) | recognition | yes | active |
-| `digi.no` | — | — | — | expired |
+| `digi.no` | — | — | — | retired |
 | `dirnat.no` | — | — | — | active |
 | `dmp.no` | — | — | — | active |
 | `dnb.no` | — | — | — | active |
@@ -100,6 +100,7 @@
 | `inn.no` | — | — | — | active |
 | `innlandetfylke.no` | — | recognition | — | expired |
 | `jordskjelv.no` | — | — | — | active |
+| `kartverket.no` | [policy](https://vdp.kartverket.no/responsible-disclosure-policy.txt) | swag | yes | active |
 | `kid.no` | — | — | — | expired |
 | `klp.no` | — | — | — | active |
 | `knowit.no` | — | — | — | expired |
@@ -124,6 +125,7 @@
 | `moller.no` | [policy](https://moller.no/.well-known/security.txt) | recognition | — | active |
 | `mollerbil.no` | [policy](https://moller.no/.well-known/security.txt) | recognition | — | active |
 | `mre.no` | — | — | — | expired |
+| `mystore.no` | [policy](https://norvato.com/responsible-disclosure) | recognition | yes | active |
 | `nasjonalparkstyre.no` | [policy](https://www.nasjonalparkstyre.no/security-policy) | recognition | — | active |
 | `nav.no` | — | — | — | active |
 | `nbim.no` | [policy](https://www.nbim.no/en/responsible-disclosure-policy/) | recognition | — | active |
@@ -164,7 +166,7 @@
 | `paretosec.no` | — | — | — | active |
 | `pilegrimsleden.no` | [policy](https://www.pilegrimsleden.no/security-policy) | recognition | — | active |
 | `politiet.no` | — | — | — | active |
-| `posten.no` | — | — | — | active |
+| `posten.no` | — | — | — | retired |
 | `poweroffice.no` | — | — | — | active |
 | `prisjakt.no` | — | — | — | expired |
 | `ra.no` | — | — | — | expired |
@@ -208,9 +210,9 @@
 | `toll.no` | — | — | — | active |
 | `trafikanten.no` | — | — | — | active |
 | `tripletex.no` | [policy](https://www.visma.com/trust-centre/responsible-disclosure) | swag | yes | active |
-| `tryg.no` | [policy](https://tryg.com/en/responsible-disclosure) | — | — | expired |
+| `tryg.no` | [policy](https://tryg.com/en/responsible-disclosure) | — | — | retired |
 | `tv2.no` | [policy](https://info.tv2.no/info/artikkel/responsible-disclosure-policy) | swag | yes | active |
-| `udi.no` | — | — | — | active |
+| `udi.no` | — | — | — | retired |
 | `uio.no` | [policy](https://cert.uio.no/vulnerability-disclosure-policy.html) | monetary | — | active |
 | `uninett.no` | [policy](https://www.sikt.no/security-policy) | recognition | yes | active |
 | `unit.no` | [policy](https://www.sikt.no/security-policy) | recognition | yes | active |

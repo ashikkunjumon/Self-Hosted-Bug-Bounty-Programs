@@ -29,7 +29,7 @@
 | `ok.ru` | — | — | — | active |
 | `ozon.ru` | — | monetary | — | active |
 | `photographer.ru` | — | recognition | — | active |
-| `privetmir.ru` | — | — | — | active |
+| `privetmir.ru` | — | — | — | retired |
 | `rus-buket.ru` | — | — | — | active |
 | `saby.ru` | — | monetary | — | active |
 | `sbis.ru` | — | monetary | — | active |

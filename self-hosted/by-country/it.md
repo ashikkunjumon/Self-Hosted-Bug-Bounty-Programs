@@ -29,7 +29,7 @@
 | `digitpa.gov.it` | — | — | — | expired |
 | `diretta.it` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `docs.repl.it` | [policy](https://docs.repl.it/legal-and-security-info/security) | — | — | retired |
-| `ecmacademy.it` | [policy](https://moodledev.io/general/development/process/security) | monetary | — | expired |
+| `ecmacademy.it` | [policy](https://moodledev.io/general/development/process/security) | monetary | — | retired |
 | `economyup.it` | — | recognition | — | active |
 | `enav.it` | — | — | — | active |
 | `esg360.it` | — | recognition | — | active |
@@ -59,10 +59,10 @@
 | `pixartprinting.it` | — | — | — | active |
 | `privacylab.it` | — | — | — | active |
 | `radioradicale.it` | — | — | — | active |
-| `rhoss.it` | [policy](https://www.rhoss.it/cyber-resilience-act/) | — | — | active |
+| `rhoss.it` | [policy](https://www.rhoss.it/cyber-resilience-act/) | — | — | retired |
 | `richslots.it` | — | — | — | retired |
 | `riello-solartech.it` | [policy](https://www.riello-solartech.com/insight/vulnerability-and-incident-disclosure) | monetary | — | active |
-| `sandenvendo.it` | [policy](https://www.sandenvendo.it/pt/cra-security/) | — | — | active |
+| `sandenvendo.it` | [policy](https://www.sandenvendo.it/pt/cra-security/) | — | — | retired |
 | `sdabocconi.it` | [policy](https://unibocconi.it/security/vulnerability-disclosure) | monetary | — | active |
 | `seeweb.it` | — | — | — | active |
 | `subito.it` | [policy](https://adevinta.com/security-vulnerability/) | — | — | retired |
