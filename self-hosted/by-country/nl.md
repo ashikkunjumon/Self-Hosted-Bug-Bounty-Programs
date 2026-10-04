@@ -1,6 +1,6 @@
 # Self-hosted programs — NL
 
-345 programs.
+346 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -157,6 +157,7 @@
 | `it-notaris.nl` | [policy](https://it-notaris.nl/responsible-disclosure/) | recognition | yes | retired |
 | `jaarbeurs.nl` | [policy](https://www.jaarbeurs.nl/responsible-disclosure) | — | — | expired |
 | `jeito.nl` | [policy](https://jeito.nl/security-policy.html) | — | — | active |
+| `jeugdfondssportencultuur.nl` | [policy](https://jeugdfondssportencultuur.nl/kwetsbaarheid-melden/) | — | — | active |
 | `jeugdjournaal.nl` | [policy](https://over.nos.nl/organisatie/melden-zwakke-ict-plekken) | — | — | active |
 | `johancruijffarena.nl` | [policy](https://www.onyourmarks.agency/security-policy/) | monetary | — | expired |
 | `jouwweb.nl` | — | — | — | active |
@@ -279,7 +280,7 @@
 | `rvo.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `rws.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `s-bb.nl` | [policy](https://www.s-bb.nl/contact/responsible-disclosure-policy/) | monetary | — | active |
-| `s-hertogenbosch.nl` | [policy](https://www.s-hertogenbosch.nl/coordinated-vulnerability-disclosure) | recognition | yes | active |
+| `s-hertogenbosch.nl` | [policy](https://www.s-hertogenbosch.nl/coordinated-vulnerability-disclosure) | — | — | active |
 | `sanquin.nl` | [policy](https://www.z-cert.nl/kwetsbaarheid-melden) | — | — | expired |
 | `saxion.nl` | [policy](https://www.saxion.nl/over-saxion/organisatie/coordinated-vulnerability-disclosure) | recognition | yes | active |
 | `schiphol.nl` | [policy](https://www.schiphol.nl/en/schiphol-group/responsible-disclosure-notification/) | recognition | — | active |

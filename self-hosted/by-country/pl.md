@@ -1,6 +1,6 @@
 # Self-hosted programs — PL
 
-165 programs.
+167 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -27,6 +27,7 @@
 | `dobreprogramy.pl` | — | — | — | active |
 | `domodi.pl` | — | — | — | active |
 | `dziennikbaltycki.pl` | — | — | — | expired |
+| `dzienniklodzki.pl` | — | — | — | expired |
 | `dziennikpolski24.pl` | — | — | — | expired |
 | `dziennikzachodni.pl` | — | — | — | expired |
 | `e-budownictwo.pl` | — | — | — | expired |
@@ -38,6 +39,7 @@
 | `eventim.pl` | — | — | — | active |
 | `expressbydgoski.pl` | — | — | — | expired |
 | `expressilustrowany.pl` | — | — | — | expired |
+| `ezebra.pl` | — | — | — | active |
 | `flashscore.pl` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `flixbus.pl` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |
 | `forbes.pl` | — | — | — | active |

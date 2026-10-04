@@ -1,6 +1,6 @@
 # Self-hosted programs — ES
 
-99 programs.
+100 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -56,6 +56,7 @@
 | `incibe-cert.es` | [policy](https://www.incibe.es/en/incibe-cert/about-us/vulnerability-disclosure-policy) | recognition | — | retired |
 | `ionos.es` | [policy](https://www.ionos.com/it-security) | — | — | active |
 | `juntadeandalucia.es` | — | — | — | active |
+| `kiehls.es` | — | recognition | — | active |
 | `laliga.es` | [policy](https://www.laliga.com/informacion-legal/laliga-cvd) | — | — | active |
 | `laroche-posay.es` | — | recognition | — | active |
 | `legrand.es` | [policy](https://www.legrand.com/cybersecurity/en/cvd-policy) | — | — | active |

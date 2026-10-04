@@ -59,4 +59,4 @@
 | `unitbv.ro` | — | — | — | active |
 | `upit.ro` | — | — | — | active |
 | `versuri.ro` | — | — | — | active |
-| `webcamromania.ro` | — | — | — | active |
+| `webcamromania.ro` | — | — | — | retired |

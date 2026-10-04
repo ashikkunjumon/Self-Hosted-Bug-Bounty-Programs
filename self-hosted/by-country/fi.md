@@ -1,6 +1,6 @@
 # Self-hosted programs — FI
 
-122 programs.
+123 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -114,6 +114,7 @@
 | `ursa.fi` | — | — | — | active |
 | `uta.fi` | — | — | — | expired |
 | `utu.fi` | — | recognition | — | active |
+| `valio.fi` | — | — | — | active |
 | `valkeakoskensanomat.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | expired |
 | `valtiolle.fi` | — | — | — | active |
 | `vasabladet.fi` | — | — | — | active |

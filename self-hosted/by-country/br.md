@@ -1,6 +1,6 @@
 # Self-hosted programs — BR
 
-78 programs.
+79 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -81,4 +81,5 @@
 | `unifal-mg.edu.br` | — | — | — | active |
 | `unochapeco.edu.br` | — | — | — | active |
 | `viajanet.com.br` | — | recognition | — | active |
+| `viva.com.br` | — | — | — | active |
 | `yampi.com.br` | — | recognition | — | active |

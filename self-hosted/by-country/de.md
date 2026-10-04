@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-410 programs.
+411 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -253,6 +253,7 @@
 | `mydays.de` | [policy](https://public-jsmd.s3.eu-central-1.amazonaws.com/Bug-Bounty-Policy-1.3.pdf) | monetary | — | active |
 | `neoshare.de` | [policy](https://neoshare.de/responsible-disclosure-program) | recognition | — | retired |
 | `netto-online.de` | — | — | — | active |
+| `neuepresse.de` | — | — | — | active |
 | `nius.de` | — | — | — | active |
 | `nivea.de` | [policy](https://soc.beiersdorf.com/disclosurepolicy.html) | — | yes | active |
 | `nospamproxy.de` | — | recognition | — | active |
@@ -410,7 +411,7 @@
 | `wuerzburg.de` | — | — | — | active |
 | `wuppertal.de` | [policy](https://digital.wuppertal.de/medien_digitalisierung/10_ISMS_Stadt_Wuppertal_Richtlinie_zur_Offenlegung_von_Sicherheitsluecken_V2.0.pdf) | monetary | — | active |
 | `xing.de` | [policy](https://www.new-work.se/.well-known/rfc-2350.txt) | — | — | expired |
-| `zdf.de` | — | — | — | expired |
+| `zdf.de` | — | — | — | active |
 | `zdfheute.de` | — | — | — | active |
 | `zdh.de` | — | — | — | active |
 | `zentrale.de` | — | — | — | retired |

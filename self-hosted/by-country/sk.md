@@ -1,6 +1,6 @@
 # Self-hosted programs — SK
 
-43 programs.
+44 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -12,6 +12,7 @@
 | `asbis.sk` | — | — | — | active |
 | `astik.sk` | — | — | — | active |
 | `autode.sk` | — | — | — | active |
+| `bart.sk` | — | — | — | active |
 | `biano.sk` | — | — | — | active |
 | `biznisweb.sk` | — | — | — | active |
 | `bux.sk` | — | — | — | active |

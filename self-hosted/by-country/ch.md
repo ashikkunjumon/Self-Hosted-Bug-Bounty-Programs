@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-358 programs.
+359 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -118,6 +118,7 @@
 | `grandcasinobaden.ch` | — | — | — | active |
 | `grande-dixence.ch` | — | — | — | active |
 | `green.ch` | [policy](https://www.green.ch/fileadmin/user_upload/Rechtliches/security/18_2024-10_Policy_External_Penetration_Testing-PUBLIC.pdf) | monetary | — | active |
+| `grenchen.ch` | — | — | — | active |
 | `grimselstrom.ch` | — | — | — | active |
 | `grimselwelt.ch` | — | — | — | active |
 | `gruene.ch` | — | — | — | active |
