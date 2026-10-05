@@ -79,7 +79,7 @@
 | `musiikkitalo.fi` | [policy](https://handbook.dude.fi/security-policy) | monetary | — | active |
 | `nordnet.fi` | [policy](https://www.nordnet.se/security-disclosure) | monetary | — | active |
 | `notino.fi` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
-| `omalaina.fi` | [policy](https://samblagroup.com/responsible-disclosure) | — | yes | active |
+| `omalaina.fi` | [policy](https://samblagroup.com/responsible-disclosure) | — | yes | retired |
 | `onninen.fi` | — | — | — | expired |
 | `osterbottenstidning.fi` | — | — | — | active |
 | `oulu.fi` | — | — | — | active |

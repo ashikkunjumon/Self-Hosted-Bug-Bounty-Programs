@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-359 programs.
+360 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -202,6 +202,7 @@
 | `migrosmagazine.ch` | — | — | — | active |
 | `mobilesport.ch` | — | — | — | active |
 | `motoscout24.ch` | — | — | — | active |
+| `mots-croises.ch` | — | — | — | active |
 | `mycloud.ch` | [policy](https://github.com/swisscom/bugbounty) | monetary | yes | active |
 | `myvaud.ch` | — | — | — | active |
 | `nationalmuseum.ch` | — | — | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-226 programs.
+227 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -227,6 +227,7 @@
 | `wetteren.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `wintersport.be` | — | — | — | active |
 | `xerius.be` | — | — | — | active |
+| `zaventem.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `zoover.be` | — | — | — | active |
 | `zva.be` | — | — | — | active |
 | `zwin.be` | — | — | — | active |

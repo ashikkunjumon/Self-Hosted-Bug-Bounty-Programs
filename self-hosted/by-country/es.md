@@ -1,6 +1,6 @@
 # Self-hosted programs — ES
 
-100 programs.
+101 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -26,6 +26,7 @@
 | `crazytime.es` | — | — | — | active |
 | `datacentermarket.es` | — | recognition | — | active |
 | `decathlon.es` | [policy](https://vdp.decathlon.net) | — | — | active |
+| `degiro.es` | [policy](https://www.flatexdegiro.com/security) | — | — | active |
 | `designcrowd.es` | — | — | — | active |
 | `devuego.es` | — | recognition | — | active |
 | `dicoruna.es` | — | — | — | active |

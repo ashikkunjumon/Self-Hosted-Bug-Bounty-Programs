@@ -47,7 +47,7 @@
 | `eroguide.dk` | — | — | — | retired |
 | `evermart.dk` | — | — | — | active |
 | `expedia.dk` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
-| `faa.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
+| `faa.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | retired |
 | `familiejournal.dk` | — | — | — | expired |
 | `fe-ddis.dk` | [policy](https://fe-ddis.dk/vulnerability-disclosure.txt) | — | — | active |
 | `feddit.dk` | — | — | — | active |

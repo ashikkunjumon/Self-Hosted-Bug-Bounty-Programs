@@ -1,6 +1,6 @@
 # Self-hosted programs — BR
 
-79 programs.
+81 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -40,9 +40,11 @@
 | `granado.com.br` | — | — | — | active |
 | `grancursosonline.com.br` | — | — | — | active |
 | `hallbook.com.br` | [policy](https://hallbook.com.br/static/terms) | — | — | active |
+| `hubsoft.com.br` | [policy](https://hubsoft.io/privacidade/) | — | — | active |
 | `idinheiro.com.br` | [policy](https://www.idinheiro.com.br/politica-de-privacidade/) | — | — | active |
 | `inmet.gov.br` | [policy](https://www.gov.br/agricultura/pt-br/acesso-a-informacao/tecnologia-da-informacao/seguranca-da-informacao/politica-de-seguranca-da-informacao-e-comunicacao-posic) | — | — | active |
 | `investidorpetrobras.com.br` | — | — | — | active |
+| `itaipuparquetec.org.br` | — | — | — | active |
 | `jcconcursos.com.br` | — | — | — | expired |
 | `jusbrasil.com.br` | — | — | — | active |
 | `livepass.com.br` | — | — | — | active |

@@ -86,7 +86,7 @@
 | `dustinhome.se` | — | — | — | active |
 | `ei.se` | — | — | — | active |
 | `ekero.se` | — | — | — | active |
-| `eksjo.se` | — | — | — | active |
+| `eksjo.se` | — | — | — | expired |
 | `ellevio.se` | — | — | — | expired |
 | `elon.se` | — | — | — | active |
 | `enkoping.se` | — | — | — | active |
@@ -291,7 +291,7 @@
 | `munkedal.se` | — | — | — | active |
 | `na.se` | — | — | — | active |
 | `nacka.se` | — | — | — | active |
-| `nassjo.se` | — | — | — | active |
+| `nassjo.se` | — | — | — | expired |
 | `ncsc.se` | — | — | — | active |
 | `new-work.se` | [policy](https://www.new-work.se/.well-known/rfc-2350.txt) | — | — | expired |
 | `newsmill.se` | — | — | — | active |
@@ -486,7 +486,7 @@
 | `vaxholm.se` | — | — | — | active |
 | `vaxjo.se` | — | — | — | active |
 | `vellinge.se` | — | — | — | active |
-| `vetlanda.se` | — | — | — | active |
+| `vetlanda.se` | — | — | — | expired |
 | `vetlandaposten.se` | — | — | — | active |
 | `vf.se` | — | — | — | active |
 | `vgregion.se` | — | — | — | active |

@@ -1,6 +1,6 @@
 # Platform-hosted programs — PL
 
-12 programs.
+13 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -16,3 +16,4 @@
 | `randstad.pl` | [policy](https://www.randstad.com/report-a-security-problem/) | — | — | active |
 | `toyota.pl` | — | monetary | — | expired |
 | `yelp.pl` | [policy](https://hackerone.com/yelp?view_policy=true) | — | — | active |
+| `zabka.pl` | [policy](https://app.intigriti.com/programs/zabkapolska/zabkagroup-vdp/detail) | monetary | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-411 programs.
+412 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -318,6 +318,7 @@
 | `spdfraktion.de` | — | — | — | retired |
 | `speyer.de` | — | — | — | active |
 | `spreadshirt.de` | — | — | — | retired |
+| `spritmonitor.de` | — | — | — | expired |
 | `srlabs.de` | — | — | — | active |
 | `stadt-koeln.de` | — | — | — | retired |
 | `stadtlindau.de` | — | — | — | active |
