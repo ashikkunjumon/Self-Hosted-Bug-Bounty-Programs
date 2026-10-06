@@ -1,6 +1,6 @@
 # Self-hosted programs — PL
 
-167 programs.
+168 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -92,6 +92,7 @@
 | `moja-ostroleka.pl` | — | — | — | retired |
 | `money.pl` | — | — | — | active |
 | `motofakty.pl` | — | — | — | expired |
+| `muza.com.pl` | — | — | — | active |
 | `muzhp.pl` | — | — | — | active |
 | `nask.pl` | — | — | — | active |
 | `naszemiasto.pl` | — | — | — | expired |

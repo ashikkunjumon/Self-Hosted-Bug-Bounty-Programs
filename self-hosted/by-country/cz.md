@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-348 programs.
+349 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -167,7 +167,7 @@
 | `kraj-lbc.cz` | — | — | — | active |
 | `kraloveskoly.cz` | — | — | — | active |
 | `krimi-plzen.cz` | — | — | — | active |
-| `kupi.cz` | [policy](https://napoveda.seznam.cz/cz/smluvni-podminky/podminky-kupi-cz/) | — | — | active |
+| `kupi.cz` | [policy](https://napoveda.seznam.cz/cz/smluvni-podminky/podminky-kupi-cz/) | — | — | retired |
 | `kvaltex.cz` | — | — | — | active |
 | `laskakit.cz` | — | — | — | active |
 | `letuska.cz` | [policy](https://asiana.cz/policy_en.html) | — | — | active |
@@ -262,6 +262,7 @@
 | `raynet.cz` | — | — | — | active |
 | `rb.cz` | [policy](https://www.rb.cz/.well-known/cvd-policy) | monetary | — | active |
 | `regzone.cz` | — | — | — | expired |
+| `reichard.cz` | — | — | — | active |
 | `reservanto.cz` | — | — | — | active |
 | `rigad.cz` | — | — | — | active |
 | `rlp.cz` | — | — | — | active |
@@ -319,7 +320,7 @@
 | `usetreno.cz` | — | — | — | retired |
 | `varnsdorf.cz` | — | — | — | active |
 | `vas-hosting.cz` | — | — | — | active |
-| `vedos.cz` | [policy](https://vedos.cz/security-policy) | recognition | — | active |
+| `vedos.cz` | [policy](https://vedos.cz/security-policy) | — | — | active |
 | `velkemezirici.cz` | — | — | — | active |
 | `vesmir.cz` | — | — | — | active |
 | `vetkom.cz` | — | — | — | active |

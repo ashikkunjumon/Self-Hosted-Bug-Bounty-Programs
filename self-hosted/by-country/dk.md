@@ -1,12 +1,13 @@
 # Self-hosted programs — DK
 
-144 programs.
+145 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `aarhusmotion.dk` | [policy](https://bbtiming.com/page/vulnerability-policy) | — | yes | active |
 | `aktuelnaturvidenskab.dk` | — | — | — | active |
 | `alexandra.dk` | — | — | — | active |
+| `amagerliv.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
 | `amtsavisen.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
 | `ao.dk` | — | — | — | expired |
 | `asb.dk` | — | — | — | active |
@@ -77,7 +78,7 @@
 | `jppol.dk` | — | — | — | active |
 | `jubii.dk` | — | — | — | active |
 | `justitsministeriet.dk` | — | — | — | active |
-| `jv.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
+| `jv.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | retired |
 | `kilroy.dk` | — | — | — | active |
 | `kk.dk` | — | — | — | active |
 | `komplett.dk` | — | — | — | expired |

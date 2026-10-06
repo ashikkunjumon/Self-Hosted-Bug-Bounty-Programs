@@ -1,6 +1,6 @@
 # Self-hosted programs — IT
 
-77 programs.
+78 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -63,6 +63,7 @@
 | `richslots.it` | — | — | — | retired |
 | `riello-solartech.it` | [policy](https://www.riello-solartech.com/insight/vulnerability-and-incident-disclosure) | monetary | — | active |
 | `sandenvendo.it` | [policy](https://www.sandenvendo.it/pt/cra-security/) | — | — | retired |
+| `savee.it` | — | — | — | active |
 | `sdabocconi.it` | [policy](https://unibocconi.it/security/vulnerability-disclosure) | monetary | — | active |
 | `seeweb.it` | — | — | — | active |
 | `subito.it` | [policy](https://adevinta.com/security-vulnerability/) | — | — | retired |

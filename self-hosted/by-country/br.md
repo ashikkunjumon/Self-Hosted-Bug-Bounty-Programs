@@ -1,6 +1,6 @@
 # Self-hosted programs — BR
 
-81 programs.
+82 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -68,6 +68,7 @@
 | `reclameaqui.com.br` | [policy](https://storage.googleapis.com/whitehat-policy/reclameaqui-whitehat-policy.pdf) | monetary | — | active |
 | `registro.br` | — | — | — | active |
 | `saboresdemarise.com.br` | — | — | — | active |
+| `saocarlosagora.com.br` | — | — | — | active |
 | `servaco.com.br` | — | — | — | active |
 | `sescpr.com.br` | [policy](https://www.sescpr.com.br/politica-de-privacidade) | — | — | active |
 | `tacontratado.com.br` | — | — | — | active |

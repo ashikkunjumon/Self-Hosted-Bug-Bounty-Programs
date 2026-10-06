@@ -1,6 +1,6 @@
 # Self-hosted programs — RU
 
-36 programs.
+37 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -13,6 +13,7 @@
 | `bitrix24.ru` | — | — | — | active |
 | `bitrix24site.ru` | — | — | — | active |
 | `cian.ru` | — | — | — | active |
+| `cloud.ru` | — | monetary | — | active |
 | `connect.ok.ru` | — | — | — | active |
 | `drevo-info.ru` | — | — | — | active |
 | `drive2.ru` | — | — | — | active |

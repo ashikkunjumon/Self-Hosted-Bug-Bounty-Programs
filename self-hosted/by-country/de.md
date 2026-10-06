@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-412 programs.
+415 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@
 | `computerbase.de` | — | — | — | active |
 | `ct.de` | [policy](https://heise.de/-7513540) | monetary | — | active |
 | `cure53.de` | — | recognition | — | active |
-| `daad.de` | — | — | — | active |
+| `daad.de` | — | — | — | retired |
 | `darmstadt.de` | — | — | — | active |
 | `dasauge.de` | — | — | — | active |
 | `dasding.de` | — | — | — | active |
@@ -109,11 +109,12 @@
 | `dreamplacesai.de` | [policy](https://github.com/go-gitea/gitea/blob/main/SECURITY.md) | recognition | — | active |
 | `drk-blutspende.de` | — | — | — | active |
 | `dstgb.de` | — | — | — | active |
+| `dwds.de` | — | — | — | active |
 | `eco.de` | — | — | — | expired |
 | `ekd.de` | — | — | — | active |
 | `ekomi.de` | — | — | — | active |
 | `eon.de` | — | — | — | active |
-| `erasmusplus.de` | — | — | — | active |
+| `erasmusplus.de` | — | — | — | retired |
 | `eventim-inhouse.de` | — | — | — | active |
 | `eventim.de` | — | — | — | active |
 | `expedia.de` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
@@ -211,6 +212,7 @@
 | `kkh.de` | — | — | — | active |
 | `kleinanzeigen.de` | [policy](https://adevinta.com/security-vulnerability/) | recognition | yes | active |
 | `klett.de` | — | — | — | active |
+| `koblenz.de` | — | — | — | active |
 | `koeln.de` | — | — | — | active |
 | `komoot.de` | [policy](https://www.komoot.com/security/bug-bounty) | — | — | active |
 | `konstanz.de` | — | — | — | active |
@@ -227,7 +229,7 @@
 | `linksjugend-solid.de` | — | — | — | expired |
 | `lmu.de` | — | — | — | active |
 | `logo.de` | — | — | — | active |
-| `lotto.de` | [policy](https://vdp.lotto-niedersachsen.de/p/Policy) | — | — | expired |
+| `lotto.de` | [policy](https://vdp.lotto-niedersachsen.de/p/Policy) | — | — | active |
 | `ludwigsburg.de` | — | — | — | active |
 | `lvr.de` | — | — | — | active |
 | `lvz.de` | — | — | — | active |
@@ -323,7 +325,7 @@
 | `stadt-koeln.de` | — | — | — | retired |
 | `stadtlindau.de` | — | — | — | active |
 | `strato.de` | [policy](https://www.strato.de/it-security) | monetary | — | active |
-| `study-in-germany.de` | — | — | — | active |
+| `study-in-germany.de` | — | — | — | retired |
 | `stuttgart.de` | — | — | — | active |
 | `suse.de` | — | — | — | active |
 | `swm.de` | — | — | — | active |
@@ -355,6 +357,7 @@
 | `tu-ilmenau.de` | — | recognition | — | active |
 | `tuhh.de` | — | — | — | active |
 | `tum.de` | — | — | — | active |
+| `uestra.de` | — | — | — | active |
 | `ulm.de` | — | — | — | retired |
 | `uni-augsburg.de` | [policy](https://www.uni-augsburg.de/datenschutz) | — | — | active |
 | `uni-bamberg.de` | — | — | — | active |

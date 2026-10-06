@@ -27,7 +27,7 @@
 | `giantswarm.io` | [policy](https://www.giantswarm.io/responsible-disclosure) | swag | — | active |
 | `gitpod.io` | [policy](https://ona.com/docs/ona/security/report) | — | yes | retired |
 | `hackhq.io` | [policy](https://hackhq.io/security) | — | yes | active |
-| `hadrian.io` | [policy](https://hadrian.io/vulnerability-disclosure-policy) | — | — | active |
+| `hadrian.io` | [policy](https://hadrian.io/vulnerability-disclosure-policy) | monetary | — | active |
 | `honeycomb.io` | [policy](https://docs.honeycomb.io/security-compliance/bug-bounty-program) | monetary | — | retired |
 | `hrpartner.io` | [policy](https://www.hrpartner.io/security.html) | — | — | retired |
 | `hybridclaw.io` | [policy](https://hybridclaw.io/security) | recognition | yes | active |

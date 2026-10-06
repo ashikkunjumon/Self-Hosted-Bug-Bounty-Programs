@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-500 programs.
+503 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -109,6 +109,7 @@
 | `flashscore.se` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `flen.se` | — | — | — | active |
 | `flixbus.se` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |
+| `fmi.se` | — | — | — | active |
 | `folkhalsomyndigheten.se` | — | — | — | expired |
 | `folksam.se` | — | — | — | active |
 | `forex.se` | — | — | — | active |
@@ -342,6 +343,7 @@
 | `regiongavleborg.se` | [policy](https://www.regiongavleborg.se/) | — | — | active |
 | `regionhalland.se` | — | — | — | active |
 | `regionkalmar.se` | — | — | — | active |
+| `regionkronoberg.se` | — | — | — | active |
 | `regionostergotland.se` | — | — | — | active |
 | `regionstockholm.se` | — | — | — | active |
 | `regionuppsala.se` | — | — | — | active |
@@ -422,6 +424,7 @@
 | `sundbyberg.se` | — | — | — | active |
 | `sundsvall.se` | — | — | — | active |
 | `sunet.se` | — | recognition | — | active |
+| `sunne.se` | — | — | — | active |
 | `suntarbetsliv.se` | — | — | — | active |
 | `svalov.se` | — | — | — | active |
 | `svenskarnaochinternet.se` | [policy](https://internetstiftelsen.se/en/about-this-website/responsible-disclosure/) | — | — | expired |
@@ -471,7 +474,7 @@
 | `uu.se` | — | — | — | active |
 | `vaggeryd.se` | — | — | — | active |
 | `val.se` | — | — | — | active |
-| `vallentuna.se` | — | — | — | expired |
+| `vallentuna.se` | — | — | — | active |
 | `vanersborg.se` | — | — | — | active |
 | `vannas.se` | — | — | — | active |
 | `vansbro.se` | — | — | — | active |

@@ -32,7 +32,7 @@
 | `cea.fr` | [policy](https://www.cea.fr/cert) | monetary | — | active |
 | `centre-commercial.fr` | — | — | — | active |
 | `cewe.fr` | — | — | — | active |
-| `cmb.fr` | — | — | — | active |
+| `cmb.fr` | — | — | — | retired |
 | `coface.fr` | — | — | — | active |
 | `colissimo.fr` | [policy](https://vdp.laposte.fr/p/Security-Information) | — | — | active |
 | `cotesdarmor.fr` | — | — | — | expired |
