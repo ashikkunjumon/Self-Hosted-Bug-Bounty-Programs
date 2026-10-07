@@ -1,6 +1,6 @@
 # Self-hosted programs — NL
 
-350 programs.
+352 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -76,6 +76,7 @@
 | `conclusion.nl` | — | — | — | active |
 | `conrad.nl` | [policy](https://www.conrad.de/de/ueber-conrad/vulnerability-disclosure-program.html) | — | — | active |
 | `consuwijzer.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
+| `coolblue.nl` | — | monetary | — | active |
 | `corendon.nl` | [policy](https://www.corendon.nl/privacy-verklaring) | monetary | — | active |
 | `cultureelerfgoed.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `cz.nl` | [policy](https://www.cz.nl/over-cz/beveiligingsprobleem-melden) | monetary | yes | active |
@@ -173,6 +174,7 @@
 | `knab.nl` | [policy](https://www.knab.nl/veiligheid/beveiligingslek-melden) | monetary | yes | expired |
 | `knb.nl` | [policy](https://www.knb.nl/kwetsbaarheid-melden/) | — | yes | active |
 | `kngf.nl` | [policy](https://z-cert.nl/kwetsbaarheid-melden/) | — | — | active |
+| `knmp.nl` | — | — | — | active |
 | `koninklijkhuis.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `kpn.nl` | — | monetary | — | active |
 | `kro-ncrv.nl` | [policy](https://kro-ncrv.nl/kwetsbaarheid-website-melden) | recognition | yes | active |

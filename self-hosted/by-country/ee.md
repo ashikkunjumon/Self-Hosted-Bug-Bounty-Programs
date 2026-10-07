@@ -7,7 +7,7 @@
 | `apollokino.ee` | — | — | — | active |
 | `bigbank.ee` | [policy](https://ca.bigbank.eu/security) | — | — | active |
 | `cooppank.ee` | — | — | — | active |
-| `crypt.ee` | [policy](https://github.com/cryptee/web-client/blob/v3/security.md) | — | — | active |
+| `crypt.ee` | [policy](https://github.com/cryptee/web-client/blob/v3/security.md) | — | yes | active |
 | `eans.ee` | — | recognition | — | active |
 | `elering.ee` | — | — | — | retired |
 | `enefit.ee` | — | — | — | active |

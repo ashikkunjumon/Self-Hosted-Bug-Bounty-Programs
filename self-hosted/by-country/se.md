@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-503 programs.
+504 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -35,6 +35,7 @@
 | `astorp.se` | — | — | — | active |
 | `avanza.se` | [policy](https://www.avanza.se/sakerhet-villkor/sakerhet.html) | — | — | active |
 | `barometern.se` | — | — | — | active |
+| `bauhaus.se` | — | — | — | active |
 | `bblat.se` | — | — | — | active |
 | `bergianska.se` | — | — | — | active |
 | `bettingkollen.se` | [policy](https://bettingkollen.se/security-policy) | recognition | — | active |
@@ -366,7 +367,7 @@
 | `sas.se` | [policy](https://www.sasgroup.net/contact/vulnerability-disclosure-policy/) | recognition | yes | retired |
 | `sbab.se` | [policy](https://sbab.se/1/sidfotsmeny_2/sakerhet/responsible_disclosure.html) | monetary | — | active |
 | `sbf.se` | — | — | — | active |
-| `scb.se` | — | — | — | expired |
+| `scb.se` | — | — | — | active |
 | `scilifelab.se` | — | — | — | active |
 | `sfv.se` | — | — | — | active |
 | `sh.se` | — | — | — | active |
@@ -404,7 +405,7 @@
 | `sodertalje.se` | — | — | — | active |
 | `sodran.se` | — | — | — | active |
 | `sok.se` | — | — | — | active |
-| `solleftea.se` | — | — | — | expired |
+| `solleftea.se` | — | — | — | active |
 | `solna.se` | — | — | — | active |
 | `solvesborg.se` | — | — | — | active |
 | `sparbankenskane.se` | [policy](https://www.swedbank.se/om-oss/sakerhet/report-a-security-flaw.html) | — | — | active |

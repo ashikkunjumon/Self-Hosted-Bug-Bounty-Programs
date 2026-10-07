@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-360 programs.
+361 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -187,6 +187,7 @@
 | `locarnofestival.ch` | — | — | — | active |
 | `lqj.ch` | — | — | — | active |
 | `luks.ch` | — | recognition | — | active |
+| `lups.ch` | — | — | — | expired |
 | `martigny.ch` | — | — | — | active |
 | `maschinenmarkt.ch` | — | — | — | expired |
 | `melectronics.ch` | — | — | — | active |

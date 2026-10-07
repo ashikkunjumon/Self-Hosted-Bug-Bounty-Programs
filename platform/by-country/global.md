@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-587 programs.
+590 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@
 | `agriculture.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `aikido.dev` | [policy](https://app.intigriti.com/programs/aikido/aikido/detail) | monetary | — | active |
 | `airbnb.com` | [policy](https://hackerone.com/airbnb#overview) | — | — | active |
-| `airbnb.io` | [policy](https://hackerone.com/airbnb#overview) | — | — | active |
+| `airbnb.io` | [policy](https://hackerone.com/airbnb#overview) | — | — | retired |
 | `airtable.com` | [policy](https://hackerone.com/airtable) | — | — | active |
 | `aiven.io` | [policy](https://bugcrowd.com/aiven-mbb-og) | monetary | — | active |
 | `alfen.com` | [policy](https://alfen.com/en-at/privacy-and-security/responsible-disclosure-policy) | recognition | yes | retired |
@@ -40,6 +40,7 @@
 | `anthropic.com` | [policy](https://www.anthropic.com/responsible-disclosure-policy) | monetary | yes | active |
 | `anz.com` | — | — | — | active |
 | `appian.com` | — | — | — | active |
+| `aquasec.com` | [policy](https://www.aquasec.com/trust/security/responsible-disclosure-program/) | — | — | active |
 | `arc.net` | [policy](https://hackerone.com/bcny) | — | — | active |
 | `asana.com` | [policy](https://bugcrowd.com/asana) | monetary | — | active |
 | `attendohr.com` | [policy](https://attendohr.com/security) | monetary | yes | retired |
@@ -86,7 +87,7 @@
 | `bugcrowd.com` | [policy](https://bugcrowd.com/bugcrowd) | monetary | — | active |
 | `bumble.com` | [policy](https://hackerone.com/bumble?view_policy) | — | — | active |
 | `byrdie.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
-| `campaignmonitor.com` | [policy](https://www.campaignmonitor.com/policies/) | monetary | — | expired |
+| `campaignmonitor.com` | [policy](https://www.campaignmonitor.com/policies/) | monetary | yes | expired |
 | `canva.com` | [policy](https://canva.com/security/vulnerability-disclosure) | monetary | — | active |
 | `capital.com` | [policy](https://app.intigriti.com/programs/capitalcom/capitalcom/detail) | monetary | — | active |
 | `carsdirect.com` | — | — | — | active |
@@ -135,6 +136,7 @@
 | `dell.com` | [policy](https://www.dell.com/support/dell-vulnerability-response-policy) | monetary | — | expired |
 | `deriv.com` | [policy](https://hackerone.com/deriv/safe_harbor) | — | — | active |
 | `deskpro.com` | [policy](https://www.deskpro.com/security/responsible-disclosure) | monetary | — | retired |
+| `devo.com` | [policy](https://www.devo.com/responsible-vulnerability-disclosure-program/) | monetary | yes | active |
 | `devolutions.net` | [policy](https://devolutions.net/security/report-issue/) | monetary | — | active |
 | `dfc.gov` | [policy](https://www.dfc.gov/vulnerability-disclosure-policy) | monetary | yes | retired |
 | `dhl.com` | [policy](https://group.dhl.com/en/sustainability/governance/cyber-security/vulnerability-disclosure-policy.html) | — | yes | active |
@@ -148,7 +150,7 @@
 | `donjon.ledger.com` | [policy](https://donjon.ledger.com/bounty/) | monetary | — | retired |
 | `donorbox.org` | [policy](https://app.intigriti.com/programs/donorbox/donorboxvdp/detail) | monetary | — | active |
 | `dovecot.org` | [policy](https://yeswehack.com/programs/dovecot) | monetary | — | active |
-| `dow.com` | [policy](https://www.synack.com/vdp/dow/) | recognition | — | active |
+| `dow.com` | [policy](https://www.synack.com/vdp/dow/) | recognition | yes | active |
 | `drivinglaws.org` | — | — | — | active |
 | `dropbox.tech` | [policy](https://dropbox.tech/security/updates-on-the-dropbox-bug-bounty-program) | monetary | — | retired |
 | `dvdtalk.com` | — | — | — | retired |
@@ -531,6 +533,7 @@
 | `unico.io` | — | — | — | active |
 | `unrealengine.com` | [policy](https://hackerone.com/epicgames) | — | — | active |
 | `uphold.com` | [policy](https://app.intigriti.com/programs/Uphold/upholdcom/detail) | monetary | — | active |
+| `upwork.com` | [policy](https://support.upwork.com/hc/en-us/articles/211067638) | — | — | active |
 | `usa.visa.com` | [policy](https://www.visa.com/en-us/company/vulnerability-disclosure) | monetary | yes | retired |
 | `usagm.gov` | [policy](https://www.usagm.gov/vulnerability-disclosure-policy/) | — | — | retired |
 | `usitc.gov` | [policy](https://www.usitc.gov/vulnerability-disclosure-policy) | monetary | — | retired |

@@ -1,6 +1,6 @@
 # Self-hosted programs — DK
 
-145 programs.
+146 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -12,6 +12,7 @@
 | `ao.dk` | — | — | — | expired |
 | `asb.dk` | — | — | — | active |
 | `au.dk` | — | — | — | active |
+| `avisendanmark.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
 | `bdo.dk` | — | — | — | expired |
 | `bilbasen.dk` | [policy](https://vend.com/responsible-disclosure-policy.txt) | swag | yes | active |
 | `billedbladet.dk` | — | — | — | expired |
@@ -56,7 +57,7 @@
 | `flashscore.dk` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `flixbus.dk` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |
 | `folkebladetlemvig.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
-| `frdb.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | retired |
+| `frdb.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
 | `frederiksbergliv.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
 | `fyens.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | retired |
 | `gettyimages.dk` | — | — | — | retired |
@@ -78,7 +79,7 @@
 | `jppol.dk` | — | — | — | active |
 | `jubii.dk` | — | — | — | active |
 | `justitsministeriet.dk` | — | — | — | active |
-| `jv.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | retired |
+| `jv.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
 | `kilroy.dk` | — | — | — | active |
 | `kk.dk` | — | — | — | active |
 | `komplett.dk` | — | — | — | expired |

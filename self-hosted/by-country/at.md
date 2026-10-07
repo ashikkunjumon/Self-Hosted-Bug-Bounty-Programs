@@ -1,6 +1,6 @@
 # Self-hosted programs — AT
 
-142 programs.
+143 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -60,6 +60,7 @@
 | `hornbach.at` | — | — | — | active |
 | `hot.at` | — | — | — | active |
 | `htu.at` | — | — | — | active |
+| `idm-energie.at` | [policy](https://www.idm-energie.at/sicherheit-melden/) | — | — | active |
 | `inos.at` | — | — | — | expired |
 | `ionos.at` | [policy](https://www.ionos.com/it-security) | — | — | active |
 | `iqoqi.at` | — | — | — | active |

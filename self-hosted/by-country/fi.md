@@ -93,7 +93,7 @@
 | `sanoma.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | expired |
 | `satakunnankansa.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | expired |
 | `seravo.fi` | — | — | — | active |
-| `solita.fi` | [policy](https://www.solita.fi/security-policy.txt) | — | — | active |
+| `solita.fi` | [policy](https://www.solita.fi/security-policy.txt) | monetary | — | active |
 | `speedzone.fi` | — | — | — | retired |
 | `spreadshirt.fi` | — | — | — | retired |
 | `strawberry.fi` | — | — | — | expired |

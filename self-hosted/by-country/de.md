@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-415 programs.
+419 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -37,6 +37,7 @@
 | `berlin.de` | [policy](https://www.berlin.de/wir-ueber-uns/security) | recognition | — | active |
 | `berliner-kurier.de` | [policy](https://www.berliner-kurier.de/datenschutzhinweise) | — | — | active |
 | `berliner-zeitung.de` | [policy](https://www.berliner-zeitung.de/datenschutzhinweise) | — | — | active |
+| `berlinerfestspiele.de` | — | — | — | active |
 | `betway.de` | — | — | — | expired |
 | `beuth-hochschule.de` | — | recognition | — | active |
 | `bg-kliniken.de` | — | — | — | active |
@@ -56,13 +57,14 @@
 | `brunner.de` | [policy](https://www.brunner.de/cra-security) | — | — | active |
 | `bsi.de` | [policy](https://www.bsi.bund.de/DE/IT-Sicherheitsvorfall/IT-Schwachstellen/it-schwachstellen_node.html) | recognition | — | active |
 | `bund.de` | — | — | — | active |
+| `bundesamtsozialesicherung.de` | — | — | — | expired |
 | `bundesbank.de` | — | recognition | — | active |
 | `bundesdruckerei.de` | [policy](https://www.bundesdruckerei.de/en/vulnerability-policy) | — | — | active |
 | `bundeskanzler.de` | — | — | — | active |
 | `bundespolizei.de` | — | — | — | expired |
 | `bundesregierung.de` | — | — | — | active |
 | `bundestag.de` | — | — | — | active |
-| `bundeswehr.de` | [policy](https://www.bundeswehr.de/de/security-policy) | recognition | — | active |
+| `bundeswehr.de` | [policy](https://www.bundeswehr.de/de/security-policy) | recognition | — | retired |
 | `capterra.com.de` | — | — | — | active |
 | `ccc.de` | — | — | — | active |
 | `cewe.de` | — | — | — | active |
@@ -74,7 +76,7 @@
 | `computerbase.de` | — | — | — | active |
 | `ct.de` | [policy](https://heise.de/-7513540) | monetary | — | active |
 | `cure53.de` | — | recognition | — | active |
-| `daad.de` | — | — | — | retired |
+| `daad.de` | — | — | — | active |
 | `darmstadt.de` | — | — | — | active |
 | `dasauge.de` | — | — | — | active |
 | `dasding.de` | — | — | — | active |
@@ -114,7 +116,7 @@
 | `ekd.de` | — | — | — | active |
 | `ekomi.de` | — | — | — | active |
 | `eon.de` | — | — | — | active |
-| `erasmusplus.de` | — | — | — | retired |
+| `erasmusplus.de` | — | — | — | active |
 | `eventim-inhouse.de` | — | — | — | active |
 | `eventim.de` | — | — | — | active |
 | `expedia.de` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
@@ -235,6 +237,7 @@
 | `lvz.de` | — | — | — | active |
 | `mainz.de` | [policy](https://mainz.de/cvd) | recognition | — | active |
 | `marburg.de` | — | — | — | active |
+| `maz-online.de` | — | — | — | active |
 | `mdc-berlin.de` | — | — | — | active |
 | `medatixx.de` | [policy](https://medatixx.de/security-policy) | monetary | yes | active |
 | `medpex.de` | [policy](https://www.medpex.de/ueber-uns/cyber-sicherheit) | — | yes | active |
@@ -325,7 +328,7 @@
 | `stadt-koeln.de` | — | — | — | retired |
 | `stadtlindau.de` | — | — | — | active |
 | `strato.de` | [policy](https://www.strato.de/it-security) | monetary | — | active |
-| `study-in-germany.de` | — | — | — | retired |
+| `study-in-germany.de` | — | — | — | active |
 | `stuttgart.de` | — | — | — | active |
 | `suse.de` | — | — | — | active |
 | `swm.de` | — | — | — | active |
@@ -384,6 +387,7 @@
 | `uni-wuppertal.de` | — | recognition | — | active |
 | `unibw.de` | — | — | — | active |
 | `united-domains.de` | — | — | — | active |
+| `unternehmertum.de` | [policy](https://www.unternehmertum.de/security-policy) | recognition | — | active |
 | `uol.de` | — | — | — | active |
 | `uos.de` | — | — | — | active |
 | `upb.de` | [policy](https://www.uni-paderborn.de/universitaet/informationssicherheit/informationssicherheitsvorfall) | — | — | active |

@@ -167,7 +167,7 @@
 | `kraj-lbc.cz` | — | — | — | active |
 | `kraloveskoly.cz` | — | — | — | active |
 | `krimi-plzen.cz` | — | — | — | active |
-| `kupi.cz` | [policy](https://napoveda.seznam.cz/cz/smluvni-podminky/podminky-kupi-cz/) | — | — | retired |
+| `kupi.cz` | [policy](https://napoveda.seznam.cz/cz/smluvni-podminky/podminky-kupi-cz/) | — | — | active |
 | `kvaltex.cz` | — | — | — | active |
 | `laskakit.cz` | — | — | — | active |
 | `letuska.cz` | [policy](https://asiana.cz/policy_en.html) | — | — | active |

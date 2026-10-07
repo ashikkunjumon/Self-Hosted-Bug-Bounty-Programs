@@ -147,8 +147,8 @@
 | `norid.no` | — | — | — | active |
 | `norsar.no` | — | — | — | active |
 | `npe.no` | — | — | — | active |
-| `nrk.no` | [policy](https://info.nrk.no/hjem/responsible-disclosure-policy/) | recognition | — | active |
-| `nrkbeta.no` | [policy](https://info.nrk.no/hjem/responsible-disclosure-policy/) | recognition | — | expired |
+| `nrk.no` | [policy](https://info.nrk.no/hjem/responsible-disclosure-policy/) | swag | yes | active |
+| `nrkbeta.no` | [policy](https://info.nrk.no/hjem/responsible-disclosure-policy/) | swag | yes | expired |
 | `nsd.no` | [policy](https://www.sikt.no/security-policy) | recognition | yes | active |
 | `nsm.no` | — | — | — | active |
 | `nte.no` | — | — | — | active |
@@ -162,7 +162,7 @@
 | `oslobors.no` | — | — | — | active |
 | `oslokonserthus.no` | [policy](https://oslokonserthus.no/security-policy) | recognition | — | active |
 | `oslomet.no` | [policy](https://nett.oslomet.no/.well-known/rfc2350.pdf) | monetary | — | active |
-| `p3.no` | [policy](https://info.nrk.no/hjem/responsible-disclosure-policy/) | recognition | — | expired |
+| `p3.no` | [policy](https://info.nrk.no/hjem/responsible-disclosure-policy/) | swag | yes | expired |
 | `paretosec.no` | — | — | — | active |
 | `pilegrimsleden.no` | [policy](https://www.pilegrimsleden.no/security-policy) | recognition | — | active |
 | `politiet.no` | — | — | — | active |
@@ -227,4 +227,4 @@
 | `vikingtidsmuseet.no` | [policy](https://cert.uio.no/vulnerability-disclosure-policy.html) | monetary | — | active |
 | `vipps.no` | [policy](https://vdp.vippsmobilepay.com) | — | — | active |
 | `vkm.no` | — | — | — | active |
-| `yr.no` | [policy](https://info.nrk.no/hjem/responsible-disclosure-policy/) | recognition | — | expired |
+| `yr.no` | [policy](https://info.nrk.no/hjem/responsible-disclosure-policy/) | swag | yes | expired |
