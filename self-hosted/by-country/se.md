@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-504 programs.
+505 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -304,7 +304,7 @@
 | `nordiskamuseet.se` | — | — | — | expired |
 | `nordnet.se` | [policy](https://www.nordnet.se/security-disclosure) | monetary | — | active |
 | `norrkoping.se` | — | — | — | active |
-| `norrtalje.se` | — | — | — | active |
+| `norrtalje.se` | — | — | — | expired |
 | `norrteljetidning.se` | — | — | — | active |
 | `notino.se` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
 | `nrm.se` | — | — | — | active |
@@ -364,7 +364,7 @@
 | `saffle.se` | — | — | — | active |
 | `sahlgrenska.se` | — | — | — | active |
 | `sandviken.se` | — | — | — | active |
-| `sas.se` | [policy](https://www.sasgroup.net/contact/vulnerability-disclosure-policy/) | recognition | yes | retired |
+| `sas.se` | [policy](https://www.sasgroup.net/contact/vulnerability-disclosure-policy/) | recognition | yes | active |
 | `sbab.se` | [policy](https://sbab.se/1/sidfotsmeny_2/sakerhet/responsible_disclosure.html) | monetary | — | active |
 | `sbf.se` | — | — | — | active |
 | `scb.se` | — | — | — | active |
@@ -471,6 +471,7 @@
 | `umo.se` | — | — | — | active |
 | `universityadmissions.se` | — | — | — | active |
 | `upplands-bro.se` | — | — | — | active |
+| `upplandsvasby.se` | — | — | — | active |
 | `ut.se` | — | — | — | active |
 | `uu.se` | — | — | — | active |
 | `vaggeryd.se` | — | — | — | active |

@@ -174,7 +174,7 @@
 | `ruter.no` | — | — | — | active |
 | `sagat.no` | — | — | — | expired |
 | `samforsk.no` | [policy](https://samforsk.no/security-policy) | recognition | — | active |
-| `sas.no` | [policy](https://www.sasgroup.net/contact/vulnerability-disclosure-policy/) | recognition | yes | retired |
+| `sas.no` | [policy](https://www.sasgroup.net/contact/vulnerability-disclosure-policy/) | recognition | yes | active |
 | `sbanken.no` | — | — | — | active |
 | `sikt.no` | [policy](https://www.sikt.no/security-policy) | recognition | yes | active |
 | `siv.no` | [policy](https://www.sykehuspartner.no/siteassets/documents/sikkerhet---regionale-bruksvilkar/no-38---responsible-disclosure-policy-engelsk.pdf) | — | — | active |

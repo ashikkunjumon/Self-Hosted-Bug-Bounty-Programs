@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-227 programs.
+228 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -78,6 +78,7 @@
 | `geluksdriehoek.be` | [policy](https://geluksdriehoek.be/security-policy) | recognition | — | active |
 | `gembloux.be` | — | — | — | active |
 | `gemeentemol.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
+| `gemeentepelt.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `gettyimages.be` | — | — | — | retired |
 | `gezinsbond.be` | — | — | — | active |
 | `glassdoor.be` | [policy](https://help.glassdoor.com/s/article/Bug-Bounty-Program?language=en_US) | — | — | retired |

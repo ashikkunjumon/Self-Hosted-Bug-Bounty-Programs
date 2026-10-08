@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-349 programs.
+351 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@
 | `expert.cz` | — | — | — | active |
 | `farmarsketrziste.cz` | — | — | — | active |
 | `fg.cz` | — | — | — | active |
-| `firmy.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | — | yes | active |
+| `firmy.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `fitmin.cz` | — | — | — | active |
 | `flixbus.cz` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |
 | `fnusa.cz` | — | — | — | active |
@@ -111,7 +111,7 @@
 | `fraus.cz` | — | — | — | active |
 | `freeride.cz` | — | — | — | expired |
 | `fyft.cz` | — | — | — | active |
-| `garaz.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | — | yes | active |
+| `garaz.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `glami.cz` | — | monetary | — | active |
 | `global-wines.cz` | — | — | — | active |
 | `gme.cz` | — | — | — | active |
@@ -171,7 +171,7 @@
 | `kvaltex.cz` | — | — | — | active |
 | `laskakit.cz` | — | — | — | active |
 | `letuska.cz` | [policy](https://asiana.cz/policy_en.html) | — | — | active |
-| `lide.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | — | yes | active |
+| `lide.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `lidl.cz` | — | — | — | active |
 | `livesport.cz` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `loono.cz` | — | — | — | expired |
@@ -180,7 +180,7 @@
 | `luxusnipradlo.cz` | — | — | — | active |
 | `luzanky.cz` | — | — | — | active |
 | `magieprirody.cz` | — | — | — | active |
-| `magistra.cz` | — | — | — | active |
+| `magistra.cz` | — | — | — | retired |
 | `makro.cz` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | active |
 | `maminka.cz` | — | — | — | active |
 | `manboxeo.cz` | — | — | — | active |
@@ -219,13 +219,14 @@
 | `nm.cz` | — | — | — | active |
 | `nntb.cz` | — | — | — | expired |
 | `notino.cz` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
-| `novinky.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | — | yes | active |
+| `novinky.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
+| `npi.cz` | — | — | — | active |
 | `nppodyji.cz` | — | — | — | active |
 | `nrb.cz` | — | — | — | active |
 | `ntm.cz` | — | — | — | active |
 | `nuov.cz` | — | — | — | active |
 | `nzm.cz` | — | — | — | active |
-| `o-seznam.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | — | yes | active |
+| `o-seznam.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `o2.cz` | — | recognition | — | active |
 | `obuvmusilova.cz` | — | — | — | active |
 | `onlineshop.cz` | — | — | — | active |
@@ -233,7 +234,7 @@
 | `osa.cz` | — | — | — | active |
 | `osu.cz` | — | — | — | active |
 | `paladix.cz` | — | — | — | active |
-| `pamatkovykatalog.cz` | — | — | — | active |
+| `pamatkovykatalog.cz` | — | — | — | retired |
 | `patria.cz` | — | — | — | active |
 | `petcenter.cz` | — | — | — | active |
 | `phoca.cz` | [policy](https://github.com/PhocaCz/PhocaCz/blob/main/SECURITY.md) | — | — | active |
@@ -250,10 +251,10 @@
 | `postsignum.cz` | [policy](https://www.ceskaposta.cz/.well-known/security-policy.txt) | — | — | active |
 | `pracezarohem.cz` | [policy](https://www.almacareer.com/vulnerability-disclosure) | — | yes | active |
 | `praha-vysehrad.cz` | — | — | — | active |
-| `pravo.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | — | yes | active |
+| `pravo.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `profimodel.cz` | — | — | — | active |
 | `prolekare.cz` | — | — | — | active |
-| `prozeny.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | — | yes | active |
+| `prozeny.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `pse.cz` | — | — | — | active |
 | `pupp.cz` | — | — | — | expired |
 | `puravia.cz` | — | — | — | active |
@@ -270,36 +271,36 @@
 | `root.cz` | — | — | — | active |
 | `rozhlas.cz` | — | — | — | active |
 | `rsts.cz` | — | — | — | active |
-| `sauto.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | — | yes | active |
+| `sauto.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `sazka.cz` | [policy](https://www.allwyn.cz/.well-known/responsible_disclosure_policy.pdf) | monetary | — | active |
-| `sbazar.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | — | yes | active |
-| `sblog.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | — | yes | active |
-| `search.seznam.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | — | yes | active |
+| `sbazar.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
+| `sblog.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
+| `search.seznam.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `seduo.cz` | [policy](https://www.almacareer.com/vulnerability-disclosure) | — | yes | active |
-| `seznam.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | — | yes | active |
-| `seznamzpravy.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | — | yes | active |
+| `seznam.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
+| `seznamzpravy.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `shoptet.cz` | — | — | — | active |
 | `showdownpoker.cz` | — | — | — | active |
 | `simpleshop.cz` | — | — | — | active |
 | `skippay.cz` | [policy](https://skippay.cz/vseobecne-obchodni-podminky) | — | — | active |
 | `sklarnaharrachov.cz` | — | — | — | active |
-| `sklik.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | — | yes | active |
+| `sklik.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `slunecnice.cz` | — | — | — | active |
 | `spa.cz` | — | — | — | active |
-| `sport.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | — | yes | active |
+| `sport.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `spravazeleznic.cz` | — | — | — | active |
-| `sreality.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | — | yes | active |
+| `sreality.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `srovnejto.cz` | [policy](https://www.srovnejto.cz/security-policy.txt) | — | — | active |
 | `staropramen.cz` | — | — | — | active |
 | `stopnasili.cz` | — | — | — | active |
 | `stormware.cz` | — | — | — | expired |
 | `strahovskyklaster.cz` | — | — | — | active |
-| `stream.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | — | yes | active |
+| `stream.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `subreg.cz` | — | — | — | active |
-| `super.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | — | yes | active |
+| `super.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `supersaas.cz` | [policy](https://www.supersaas.com/info/disclosure_policy) | — | — | active |
 | `svet-her.cz` | — | — | — | active |
-| `sweb.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | — | yes | active |
+| `sweb.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `synottip.cz` | [policy](https://www.synotinteractive.com/well-known/SYNOT_INTERACTIVE_Responsible_Disclosure_Policy.pdf) | monetary | — | active |
 | `szdc.cz` | — | — | — | active |
 | `t-mobile.cz` | [policy](https://www.t-mobile.cz/bug-bounty) | monetary | — | active |
@@ -307,7 +308,7 @@
 | `tchibo.cz` | — | — | — | active |
 | `techlib.cz` | — | — | — | active |
 | `techmania.cz` | — | — | — | active |
-| `televizeseznam.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | — | yes | active |
+| `televizeseznam.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `top-pojisteni.cz` | — | — | — | retired |
 | `toprecepty.cz` | — | — | — | active |
 | `tribune.cz` | — | — | — | active |
@@ -327,7 +328,7 @@
 | `vinci-construction.cz` | — | — | — | expired |
 | `vinted.cz` | — | — | — | active |
 | `vitalia.cz` | — | — | — | active |
-| `volnamista.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | — | yes | active |
+| `volnamista.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `vse.cz` | — | — | — | expired |
 | `vspj.cz` | — | — | — | active |
 | `vsup.cz` | — | — | — | active |
@@ -336,6 +337,7 @@
 | `webareal.cz` | — | — | — | active |
 | `websupport.cz` | [policy](https://www.websupport.sk/support/kb/nahlasenie-zranitelnosti/) | — | — | active |
 | `webzdarma.cz` | — | — | — | expired |
+| `wedos.cz` | [policy](https://vedos.cz/security-policy) | recognition | — | active |
 | `wikyhracky.cz` | — | — | — | active |
 | `winehouse.cz` | — | — | — | active |
 | `woox.cz` | — | — | — | active |
@@ -343,7 +345,7 @@
 | `yoo.cz` | — | — | — | active |
 | `zahradnictvi-spomysl.cz` | — | — | — | active |
 | `zamekloucen.cz` | — | — | — | active |
-| `zbozi.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | — | yes | active |
+| `zbozi.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `zcu.cz` | — | — | — | active |
 | `zdrojak.cz` | [policy](https://www.zdrojak.cz/redakce/podminky-uzivani) | — | — | active |
 | `zelenazeme.cz` | — | — | — | active |

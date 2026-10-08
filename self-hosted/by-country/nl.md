@@ -1,6 +1,6 @@
 # Self-hosted programs — NL
 
-352 programs.
+355 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@
 | `cloudwise.nl` | [policy](https://www.cloudwise.nl/security-policy) | recognition | — | active |
 | `commercive.nl` | — | — | — | active |
 | `conclusion.nl` | — | — | — | active |
-| `conrad.nl` | [policy](https://www.conrad.de/de/ueber-conrad/vulnerability-disclosure-program.html) | — | — | active |
+| `conrad.nl` | [policy](https://www.conrad.de/de/ueber-conrad/vulnerability-disclosure-program.html) | — | — | expired |
 | `consuwijzer.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `coolblue.nl` | — | monetary | — | active |
 | `corendon.nl` | [policy](https://www.corendon.nl/privacy-verklaring) | monetary | — | active |
@@ -98,6 +98,7 @@
 | `digitaleoverheid.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `dnb.nl` | [policy](https://www.dnb.nl/privacy-en-beveiliging/kwetsbaarheid-melden/) | — | yes | active |
 | `drentsmuseum.nl` | [policy](https://www.slash2.nl/responsible-disclosure-policy) | recognition | yes | active |
+| `ede.nl` | [policy](https://www.ede.nl/over-de-site-en-privacyverklaring#c1009) | — | yes | active |
 | `eenvandaag.nl` | [policy](https://www.avrotros.nl/responsible-disclosure~44/) | — | yes | expired |
 | `eerstekamer.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `encyclo.nl` | — | — | — | active |
@@ -212,7 +213,7 @@
 | `natuurmonumenten.nl` | — | — | — | active |
 | `ncsc.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `nctv.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
-| `nd.nl` | — | — | — | expired |
+| `nd.nl` | — | — | — | active |
 | `nederlandwereldwijd.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | retired |
 | `netherlandsandyou.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `netherlandsworldwide.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | retired |
@@ -272,6 +273,7 @@
 | `regelhulp.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `rekenkamer.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `ret.nl` | — | — | — | active |
+| `rietveldacademie.nl` | — | — | — | active |
 | `rijksoverheid.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `rijkswaterstaat.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `rivm.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
@@ -282,6 +284,7 @@
 | `rtvutrecht.nl` | [policy](https://www.regiogroei.nl/responsible-disclosure) | — | yes | active |
 | `ru.nl` | [policy](https://www.ru.nl/cert/rfc-2350) | recognition | yes | active |
 | `rug.nl` | [policy](https://www.rug.nl/about-ug/policy-and-strategy/privacy-and-security-at-the-ug/responsible-disclosure) | recognition | yes | active |
+| `ruimtelijkeplannen.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `rvo.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `rws.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `s-bb.nl` | [policy](https://www.s-bb.nl/contact/responsible-disclosure-policy/) | monetary | — | active |

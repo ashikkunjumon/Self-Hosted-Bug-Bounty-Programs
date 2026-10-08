@@ -1,6 +1,6 @@
 # Self-hosted programs — PL
 
-168 programs.
+170 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -17,6 +17,7 @@
 | `brainly.pl` | [policy](https://brainly.com/responsible-disclosure-program) | — | — | active |
 | `bricoman.pl` | — | — | — | active |
 | `busko.pl` | — | — | — | active |
+| `carrefour.pl` | [policy](https://carrefour.com/disclosure) | — | — | active |
 | `cdrinfo.pl` | — | — | — | active |
 | `ceneo.pl` | — | — | — | expired |
 | `ceo.com.pl` | — | — | — | active |
@@ -168,6 +169,7 @@
 | `wroclaw.naszemiasto.pl` | — | — | — | expired |
 | `wspolczesna.pl` | — | — | — | expired |
 | `wynagrodzenia.pl` | — | — | — | retired |
+| `x-kom.pl` | — | — | — | active |
 | `zaufanatrzeciastrona.pl` | — | — | — | active |
 | `znanylekarz.pl` | — | — | — | active |
 | `zooart.com.pl` | — | — | — | active |

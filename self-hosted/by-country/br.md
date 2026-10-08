@@ -40,7 +40,7 @@
 | `granado.com.br` | — | — | — | active |
 | `grancursosonline.com.br` | — | — | — | active |
 | `hallbook.com.br` | [policy](https://hallbook.com.br/static/terms) | — | — | active |
-| `hubsoft.com.br` | [policy](https://hubsoft.io/privacidade/) | — | — | active |
+| `hubsoft.com.br` | [policy](https://hubsoft.io/politica-de-privacidade/) | — | — | active |
 | `idinheiro.com.br` | [policy](https://www.idinheiro.com.br/politica-de-privacidade/) | — | — | active |
 | `inmet.gov.br` | [policy](https://www.gov.br/agricultura/pt-br/acesso-a-informacao/tecnologia-da-informacao/seguranca-da-informacao/politica-de-seguranca-da-informacao-e-comunicacao-posic) | — | — | active |
 | `investidorpetrobras.com.br` | — | — | — | active |
@@ -70,7 +70,7 @@
 | `saboresdemarise.com.br` | — | — | — | active |
 | `saocarlosagora.com.br` | — | — | — | active |
 | `servaco.com.br` | — | — | — | active |
-| `sescpr.com.br` | [policy](https://www.sescpr.com.br/politica-de-privacidade) | — | — | active |
+| `sescpr.com.br` | [policy](https://www.sescpr.com.br/politica-de-privacidade) | — | — | retired |
 | `tacontratado.com.br` | — | — | — | active |
 | `tche.br` | — | — | — | expired |
 | `tecnofit.com.br` | — | — | — | active |

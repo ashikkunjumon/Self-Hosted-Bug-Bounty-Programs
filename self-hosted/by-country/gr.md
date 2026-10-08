@@ -1,6 +1,6 @@
 # Self-hosted programs — GR
 
-23 programs.
+24 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -9,6 +9,7 @@
 | `bestprice.gr` | — | — | — | active |
 | `cityofathens.gr` | — | — | — | active |
 | `emathisi.gr` | [policy](https://docs.moodle.org/dev/Moodle_security_procedures) | recognition | — | expired |
+| `emea.gr` | — | — | — | active |
 | `esky.gr` | — | recognition | — | active |
 | `flashscore.gr` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `galinos.gr` | — | — | — | active |

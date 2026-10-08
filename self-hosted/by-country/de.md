@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-419 programs.
+422 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -92,6 +92,7 @@
 | `desired.de` | — | — | — | active |
 | `desy.de` | — | monetary | — | active |
 | `deutsche-bank.de` | — | — | — | active |
+| `deutsche-rentenversicherung.de` | — | — | — | active |
 | `dfb.de` | — | recognition | — | active |
 | `dfg.de` | — | — | — | active |
 | `dfs.de` | — | — | — | active |
@@ -182,7 +183,7 @@
 | `hochschulkompass.de` | — | — | — | active |
 | `hochschulstart.de` | — | — | — | active |
 | `hpi.de` | — | — | — | expired |
-| `hs-augsburg.de` | — | — | — | retired |
+| `hs-augsburg.de` | — | — | — | active |
 | `hs-bremen.de` | [policy](https://www.hs-bremen.de/en/security/disclosure-policy) | swag | — | active |
 | `hs-fulda.de` | [policy](https://it-sicherheit.hs-fulda.de/en/vorfall_melden/schwachstelle/index.html) | — | — | active |
 | `hs-furtwangen.de` | — | — | — | active |
@@ -268,9 +269,11 @@
 | `nuernberger.de` | — | — | — | active |
 | `oberhausen.de` | [policy](https://www.oberhausen.de/vdp) | — | — | active |
 | `oekolandbau.de` | — | — | — | active |
+| `op-marburg.de` | — | — | — | active |
 | `opencode.de` | — | — | — | active |
 | `openjur.de` | — | — | — | active |
 | `osnabrueck.de` | — | — | — | active |
+| `ostsee-zeitung.de` | — | — | — | active |
 | `otz.de` | — | — | — | active |
 | `ovgu.de` | — | monetary | — | active |
 | `parship.de` | — | — | — | active |
@@ -280,7 +283,7 @@
 | `ph-freiburg.de` | — | — | — | active |
 | `phoenix.de` | — | — | — | active |
 | `phpunit.de` | [policy](https://github.com/sebastianbergmann/phpunit-website/blob/main/SECURITY.md) | — | — | active |
-| `pixum.de` | — | — | — | expired |
+| `pixum.de` | — | — | — | active |
 | `pnn.de` | — | — | — | active |
 | `pnp.de` | — | — | — | active |
 | `poppen.de` | — | — | — | expired |
@@ -343,7 +346,7 @@
 | `testberichte.de` | — | — | — | active |
 | `th-deg.de` | — | — | — | active |
 | `th-wildau.de` | — | — | — | expired |
-| `tha.de` | — | — | — | retired |
+| `tha.de` | — | — | — | active |
 | `thi.de` | — | — | — | retired |
 | `thomann.de` | — | — | — | active |
 | `thueringer-allgemeine.de` | — | — | — | active |

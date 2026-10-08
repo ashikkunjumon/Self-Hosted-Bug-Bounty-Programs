@@ -1,6 +1,6 @@
 # Self-hosted programs — IN
 
-35 programs.
+37 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -17,6 +17,7 @@
 | `flashscore.in` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `garnier.in` | — | recognition | — | active |
 | `gettyimages.in` | — | — | — | retired |
+| `gillette.co.in` | — | — | — | active |
 | `hotfrog.in` | — | — | — | active |
 | `huffingtonpost.in` | — | monetary | — | active |
 | `intel.in` | [policy](https://www.intel.com/content/www/us/en/security-center/vulnerability-handling-guidelines.html) | — | — | active |
@@ -27,6 +28,7 @@
 | `mdcomputers.in` | — | — | — | active |
 | `michaelpage.co.in` | — | — | — | expired |
 | `mirchi.in` | [policy](https://timesinternet.in/responsible-disclosure/policy.html) | — | yes | active |
+| `nadiazillaparishad.in` | — | — | — | active |
 | `newaymsw.in` | [policy](https://www.agitex.africa.com/chinh-sach-bao-mat/) | — | — | active |
 | `onnetsolution.in` | — | — | — | active |
 | `starplaza.in` | [policy](https://starplaza.in/pages/responsible-disclosure) | monetary | — | retired |

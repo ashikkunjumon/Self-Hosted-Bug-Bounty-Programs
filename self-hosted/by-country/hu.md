@@ -10,7 +10,7 @@
 | `billingo.hu` | — | — | — | expired |
 | `bosch.hu` | [policy](https://psirt.bosch.com/bosch-responsible-disclosure-policy/) | recognition | — | active |
 | `citromail.hu` | — | — | — | active |
-| `conrad.hu` | [policy](https://www.conrad.de/de/ueber-conrad/vulnerability-disclosure-program.html) | — | — | active |
+| `conrad.hu` | [policy](https://www.conrad.de/de/ueber-conrad/vulnerability-disclosure-program.html) | — | — | expired |
 | `crysys.hu` | — | — | — | active |
 | `decathlon.hu` | [policy](https://vdp.decathlon.net) | — | — | active |
 | `digitalhungary.hu` | — | — | — | expired |

@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-590 programs.
+591 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -125,7 +125,6 @@
 | `creditkarma.com` | [policy](https://hackerone.com/creditkarma) | — | — | active |
 | `criminaldefenselawyer.com` | — | — | — | active |
 | `csosa.gov` | [policy](https://www.csosa.gov/vulnerability-disclosure-policy/) | — | — | active |
-| `cyberghostvpn.com` | — | monetary | — | active |
 | `cybersecurityventures.com` | [policy](https://cybersecurityventures.com/bug-bounty-blog/) | monetary | — | retired |
 | `dailypaws.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `danaepp.com` | [policy](https://danaepp.com/the-security-researchers-guide-to-reporting-vulnerabilities-to-vendors) | monetary | yes | retired |
@@ -182,6 +181,7 @@
 | `fetlife.com` | — | — | — | active |
 | `fhfa.gov` | [policy](https://www.fhfa.gov/vulnerability-disclosure-policy) | — | — | retired |
 | `figma.com` | [policy](https://hackerone.com/figma) | — | — | active |
+| `finance.yahoo.com` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | active |
 | `findlaw.com` | — | — | — | active |
 | `findmespot.com` | — | — | — | active |
 | `firebounty.com` | [policy](https://vdp.yeswehack.com) | — | — | active |
@@ -317,6 +317,7 @@
 | `medicinenet.com` | — | — | — | active |
 | `medscape.com` | — | — | — | active |
 | `medscape.org` | — | — | — | active |
+| `medterms.com` | — | — | — | active |
 | `midwestliving.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `mimecast.com` | [policy](https://www.mimecast.com/responsible-disclosure/) | — | yes | active |
 | `mixpanel.com` | [policy](https://hackerone.com/mixpanel) | recognition | — | active |
@@ -400,7 +401,6 @@
 | `postmarkapp.com` | [policy](https://postmarkapp.com/support/article/779-responsible-disclosure-policy) | monetary | yes | retired |
 | `powerdns.com` | [policy](https://vdp.open-xchange.com/) | — | — | active |
 | `pprune.org` | — | — | — | active |
-| `privateinternetaccess.com` | — | monetary | — | active |
 | `public.com` | [policy](https://hackerone.com/public, you need to be part of our bounty our program to see details) | monetary | — | active |
 | `pusher.com` | — | — | — | active |
 | `qantas.com` | — | — | — | active |
@@ -556,6 +556,7 @@
 | `visma.com` | [policy](https://www.visma.com/trust-centre/responsible-disclosure) | swag | yes | retired |
 | `vitals.com` | — | — | — | retired |
 | `vlerick.com` | [policy](https://www.vlerick.com/en/legal/responsible-disclosure-policy/) | recognition | — | retired |
+| `w.org` | [policy](https://make.wordpress.org/core/handbook/testing/reporting-security-vulnerabilities/) | monetary | — | active |
 | `wallacecollection.org` | [policy](https://www.wallacecollection.org/vulnerability-reporting/) | — | — | expired |
 | `wealthsimple.com` | [policy](https://hackerone.com/wealthsimple?view_policy=true) | — | — | expired |
 | `weaviate.io` | — | recognition | — | expired |

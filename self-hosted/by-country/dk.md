@@ -1,6 +1,6 @@
 # Self-hosted programs — DK
 
-146 programs.
+147 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -116,7 +116,7 @@
 | `rsyd.dk` | — | — | — | active |
 | `saint-gobain.dk` | — | — | — | active |
 | `samsik.dk` | — | — | — | active |
-| `sas.dk` | [policy](https://www.sasgroup.net/contact/vulnerability-disclosure-policy/) | recognition | yes | retired |
+| `sas.dk` | [policy](https://www.sasgroup.net/contact/vulnerability-disclosure-policy/) | recognition | yes | active |
 | `scannet.dk` | — | — | — | active |
 | `sciencemuseerne.dk` | — | — | — | active |
 | `sdunet.dk` | — | — | — | active |
@@ -150,3 +150,4 @@
 | `vielskerserier.dk` | — | — | — | expired |
 | `wannafind.dk` | — | — | — | active |
 | `williamdam.dk` | — | recognition | — | active |
+| `worldonline.dk` | — | — | — | active |
