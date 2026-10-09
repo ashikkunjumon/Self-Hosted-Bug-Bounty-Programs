@@ -1,6 +1,6 @@
 # Self-hosted programs — BR
 
-82 programs.
+83 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -63,6 +63,7 @@
 | `nuvemshop.com.br` | — | — | — | active |
 | `oabsp.org.br` | — | recognition | — | active |
 | `omelhordopari.com.br` | — | — | — | active |
+| `paraju-vinhos.com.br` | — | — | — | active |
 | `premierpet.com.br` | [policy](https://premierpet.com.br/privacidade/) | recognition | — | active |
 | `printi.com.br` | [policy](https://www.printi.com.br/politicas-de-privacidade/) | swag | — | active |
 | `reclameaqui.com.br` | [policy](https://storage.googleapis.com/whitehat-policy/reclameaqui-whitehat-policy.pdf) | monetary | — | active |

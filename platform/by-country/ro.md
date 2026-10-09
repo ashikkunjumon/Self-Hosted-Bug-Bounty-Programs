@@ -17,6 +17,6 @@
 | `tvmania.ro` | — | — | — | expired |
 | `unibet.ro` | — | monetary | — | retired |
 | `unica.ro` | — | — | — | retired |
-| `viva.ro` | — | — | — | retired |
+| `viva.ro` | — | — | — | expired |
 | `vladcazino.ro` | — | monetary | — | retired |
 | `webnode.ro` | [policy](https://www.webnode.com/.well-known/security-policy.html) | — | yes | active |

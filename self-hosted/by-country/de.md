@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-422 programs.
+426 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -19,6 +19,7 @@
 | `anerkennung-in-deutschland.de` | — | — | — | expired |
 | `aol.de` | [policy](https://legal.aol.com/responsible-disclosure.html) | — | — | active |
 | `arbeitsagentur.de` | — | — | — | active |
+| `ardaudiothek.de` | — | — | — | expired |
 | `aubi-plus.de` | — | — | — | active |
 | `augsburg.de` | — | — | — | active |
 | `auswaertiges-amt.de` | — | — | — | active |
@@ -118,6 +119,7 @@
 | `ekomi.de` | — | — | — | active |
 | `eon.de` | — | — | — | active |
 | `erasmusplus.de` | — | — | — | active |
+| `esslingen.de` | — | — | — | active |
 | `eventim-inhouse.de` | — | — | — | active |
 | `eventim.de` | — | — | — | active |
 | `expedia.de` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
@@ -179,6 +181,7 @@
 | `hetzner.de` | — | — | — | active |
 | `heute.de` | — | — | — | active |
 | `hhv.de` | — | — | — | retired |
+| `hkw.de` | — | — | — | active |
 | `hmrv.de` | — | — | — | active |
 | `hochschulkompass.de` | — | — | — | active |
 | `hochschulstart.de` | — | — | — | active |
@@ -270,7 +273,7 @@
 | `oberhausen.de` | [policy](https://www.oberhausen.de/vdp) | — | — | active |
 | `oekolandbau.de` | — | — | — | active |
 | `op-marburg.de` | — | — | — | active |
-| `opencode.de` | — | — | — | active |
+| `opencode.de` | — | — | — | retired |
 | `openjur.de` | — | — | — | active |
 | `osnabrueck.de` | — | — | — | active |
 | `ostsee-zeitung.de` | — | — | — | active |
@@ -407,6 +410,7 @@
 | `vzbv.de` | — | — | — | active |
 | `waiblingen.de` | — | — | — | expired |
 | `wallstein-verlag.de` | — | — | — | active |
+| `waltrop.de` | — | — | — | active |
 | `waz.de` | — | — | — | active |
 | `web.de` | [policy](https://bugbounty.web.de) | monetary | — | active |
 | `webador.de` | — | — | — | active |

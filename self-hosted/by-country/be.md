@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-228 programs.
+229 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -43,6 +43,7 @@
 | `decathlon.be` | [policy](https://vdp.decathlon.net) | — | — | active |
 | `dehaan.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `deliveroo.be` | — | — | — | active |
+| `dendermonde.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `designmuseumgent.be` | [policy](https://www.designmuseumgent.be/security-policy) | — | — | retired |
 | `despil.be` | — | — | — | active |
 | `dewatergroep.be` | [policy](https://www.dewatergroep.be/nl-be/security) | — | — | expired |

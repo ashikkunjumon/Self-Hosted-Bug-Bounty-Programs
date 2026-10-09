@@ -34,7 +34,7 @@
 | `bfh.ch` | [policy](https://www.bfh.ch/de/rechtliches/rechtliche-hinweise/vulnerability-disclosure-management/) | — | — | expired |
 | `biel-bienne.ch` | — | — | — | active |
 | `bissone.ch` | — | — | — | retired |
-| `bitflux.ch` | [policy](https://liip.to/security) | monetary | yes | active |
+| `bitflux.ch` | [policy](https://liip.to/security) | — | yes | active |
 | `bl.ch` | — | — | — | active |
 | `blkb.ch` | — | — | — | active |
 | `blt.ch` | — | — | — | active |
@@ -181,7 +181,7 @@
 | `lenzburg.ch` | — | — | — | active |
 | `liarumantscha.ch` | — | — | — | active |
 | `lidl.ch` | — | — | — | active |
-| `liip.ch` | [policy](https://liip.to/security) | monetary | yes | active |
+| `liip.ch` | [policy](https://liip.to/security) | — | yes | active |
 | `local.ch` | — | monetary | — | active |
 | `localsearch.ch` | — | monetary | — | active |
 | `locarnofestival.ch` | — | — | — | active |

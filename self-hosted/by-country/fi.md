@@ -61,7 +61,7 @@
 | `kela.fi` | — | — | — | active |
 | `kesko.fi` | — | — | — | expired |
 | `kiinteistolehti.fi` | [policy](https://handbook.dude.fi/security-policy) | monetary | — | active |
-| `kiln.fi` | [policy](https://www.kiln.fi/vulnerability-disclosure-policy) | monetary | — | active |
+| `kiln.fi` | [policy](https://www.kiln.fi/vulnerability-disclosure-policy) | monetary | — | retired |
 | `kodinkuvalehti.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | active |
 | `kuntarekry.fi` | — | — | — | active |
 | `kyberturvallisuuskeskus.fi` | — | — | — | active |
@@ -88,7 +88,7 @@
 | `proagria.fi` | [policy](https://www.proagria.fi/security-policy) | recognition | — | active |
 | `ptt.fi` | — | recognition | — | active |
 | `rakennuslehti.fi` | — | recognition | — | active |
-| `rakentaja.fi` | — | — | — | active |
+| `rakentaja.fi` | — | — | — | retired |
 | `risingshadow.fi` | — | — | — | active |
 | `sanoma.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | expired |
 | `satakunnankansa.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | expired |
