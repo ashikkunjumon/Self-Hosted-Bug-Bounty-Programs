@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-362 programs.
+364 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -35,6 +35,7 @@
 | `biel-bienne.ch` | — | — | — | active |
 | `bissone.ch` | — | — | — | retired |
 | `bitflux.ch` | [policy](https://liip.to/security) | — | yes | active |
+| `bithawk.ch` | — | — | — | active |
 | `bl.ch` | — | — | — | active |
 | `blkb.ch` | — | — | — | active |
 | `blt.ch` | — | — | — | active |
@@ -138,7 +139,7 @@
 | `hostpoint.ch` | [policy](https://www.hostpoint.ch/bugbounty/) | monetary | — | active |
 | `hotelleriesuisse.ch` | — | — | — | active |
 | `hotelplan.ch` | — | — | — | active |
-| `houzy.ch` | — | — | — | active |
+| `houzy.ch` | — | — | — | retired |
 | `hslu.ch` | — | — | — | active |
 | `i-web.ch` | [policy](https://github.com/swisscom/bugbounty) | monetary | yes | active |
 | `iconomix.ch` | — | — | — | retired |
@@ -197,6 +198,7 @@
 | `migrol.ch` | — | — | — | active |
 | `migros-ferien.ch` | — | — | — | active |
 | `migros-kulturprozent-classics.ch` | — | — | — | active |
+| `migros-kulturprozent.ch` | — | — | — | active |
 | `migros.ch` | — | — | — | active |
 | `migrosbank.ch` | — | — | — | expired |
 | `migrosmagazin.ch` | — | — | — | active |

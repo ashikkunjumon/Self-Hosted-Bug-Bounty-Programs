@@ -1,6 +1,6 @@
 # Self-hosted programs — HU
 
-43 programs.
+44 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -24,6 +24,7 @@
 | `jatekokxl.hu` | — | — | — | active |
 | `kanizsamediahaz.hu` | — | — | — | active |
 | `kanizsaujsag.hu` | — | — | — | active |
+| `kifli.hu` | — | — | — | active |
 | `lfze.hu` | — | recognition | — | active |
 | `lidl.hu` | — | — | — | active |
 | `lisztacademy.hu` | — | recognition | — | active |

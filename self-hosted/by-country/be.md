@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-229 programs.
+234 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -12,6 +12,8 @@
 | `aarschot.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `aboutyou.be` | — | monetary | — | retired |
 | `antp.be` | — | recognition | — | active |
+| `antwerpsymphonyorchestra.be` | — | — | — | active |
+| `aqualo.be` | — | — | — | active |
 | `arlon.be` | — | — | — | active |
 | `aspeditions.be` | — | — | — | expired |
 | `ath.be` | — | — | — | active |
@@ -63,6 +65,7 @@
 | `eeklo.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `elexis.be` | — | — | — | expired |
 | `eneco.be` | [policy](https://www.eneco.com/responsible-disclosure/) | — | — | active |
+| `equans.be` | — | recognition | — | active |
 | `eventail.be` | — | — | — | active |
 | `expedia.be` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
 | `facts.be` | — | — | — | active |
@@ -94,6 +97,7 @@
 | `holidaysuites.be` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | active |
 | `hollandandbarrett.be` | [policy](https://vdp.hollandandbarrett.com/) | — | — | active |
 | `hotwin.be` | — | — | — | active |
+| `houthalen-helchteren.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `hzs.be` | — | — | — | active |
 | `ieper.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `imio.be` | — | — | — | active |
@@ -190,6 +194,7 @@
 | `studentjob.be` | [policy](https://www.youngcapital.nl/security) | monetary | yes | expired |
 | `synaro.be` | — | — | — | active |
 | `taaltelefoon.be` | — | — | — | active |
+| `tervuren.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `thomasmore.be` | [policy](https://security.thomasmore.be) | — | yes | active |
 | `ticketswap.be` | [policy](https://www.ticketswap.com/content/responsible-disclosure) | — | — | expired |
 | `toerismeieper.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |

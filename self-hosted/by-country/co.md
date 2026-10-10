@@ -9,7 +9,7 @@
 | `doulado.co` | [policy](https://doulado.co/security-vulnerability-disclosure-policy/) | — | yes | retired |
 | `mural.co` | [policy](https://www.mural.co/terms/bug-bounty-program) | monetary | — | retired |
 | `oceanbottle.co` | [policy](https://your.oceanbottle.co/responsible-disclosure-policy) | — | — | active |
-| `parabol.co` | [policy](https://www.parabol.co/security-disclosure/) | monetary | — | active |
+| `parabol.co` | [policy](https://www.parabol.co/security-disclosure/) | monetary | — | retired |
 | `range.co` | [policy](https://www.range.co/security/bounty) | monetary | yes | retired |
 | `securepractice.co` | [policy](https://securepractice.co/support) | — | — | active |
 | `swile.co` | [policy](https://swile.co/security/disclosure-policy.txt) | recognition | — | active |

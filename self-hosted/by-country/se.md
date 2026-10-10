@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-505 programs.
+506 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -106,6 +106,7 @@
 | `fastighetsnytt.se` | — | — | — | active |
 | `fhs.se` | — | — | — | active |
 | `fi.se` | — | — | — | active |
+| `filipstad.se` | — | — | — | active |
 | `finspang.se` | — | — | — | active |
 | `flashscore.se` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `flen.se` | — | — | — | active |

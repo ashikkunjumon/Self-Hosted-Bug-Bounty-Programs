@@ -1,6 +1,6 @@
 # Self-hosted programs — BR
 
-83 programs.
+85 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@
 | `fiepr.org.br` | — | — | — | active |
 | `flashscore.com.br` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `forumseguranca.org.br` | [policy](https://icc.gg/polvuln) | monetary | yes | active |
-| `freefiremania.com.br` | [policy](https://www.freefiremania.com.br/politica-de-privacidade.html) | — | — | active |
+| `freefiremania.com.br` | [policy](https://www.freefiremania.com.br/politica-de-privacidade.html) | — | — | retired |
 | `fundacaodorina.org.br` | — | — | — | active |
 | `gettyimages.com.br` | — | — | — | retired |
 | `glassdoor.com.br` | [policy](https://help.glassdoor.com/s/article/Bug-Bounty-Program?language=en_US) | — | — | retired |
@@ -58,12 +58,14 @@
 | `mst.org.br` | — | — | — | expired |
 | `neon.com.br` | — | — | — | expired |
 | `netmundial.br` | — | — | — | active |
+| `nivea.com.br` | [policy](https://soc.beiersdorf.com/disclosurepolicy.html) | — | yes | active |
 | `noticiasautomotivas.com.br` | — | — | — | active |
 | `novatec.com.br` | — | — | — | active |
 | `nuvemshop.com.br` | — | — | — | active |
 | `oabsp.org.br` | — | recognition | — | active |
 | `omelhordopari.com.br` | — | — | — | active |
 | `paraju-vinhos.com.br` | — | — | — | active |
+| `pebmed.com.br` | [policy](https://security.afya.com.br) | — | — | active |
 | `premierpet.com.br` | [policy](https://premierpet.com.br/privacidade/) | recognition | — | active |
 | `printi.com.br` | [policy](https://www.printi.com.br/politicas-de-privacidade/) | swag | — | active |
 | `reclameaqui.com.br` | [policy](https://storage.googleapis.com/whitehat-policy/reclameaqui-whitehat-policy.pdf) | monetary | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — PL
 
-170 programs.
+171 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -146,6 +146,7 @@
 | `sportowy24.pl` | — | — | — | expired |
 | `strefabiznesu.pl` | — | — | — | expired |
 | `stronazdrowia.pl` | — | — | — | expired |
+| `superauto.pl` | — | — | — | active |
 | `swiatczytnikow.pl` | — | — | — | active |
 | `tchibo.pl` | — | — | — | active |
 | `telemagazyn.pl` | — | — | — | expired |

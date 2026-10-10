@@ -64,7 +64,7 @@
 | `finnmarkssykehuset.no` | — | — | — | active |
 | `flisekompaniet.no` | — | — | — | active |
 | `folkehjelp.no` | [policy](https://folkehjelp.no/security-policy) | recognition | — | active |
-| `forsvaret.no` | — | — | — | expired |
+| `forsvaret.no` | — | — | — | active |
 | `forsvarshistoriskmuseum.no` | — | — | — | active |
 | `fortum.no` | — | recognition | — | active |
 | `fremtind.no` | — | — | — | active |

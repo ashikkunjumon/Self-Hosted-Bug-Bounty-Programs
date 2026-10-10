@@ -40,7 +40,7 @@
 | `anthropic.com` | [policy](https://www.anthropic.com/responsible-disclosure-policy) | monetary | yes | active |
 | `anz.com` | — | — | — | active |
 | `appian.com` | — | — | — | active |
-| `aquasec.com` | [policy](https://www.aquasec.com/trust/security/responsible-disclosure-program/) | — | — | active |
+| `aquasec.com` | [policy](https://www.aquasec.com/trust/security/responsible-disclosure-program/) | — | — | retired |
 | `arc.net` | [policy](https://hackerone.com/bcny) | — | — | active |
 | `asana.com` | [policy](https://bugcrowd.com/asana) | monetary | — | active |
 | `attendohr.com` | [policy](https://attendohr.com/security) | monetary | yes | retired |
@@ -135,7 +135,7 @@
 | `dell.com` | [policy](https://www.dell.com/support/dell-vulnerability-response-policy) | monetary | — | expired |
 | `deriv.com` | [policy](https://hackerone.com/deriv/safe_harbor) | — | — | active |
 | `deskpro.com` | [policy](https://www.deskpro.com/security/responsible-disclosure) | monetary | — | retired |
-| `devo.com` | [policy](https://www.devo.com/responsible-vulnerability-disclosure-program/) | monetary | yes | active |
+| `devo.com` | [policy](https://www.devo.com/responsible-vulnerability-disclosure-program/) | monetary | yes | retired |
 | `devolutions.net` | [policy](https://devolutions.net/security/report-issue/) | monetary | — | active |
 | `dfc.gov` | [policy](https://www.dfc.gov/vulnerability-disclosure-policy) | monetary | yes | retired |
 | `dhl.com` | [policy](https://group.dhl.com/en/sustainability/governance/cyber-security/vulnerability-disclosure-policy.html) | — | yes | active |

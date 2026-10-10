@@ -1,6 +1,6 @@
 # Self-hosted programs — DK
 
-147 programs.
+148 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -43,6 +43,7 @@
 | `dustinhome.dk` | — | — | — | active |
 | `dyndns.dk` | — | — | — | active |
 | `emri.dk` | [policy](https://www.emri.dk/security/) | monetary | yes | retired |
+| `emu.dk` | — | — | — | active |
 | `enavn.dk` | — | — | — | active |
 | `eon.dk` | — | — | — | active |
 | `erhvervplus.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |

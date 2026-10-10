@@ -34,14 +34,14 @@
 | `mojadm.sk` | — | — | — | active |
 | `naj.sk` | — | — | — | active |
 | `notino.sk` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
-| `portalvs.sk` | — | — | — | expired |
+| `portalvs.sk` | — | — | — | active |
 | `postovabanka.sk` | — | — | — | active |
 | `roy.sk` | — | — | — | active |
 | `slovaknet.sk` | — | — | — | expired |
 | `slsp.sk` | — | — | — | expired |
 | `synottip.sk` | [policy](https://www.synotinteractive.com/well-known/SYNOT_INTERACTIVE_Responsible_Disclosure_Policy.pdf) | monetary | — | active |
 | `tchibo.sk` | — | — | — | active |
-| `vladnestipendia.sk` | — | — | — | expired |
+| `vladnestipendia.sk` | — | — | — | active |
 | `vlastnatvorba.sk` | — | — | — | active |
 | `websupport.sk` | [policy](https://www.websupport.sk/support/kb/nahlasenie-zranitelnosti/) | — | — | active |
 | `worki.sk` | — | — | — | expired |

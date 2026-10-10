@@ -85,7 +85,7 @@
 | `drakkaria.cz` | — | — | — | active |
 | `drogy-info.cz` | — | — | — | retired |
 | `dudlu.cz` | — | — | — | active |
-| `dvojklik.cz` | [policy](https://www.eset.com/int/security-vulnerability-reporting/) | — | — | active |
+| `dvojklik.cz` | [policy](https://www.eset.com/int/security-vulnerability-reporting/) | — | — | retired |
 | `eberry.cz` | — | — | — | active |
 | `ecn.cz` | — | — | — | active |
 | `efotbal.cz` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |

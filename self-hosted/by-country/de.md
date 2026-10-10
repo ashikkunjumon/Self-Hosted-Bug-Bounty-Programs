@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-426 programs.
+431 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@
 | `bundespolizei.de` | — | — | — | expired |
 | `bundesregierung.de` | — | — | — | active |
 | `bundestag.de` | — | — | — | active |
-| `bundeswehr.de` | [policy](https://www.bundeswehr.de/de/security-policy) | recognition | — | retired |
+| `bundeswehr.de` | [policy](https://www.bundeswehr.de/de/security-policy) | recognition | — | active |
 | `capterra.com.de` | — | — | — | active |
 | `ccc.de` | — | — | — | active |
 | `cewe.de` | — | — | — | active |
@@ -115,6 +115,7 @@
 | `dstgb.de` | — | — | — | active |
 | `dwds.de` | — | — | — | active |
 | `eco.de` | — | — | — | expired |
+| `einbeck.de` | — | — | — | active |
 | `ekd.de` | — | — | — | active |
 | `ekomi.de` | — | — | — | active |
 | `eon.de` | — | — | — | active |
@@ -134,6 +135,7 @@
 | `fh-potsdam.de` | — | — | — | expired |
 | `fh-swf.de` | — | — | — | active |
 | `fh-zwickau.de` | — | — | — | active |
+| `fischer.de` | — | — | — | active |
 | `fiz-karlsruhe.de` | — | — | — | active |
 | `flixbus.de` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |
 | `focus.de` | [policy](https://www.burda-forward.de/en/security/) | recognition | — | active |
@@ -226,6 +228,7 @@
 | `kuketz-blog.de` | — | — | — | active |
 | `kulturkaufhaus.de` | — | — | — | expired |
 | `kulturstaatsminister.de` | — | — | — | active |
+| `kulturstaatsministerin.de` | — | — | — | active |
 | `lancom-systems.de` | — | — | — | active |
 | `landesrecht-bw.de` | — | — | — | active |
 | `landwirtschaft-bw.de` | — | — | — | expired |
@@ -294,6 +297,7 @@
 | `postbank.de` | — | — | — | active |
 | `queer.de` | — | — | — | active |
 | `ragsuite.de` | [policy](https://ragsuite.de/security/disclosure) | recognition | yes | active |
+| `ravensburg.de` | [policy](https://www.ravensburg.de/rv/security-policy.php) | monetary | yes | active |
 | `rebuy.de` | — | — | — | active |
 | `reddotmedia.de` | [policy](https://g.co/vrp) | — | — | active |
 | `redensarten-index.de` | — | — | — | retired |
@@ -333,6 +337,7 @@
 | `srlabs.de` | — | — | — | active |
 | `stadt-koeln.de` | — | — | — | retired |
 | `stadtlindau.de` | — | — | — | active |
+| `statistikportal.de` | — | — | — | active |
 | `strato.de` | [policy](https://www.strato.de/it-security) | monetary | — | active |
 | `study-in-germany.de` | — | — | — | active |
 | `stuttgart.de` | — | — | — | active |

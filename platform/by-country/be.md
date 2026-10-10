@@ -1,6 +1,6 @@
 # Platform-hosted programs — BE
 
-45 programs.
+46 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -48,4 +48,5 @@
 | `webnode.be` | [policy](https://www.webnode.com/.well-known/security-policy.html) | — | yes | active |
 | `wikipower.be` | — | monetary | — | active |
 | `yelp.be` | [policy](https://hackerone.com/yelp?view_policy=true) | — | — | active |
+| `zas.be` | — | recognition | — | active |
 | `zol.be` | — | — | — | active |
