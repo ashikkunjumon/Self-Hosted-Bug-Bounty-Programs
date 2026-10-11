@@ -1,6 +1,6 @@
 # Self-hosted programs — UA
 
-49 programs.
+50 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -47,6 +47,7 @@
 | `thecapital.com.ua` | — | — | — | active |
 | `udpu.edu.ua` | — | — | — | expired |
 | `ukraine.com.ua` | [policy](https://www.ukraine.com.ua/info/bug-bounty/) | monetary | — | active |
+| `usain.ua` | — | — | — | active |
 | `vchasno.com.ua` | — | — | — | active |
 | `vchasno.ua` | — | — | — | active |
 | `viyar.ua` | — | — | — | retired |

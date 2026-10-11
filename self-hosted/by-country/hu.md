@@ -1,10 +1,11 @@
 # Self-hosted programs — HU
 
-44 programs.
+45 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `aboutyou.hu` | — | monetary | — | retired |
+| `alexanderezz.hu` | — | — | — | active |
 | `balmazujvaros.hu` | — | — | — | active |
 | `bdo.hu` | — | — | — | expired |
 | `billingo.hu` | — | — | — | expired |

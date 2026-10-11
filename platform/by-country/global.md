@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-591 programs.
+593 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -369,6 +369,7 @@
 | `oberlo.com` | [policy](https://hackerone.com/shopify) | — | — | active |
 | `octopus.com` | [policy](https://g.octopushq.com/disclosure) | swag | — | active |
 | `okta.com` | [policy](https://www.okta.com/vulnerability-reporting-policy/) | — | — | active |
+| `omarchy.org` | [policy](https://omarchy.org/security) | swag | — | active |
 | `oohcams.com` | [policy](https://hackerone.com/chaturbate?type=team&view_policy=true) | — | — | active |
 | `ookla.com` | [policy](https://security.ookla.com) | — | — | active |
 | `openai.com` | [policy](https://openai.com/policies/coordinated-vulnerability-disclosure-policy) | recognition | — | active |
@@ -472,6 +473,7 @@
 | `speedtest.net` | [policy](https://security.ookla.com) | — | — | active |
 | `speedtestcustom.com` | [policy](https://security.ookla.com) | — | — | active |
 | `springernature.com` | [policy](https://www.springernature.com/gp/info/disclosure) | recognition | — | retired |
+| `stake.com` | — | — | — | expired |
 | `standoff365.com` | [policy](https://standoff365.com/en-US/articles/bug-bounty-platform-analytics-2022/) | monetary | — | retired |
 | `startupintros.com` | [policy](https://startupintros.com/orgs/bugcrowd) | monetary | yes | retired |
 | `statefarm.com` | [policy](https://www.statefarm.com/customer-care/privacy-security/security/vulnerability-disclosure-policy) | — | yes | active |

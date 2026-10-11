@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-234 programs.
+236 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -76,6 +76,7 @@
 | `flixbus.be` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |
 | `florealgroup.be` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | active |
 | `fluvius.be` | [policy](https://www.fluvius.be/nl/privacybeleid) | monetary | — | active |
+| `folderbode.be` | — | — | — | active |
 | `fomu.be` | [policy](https://fomu.be/security-policy) | recognition | — | active |
 | `fotomuseum.be` | [policy](https://fomu.be/security-policy) | recognition | — | active |
 | `galaxus.be` | [policy](https://www.galaxus.ch/security) | monetary | yes | active |
@@ -230,6 +231,7 @@
 | `warande.be` | — | — | — | active |
 | `wavre.be` | — | — | — | active |
 | `webador.be` | — | — | — | active |
+| `weblounge.be` | [policy](https://www.weblounge.be/privacy/) | — | — | active |
 | `west-vlaanderen.be` | — | — | — | active |
 | `wetteren.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `wintersport.be` | — | — | — | active |

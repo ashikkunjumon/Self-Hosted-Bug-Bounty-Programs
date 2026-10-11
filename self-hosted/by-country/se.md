@@ -198,7 +198,7 @@
 | `kalmar.se` | — | — | — | active |
 | `kammarkollegiet.se` | — | — | — | active |
 | `karlshamn.se` | — | — | — | active |
-| `karlskrona.se` | — | — | — | active |
+| `karlskrona.se` | — | — | — | retired |
 | `karlstad.se` | — | — | — | active |
 | `karolinska.se` | — | — | — | expired |
 | `katrineholm.se` | — | — | — | active |

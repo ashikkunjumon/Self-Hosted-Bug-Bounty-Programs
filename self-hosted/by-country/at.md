@@ -1,11 +1,12 @@
 # Self-hosted programs — AT
 
-144 programs.
+145 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `a-trust.at` | — | — | — | active |
 | `aboutyou.at` | — | monetary | — | retired |
+| `adsimple.at` | — | — | — | active |
 | `aekktn.at` | [policy](https://www.aekktn.at/security-policy/) | recognition | — | active |
 | `ankoe.at` | — | — | — | active |
 | `apg.at` | — | — | — | active |

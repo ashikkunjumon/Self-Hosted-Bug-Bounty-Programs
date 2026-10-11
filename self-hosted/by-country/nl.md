@@ -1,6 +1,6 @@
 # Self-hosted programs — NL
 
-362 programs.
+367 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@
 | `amstelveen.nl` | [policy](https://www.amstelveen.nl/bestuur-organisatie/publicatie/informatieveiligheid-en-privacy_coordinated-vulnerability-disclosure) | — | — | expired |
 | `amsterdamumc.nl` | [policy](https://www.amsterdamumc.org/en/responsible-disclosure.htm) | — | — | active |
 | `androidplanet.nl` | — | — | — | active |
-| `androidworld.nl` | — | — | — | active |
+| `androidworld.nl` | — | — | — | retired |
 | `antagonist.nl` | [policy](https://www.antagonist.nl/security/) | — | yes | active |
 | `antenna.nl` | — | — | — | active |
 | `anthura.nl` | [policy](https://www.anthura.nl/en/cybersecurity/reporting-a-security-breach) | — | — | expired |
@@ -105,6 +105,7 @@
 | `eerstekamer.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `encyclo.nl` | — | — | — | active |
 | `eneco.nl` | [policy](https://www.eneco.com/responsible-disclosure/) | — | — | active |
+| `enexis.nl` | — | — | — | active |
 | `enschede.nl` | [policy](https://www.enschede.nl/kwetsbaarheid-melden-responsible-disclosure) | — | — | active |
 | `ensie.nl` | — | — | — | active |
 | `eo.nl` | [policy](https://npo.nl/overnpo/privacy-en-security) | — | — | active |
@@ -139,6 +140,7 @@
 | `hcc.nl` | — | — | — | expired |
 | `hccnet.nl` | — | — | — | expired |
 | `hetcak.nl` | [policy](https://www.hetcak.nl/kwetsbare-plek-ontdekt/) | — | yes | active |
+| `hetutrechtsarchief.nl` | — | — | — | active |
 | `hollandandbarrett.nl` | [policy](https://vdp.hollandandbarrett.com/) | — | — | active |
 | `hornbach.nl` | — | — | — | active |
 | `hostfact.nl` | [policy](https://www.hostfact.nl/security/) | — | — | retired |
@@ -232,6 +234,7 @@
 | `nluug.nl` | [policy](https://nluug.nl/security/) | monetary | — | active |
 | `nn.nl` | [policy](https://www.nn-group.com/ethical-hacking-nn-groups-responsible-disclosure-policy.htm) | monetary | — | active |
 | `noord-holland.nl` | [policy](https://www.noord-holland.nl/Home/Beheer/Meta/Responsible_Disclosure) | — | yes | active |
+| `noordhoff.nl` | [policy](https://www.infinitaslearning.com/privacy-policy/) | — | — | active |
 | `nos.nl` | [policy](https://over.nos.nl/wp-content/uploads/2026/06/260615_NOS-Responsible-disclosure-beleid_NE_EN.pdf) | monetary | — | active |
 | `notaris.nl` | [policy](https://www.notaris.nl/page/beveiliging-niet-in-orde-meld-het-ons) | recognition | yes | active |
 | `npo.nl` | — | recognition | — | active |
@@ -279,6 +282,7 @@
 | `regelhulp.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `rekenkamer.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `ret.nl` | — | — | — | active |
+| `retailtrends.nl` | — | — | — | active |
 | `rietveldacademie.nl` | — | — | — | active |
 | `rijksoverheid.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `rijkswaterstaat.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
@@ -354,6 +358,7 @@
 | `werkspot.nl` | — | — | — | expired |
 | `windesheim.nl` | [policy](https://www.windesheim.com/getmedia/e3e30de8-6c9b-4db5-9a68-5998d52b4d8b/Responsible-disclosure-policy-Windesheim.pdf) | monetary | — | active |
 | `wodc.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
+| `woonbond.nl` | — | — | — | active |
 | `wrr.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `wur.nl` | [policy](https://www.wur.nl/sites/default/files/2025-11/2021-WUR-Information-Security-policy.pdf) | monetary | — | active |
 | `xel.nl` | — | — | — | expired |

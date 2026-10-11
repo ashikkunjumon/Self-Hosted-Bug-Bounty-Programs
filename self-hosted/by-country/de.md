@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-431 programs.
+434 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -159,6 +159,7 @@
 | `germany4ukraine.de` | — | — | — | retired |
 | `gettyimages.de` | — | — | — | retired |
 | `giga.de` | — | — | — | active |
+| `gira.de` | [policy](https://www.gira.de/cybersecurity/en-cvd-policy) | — | yes | active |
 | `gitslayer.de` | [policy](https://github.com/go-gitea/gitea/blob/main/SECURITY.md) | recognition | — | active |
 | `glassdoor.de` | [policy](https://help.glassdoor.com/s/article/Bug-Bounty-Program?language=en_US) | — | — | retired |
 | `gmx.de` | [policy](https://bugbounty.gmx.net) | monetary | — | active |
@@ -174,6 +175,7 @@
 | `hagebau.de` | — | — | — | active |
 | `hannover-airport.de` | — | — | — | active |
 | `hansemerkur.de` | — | — | — | active |
+| `haz.de` | — | — | — | active |
 | `heidelberg.de` | — | — | — | active |
 | `heilbronn.de` | — | — | — | active |
 | `heise.de` | [policy](https://heise.de/-7513540) | monetary | — | active |
@@ -237,6 +239,7 @@
 | `lidl.de` | — | — | — | active |
 | `linksjugend-solid.de` | — | — | — | expired |
 | `lmu.de` | — | — | — | active |
+| `ln-online.de` | — | — | — | active |
 | `logo.de` | — | — | — | active |
 | `lotto.de` | [policy](https://vdp.lotto-niedersachsen.de/p/Policy) | — | — | active |
 | `ludwigsburg.de` | — | — | — | active |

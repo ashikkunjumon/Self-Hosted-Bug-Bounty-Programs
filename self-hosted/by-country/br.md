@@ -1,6 +1,6 @@
 # Self-hosted programs — BR
 
-85 programs.
+86 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@
 | `cirurgicabrasil.com.br` | — | — | — | active |
 | `cuponeria.com.br` | — | — | — | active |
 | `cvcrm.com.br` | — | — | — | active |
-| `defesa.gov.br` | [policy](https://www.gov.br/defesa/pt-br/arquivos/legislacao/posin-md-2022.pdf) | — | — | expired |
+| `defesa.gov.br` | [policy](https://www.gov.br/defesa/pt-br/arquivos/legislacao/posin-md-2022.pdf) | — | — | retired |
 | `doctoralia.com.br` | — | — | — | active |
 | `eventim.com.br` | — | — | — | active |
 | `expedia.com.br` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
@@ -74,6 +74,7 @@
 | `saocarlosagora.com.br` | — | — | — | active |
 | `servaco.com.br` | — | — | — | active |
 | `sescpr.com.br` | [policy](https://www.sescpr.com.br/politica-de-privacidade) | — | — | retired |
+| `softplan.com.br` | — | — | — | active |
 | `tacontratado.com.br` | — | — | — | active |
 | `tche.br` | — | — | — | expired |
 | `tecnofit.com.br` | — | — | — | active |

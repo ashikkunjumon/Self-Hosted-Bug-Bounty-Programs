@@ -1,6 +1,6 @@
 # Self-hosted programs — FR
 
-159 programs.
+160 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -69,6 +69,7 @@
 | `generali.fr` | [policy](https://vdp.generali.fr/p/Policy) | — | — | active |
 | `gettyimages.fr` | — | — | — | retired |
 | `glassdoor.fr` | [policy](https://help.glassdoor.com/s/article/Bug-Bounty-Program?language=en_US) | — | — | retired |
+| `gmx.fr` | [policy](https://bugbounty.gmx.com/) | monetary | — | active |
 | `grenoble-inp.fr` | — | recognition | — | active |
 | `groupebpce.fr` | — | — | — | expired |
 | `hellowatt.fr` | — | — | — | expired |

@@ -1,6 +1,6 @@
 # Self-hosted programs — GLOBAL
 
-2,951 programs.
+2,955 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -361,6 +361,7 @@
 | `careevolution.com` | [policy](https://careevolution.com/trust/security-research/) | monetary | — | retired |
 | `caresource.com` | [policy](https://www.caresource.com/about-us/legal/responsible-disclosure-statement/) | monetary | — | retired |
 | `carestream.com` | [policy](https://www.carestream.com/en/us/services-and-support/cybersecurity-and-privacy/coordinated-vulnerability-disclosure) | — | — | active |
+| `carmax.com` | — | — | — | expired |
 | `carrefour.com` | [policy](https://carrefour.com/disclosure) | — | — | active |
 | `cbi.eu` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `ccv.eu` | [policy](https://www.ccv.eu/en/about-ccv/responsible-disclosure/) | monetary | yes | active |
@@ -492,7 +493,7 @@
 | `computingforgeeks.com` | — | — | — | active |
 | `concur.com` | — | — | — | expired |
 | `conduktor.io` | — | — | — | active |
-| `conferencebadge.com` | [policy](https://www.conferencebadge.com/security) | monetary | — | active |
+| `conferencebadge.com` | [policy](https://www.conferencebadge.com/security) | — | — | active |
 | `confluent.io` | [policy](https://www.confluent.io/trust-and-security/) | monetary | — | active |
 | `confused.com` | [policy](https://www.confused.com/privacy-and-security/security/security-disclosure-policy) | swag | — | active |
 | `connectwise.com` | [policy](https://www.connectwise.com/company/trust/security/vulnerability-disclosure-policy) | monetary | yes | active |
@@ -719,7 +720,7 @@
 | `ecisolutions.com` | [policy](https://www.ecisolutions.com/security-policy) | recognition | — | active |
 | `eclinicalworks.com` | [policy](https://www.eclinicalworks.com/responsible-disclosure-policy/) | recognition | — | retired |
 | `eclipse.org` | [policy](https://www.eclipse.org/security/policy/) | — | — | active |
-| `ecommercenews.eu` | — | — | — | active |
+| `ecommercenews.eu` | — | — | — | retired |
 | `ecomverify.com` | [policy](https://ecomverify.com/en/seguridad.php) | recognition | — | retired |
 | `economictimes.com` | [policy](https://timesinternet.in/responsible-disclosure/policy.html) | — | yes | active |
 | `ecosia.org` | [policy](https://support.ecosia.org/article/960-vulnerability-disclosure-policy) | — | yes | active |
@@ -874,7 +875,7 @@
 | `fintual.com` | [policy](https://fintual.com/security-policy.txt) | monetary | yes | retired |
 | `firisbe.com` | [policy](https://firisbe.com/security-disclosure-policy) | — | yes | retired |
 | `first.org` | [policy](https://www.first.org/about/policies) | monetary | — | active |
-| `firstcitizens.com` | [policy](https://firstcitizensbank.responsibledisclosure.com) | recognition | — | active |
+| `firstcitizens.com` | [policy](https://firstcitizensbank.responsibledisclosure.com) | recognition | — | expired |
 | `five9.com` | [policy](https://www.five9.com/trust/vdp) | — | — | retired |
 | `fiverr.com` | — | — | — | active |
 | `flare.io` | — | — | — | active |
@@ -907,6 +908,7 @@
 | `forex.com` | — | — | — | active |
 | `forexfactory.com` | [policy](https://www.forexfactory.com/bug-bounty) | monetary | — | active |
 | `forgejo.org` | [policy](https://codeberg.org/forgejo/governance/src/commit/5c07b3801537212ed6be1edfec298d7b004ce92d/SECURITY-POLICY.md) | — | — | active |
+| `forjalibre.eu` | [policy](https://codeberg.org/forgejo/governance/src/branch/main/SECURITY-POLICY.md) | — | — | active |
 | `forsightfinance.com` | [policy](https://forsightfinance.com/security) | — | — | active |
 | `fortinet.com` | [policy](https://www.fortiguard.com/psirt_policy) | — | yes | active |
 | `fortra.com` | [policy](https://www.fortra.com/security/policy) | — | — | retired |
@@ -1063,6 +1065,7 @@
 | `goupstate.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | expired |
 | `graceland.com` | — | — | — | active |
 | `gradle.org` | [policy](https://github.com/gradle/.github/blob/master/SECURITY.md) | — | — | active |
+| `graf.info` | — | — | — | active |
 | `grahamcluley.com` | — | — | — | expired |
 | `grailed.com` | [policy](https://support.grailed.com/hc/en-us/articles/30283214576013-Grailed-s-Bug-Bounty-Program) | monetary | — | retired |
 | `grandlyon.com` | — | — | — | active |
@@ -1511,6 +1514,7 @@
 | `lvmh.com` | — | — | — | expired |
 | `lyellcollection.org` | — | — | — | active |
 | `m-w.com` | — | — | — | active |
+| `m.economictimes.com` | [policy](https://timesinternet.in/responsible-disclosure/policy.html) | — | yes | active |
 | `macpaw.com` | [policy](https://macpaw.com/vulnerability-disclosure-policy) | monetary | — | active |
 | `madeformums.com` | [policy](https://www.immediate.co.uk/security-disclosure-policy/) | — | — | expired |
 | `magic.dev` | — | — | — | active |
@@ -1531,7 +1535,7 @@
 | `mamentis.com` | [policy](https://mamentis.com/docs/resources/miscellaneous/submit-bug-request) | monetary | — | retired |
 | `mamp.info` | — | — | — | expired |
 | `manageengine.com` | [policy](https://bugbounty.zohocorp.com/bb/info) | monetary | — | active |
-| `mangadex.org` | [policy](https://mangadex.org/security.txt) | recognition | — | expired |
+| `mangadex.org` | [policy](https://mangadex.org/security.txt) | recognition | — | active |
 | `mann-filter.com` | — | — | — | active |
 | `mann-hummel.com` | — | — | — | active |
 | `mansfieldnewsjournal.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | expired |
@@ -1819,7 +1823,7 @@
 | `omr.com` | — | — | — | active |
 | `omv.com` | — | — | — | active |
 | `on2it.net` | [policy](https://on2it.net/responsible-disclosure/) | monetary | — | active |
-| `ondayzero.com` | [policy](https://www.ondayzero.com/security) | monetary | yes | retired |
+| `ondayzero.com` | [policy](https://www.ondayzero.com/security/disclosure) | monetary | yes | active |
 | `ondemand.com` | — | — | — | expired |
 | `one-ware.com` | [policy](https://one-ware.com/docs/studio/support/product-security/) | — | — | retired |
 | `one.com` | — | — | — | active |
@@ -1857,7 +1861,7 @@
 | `openstatus.dev` | [policy](https://github.com/openstatusHQ/openstatus/security/policy) | — | — | active |
 | `openstreetmap.org` | [policy](https://github.com/openstreetmap/operations/blob/master/SECURITY.md) | — | — | active |
 | `opensuse.org` | — | — | — | active |
-| `openwebui.com` | [policy](https://github.com/open-webui/open-webui/security) | monetary | — | active |
+| `openwebui.com` | [policy](https://github.com/open-webui/open-webui/security) | — | — | active |
 | `opslevel.com` | [policy](https://www.opslevel.com/legal/responsible-disclosure) | recognition | — | retired |
 | `optimizepress.com` | — | — | — | retired |
 | `optisigns.com` | [policy](https://www.optisigns.com/trust-center) | — | — | active |
@@ -2706,7 +2710,7 @@
 | `understood.org` | [policy](https://trustcenter.understood.org) | — | — | active |
 | `unibocconi.eu` | [policy](https://unibocconi.it/security/vulnerability-disclosure) | monetary | — | active |
 | `unisys.com` | — | — | — | active |
-| `unit4.com` | [policy](https://www.unit4.com/legal-agreements-compliance/unit4-vulnerability-disclosure-program) | — | — | active |
+| `unit4.com` | [policy](https://www.unit4.com/legal-agreements-compliance/unit4-vulnerability-disclosure-program) | — | — | retired |
 | `united-heroes.com` | [policy](https://legal.united-heroes.com/Vulnerability+Disclosure+Policy.html) | — | yes | retired |
 | `unitedhealthgroup.com` | [policy](https://www.optum.com/vulnerability.html) | — | — | active |
 | `univ-cotedazur.eu` | — | recognition | — | active |
@@ -2892,7 +2896,7 @@
 | `wpmudev.com` | [policy](https://incsub.com/vulnerability-disclosure-policy/) | monetary | — | active |
 | `wpmudev.org` | [policy](https://incsub.com/vulnerability-disclosure-policy/) | monetary | — | active |
 | `wpzoom.com` | — | recognition | — | active |
-| `wrike.com` | [policy](https://www.wrike.com/security/report/) | — | — | active |
+| `wrike.com` | [policy](https://www.wrike.com/security/report/) | — | — | expired |
 | `writerslock.org` | [policy](https://www.writerslock.org/security) | — | yes | retired |
 | `writesonic.com` | [policy](https://writesonic.com/legal/security) | — | — | expired |
 | `wrmea.org` | — | — | — | expired |

@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-351 programs.
+353 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -170,6 +170,7 @@
 | `kupi.cz` | [policy](https://napoveda.seznam.cz/cz/smluvni-podminky/podminky-kupi-cz/) | — | — | active |
 | `kvaltex.cz` | — | — | — | active |
 | `laskakit.cz` | — | — | — | active |
+| `letakomat.cz` | — | — | — | active |
 | `letuska.cz` | [policy](https://asiana.cz/policy_en.html) | — | — | active |
 | `lide.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `lidl.cz` | — | — | — | active |
@@ -208,6 +209,7 @@
 | `mujrozhlas.cz` | — | — | — | active |
 | `muni.cz` | [policy](https://security.muni.cz/en/responsible_disclosure) | recognition | — | active |
 | `mvso.cz` | — | — | — | expired |
+| `mydreams.cz` | — | — | — | active |
 | `najbrt.cz` | — | — | — | expired |
 | `najdireality.cz` | — | — | — | active |
 | `nakluky.cz` | — | — | — | active |
