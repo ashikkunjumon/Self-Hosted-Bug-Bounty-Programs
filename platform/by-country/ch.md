@@ -1,6 +1,6 @@
 # Platform-hosted programs — CH
 
-62 programs.
+63 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -13,6 +13,7 @@
 | `baloise.ch` | [policy](https://app.bugbounty.ch/public/engagement/details/568e2d99-380c-433b-86fd-8ee6063fc141) | — | — | active |
 | `baz.ch` | [policy](https://bugcrowd.com/tamedia) | monetary | — | expired |
 | `bazonline.ch` | [policy](https://bugcrowd.com/tamedia) | monetary | — | expired |
+| `bcn.ch` | [policy](https://gobugfree.com/programs/bcn-vdp) | monetary | yes | active |
 | `bernerzeitung.ch` | [policy](https://bugcrowd.com/tamedia) | monetary | — | expired |
 | `berufsbildung-schweiz.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | recognition | yes | active |
 | `bilan.ch` | [policy](https://bugcrowd.com/tamedia) | monetary | — | expired |

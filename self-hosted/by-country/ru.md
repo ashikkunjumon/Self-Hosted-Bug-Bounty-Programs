@@ -1,6 +1,6 @@
 # Self-hosted programs — RU
 
-37 programs.
+38 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -24,6 +24,7 @@
 | `intel.ru` | [policy](https://www.intel.com/content/www/us/en/security-center/vulnerability-handling-guidelines.html) | monetary | — | expired |
 | `ivi.ru` | — | — | — | expired |
 | `kontur.ru` | [policy](https://security.kontur.ru) | — | — | active |
+| `mos.ru` | — | — | — | expired |
 | `mykaliningradgid.ru` | — | — | — | active |
 | `newsvl.ru` | — | — | — | active |
 | `odnoklassniki.ru` | — | — | — | active |

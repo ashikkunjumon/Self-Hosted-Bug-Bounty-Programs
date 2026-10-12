@@ -1,6 +1,6 @@
 # Self-hosted programs — IN
 
-37 programs.
+39 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -31,6 +31,8 @@
 | `nadiazillaparishad.in` | — | — | — | active |
 | `newaymsw.in` | [policy](https://www.agitex.africa.com/chinh-sach-bao-mat/) | — | — | active |
 | `onnetsolution.in` | — | — | — | active |
+| `restopos.in` | [policy](https://www.restopos.in/pages/security.html) | recognition | yes | active |
+| `saralya.in` | [policy](https://saralya.in/security) | recognition | yes | active |
 | `starplaza.in` | [policy](https://starplaza.in/pages/responsible-disclosure) | monetary | — | retired |
 | `symbiont.in` | [policy](https://moodledev.io/general/development/process/security) | monetary | — | retired |
 | `tax2win.in` | — | — | — | expired |

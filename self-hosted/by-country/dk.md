@@ -1,6 +1,6 @@
 # Self-hosted programs — DK
 
-148 programs.
+149 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -136,6 +136,7 @@
 | `supersaas.dk` | [policy](https://www.supersaas.com/info/disclosure_policy) | — | — | active |
 | `sydbank.dk` | — | — | — | active |
 | `sydinvest.dk` | — | — | — | active |
+| `sygehuslillebaelt.dk` | — | — | — | active |
 | `synoptik.dk` | [policy](https://essilorluxottica.vulnerability-disclosure.com/) | — | — | active |
 | `telenor.dk` | — | — | — | active |
 | `tilmeld.dk` | — | — | — | active |

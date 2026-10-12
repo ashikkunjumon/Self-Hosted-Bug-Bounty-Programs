@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-434 programs.
+439 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -125,6 +125,7 @@
 | `eventim.de` | — | — | — | active |
 | `expedia.de` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
 | `expert.de` | [policy](https://www.expert.de/service/contact/security) | — | — | active |
+| `fairexa.de` | [policy](https://www.fairexa.de/en/security/) | recognition | yes | active |
 | `familie.de` | — | — | — | active |
 | `fau.de` | — | — | — | active |
 | `feg.de` | — | recognition | — | active |
@@ -301,6 +302,7 @@
 | `queer.de` | — | — | — | active |
 | `ragsuite.de` | [policy](https://ragsuite.de/security/disclosure) | recognition | yes | active |
 | `ravensburg.de` | [policy](https://www.ravensburg.de/rv/security-policy.php) | monetary | yes | active |
+| `rebaze.de` | [policy](https://www.rebaze.de/security-policy/) | recognition | yes | active |
 | `rebuy.de` | — | — | — | active |
 | `reddotmedia.de` | [policy](https://g.co/vrp) | — | — | active |
 | `redensarten-index.de` | — | — | — | retired |
@@ -308,6 +310,7 @@
 | `rekruter.de` | [policy](https://www.rekruter.de/impressum/datenschutz.lasso) | — | — | active |
 | `reutlingen.de` | — | — | — | expired |
 | `rewe.de` | — | — | — | active |
+| `rhein-kreis-neuss.de` | — | — | — | active |
 | `rheinpfalz.de` | — | — | — | expired |
 | `rki.de` | — | — | — | active |
 | `rlp.de` | — | — | — | active |
@@ -316,6 +319,7 @@
 | `ruhr-uni-bochum.de` | — | — | — | active |
 | `ruhrnachrichten.de` | — | — | — | active |
 | `rwth-aachen.de` | [policy](https://help.itc.rwth-aachen.de/service/e0bd09c2eb3241f784a3581fd8da5d81/article/c2079013844b48538571da06041bb857/) | — | — | active |
+| `sachsen-anhalt.de` | — | — | — | active |
 | `sachsen.de` | — | — | — | active |
 | `sana.de` | — | — | — | active |
 | `schmorp.de` | — | — | — | active |
@@ -372,6 +376,7 @@
 | `tu-dresden.de` | — | recognition | — | active |
 | `tu-freiberg.de` | — | — | — | active |
 | `tu-ilmenau.de` | — | recognition | — | active |
+| `tuev-nord.de` | — | — | — | active |
 | `tuhh.de` | — | — | — | active |
 | `tum.de` | — | — | — | active |
 | `uestra.de` | — | — | — | active |
@@ -434,7 +439,7 @@
 | `wuerzburg.de` | — | — | — | active |
 | `wuppertal.de` | [policy](https://digital.wuppertal.de/medien_digitalisierung/10_ISMS_Stadt_Wuppertal_Richtlinie_zur_Offenlegung_von_Sicherheitsluecken_V2.0.pdf) | monetary | — | active |
 | `xing.de` | [policy](https://www.new-work.se/.well-known/rfc-2350.txt) | — | — | expired |
-| `zdf.de` | — | — | — | active |
+| `zdf.de` | — | — | — | expired |
 | `zdfheute.de` | — | — | — | active |
 | `zdh.de` | — | — | — | active |
 | `zentrale.de` | — | — | — | retired |

@@ -1,6 +1,6 @@
 # Self-hosted programs — BR
 
-86 programs.
+88 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -65,12 +65,13 @@
 | `oabsp.org.br` | — | recognition | — | active |
 | `omelhordopari.com.br` | — | — | — | active |
 | `paraju-vinhos.com.br` | — | — | — | active |
+| `parajuvinhos.com.br` | — | — | — | active |
 | `pebmed.com.br` | [policy](https://security.afya.com.br) | — | — | active |
 | `premierpet.com.br` | [policy](https://premierpet.com.br/privacidade/) | recognition | — | active |
 | `printi.com.br` | [policy](https://www.printi.com.br/politicas-de-privacidade/) | swag | — | active |
 | `reclameaqui.com.br` | [policy](https://storage.googleapis.com/whitehat-policy/reclameaqui-whitehat-policy.pdf) | monetary | — | active |
 | `registro.br` | — | — | — | active |
-| `saboresdemarise.com.br` | — | — | — | active |
+| `saboresdemarise.com.br` | — | — | — | retired |
 | `saocarlosagora.com.br` | — | — | — | active |
 | `servaco.com.br` | — | — | — | active |
 | `sescpr.com.br` | [policy](https://www.sescpr.com.br/politica-de-privacidade) | — | — | retired |
@@ -89,4 +90,5 @@
 | `unochapeco.edu.br` | — | — | — | active |
 | `viajanet.com.br` | — | recognition | — | active |
 | `viva.com.br` | — | — | — | active |
+| `vlibras.gov.br` | — | — | — | active |
 | `yampi.com.br` | — | recognition | — | active |

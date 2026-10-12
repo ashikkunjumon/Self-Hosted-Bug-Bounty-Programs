@@ -1,11 +1,12 @@
 # Self-hosted programs — UK
 
-10 programs.
+11 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `admiralty.co.uk` | [policy](https://www.admiralty.co.uk/vulnerability-reporting) | — | yes | expired |
 | `arclegal.co.uk` | [policy](https://legalassistanceportal.arclegal.co.uk/Home/VulnerabilityDisclosurePolicy) | recognition | — | retired |
+| `gamechanger360.co.uk` | [policy](https://gamechanger360.co.uk/platform/security) | recognition | yes | active |
 | `hedgehogsecurity.co.uk` | [policy](https://www.hedgehogsecurity.co.uk/responsible-disclosure) | swag | yes | active |
 | `iottechnologies.co.uk` | [policy](https://iottechnologies.co.uk/vulnerability-disclosure-policy) | recognition | yes | active |
 | `quarterwise.co.uk` | [policy](https://quarterwise.co.uk/security/disclosure) | monetary | yes | active |

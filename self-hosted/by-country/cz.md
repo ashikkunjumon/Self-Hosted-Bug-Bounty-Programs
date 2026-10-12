@@ -128,7 +128,7 @@
 | `hrad.cz` | — | — | — | active |
 | `hras.cz` | — | — | — | active |
 | `hwkitchen.cz` | — | — | — | active |
-| `hypotecnibanka.cz` | — | — | — | active |
+| `hypotecnibanka.cz` | — | — | — | retired |
 | `ifortuna.cz` | — | monetary | — | active |
 | `iir.cz` | — | — | — | active |
 | `imago.cz` | [policy](http://www.imago.cz/kontakt) | swag | — | active |
@@ -308,7 +308,7 @@
 | `t-mobile.cz` | [policy](https://www.t-mobile.cz/bug-bounty) | monetary | — | active |
 | `tatramuseum.cz` | — | — | — | active |
 | `tchibo.cz` | — | — | — | active |
-| `techlib.cz` | — | — | — | active |
+| `techlib.cz` | — | — | — | retired |
 | `techmania.cz` | — | — | — | active |
 | `televizeseznam.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `top-pojisteni.cz` | — | — | — | retired |

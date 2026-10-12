@@ -1,6 +1,6 @@
 # Self-hosted programs — NO
 
-225 programs.
+226 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -124,6 +124,7 @@
 | `mnemonic.no` | — | — | — | active |
 | `moller.no` | [policy](https://moller.no/.well-known/security.txt) | recognition | — | active |
 | `mollerbil.no` | [policy](https://moller.no/.well-known/security.txt) | recognition | — | active |
+| `morrowbank.no` | — | — | — | active |
 | `mre.no` | — | — | — | expired |
 | `mystore.no` | [policy](https://norvato.com/responsible-disclosure) | recognition | yes | active |
 | `nasjonalparkstyre.no` | [policy](https://www.nasjonalparkstyre.no/security-policy) | recognition | — | active |

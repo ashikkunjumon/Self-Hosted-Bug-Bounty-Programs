@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-364 programs.
+367 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -211,6 +211,7 @@
 | `myvaud.ch` | — | — | — | active |
 | `nationalmuseum.ch` | — | — | — | active |
 | `ne.ch` | — | recognition | — | active |
+| `nexplore.ch` | [policy](https://www.nexplore.ch/vulnerability-disclosure-policy) | — | — | expired |
 | `nic.ch` | [policy](https://www.switch.ch/security/SWITCH-CERT.txt) | — | — | active |
 | `nivea.ch` | [policy](https://soc.beiersdorf.com/disclosurepolicy.html) | — | yes | active |
 | `notino.ch` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
@@ -277,6 +278,7 @@
 | `sob.ch` | — | — | — | active |
 | `solnet.ch` | — | — | — | active |
 | `solothurnerspitaeler.ch` | — | — | — | active |
+| `spielsucht-radix.ch` | — | — | — | active |
 | `spreadshirt.ch` | — | — | — | retired |
 | `srf.ch` | — | — | — | active |
 | `stadt-schaffhausen.ch` | — | — | — | active |
@@ -342,6 +344,7 @@
 | `valiant.ch` | [policy](https://www.valiant.ch/vdp) | monetary | yes | active |
 | `vaud.ch` | — | — | — | active |
 | `vd.ch` | — | — | — | active |
+| `vellaci.ch` | [policy](https://www.vellaci.ch/security/disclosure) | recognition | yes | active |
 | `verbier4vallees.ch` | — | — | — | active |
 | `vermoegenszentrum.ch` | — | — | — | active |
 | `victorinox.ch` | — | — | — | active |

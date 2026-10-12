@@ -1,25 +1,32 @@
 # Self-hosted programs — AI
 
-58 programs.
+72 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `19pine.ai` | [policy](https://www.19pine.ai/security) | swag | yes | active |
 | `abundera.ai` | [policy](https://abundera.ai/security) | recognition | yes | active |
+| `amber.ai` | [policy](https://www.amber.ai/legal/security) | — | — | active |
+| `audienceconnect.ai` | [policy](https://audienceconnect.ai/security/) | — | — | active |
 | `aurasell.ai` | [policy](https://www.aurasell.ai/bug-bounty) | monetary | — | retired |
 | `aurexara.ai` | [policy](https://www.aurexara.ai/security) | — | — | retired |
+| `automedha.ai` | [policy](https://automedha.ai/security/) | — | — | active |
 | `bankerly.ai` | [policy](https://bankerly.ai/security) | — | yes | retired |
 | `bogart.ai` | [policy](https://bogart.ai/vulnerability-disclosure-policy/) | — | — | retired |
 | `burna.ai` | [policy](https://burna.ai/responsible-disclosure) | monetary | yes | active |
 | `ciso360.ai` | [policy](https://ciso360.ai/legal/security) | monetary | — | active |
 | `clawsecure.ai` | [policy](https://www.clawsecure.ai/vulnerability-disclosure) | — | yes | active |
+| `codemonster.ai` | [policy](https://codemonster.ai/security/vulnerability-disclosure) | recognition | yes | active |
 | `coderabbit.ai` | [policy](https://www.coderabbit.ai/vulnerability-disclosure) | monetary | yes | active |
 | `deepset.ai` | [policy](https://deepset.ai/disclosure/) | — | — | active |
 | `devin.ai` | [policy](https://docs.devin.ai/desktop/security/reporting) | — | yes | retired |
 | `easyaudit.ai` | [policy](https://easyaudit.ai/responsible-disclosure) | — | yes | active |
 | `eightfold.ai` | [policy](https://eightfold.ai/vulnerability-disclosure-program/) | — | yes | retired |
+| `epistemic.ai` | [policy](https://epistemic.ai/trust.html) | — | — | active |
 | `euredas.ai` | [policy](https://www.euredas.ai/security#disclosure) | monetary | yes | active |
+| `evolvingedge.ai` | [policy](https://www.evolvingedge.ai/security/) | — | — | active |
 | `fetchfido.ai` | [policy](https://fetchfido.ai/security/) | — | — | retired |
+| `finstory.ai` | [policy](https://finstory.ai/security) | — | — | active |
 | `foresight.ai` | [policy](https://www.foresight.ai/policy/disclosure-policy) | recognition | yes | retired |
 | `fyxer.ai` | [policy](https://www.fyxer.com/vulnerability-disclosure-policy) | monetary | yes | retired |
 | `galileo.ai` | [policy](https://galileo.ai/responsible-disclosure-program) | — | yes | retired |
@@ -30,7 +37,9 @@
 | `indykite.ai` | [policy](https://indykite.com/responsible-disclosure-policy/) | swag | yes | active |
 | `inqura.ai` | [policy](https://inqura.ai/security) | recognition | yes | retired |
 | `insighthealth.ai` | [policy](https://insighthealth.ai/security) | recognition | — | active |
+| `iudexnc.ai` | [policy](https://iudexnc.ai/security) | — | yes | active |
 | `juicebox.ai` | [policy](https://juicebox.ai/responsible-disclosure) | — | — | active |
+| `junowealth.ai` | [policy](https://www.junowealth.ai/security) | recognition | yes | active |
 | `kavion.ai` | [policy](https://www.kavion.ai/responsible-disclosure-policy) | recognition | yes | retired |
 | `kayiq.ai` | [policy](https://kayiq.ai/security) | — | — | retired |
 | `kindo.ai` | [policy](https://kindo.ai/vulnerability-disclosure-program) | monetary | yes | expired |
@@ -39,11 +48,14 @@
 | `lvrg.ai` | [policy](https://tryleverage.ai/vdp) | — | yes | retired |
 | `morasel.ai` | [policy](https://morasel.ai/security) | — | — | retired |
 | `naitra.ai` | [policy](https://naitra.ai/security) | — | — | retired |
+| `neogenic.ai` | [policy](https://neogenic.ai/security/) | — | yes | active |
 | `netcore.ai` | [policy](https://netcore.ai/responsible-disclosure/) | recognition | — | retired |
 | `nexusdsp.ai` | [policy](https://nexusdsp.ai/security.html) | — | — | active |
 | `nullify.ai` | [policy](https://docs.nullify.ai/more-info/security) | — | yes | retired |
 | `occludra.ai` | [policy](https://occludra.ai/security) | monetary | — | active |
+| `orbitforms.ai` | [policy](https://orbitforms.ai/security) | recognition | yes | active |
 | `pokee.ai` | [policy](https://pokee.ai/bug-bounty) | monetary | yes | active |
+| `portal26.ai` | [policy](https://portal26.ai/vulnerability-disclosure/) | — | yes | active |
 | `praesidia.ai` | [policy](https://praesidia.ai/security/vulnerability-disclosure) | — | — | active |
 | `pro5.ai` | [policy](https://www.pro5.ai/pro5-vulnerability-disclosure-program) | monetary | yes | retired |
 | `proon.ai` | [policy](https://www.proon.ai/security) | monetary | — | active |
@@ -52,6 +64,7 @@
 | `silversight.ai` | [policy](https://silversight.ai/vulnerability-disclosure-policy) | monetary | — | active |
 | `smackdab.ai` | [policy](https://smackdab.ai/legal/responsible-disclosure-policy/) | monetary | yes | active |
 | `spicychat.ai` | [policy](https://docs.spicychat.ai/security-and-vulnerability-reporting) | recognition | yes | retired |
+| `storehouses.ai` | [policy](https://storehouses.ai/security/bug-bounty) | monetary | — | active |
 | `tibly.ai` | [policy](https://tibly.ai/security) | — | yes | retired |
 | `tightknit.ai` | [policy](https://tightknit.ai/legal/responsible-disclosure) | monetary | yes | active |
 | `transglot.ai` | [policy](https://transglot.ai/legal/vulnerability-disclosure) | — | — | active |
@@ -60,5 +73,6 @@
 | `vantio.ai` | [policy](https://vantio.ai/security-disclosure) | — | yes | active |
 | `viktor.ai` | [policy](https://www.viktor.ai/responsible-disclosure) | — | — | retired |
 | `wastevision.ai` | [policy](https://wastevision.ai/Website%20legal/responsible-disclosure.html) | monetary | yes | retired |
+| `wbsoaanvraag.ai` | [policy](https://wbsoaanvraag.ai/en/responsible-disclosure/) | recognition | yes | active |
 | `wisprflow.ai` | [policy](https://docs.wisprflow.ai/articles/3467817258-security-and-compliance-faq) | — | — | retired |
 | `yellow.ai` | [policy](https://yellow.ai/vulnerability-disclosure-program/) | monetary | — | retired |

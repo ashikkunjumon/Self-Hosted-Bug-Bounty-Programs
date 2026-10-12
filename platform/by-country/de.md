@@ -29,7 +29,7 @@
 | `randstad.de` | [policy](https://www.randstad.com/report-a-security-problem/) | — | — | active |
 | `sixt.de` | [policy](https://bugcrowd.com/a22b9798-491e-4d3a-87f3-a69484e02a2f/external/report) | — | — | active |
 | `techbook.de` | [policy](https://app.intigriti.com/programs/axelspringerse/nmt/detail) | monetary | — | expired |
-| `thalia.de` | [policy](https://yeswehack.com/programs/thalia-bucher-gmbh-bug-bounty-program) | monetary | — | active |
+| `thalia.de` | [policy](https://yeswehack.com/programs/thalia-bucher-gmbh-bug-bounty-program) | monetary | — | expired |
 | `timeanddate.de` | [policy](https://hackerone.com/timeanddate) | monetary | — | expired |
 | `toyota.de` | — | monetary | — | expired |
 | `travelbook.de` | [policy](https://app.intigriti.com/programs/axelspringerse/nmt/detail) | monetary | — | expired |

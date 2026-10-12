@@ -1,12 +1,13 @@
 # Self-hosted programs — BE
 
-236 programs.
+240 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `2dehands.be` | [policy](https://adevinta.com/security-vulnerability/) | recognition | yes | active |
 | `2ememain.be` | [policy](https://adevinta.com/security-vulnerability/) | recognition | yes | active |
 | `4gamers.be` | — | — | — | retired |
+| `8530cloud.be` | [policy](https://www.8530cloud.be/security-responsible-disclosure/) | monetary | — | active |
 | `aalter.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `aanbieders.be` | [policy](https://www.aanbieders.be/privacyverklaring) | — | — | active |
 | `aarschot.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
@@ -76,6 +77,7 @@
 | `flixbus.be` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |
 | `florealgroup.be` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | active |
 | `fluvius.be` | [policy](https://www.fluvius.be/nl/privacybeleid) | monetary | — | active |
+| `fnac.be` | — | — | — | active |
 | `folderbode.be` | — | — | — | active |
 | `fomu.be` | [policy](https://fomu.be/security-policy) | recognition | — | active |
 | `fotomuseum.be` | [policy](https://fomu.be/security-policy) | recognition | — | active |
@@ -97,6 +99,8 @@
 | `hgr-css.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `holidaysuites.be` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | active |
 | `hollandandbarrett.be` | [policy](https://vdp.hollandandbarrett.com/) | — | — | active |
+| `hoogewijs.be` | [policy](https://www.hoogewijs.be/en/responsibledisclosure/) | — | — | active |
+| `hoogstraten.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `hotwin.be` | — | — | — | active |
 | `houthalen-helchteren.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `hzs.be` | — | — | — | active |

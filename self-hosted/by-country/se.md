@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-506 programs.
+507 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -107,6 +107,7 @@
 | `fhs.se` | — | — | — | active |
 | `fi.se` | — | — | — | active |
 | `filipstad.se` | — | — | — | active |
+| `finansinspektionen.se` | — | — | — | active |
 | `finspang.se` | — | — | — | active |
 | `flashscore.se` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `flen.se` | — | — | — | active |
@@ -184,7 +185,7 @@
 | `irf.se` | — | — | — | active |
 | `isof.se` | — | — | — | active |
 | `ivl.se` | — | — | — | active |
-| `jamtkraft.se` | — | — | — | expired |
+| `jamtkraft.se` | — | — | — | active |
 | `janusinfo.se` | — | — | — | active |
 | `jarfalla.se` | — | — | — | active |
 | `jernhusen.se` | — | — | — | expired |

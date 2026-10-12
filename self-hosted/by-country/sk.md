@@ -1,6 +1,6 @@
 # Self-hosted programs — SK
 
-44 programs.
+45 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -34,6 +34,7 @@
 | `mojadm.sk` | — | — | — | active |
 | `naj.sk` | — | — | — | active |
 | `notino.sk` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
+| `okay.sk` | — | — | — | active |
 | `portalvs.sk` | — | — | — | active |
 | `postovabanka.sk` | — | — | — | active |
 | `roy.sk` | — | — | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — IT
 
-78 programs.
+79 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -19,6 +19,7 @@
 | `bosch.it` | [policy](https://psirt.bosch.com/bosch-responsible-disclosure-policy/) | recognition | — | active |
 | `capterra.it` | — | — | — | active |
 | `carrefour.it` | [policy](https://carrefour.com/disclosure) | — | — | active |
+| `claypaky.it` | [policy](https://www.claypaky.it/en/vulnerability-disclosure-policy/) | swag | — | active |
 | `cnn.it` | — | — | — | active |
 | `coggle.it` | [policy](https://coggle.it/security) | — | — | active |
 | `corrierecomunicazioni.it` | — | recognition | — | active |
