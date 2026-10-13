@@ -7,7 +7,7 @@
 | `coda.co` | [policy](https://www.coda.co/policy/coda-payments-vulnerability-disclosure-policy/) | monetary | — | retired |
 | `deps.co` | [policy](https://www.deps.co/security/) | — | yes | retired |
 | `doulado.co` | [policy](https://doulado.co/security-vulnerability-disclosure-policy/) | — | yes | retired |
-| `halocard.co` | [policy](https://halocard.co/security?srsltid=AU7gw4V_vv3qe3U6Cak22qmqtcnaKLiReuXOVBlpyLuNBPFFeChCVeoT) | — | yes | active |
+| `halocard.co` | [policy](https://halocard.co/security) | — | yes | active |
 | `mural.co` | [policy](https://www.mural.co/terms/bug-bounty-program) | monetary | — | retired |
 | `oceanbottle.co` | [policy](https://your.oceanbottle.co/responsible-disclosure-policy) | — | — | active |
 | `parabol.co` | [policy](https://www.parabol.co/security-disclosure/) | monetary | — | retired |

@@ -315,7 +315,7 @@
 | `toprecepty.cz` | — | — | — | active |
 | `tribune.cz` | — | — | — | active |
 | `tul.cz` | — | — | — | active |
-| `turris.cz` | — | — | — | expired |
+| `turris.cz` | — | — | — | active |
 | `uhk.cz` | — | — | — | active |
 | `ujv.cz` | — | — | — | active |
 | `ulekare.cz` | — | — | — | active |

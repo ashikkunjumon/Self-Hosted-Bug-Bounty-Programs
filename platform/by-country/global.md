@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-600 programs.
+603 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -208,6 +208,7 @@
 | `geckoboard.com` | [policy](https://support.geckoboard.com/en/articles/6055718-report-a-security-vulnerability-and-responsible-disclosure-policies) | monetary | — | retired |
 | `geico.com` | — | — | — | active |
 | `gene.com` | [policy](https://hackerone.com/roche?view_policy=true) | — | — | active |
+| `generatepress.com` | [policy](https://generatepress.com/security/) | recognition | yes | active |
 | `genius.com` | [policy](https://bugcrowd.com/engagements/Genius-VDP) | — | — | retired |
 | `getpostman.com` | [policy](https://www.postman.com/security/vulnerability-reporting/) | monetary | — | active |
 | `getyourguide.com` | [policy](https://www.getyourguide.com/security) | monetary | — | retired |
@@ -336,6 +337,7 @@
 | `mongodb.org` | — | recognition | — | retired |
 | `monzo.com` | [policy](https://app.intigriti.com/company/programs/monzobank/monzopublicbugbountyprogram/detail) | monetary | — | active |
 | `moonpay.com` | — | — | — | active |
+| `mortons.com` | [policy](https://hackerone.com/fertitta_entertainment/__;!!P9vvK-4S!k4OXa2Y5beJxlkD0SgPSR9q2bUGYARLffhrZlhNZRhTus-7yk61IeDxnRaufmK0V8GQVvqvI09Tr4dxWeHU$) | recognition | — | active |
 | `motorauthority.com` | — | — | — | active |
 | `mtpelerin.com` | [policy](https://www.mtpelerin.com/responsible-disclosure-policy) | monetary | — | retired |
 | `murena.io` | [policy](https://hackerone.com/nextcloud) | — | — | active |
@@ -381,7 +383,7 @@
 | `opensea.io` | [policy](https://bugcrowd.com/opensea) | monetary | — | active |
 | `opera.com` | [policy](https://security.opera.com/policy/) | monetary | — | active |
 | `opm.gov` | [policy](https://www.opm.gov/vulnerability-disclosure-policy/) | monetary | yes | retired |
-| `ory.com` | [policy](https://www.ory.com/docs/security-compliance/security) | monetary | yes | active |
+| `ory.com` | [policy](https://www.ory.com/docs/ecosystem/security) | — | — | active |
 | `oshrc.gov` | [policy](https://www.oshrc.gov/vulnerability-disclosure-policy/) | — | — | retired |
 | `ourfabriq.com` | [policy](https://ourfabriq.com/responsible-disclosure-policy) | monetary | yes | retired |
 | `overture.com` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | active |
@@ -417,6 +419,7 @@
 | `r3.com` | [policy](https://hackerone.com/r3) | — | — | active |
 | `racingjunk.com` | — | — | — | retired |
 | `rakuten.net` | — | — | — | active |
+| `ralphs.com` | — | — | — | active |
 | `randstad.com` | [policy](https://www.randstad.com/report-a-security-problem/) | — | — | active |
 | `randstadusa.com` | [policy](https://www.randstad.com/report-a-security-problem/) | — | — | active |
 | `rapgenius.com` | [policy](https://bugcrowd.com/engagements/Genius-VDP) | — | — | retired |

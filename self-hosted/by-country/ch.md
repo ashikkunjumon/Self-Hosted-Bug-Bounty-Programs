@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-367 programs.
+371 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -19,6 +19,7 @@
 | `aqua-spa-resorts.ch` | — | — | — | active |
 | `aquaspa.ch` | — | — | — | active |
 | `arcinfo.ch` | — | — | — | active |
+| `argovia.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/compass-bug-bounty) | monetary | — | active |
 | `autoscout24.ch` | — | — | — | active |
 | `axa.ch` | — | — | — | active |
 | `baar.ch` | — | — | — | active |
@@ -193,6 +194,7 @@
 | `maschinenmarkt.ch` | — | — | — | expired |
 | `melectronics.ch` | — | — | — | active |
 | `meteotest.ch` | — | — | — | active |
+| `meyrin.ch` | — | — | — | active |
 | `michaelpage.ch` | — | — | — | expired |
 | `microspot.ch` | — | monetary | — | active |
 | `migrol.ch` | — | — | — | active |
@@ -259,6 +261,7 @@
 | `schiller.ch` | — | — | — | active |
 | `schuetzengarten.ch` | — | — | — | active |
 | `scip.ch` | [policy](https://www.scip.ch/?bugbounty) | monetary | — | active |
+| `scnat.ch` | — | — | — | active |
 | `search.ch` | — | monetary | — | active |
 | `securitas.ch` | [policy](https://www.swiss-securitas.com/en/report-vulnerability/) | — | — | active |
 | `securiton.ch` | — | — | — | active |
@@ -269,6 +272,7 @@
 | `sig-ge.ch` | — | — | — | expired |
 | `sihf.ch` | — | — | — | active |
 | `sion.ch` | — | — | — | active |
+| `siwf.ch` | — | — | — | active |
 | `sky.ch` | — | — | — | expired |
 | `slotcoordination.ch` | — | — | — | active |
 | `smgv.ch` | — | — | — | active |

@@ -482,7 +482,7 @@
 | `vanersborg.se` | — | — | — | active |
 | `vannas.se` | — | — | — | active |
 | `vansbro.se` | — | — | — | active |
-| `vara.se` | — | — | — | expired |
+| `vara.se` | — | recognition | — | expired |
 | `varberg.se` | — | — | — | active |
 | `vardforbundet.se` | — | — | — | active |
 | `vardhandboken.se` | — | — | — | active |

@@ -7,7 +7,7 @@
 | `auspost.com.au` | [policy](https://auspost.com.au/about-us/about-our-site/responsible-disclosure) | — | — | active |
 | `dopetech.au` | [policy](https://dopetech.au/trust/security.html) | monetary | yes | active |
 | `finder.com.au` | [policy](https://www.finder.com.au/vulnerability-disclosure-policy) | — | — | active |
-| `homeaffairs.gov.au` | [policy](https://www.homeaffairs.gov.au/about-us/our-portfolios/cyber-security/vulnerability-disclosure-program) | monetary | — | active |
+| `homeaffairs.gov.au` | [policy](https://www.homeaffairs.gov.au/about-us/our-portfolios/cyber-security/vulnerability-disclosure-program) | monetary | — | expired |
 | `lectrum.com.au` | [policy](https://www.lectrum.com.au/vulnerability-disclosure-policy) | — | yes | active |
 | `levoit.au` | [policy](https://levoit.au/pages/vesync-security?srsltid=AfmBOorapy4deguwCkYA0aIR6w8Fj7DZQ2-8zUo2ftY-Ydf5q6WQd6Iw) | monetary | yes | retired |
 | `memberhub.com.au` | [policy](https://www.memberhub.com.au/responsible_disclosure) | recognition | yes | active |

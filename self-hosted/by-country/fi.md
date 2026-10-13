@@ -31,7 +31,7 @@
 | `fennia.fi` | — | — | — | active |
 | `finavia.fi` | — | — | — | active |
 | `finhockey.fi` | — | — | — | active |
-| `finnkino.fi` | [policy](https://www.vista.co/responsible-disclosure-policy) | recognition | — | expired |
+| `finnkino.fi` | [policy](https://www.vista.co/responsible-disclosure-policy) | recognition | — | active |
 | `flashscore.fi` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `forex.fi` | — | — | — | active |
 | `fortum.fi` | — | recognition | — | active |

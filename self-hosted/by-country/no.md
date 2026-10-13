@@ -1,6 +1,6 @@
 # Self-hosted programs — NO
 
-226 programs.
+227 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -181,6 +181,7 @@
 | `siv.no` | [policy](https://www.sykehuspartner.no/siteassets/documents/sikkerhet---regionale-bruksvilkar/no-38---responsible-disclosure-policy-engelsk.pdf) | — | — | active |
 | `skatteetaten.no` | — | — | — | active |
 | `snl.no` | — | — | — | expired |
+| `sor.no` | — | — | — | active |
 | `sparebankennorge.no` | — | — | — | active |
 | `spillespill.no` | — | — | — | active |
 | `spreadshirt.no` | — | — | — | retired |

@@ -1,13 +1,13 @@
 # Self-hosted programs — BE
 
-240 programs.
+241 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `2dehands.be` | [policy](https://adevinta.com/security-vulnerability/) | recognition | yes | active |
 | `2ememain.be` | [policy](https://adevinta.com/security-vulnerability/) | recognition | yes | active |
 | `4gamers.be` | — | — | — | retired |
-| `8530cloud.be` | [policy](https://www.8530cloud.be/security-responsible-disclosure/) | monetary | — | active |
+| `8530cloud.be` | [policy](https://8530cloud.be/security-responsible-disclosure/) | — | — | active |
 | `aalter.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `aanbieders.be` | [policy](https://www.aanbieders.be/privacyverklaring) | — | — | active |
 | `aarschot.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
@@ -84,6 +84,7 @@
 | `galaxus.be` | [policy](https://www.galaxus.ch/security) | monetary | yes | active |
 | `geluksdriehoek.be` | [policy](https://geluksdriehoek.be/security-policy) | recognition | — | active |
 | `gembloux.be` | — | — | — | active |
+| `gemeentebkz.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `gemeentemol.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `gemeentepelt.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `gettyimages.be` | — | — | — | retired |

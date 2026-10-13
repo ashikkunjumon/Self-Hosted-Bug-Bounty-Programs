@@ -101,7 +101,7 @@
 | `dnb.nl` | [policy](https://www.dnb.nl/privacy-en-beveiliging/kwetsbaarheid-melden/) | — | yes | active |
 | `drentsmuseum.nl` | [policy](https://www.slash2.nl/responsible-disclosure-policy) | recognition | yes | active |
 | `duinrell.nl` | — | — | — | active |
-| `ede.nl` | [policy](https://www.ede.nl/over-de-site-en-privacyverklaring#c1009) | — | yes | active |
+| `ede.nl` | [policy](https://ede.nl/over-de-site-en-privacyverklaring#c1009) | — | yes | active |
 | `eenvandaag.nl` | [policy](https://www.avrotros.nl/responsible-disclosure~44/) | — | yes | expired |
 | `eerstekamer.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `eindhoven.nl` | — | — | — | active |

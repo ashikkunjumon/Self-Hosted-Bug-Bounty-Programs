@@ -1,6 +1,6 @@
 # Self-hosted programs — BR
 
-88 programs.
+89 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -34,6 +34,7 @@
 | `forumseguranca.org.br` | [policy](https://icc.gg/polvuln) | monetary | yes | active |
 | `freefiremania.com.br` | [policy](https://www.freefiremania.com.br/politica-de-privacidade.html) | — | — | retired |
 | `fundacaodorina.org.br` | — | — | — | active |
+| `geekhunter.com.br` | — | recognition | — | active |
 | `gettyimages.com.br` | — | — | — | retired |
 | `glassdoor.com.br` | [policy](https://help.glassdoor.com/s/article/Bug-Bounty-Program?language=en_US) | — | — | retired |
 | `governoeletronico.gov.br` | — | — | — | active |

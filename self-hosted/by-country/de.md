@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-439 programs.
+440 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@
 | `badische-zeitung.de` | — | — | — | active |
 | `bagso.de` | — | — | — | active |
 | `bahn.de` | — | — | — | active |
-| `bamf.de` | — | — | — | expired |
+| `bamf.de` | — | — | — | active |
 | `barmenia.de` | — | — | — | active |
 | `barmeniagothaer.de` | — | — | — | active |
 | `barmer.de` | — | — | — | active |
@@ -54,6 +54,7 @@
 | `boerse.de` | — | — | — | active |
 | `bosch.de` | [policy](https://psirt.bosch.com/bosch-responsible-disclosure-policy/) | recognition | — | active |
 | `brandenburg.de` | — | — | — | active |
+| `braunschweig.de` | — | — | — | active |
 | `braunschweiger-zeitung.de` | — | — | — | active |
 | `brunner.de` | [policy](https://www.brunner.de/cra-security) | — | — | active |
 | `bsi.de` | [policy](https://www.bsi.bund.de/DE/IT-Sicherheitsvorfall/IT-Schwachstellen/it-schwachstellen_node.html) | recognition | — | active |
@@ -125,7 +126,7 @@
 | `eventim.de` | — | — | — | active |
 | `expedia.de` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
 | `expert.de` | [policy](https://www.expert.de/service/contact/security) | — | — | active |
-| `fairexa.de` | [policy](https://www.fairexa.de/en/security/) | recognition | yes | active |
+| `fairexa.de` | [policy](https://www.fairexa.de/security/) | recognition | — | active |
 | `familie.de` | — | — | — | active |
 | `fau.de` | — | — | — | active |
 | `feg.de` | — | recognition | — | active |
@@ -307,7 +308,7 @@
 | `reddotmedia.de` | [policy](https://g.co/vrp) | — | — | active |
 | `redensarten-index.de` | — | — | — | retired |
 | `regensburg.de` | — | — | — | active |
-| `rekruter.de` | [policy](https://www.rekruter.de/impressum/datenschutz.lasso) | — | — | active |
+| `rekruter.de` | [policy](https://www.rekruter.de/impressum/datenschutz.lasso) | — | — | retired |
 | `reutlingen.de` | — | — | — | expired |
 | `rewe.de` | — | — | — | active |
 | `rhein-kreis-neuss.de` | — | — | — | active |

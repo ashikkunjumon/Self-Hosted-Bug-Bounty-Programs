@@ -1,6 +1,6 @@
 # Self-hosted programs — AT
 
-145 programs.
+147 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -11,7 +11,7 @@
 | `ankoe.at` | — | — | — | active |
 | `apg.at` | — | — | — | active |
 | `ara.at` | — | — | — | active |
-| `auva.at` | — | — | — | expired |
+| `auva.at` | — | — | — | active |
 | `axians.at` | — | — | — | active |
 | `bank99.at` | [policy](https://bank99.at/responsible-disclosure-policy) | — | — | active |
 | `basemap.at` | — | — | — | active |
@@ -48,6 +48,7 @@
 | `flatex.at` | [policy](https://www.flatexdegiro.com/security) | — | yes | active |
 | `flixbus.at` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |
 | `futureweb.at` | — | — | — | active |
+| `gaijin.at` | [policy](https://www.gaijin.at/en/vulnerability-disclosure-policy) | — | yes | active |
 | `galaxus.at` | [policy](https://www.galaxus.ch/security) | monetary | yes | active |
 | `gameswelt.at` | — | — | — | active |
 | `gesundheitskasse.at` | — | — | — | active |
@@ -74,6 +75,7 @@
 | `kletterzentrum-innsbruck.at` | — | — | — | active |
 | `kopp-verlag.at` | — | — | — | active |
 | `kreativwirtschaft.at` | — | — | — | active |
+| `kug.ac.at` | — | — | — | active |
 | `laendleimmo.at` | — | — | — | expired |
 | `latini.at` | — | — | — | active |
 | `lidl.at` | — | — | — | active |
