@@ -42,7 +42,7 @@
 | `junowealth.ai` | [policy](https://junowealth.ai/security) | recognition | yes | active |
 | `kavion.ai` | [policy](https://www.kavion.ai/responsible-disclosure-policy) | recognition | yes | retired |
 | `kayiq.ai` | [policy](https://kayiq.ai/security) | — | — | retired |
-| `kindo.ai` | [policy](https://kindo.ai/vulnerability-disclosure-program) | monetary | yes | expired |
+| `kindo.ai` | [policy](https://kindo.ai/vulnerability-disclosure-program) | monetary | yes | active |
 | `kontent.ai` | [policy](https://kontent.ai/vulnerability-disclosure-policy) | monetary | yes | active |
 | `l4is.ai` | [policy](https://l4is.ai/security) | monetary | yes | active |
 | `lvrg.ai` | [policy](https://tryleverage.ai/vdp) | — | yes | retired |

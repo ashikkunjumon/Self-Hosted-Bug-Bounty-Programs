@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-241 programs.
+244 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -33,6 +33,7 @@
 | `braine-lalleud.be` | — | — | — | active |
 | `braine-le-comte.be` | — | — | — | active |
 | `capterra.be` | — | — | — | active |
+| `carrefour.be` | [policy](https://carrefour.com/disclosure) | — | — | active |
 | `casinoking.be` | — | — | — | active |
 | `ccbrugge.be` | — | — | — | active |
 | `ccsint-niklaas.be` | — | — | — | active |
@@ -74,6 +75,7 @@
 | `fixpart.be` | — | — | — | active |
 | `flagey.be` | — | — | — | active |
 | `flandersexpo.be` | — | — | — | active |
+| `flemalle.be` | — | — | — | active |
 | `flixbus.be` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |
 | `florealgroup.be` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | active |
 | `fluvius.be` | [policy](https://www.fluvius.be/nl/privacybeleid) | monetary | — | active |
@@ -239,6 +241,7 @@
 | `weblounge.be` | [policy](https://www.weblounge.be/privacy/) | — | — | active |
 | `west-vlaanderen.be` | — | — | — | active |
 | `wetteren.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
+| `wingene.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `wintersport.be` | — | — | — | active |
 | `xerius.be` | — | — | — | active |
 | `zaventem.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |

@@ -17,7 +17,7 @@
 | `czo.gov.ua` | — | — | — | expired |
 | `deltahost.ua` | — | — | — | active |
 | `denovo.ua` | — | — | — | expired |
-| `diia.gov.ua` | — | — | — | active |
+| `diia.gov.ua` | — | — | — | retired |
 | `dpsu.gov.ua` | — | — | — | active |
 | `drv.gov.ua` | — | — | — | active |
 | `eridon.ua` | — | — | — | active |

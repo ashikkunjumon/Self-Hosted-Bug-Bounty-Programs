@@ -1,6 +1,6 @@
 # Self-hosted programs — DK
 
-149 programs.
+150 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -76,6 +76,7 @@
 | `idenyt.dk` | — | — | — | active |
 | `imusic.dk` | — | recognition | — | active |
 | `ing.dk` | — | — | — | active |
+| `ioi.dk` | — | — | — | active |
 | `isabellas.dk` | — | — | — | expired |
 | `jppol.dk` | — | — | — | active |
 | `jubii.dk` | — | — | — | active |

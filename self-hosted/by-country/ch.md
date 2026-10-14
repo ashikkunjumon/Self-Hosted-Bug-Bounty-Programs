@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-371 programs.
+372 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -227,6 +227,7 @@
 | `parking-luzern.ch` | — | recognition | — | active |
 | `parship.ch` | — | — | — | active |
 | `piratenpartei.ch` | — | — | — | active |
+| `plan-les-ouates.ch` | — | — | — | active |
 | `pmodwrc.ch` | — | — | — | expired |
 | `pomona.ch` | — | — | — | active |
 | `post.ch` | [policy](https://vdp.post.ch/p/Information-Security) | — | — | active |

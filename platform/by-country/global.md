@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-603 programs.
+605 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -386,6 +386,7 @@
 | `ory.com` | [policy](https://www.ory.com/docs/ecosystem/security) | — | — | active |
 | `oshrc.gov` | [policy](https://www.oshrc.gov/vulnerability-disclosure-policy/) | — | — | retired |
 | `ourfabriq.com` | [policy](https://ourfabriq.com/responsible-disclosure-policy) | monetary | yes | retired |
+| `outbrain.com` | [policy](https://www.outbrain.com/security/bug-bounty/) | monetary | yes | active |
 | `overture.com` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | active |
 | `ovh.com` | [policy](https://yeswehack.com/programs/ovh) | monetary | — | active |
 | `ovhcloud.com` | [policy](https://yeswehack.com/programs/ovh) | monetary | — | active |
@@ -502,6 +503,7 @@
 | `sysaid.com` | [policy](https://www.sysaid.com/responsible-disclosure) | — | — | retired |
 | `teamsnap.com` | [policy](https://www.teamsnap.com/responsible-disclosure-policy) | — | — | retired |
 | `teamviewer.com` | — | monetary | — | active |
+| `telekom.com` | [policy](https://www.telekom.com/bug-bounty-program) | monetary | — | active |
 | `telerik.com` | [policy](https://www.progress.com/security) | — | — | active |
 | `tenable.com` | [policy](https://www.tenable.com/security/report) | recognition | — | active |
 | `thebalance.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |

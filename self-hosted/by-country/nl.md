@@ -1,6 +1,6 @@
 # Self-hosted programs — NL
 
-371 programs.
+373 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -184,6 +184,7 @@
 | `knb.nl` | [policy](https://www.knb.nl/kwetsbaarheid-melden/) | — | yes | active |
 | `kngf.nl` | [policy](https://z-cert.nl/kwetsbaarheid-melden/) | — | — | active |
 | `knmp.nl` | — | — | — | active |
+| `koncon.nl` | — | — | — | active |
 | `koninklijkhuis.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `kpn.nl` | — | monetary | — | active |
 | `kro-ncrv.nl` | [policy](https://kro-ncrv.nl/kwetsbaarheid-website-melden) | recognition | yes | active |
@@ -313,6 +314,7 @@
 | `slo.nl` | — | — | — | active |
 | `somi.nl` | [policy](https://somi.nl/en/responsible-disclosure-policy) | — | — | retired |
 | `spar.nl` | — | — | — | expired |
+| `sron.nl` | — | — | — | active |
 | `staatsbosbeheer.nl` | — | — | — | active |
 | `staff.universiteitleiden.nl` | [policy](https://www.staff.universiteitleiden.nl/binaries/content/assets/ul2staff/ict/responsible-disclosure-eng.pdf) | monetary | — | active |
 | `stagemarkt.nl` | [policy](https://www.s-bb.nl/contact/responsible-disclosure-policy/) | monetary | — | retired |

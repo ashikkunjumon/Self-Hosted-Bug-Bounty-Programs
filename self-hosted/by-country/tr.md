@@ -1,6 +1,6 @@
 # Self-hosted programs — TR
 
-29 programs.
+30 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -12,6 +12,7 @@
 | `decathlon.com.tr` | [policy](https://vdp.decathlon.net) | — | — | active |
 | `elle.com.tr` | — | — | — | active |
 | `engoo.com.tr` | — | — | — | active |
+| `erdemhastahanesi.com.tr` | — | — | — | active |
 | `filmfestankara.org.tr` | — | — | — | active |
 | `flashscore.com.tr` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `flixbus.com.tr` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |

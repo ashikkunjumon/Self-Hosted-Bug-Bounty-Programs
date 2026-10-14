@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-440 programs.
+441 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -211,6 +211,7 @@
 | `iserv.de` | — | — | — | active |
 | `it-business.de` | — | — | — | expired |
 | `it-recht-kanzlei.de` | — | recognition | — | active |
+| `iu.de` | — | — | — | active |
 | `izzysoft.de` | — | — | — | active |
 | `jameda.de` | — | — | — | active |
 | `jochen-schweizer.de` | [policy](https://public-jsmd.s3.eu-central-1.amazonaws.com/Bug-Bounty-Policy-1.3.pdf) | monetary | — | active |
@@ -440,7 +441,7 @@
 | `wuerzburg.de` | — | — | — | active |
 | `wuppertal.de` | [policy](https://digital.wuppertal.de/medien_digitalisierung/10_ISMS_Stadt_Wuppertal_Richtlinie_zur_Offenlegung_von_Sicherheitsluecken_V2.0.pdf) | monetary | — | active |
 | `xing.de` | [policy](https://www.new-work.se/.well-known/rfc-2350.txt) | — | — | expired |
-| `zdf.de` | — | — | — | expired |
+| `zdf.de` | — | — | — | active |
 | `zdfheute.de` | — | — | — | active |
 | `zdh.de` | — | — | — | active |
 | `zentrale.de` | — | — | — | retired |

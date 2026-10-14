@@ -1,6 +1,6 @@
 # Self-hosted programs — PL
 
-171 programs.
+172 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -127,6 +127,7 @@
 | `prw.pl` | — | — | — | active |
 | `przegladsportowy.pl` | — | — | — | active |
 | `pudelek.pl` | — | — | — | active |
+| `pysznosci.pl` | — | — | — | active |
 | `radioram.pl` | — | — | — | active |
 | `radiowroclaw.pl` | — | — | — | active |
 | `ratujemyzwierzaki.pl` | — | — | — | active |

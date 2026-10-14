@@ -1,6 +1,6 @@
 # Platform-hosted programs — ES
 
-26 programs.
+27 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -20,6 +20,7 @@
 | `lexusauto.es` | — | monetary | — | expired |
 | `lookfantastic.es` | [policy](https://bugcrowd.com/engagements/hutgroup-public) | monetary | — | expired |
 | `momondo.es` | [policy](https://www.kayak.com/security/) | monetary | — | active |
+| `octopusenergy.es` | — | — | — | active |
 | `roche.es` | [policy](https://hackerone.com/roche?view_policy=true) | — | — | active |
 | `sixt.es` | [policy](https://bugcrowd.com/a22b9798-491e-4d3a-87f3-a69484e02a2f/external/report) | — | — | active |
 | `spartoo.es` | — | — | — | active |

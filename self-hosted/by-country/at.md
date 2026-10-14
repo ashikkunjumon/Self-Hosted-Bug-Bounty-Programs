@@ -80,7 +80,7 @@
 | `latini.at` | — | — | — | active |
 | `lidl.at` | — | — | — | active |
 | `linuxtage.at` | — | — | — | active |
-| `linzag.at` | — | — | — | expired |
+| `linzag.at` | — | — | — | active |
 | `lions.at` | — | — | — | active |
 | `lionshome.at` | — | — | — | retired |
 | `lknoe.at` | [policy](https://www.landesgesundheitsagentur.at/fileadmin/media_data/Dateien/NOELGA/rfc2350_noelga_v2.txt) | — | — | active |
