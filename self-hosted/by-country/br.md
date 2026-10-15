@@ -1,6 +1,6 @@
 # Self-hosted programs — BR
 
-89 programs.
+91 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -48,6 +48,7 @@
 | `itaipuparquetec.org.br` | — | — | — | active |
 | `jcconcursos.com.br` | — | — | — | expired |
 | `jusbrasil.com.br` | — | — | — | active |
+| `kiwify.com.br` | [policy](https://kiwify.com.br/politica-de-privacidade/) | — | — | active |
 | `livepass.com.br` | — | — | — | active |
 | `lojadocapita.com.br` | — | — | — | active |
 | `loreal-paris.com.br` | — | recognition | — | active |
@@ -92,4 +93,5 @@
 | `viajanet.com.br` | — | recognition | — | active |
 | `viva.com.br` | — | — | — | active |
 | `vlibras.gov.br` | — | — | — | active |
+| `w3c.br` | — | — | — | active |
 | `yampi.com.br` | — | recognition | — | active |

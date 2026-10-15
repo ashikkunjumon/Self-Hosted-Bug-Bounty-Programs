@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-353 programs.
+354 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@
 | `bellarose.cz` | — | — | — | active |
 | `bernard.cz` | — | — | — | active |
 | `bezpecnyinternet.cz` | — | — | — | active |
-| `biano.cz` | — | — | — | active |
+| `biano.cz` | — | — | — | retired |
 | `billboard.cz` | — | — | — | active |
 | `biskupstvi.cz` | — | — | — | active |
 | `blue-style.cz` | — | — | — | active |
@@ -128,7 +128,7 @@
 | `hrad.cz` | — | — | — | active |
 | `hras.cz` | — | — | — | active |
 | `hwkitchen.cz` | — | — | — | active |
-| `hypotecnibanka.cz` | — | — | — | retired |
+| `hypotecnibanka.cz` | — | — | — | active |
 | `ifortuna.cz` | — | monetary | — | active |
 | `iir.cz` | — | — | — | active |
 | `imago.cz` | [policy](http://www.imago.cz/kontakt) | swag | — | active |
@@ -238,6 +238,7 @@
 | `paladix.cz` | — | — | — | active |
 | `pamatkovykatalog.cz` | — | — | — | retired |
 | `patria.cz` | — | — | — | active |
+| `penzion.cz` | — | — | — | active |
 | `petcenter.cz` | — | — | — | active |
 | `phoca.cz` | [policy](https://github.com/PhocaCz/PhocaCz/blob/main/SECURITY.md) | — | — | active |
 | `pilulka.cz` | — | — | — | active |

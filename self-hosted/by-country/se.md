@@ -148,7 +148,7 @@
 | `hallakonsument.se` | — | — | — | expired |
 | `hallstahammar.se` | — | — | — | active |
 | `halmstad.se` | — | — | — | active |
-| `handelsbanken.se` | — | — | — | expired |
+| `handelsbanken.se` | — | — | — | active |
 | `haninge.se` | — | — | — | active |
 | `haparanda.se` | — | — | — | active |
 | `harnosand.se` | — | — | — | active |

@@ -29,9 +29,9 @@
 | `michaelpage.co.in` | — | — | — | expired |
 | `mirchi.in` | [policy](https://timesinternet.in/responsible-disclosure/policy.html) | — | yes | active |
 | `nadiazillaparishad.in` | — | — | — | active |
-| `newaymsw.in` | [policy](https://www.agitex.africa.com/chinh-sach-bao-mat/) | — | — | active |
+| `newaymsw.in` | [policy](https://www.agitex.africa.com/chinh-sach-bao-mat/) | — | — | retired |
 | `onnetsolution.in` | — | — | — | active |
-| `restopos.in` | [policy](https://www.restopos.in/pages/security.html) | recognition | yes | active |
+| `restopos.in` | [policy](https://www.restopos.in/pages/security.html) | recognition | yes | retired |
 | `saralya.in` | [policy](https://saralya.in/security) | recognition | yes | active |
 | `starplaza.in` | [policy](https://starplaza.in/pages/responsible-disclosure) | monetary | — | retired |
 | `symbiont.in` | [policy](https://moodledev.io/general/development/process/security) | monetary | — | retired |

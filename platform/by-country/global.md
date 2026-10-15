@@ -1,10 +1,11 @@
 # Platform-hosted programs — GLOBAL
 
-605 programs.
+607 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `0xprial.com` | [policy](https://0xprial.com/how-to-get-into-bug-bounties-part-01/) | monetary | — | retired |
+| `1inch.io` | [policy](https://hackenproof.com/programs/1inch-smart-contract) | monetary | — | active |
 | `1password.com` | — | monetary | — | active |
 | `60.122` | [policy](http://183.204.60.122:10081/ZF/jitsi-meet/src/commit/600af629451d5e836528b38d5ce5a879deb28708/SECURITY.md) | — | — | active |
 | `aacounty.org` | [policy](https://www.aacounty.org/oit/vulnerability-disclosure-program) | monetary | — | retired |
@@ -103,11 +104,11 @@
 | `claude.com` | [policy](https://support.claude.com/en/articles/12119250-model-safety-bug-bounty-program) | monetary | — | retired |
 | `clearme.com` | — | — | — | active |
 | `cloudflare.com` | [policy](https://www.cloudflare.com/disclosure/) | — | — | active |
-| `cloudsek.com` | [policy](https://www.cloudsek.com/knowledge-base/best-bug-bounty-platforms) | monetary | yes | active |
+| `cloudsek.com` | [policy](https://www.cloudsek.com/knowledge-base/best-bug-bounty-platforms) | monetary | yes | retired |
 | `cloudways.com` | [policy](https://app.intigriti.com/programs/digitalocean/cloudways) | monetary | — | retired |
 | `cm.com` | [policy](https://www.cm.com/responsible-disclosure-policy/) | monetary | — | active |
 | `cms.gov` | [policy](https://www.cms.gov/about-cms/information-systems/privacy/vulnerability-disclosure-policy) | monetary | — | retired |
-| `cmx1.com` | [policy](https://conveyor.cmx1.com/) | — | — | active |
+| `cmx1.com` | [policy](https://conveyor.cmx1.com/) | — | — | retired |
 | `coda.io` | [policy](https://hackerone.com/coda_bbp?view_policy=true) | — | — | expired |
 | `coinbase.com` | — | — | — | expired |
 | `coinmate.io` | [policy](https://hackerone.com/coinmate#user-content-vulnerability-disclosure-policy) | — | — | active |
@@ -165,7 +166,7 @@
 | `emedicine.com` | — | — | — | active |
 | `emedicinehealth.com` | — | — | — | active |
 | `en.outscale.com` | [policy](https://en.outscale.com/reporting-vulnerabilities/) | monetary | — | retired |
-| `ens.domains` | [policy](https://docs.ens.domains/bugs/) | monetary | — | active |
+| `ens.domains` | [policy](https://docs.ens.domains/bugs/) | monetary | — | retired |
 | `epa.gov` | [policy](https://www.epa.gov/privacy/vulnerability-disclosure-policy) | monetary | — | retired |
 | `epicgames.com` | [policy](https://hackerone.com/epicgames) | — | — | active |
 | `etsy.com` | [policy](https://bugcrowd.com/etsy) | monetary | — | active |
@@ -314,7 +315,7 @@
 | `lyft.com` | [policy](https://www.lyft.com/security) | monetary | — | retired |
 | `magiceden.io` | — | recognition | — | retired |
 | `mariadb.org` | [policy](https://mariadb.org/about/security-policy/) | — | — | active |
-| `marinade.finance` | [policy](https://docs.marinade.finance/developers/bug-bounty) | monetary | — | active |
+| `marinade.finance` | [policy](https://docs.marinade.finance/developers/bug-bounty) | monetary | — | retired |
 | `marthastewart.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `martindale.com` | — | — | — | retired |
 | `mckesson.com` | [policy](https://www.mckesson.com/cybersecurity/coordinated-vulnerability-disclosure/) | monetary | — | active |
@@ -386,7 +387,6 @@
 | `ory.com` | [policy](https://www.ory.com/docs/ecosystem/security) | — | — | active |
 | `oshrc.gov` | [policy](https://www.oshrc.gov/vulnerability-disclosure-policy/) | — | — | retired |
 | `ourfabriq.com` | [policy](https://ourfabriq.com/responsible-disclosure-policy) | monetary | yes | retired |
-| `outbrain.com` | [policy](https://www.outbrain.com/security/bug-bounty/) | monetary | yes | active |
 | `overture.com` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | active |
 | `ovh.com` | [policy](https://yeswehack.com/programs/ovh) | monetary | — | active |
 | `ovhcloud.com` | [policy](https://yeswehack.com/programs/ovh) | monetary | — | active |
@@ -445,6 +445,7 @@
 | `rockstargames.com` | [policy](https://hackerone.com/rockstargames?type=team) | — | — | expired |
 | `rohde-schwarz.com` | — | — | — | active |
 | `rolls-roycemotorcars.com` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
+| `rubyonrails.org` | [policy](https://rubyonrails.org/security) | swag | — | active |
 | `rxlist.com` | — | — | — | active |
 | `safedrivingforlife.info` | [policy](https://www.gov.uk/guidance/report-a-vulnerability-on-a-dvsa-system) | — | — | expired |
 | `sailpoint.com` | [policy](https://www.sailpoint.com/legal/security) | monetary | — | retired |
@@ -482,6 +483,7 @@
 | `southernliving.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `speedtest.net` | [policy](https://security.ookla.com) | — | — | active |
 | `speedtestcustom.com` | [policy](https://security.ookla.com) | — | — | active |
+| `splitcoaststampers.com` | — | — | — | active |
 | `springernature.com` | [policy](https://www.springernature.com/gp/info/disclosure) | recognition | — | retired |
 | `stake.com` | — | — | — | expired |
 | `standoff365.com` | [policy](https://standoff365.com/en-US/articles/bug-bounty-platform-analytics-2022/) | monetary | — | retired |
@@ -523,7 +525,7 @@
 | `tomtom.com` | [policy](https://www.tomtom.com/responsible-disclosure/) | — | — | retired |
 | `toyota.com` | [policy](https://hackerone.com/toyota) | — | — | active |
 | `transferwise.com` | [policy](https://bugcrowd.com/engagements/wise) | monetary | — | expired |
-| `transientlabs.xyz` | [policy](https://docs.transientlabs.xyz/miscellaneous/bug-bounty-program) | monetary | — | active |
+| `transientlabs.xyz` | [policy](https://docs.transientlabs.xyz/miscellaneous/bug-bounty-program) | monetary | — | retired |
 | `travelandleisure.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `travelperk.com` | [policy](https://app.intigriti.com/company/programs/travelperk/travelperk/detail) | monetary | — | expired |
 | `treasury.gov` | [policy](https://home.treasury.gov/vulnerability-disclosure-policy) | monetary | — | active |

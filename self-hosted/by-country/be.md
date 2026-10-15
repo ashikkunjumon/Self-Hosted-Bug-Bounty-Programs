@@ -102,7 +102,7 @@
 | `hgr-css.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `holidaysuites.be` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | active |
 | `hollandandbarrett.be` | [policy](https://vdp.hollandandbarrett.com/) | — | — | active |
-| `hoogewijs.be` | [policy](https://www.hoogewijs.be/en/responsibledisclosure/) | — | — | active |
+| `hoogewijs.be` | [policy](https://www.hoogewijs.be/en/responsibledisclosure/) | — | — | retired |
 | `hoogstraten.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `hotwin.be` | — | — | — | active |
 | `houthalen-helchteren.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |

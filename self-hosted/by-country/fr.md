@@ -1,6 +1,6 @@
 # Self-hosted programs — FR
 
-160 programs.
+161 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -164,3 +164,4 @@
 | `wanadoo.fr` | — | — | — | active |
 | `webador.fr` | — | — | — | active |
 | `yandex.fr` | [policy](https://ya.cc/t/1cSZixjB3gkSva) | monetary | — | active |
+| `youtube.fr` | [policy](https://g.co/vrp) | — | — | active |

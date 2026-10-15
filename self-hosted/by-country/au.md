@@ -10,6 +10,6 @@
 | `homeaffairs.gov.au` | [policy](https://www.homeaffairs.gov.au/about-us/our-portfolios/cyber-security/vulnerability-disclosure-program) | monetary | — | expired |
 | `lectrum.com.au` | [policy](https://www.lectrum.com.au/vulnerability-disclosure-policy) | — | yes | active |
 | `levoit.au` | [policy](https://levoit.au/pages/vesync-security?srsltid=AfmBOorapy4deguwCkYA0aIR6w8Fj7DZQ2-8zUo2ftY-Ydf5q6WQd6Iw) | monetary | yes | retired |
-| `memberhub.com.au` | [policy](https://www.memberhub.com.au/responsible_disclosure) | recognition | yes | active |
-| `thecardnetwork.com.au` | [policy](https://thecardnetwork.com.au/pages/the-thanks-card?srsltid=AU7gw4WJMuohU2RfF_Fa6stbUzO9WL_9Q1A5CF2k8Fsx8Gs9UhIppiTl) | monetary | — | active |
+| `memberhub.com.au` | [policy](https://www.memberhub.com.au/responsible_disclosure) | recognition | yes | retired |
+| `thecardnetwork.com.au` | [policy](https://thecardnetwork.com.au/pages/the-thanks-card?srsltid=AU7gw4WJMuohU2RfF_Fa6stbUzO9WL_9Q1A5CF2k8Fsx8Gs9UhIppiTl) | monetary | — | retired |
 | `volkis.com.au` | [policy](https://www.volkis.com.au/vulnerability-disclosure/) | recognition | — | active |

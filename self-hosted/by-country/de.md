@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-441 programs.
+445 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -130,6 +130,7 @@
 | `familie.de` | — | — | — | active |
 | `fau.de` | — | — | — | active |
 | `feg.de` | — | recognition | — | active |
+| `fes.de` | — | — | — | active |
 | `fewo-direkt.de` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
 | `fh-aachen.de` | — | — | — | active |
 | `fh-dortmund.de` | — | — | — | active |
@@ -205,6 +206,7 @@
 | `iab.de` | — | — | — | retired |
 | `ihk.de` | — | — | — | active |
 | `immobilienscout24.de` | — | monetary | — | active |
+| `immowelt.de` | — | — | — | active |
 | `in-berlin.de` | — | — | — | active |
 | `ingolstadt.de` | [policy](https://www.ingolstadt.de/Schwachstelle-melden) | monetary | yes | active |
 | `ionos.de` | [policy](https://www.ionos.com/it-security) | — | — | active |
@@ -333,6 +335,7 @@
 | `security-insider.de` | — | — | — | expired |
 | `service-bw.de` | — | — | — | active |
 | `sevdesk.de` | — | — | — | active |
+| `siegener-zeitung.de` | — | — | — | active |
 | `sipgate.de` | — | — | — | active |
 | `sithcom.de` | [policy](https://github.com/go-gitea/gitea/blob/main/SECURITY.md) | recognition | — | active |
 | `slub-dresden.de` | — | — | — | active |
@@ -368,6 +371,7 @@
 | `thomann.de` | — | — | — | active |
 | `thueringer-allgemeine.de` | — | — | — | active |
 | `thws.de` | — | — | — | active |
+| `titanic-magazin.de` | — | — | — | active |
 | `tk.de` | — | — | — | active |
 | `tlz.de` | — | — | — | active |
 | `toom.de` | — | — | — | active |

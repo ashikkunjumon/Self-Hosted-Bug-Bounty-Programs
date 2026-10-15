@@ -13,7 +13,7 @@
 | `astik.sk` | — | — | — | active |
 | `autode.sk` | — | — | — | active |
 | `bart.sk` | — | — | — | active |
-| `biano.sk` | — | — | — | active |
+| `biano.sk` | — | — | — | retired |
 | `biznisweb.sk` | — | — | — | active |
 | `bux.sk` | — | — | — | active |
 | `csfd.sk` | [policy](https://www.csfd.cz/vyvojari/) | — | — | active |

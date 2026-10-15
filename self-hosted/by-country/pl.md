@@ -1,6 +1,6 @@
 # Self-hosted programs — PL
 
-172 programs.
+173 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -41,6 +41,7 @@
 | `expressbydgoski.pl` | — | — | — | expired |
 | `expressilustrowany.pl` | — | — | — | expired |
 | `ezebra.pl` | — | — | — | active |
+| `fizjoterapiabecher.pl` | — | — | — | active |
 | `flashscore.pl` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `flixbus.pl` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |
 | `forbes.pl` | — | — | — | active |

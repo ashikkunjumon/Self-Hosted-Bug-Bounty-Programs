@@ -1,6 +1,6 @@
 # Self-hosted programs — NL
 
-373 programs.
+374 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -243,7 +243,7 @@
 | `notaris.nl` | [policy](https://www.notaris.nl/page/beveiliging-niet-in-orde-meld-het-ons) | recognition | yes | active |
 | `npo.nl` | — | recognition | — | active |
 | `ns.nl` | [policy](https://ocp.ns.nl/caas/v1/media/stable/24134/data/statement-responsible-disclosure-engels.pdf) | monetary | — | active |
-| `ntvg.nl` | [policy](https://www.ntvg.nl/disclaimer) | — | yes | active |
+| `ntvg.nl` | [policy](https://www.ntvg.nl/disclaimer) | — | yes | expired |
 | `nuffic.nl` | [policy](https://www.nuffic.nl/over-nuffic/contact/kwetsbaarheid-melden) | — | yes | active |
 | `nvb.nl` | — | — | — | active |
 | `nvwa.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
@@ -336,6 +336,7 @@
 | `tue.nl` | [policy](https://assets.w3.tue.nl/w/fileadmin/content/universiteit/diensten/IMS/RFC2350_1.10.pdf) | monetary | — | active |
 | `tweedekamer.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `umcutrecht.nl` | [policy](https://z-cert.nl/cvd-melden/) | recognition | — | active |
+| `unesco.nl` | — | — | — | active |
 | `unive.nl` | [policy](https://www.unive.nl/kwetsbaarheid-melden) | — | yes | active |
 | `utwente.nl` | [policy](https://www.utwente.nl/en/cyber-safety/responsible/) | monetary | — | active |
 | `uu.nl` | [policy](https://www.uu.nl/en/node/1599/responsible-disclosure) | recognition | — | active |

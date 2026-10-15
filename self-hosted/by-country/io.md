@@ -11,14 +11,14 @@
 | `axoniq.io` | [policy](https://www.axoniq.io/legal/responsible-disclosure-disclaimer) | recognition | yes | retired |
 | `bluecanvas.io` | [policy](https://bluecanvas.io/report-vulnerability) | recognition | yes | retired |
 | `brakepoint.io` | [policy](https://www.brakepoint.io/en/security/) | swag | yes | active |
-| `brimble.io` | [policy](https://www.brimble.io/legal/security) | monetary | yes | active |
+| `brimble.io` | [policy](https://www.brimble.io/legal/security) | monetary | yes | retired |
 | `buildpulse.io` | [policy](https://buildpulse.io/security) | — | — | active |
 | `captainfact.io` | [policy](https://captainfact.io/help/bug_report) | — | — | retired |
 | `chameleon.io` | [policy](https://www.chameleon.io/disclosure) | monetary | yes | retired |
 | `clazar.io` | [policy](https://clazar.io/vulnerability-disclosure-policy) | recognition | yes | retired |
 | `cloudfiles.io` | [policy](https://www.cloudfiles.io/responsible-disclosure) | — | — | active |
 | `clubhouse.io` | [policy](https://www.shortcut.com/disclosure/) | recognition | — | retired |
-| `cncf.io` | [policy](https://contribute.cncf.io/security/) | swag | — | active |
+| `cncf.io` | [policy](https://contribute.cncf.io/security/) | swag | — | retired |
 | `customer.io` | [policy](https://customer.io/legal/reporting-vulnerability) | swag | — | retired |
 | `d-card.io` | [policy](https://d-card.io/security) | — | — | active |
 | `disclose.io` | [policy](https://disclose.io/security/) | recognition | yes | active |
@@ -40,7 +40,7 @@
 | `isomate.io` | [policy](https://isomate.io/en/security-hall-of-fame-2/) | monetary | yes | retired |
 | `kpa.io` | [policy](https://hs.kpa.io/responsible-disclosure-policy) | monetary | yes | retired |
 | `leantime.io` | [policy](https://leantime.io/responsible-disclosure-policy/) | — | — | retired |
-| `ledgerguard.io` | [policy](https://ledgerguard.io/security) | — | — | active |
+| `ledgerguard.io` | [policy](https://ledgerguard.io/security) | — | — | retired |
 | `lisk.io` | [policy](https://lisk.com/legal/privacy/) | monetary | yes | active |
 | `mlaify.io` | [policy](https://mlaify.io/security/) | — | yes | active |
 | `multihub.io` | [policy](https://www.multihub.io/security) | monetary | — | retired |

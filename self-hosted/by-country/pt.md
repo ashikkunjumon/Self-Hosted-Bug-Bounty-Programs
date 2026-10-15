@@ -9,7 +9,7 @@
 | `apambiente.pt` | — | — | — | expired |
 | `arditi.pt` | — | — | — | active |
 | `bosch.pt` | [policy](https://psirt.bosch.com/bosch-responsible-disclosure-policy/) | recognition | — | active |
-| `cm-portimao.pt` | — | — | — | active |
+| `cm-portimao.pt` | — | — | — | expired |
 | `decathlon.pt` | [policy](https://vdp.decathlon.net) | — | — | active |
 | `dges.gov.pt` | — | — | — | active |
 | `flashscore.pt` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |

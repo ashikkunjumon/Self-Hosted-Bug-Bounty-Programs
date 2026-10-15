@@ -6,11 +6,11 @@
 |---|---|---|---|---|
 | `19pine.ai` | [policy](https://www.19pine.ai/security) | swag | yes | active |
 | `abundera.ai` | [policy](https://abundera.ai/security) | recognition | yes | active |
-| `amber.ai` | [policy](https://www.amber.ai/legal/security) | — | — | active |
-| `audienceconnect.ai` | [policy](https://audienceconnect.ai/security/) | — | — | active |
+| `amber.ai` | [policy](https://www.amber.ai/legal/security) | — | — | retired |
+| `audienceconnect.ai` | [policy](https://audienceconnect.ai/security/) | — | — | retired |
 | `aurasell.ai` | [policy](https://www.aurasell.ai/bug-bounty) | monetary | — | retired |
 | `aurexara.ai` | [policy](https://www.aurexara.ai/security) | — | — | retired |
-| `automedha.ai` | [policy](https://automedha.ai/security/) | — | — | active |
+| `automedha.ai` | [policy](https://automedha.ai/security/) | — | — | retired |
 | `bankerly.ai` | [policy](https://bankerly.ai/security) | — | yes | retired |
 | `bogart.ai` | [policy](https://bogart.ai/vulnerability-disclosure-policy/) | — | — | retired |
 | `burna.ai` | [policy](https://burna.ai/responsible-disclosure) | monetary | yes | active |
@@ -22,7 +22,7 @@
 | `devin.ai` | [policy](https://docs.devin.ai/desktop/security/reporting) | — | yes | retired |
 | `easyaudit.ai` | [policy](https://easyaudit.ai/responsible-disclosure) | — | yes | active |
 | `eightfold.ai` | [policy](https://eightfold.ai/vulnerability-disclosure-program/) | — | yes | retired |
-| `epistemic.ai` | [policy](https://epistemic.ai/trust.html) | — | — | active |
+| `epistemic.ai` | [policy](https://epistemic.ai/trust.html) | — | — | retired |
 | `euredas.ai` | [policy](https://www.euredas.ai/security#disclosure) | monetary | yes | active |
 | `evolvingedge.ai` | [policy](https://www.evolvingedge.ai/security/#disclosure) | — | — | active |
 | `fetchfido.ai` | [policy](https://fetchfido.ai/security/) | — | — | retired |
@@ -32,7 +32,7 @@
 | `galileo.ai` | [policy](https://galileo.ai/responsible-disclosure-program) | — | yes | retired |
 | `global.ai` | [policy](https://global.ai/de/sicherheit/) | — | — | retired |
 | `groupize.ai` | [policy](https://groupize.ai/bug-bounty-program/) | monetary | — | retired |
-| `hackzero.ai` | [policy](https://hackzero.ai/legal/security) | recognition | yes | active |
+| `hackzero.ai` | [policy](https://complianceeverywhere.com/legal/security) | recognition | yes | active |
 | `incidentfox.ai` | [policy](https://www.incidentfox.ai/vulnerability.html) | — | yes | retired |
 | `indykite.ai` | [policy](https://indykite.com/responsible-disclosure-policy/) | swag | yes | active |
 | `inqura.ai` | [policy](https://inqura.ai/security) | recognition | yes | retired |

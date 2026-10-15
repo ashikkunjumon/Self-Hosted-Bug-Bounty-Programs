@@ -1,6 +1,6 @@
 # Self-hosted programs — AT
 
-147 programs.
+148 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -57,6 +57,7 @@
 | `gmx.at` | [policy](https://bugbounty.gmx.net) | monetary | — | active |
 | `gurkerl.at` | — | — | — | active |
 | `hagebau.at` | — | — | — | active |
+| `hargassner.at` | [policy](https://www.hargassner.com/at-de/agb/) | — | — | active |
 | `henkel.at` | — | — | — | active |
 | `heute.at` | — | — | — | active |
 | `hornbach.at` | — | — | — | active |

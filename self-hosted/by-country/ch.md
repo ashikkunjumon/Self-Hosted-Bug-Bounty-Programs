@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-372 programs.
+373 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -226,6 +226,7 @@
 | `ow.ch` | — | — | — | active |
 | `parking-luzern.ch` | — | recognition | — | active |
 | `parship.ch` | — | — | — | active |
+| `perfactive.ch` | — | — | — | active |
 | `piratenpartei.ch` | — | — | — | active |
 | `plan-les-ouates.ch` | — | — | — | active |
 | `pmodwrc.ch` | — | — | — | expired |
