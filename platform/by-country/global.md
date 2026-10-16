@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-607 programs.
+608 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@
 | `agriculture.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `aikido.dev` | [policy](https://app.intigriti.com/programs/aikido/aikido/detail) | monetary | — | active |
 | `airbnb.com` | [policy](https://hackerone.com/airbnb#overview) | — | — | active |
-| `airbnb.io` | [policy](https://hackerone.com/airbnb#overview) | — | — | active |
+| `airbnb.io` | [policy](https://hackerone.com/airbnb#overview) | — | — | retired |
 | `airtable.com` | [policy](https://hackerone.com/airtable) | — | — | active |
 | `aiven.io` | [policy](https://bugcrowd.com/aiven-mbb-og) | monetary | — | active |
 | `alfen.com` | [policy](https://alfen.com/en-at/privacy-and-security/responsible-disclosure-policy) | recognition | yes | retired |
@@ -84,6 +84,7 @@
 | `braze.com` | [policy](https://hackerone.com/braze_inc) | — | — | active |
 | `brides.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `brightcove.com` | [policy](https://trust.brightcove.com/) | — | — | retired |
+| `brighthorizons.com` | [policy](https://www.brighthorizons.com/about/privacy-security/vdp) | recognition | yes | active |
 | `bugbounty.prezi.com` | [policy](https://prezi.com/bug-bounty/) | monetary | — | retired |
 | `bugcrowd.com` | [policy](https://bugcrowd.com/bugcrowd) | monetary | — | active |
 | `bumble.com` | [policy](https://hackerone.com/bumble?view_policy) | — | — | active |

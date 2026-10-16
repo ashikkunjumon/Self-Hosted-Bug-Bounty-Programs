@@ -1,6 +1,6 @@
 # Self-hosted programs — DK
 
-150 programs.
+151 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -74,6 +74,7 @@
 | `htk.dk` | — | monetary | — | active |
 | `hvidovre.dk` | — | — | — | retired |
 | `idenyt.dk` | — | — | — | active |
+| `image.dk` | — | — | — | active |
 | `imusic.dk` | — | recognition | — | active |
 | `ing.dk` | — | — | — | active |
 | `ioi.dk` | — | — | — | active |

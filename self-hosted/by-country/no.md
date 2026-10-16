@@ -1,6 +1,6 @@
 # Self-hosted programs — NO
 
-227 programs.
+229 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -134,6 +134,7 @@
 | `neat.no` | [policy](https://support.neat.no/article/security-vulnerability-reporting-policy-at-neat/) | — | — | retired |
 | `nettskjema.no` | [policy](https://cert.uio.no/vulnerability-disclosure-policy.html) | monetary | — | active |
 | `newsweb.no` | [policy](https://www.oslobors.no/ob_eng/Oslo-Boers/About-Oslo-Boers/Responsible-Disclosure) | — | — | active |
+| `nhf.no` | — | — | — | active |
 | `nhn.no` | [policy](https://nhn.no/.well-known/vulnerability-disclosure.html) | recognition | — | active |
 | `nidarosdomen.no` | [policy](https://www.nidarosdomen.no/security-policy) | recognition | — | active |
 | `nille.no` | — | — | — | active |
@@ -211,6 +212,7 @@
 | `thon.no` | — | — | — | expired |
 | `thonhotels.no` | — | — | — | active |
 | `toll.no` | — | — | — | active |
+| `toshibavarmepumper.no` | — | — | — | active |
 | `trafikanten.no` | — | — | — | active |
 | `tripletex.no` | [policy](https://www.visma.com/trust-centre/responsible-disclosure) | swag | yes | active |
 | `tryg.no` | [policy](https://tryg.com/en/responsible-disclosure) | — | — | retired |

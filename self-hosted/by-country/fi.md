@@ -20,7 +20,7 @@
 | `coronaria.fi` | — | — | — | active |
 | `csc.fi` | [policy](https://csc.fi/en/security-privacy-data-policy-and-open-source-policy/) | — | — | active |
 | `curve.fi` | — | — | — | active |
-| `dna.fi` | — | — | — | retired |
+| `dna.fi` | — | — | — | active |
 | `dustin.fi` | — | — | — | active |
 | `ebookers.fi` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
 | `elenia.fi` | — | — | — | expired |

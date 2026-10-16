@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-373 programs.
+376 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -108,6 +108,7 @@
 | `freiburger-nachrichten.ch` | — | — | — | active |
 | `galaxus.ch` | [policy](https://www.galaxus.ch/security) | monetary | yes | active |
 | `gameswelt.ch` | — | — | — | active |
+| `gastrojournal.ch` | — | — | — | expired |
 | `gemeindedavos.ch` | — | — | — | active |
 | `gettyimages.ch` | — | — | — | retired |
 | `ghisler.ch` | — | recognition | — | active |
@@ -139,7 +140,7 @@
 | `hornbach.ch` | — | — | — | active |
 | `hostpoint.ch` | [policy](https://www.hostpoint.ch/bugbounty/) | monetary | — | active |
 | `hotelleriesuisse.ch` | — | — | — | active |
-| `hotelplan.ch` | — | — | — | active |
+| `hotelplan.ch` | — | — | — | expired |
 | `houzy.ch` | — | — | — | retired |
 | `hslu.ch` | — | — | — | active |
 | `i-web.ch` | [policy](https://github.com/swisscom/bugbounty) | monetary | yes | active |
@@ -198,7 +199,7 @@
 | `michaelpage.ch` | — | — | — | expired |
 | `microspot.ch` | — | monetary | — | active |
 | `migrol.ch` | — | — | — | active |
-| `migros-ferien.ch` | — | — | — | active |
+| `migros-ferien.ch` | — | — | — | expired |
 | `migros-kulturprozent-classics.ch` | — | — | — | active |
 | `migros-kulturprozent.ch` | — | — | — | active |
 | `migros.ch` | — | — | — | active |
@@ -212,6 +213,7 @@
 | `mycloud.ch` | [policy](https://github.com/swisscom/bugbounty) | monetary | yes | active |
 | `myvaud.ch` | — | — | — | active |
 | `nationalmuseum.ch` | — | — | — | active |
+| `naturalsciences.ch` | — | — | — | active |
 | `ne.ch` | — | recognition | — | active |
 | `nexplore.ch` | [policy](https://www.nexplore.ch/vulnerability-disclosure-policy) | — | — | expired |
 | `nic.ch` | [policy](https://www.switch.ch/security/SWITCH-CERT.txt) | — | — | active |
@@ -221,6 +223,7 @@
 | `olten.ch` | — | — | — | active |
 | `oneplus.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/compass-bug-bounty) | monetary | — | active |
 | `opfikon.ch` | — | — | — | active |
+| `orbe.ch` | — | — | — | active |
 | `outnow.ch` | — | — | — | expired |
 | `ovomaltine.ch` | — | — | — | expired |
 | `ow.ch` | — | — | — | active |
@@ -368,7 +371,7 @@
 | `wohlen.ch` | — | — | — | active |
 | `workzeitung.ch` | — | — | — | active |
 | `woz.ch` | — | — | — | active |
-| `wwz.ch` | [policy](https://github.com/wwz-ag/security-policy) | — | yes | active |
+| `wwz.ch` | [policy](https://github.com/wwz-ag/security-policy) | — | yes | retired |
 | `zellerag.ch` | — | — | — | active |
 | `zg.ch` | — | — | — | active |
 | `zhaw.ch` | — | — | — | expired |

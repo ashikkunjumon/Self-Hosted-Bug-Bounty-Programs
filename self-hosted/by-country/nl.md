@@ -1,6 +1,6 @@
 # Self-hosted programs — NL
 
-374 programs.
+375 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -20,14 +20,14 @@
 | `ajax.nl` | — | — | — | active |
 | `allesoversport.nl` | — | — | — | expired |
 | `allianzdirect.nl` | — | — | — | expired |
-| `almere.nl` | — | recognition | — | expired |
+| `almere.nl` | — | recognition | — | active |
 | `amc.nl` | [policy](https://www.amsterdamumc.org/en/responsible-disclosure.htm) | — | — | active |
 | `amersfoort.nl` | [policy](https://www.amersfoort.nl/over-deze-website) | — | — | active |
 | `amnesty.nl` | — | — | — | active |
-| `amstelveen.nl` | [policy](https://www.amstelveen.nl/bestuur-organisatie/publicatie/informatieveiligheid-en-privacy_coordinated-vulnerability-disclosure) | — | — | expired |
+| `amstelveen.nl` | [policy](https://www.amstelveen.nl/bestuur-organisatie/publicatie/informatieveiligheid-en-privacy_coordinated-vulnerability-disclosure) | — | — | active |
 | `amsterdamumc.nl` | [policy](https://www.amsterdamumc.org/en/responsible-disclosure.htm) | — | — | active |
-| `androidplanet.nl` | — | — | — | retired |
-| `androidworld.nl` | — | — | — | retired |
+| `androidplanet.nl` | — | — | — | active |
+| `androidworld.nl` | — | — | — | active |
 | `antagonist.nl` | [policy](https://www.antagonist.nl/security/) | — | yes | active |
 | `antenna.nl` | — | — | — | active |
 | `anthura.nl` | [policy](https://www.anthura.nl/en/cybersecurity/reporting-a-security-breach) | — | — | expired |
@@ -305,6 +305,7 @@
 | `s-hertogenbosch.nl` | [policy](https://www.s-hertogenbosch.nl/coordinated-vulnerability-disclosure) | recognition | yes | active |
 | `sanquin.nl` | [policy](https://www.z-cert.nl/kwetsbaarheid-melden) | — | — | expired |
 | `saxion.nl` | [policy](https://www.saxion.nl/over-saxion/organisatie/coordinated-vulnerability-disclosure) | recognition | yes | active |
+| `sc-heerenveen.nl` | — | — | — | active |
 | `schiphol.nl` | [policy](https://www.schiphol.nl/en/schiphol-group/responsible-disclosure-notification/) | recognition | — | active |
 | `schooltv.nl` | — | — | — | expired |
 | `scp.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |

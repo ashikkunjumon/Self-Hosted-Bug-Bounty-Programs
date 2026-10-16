@@ -14,4 +14,4 @@
 | `streetworkshub.co.uk` | [policy](https://streetworkshub.co.uk/security-policy/) | recognition | yes | retired |
 | `swiftrms.co.uk` | [policy](https://swiftrms.co.uk/security-policy) | recognition | yes | active |
 | `utonomy.co.uk` | [policy](https://utonomy.co.uk/cvd-policy/) | — | yes | active |
-| `york.ac.uk` | [policy](https://www.york.ac.uk/it-services/about/policies/vulnerability-disclosure/) | — | — | retired |
+| `york.ac.uk` | [policy](https://www.york.ac.uk/it-services/about/policies/vulnerability-disclosure/) | — | — | active |

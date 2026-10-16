@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-244 programs.
+246 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -118,6 +118,7 @@
 | `kaartdirect.be` | — | — | — | active |
 | `kaartje2go.be` | [policy](https://www.kaartje2go.be/responsible-disclosure) | monetary | yes | active |
 | `kaiserkraft.be` | — | — | — | active |
+| `kompascamping.be` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | active |
 | `kringwinkel.be` | — | — | — | expired |
 | `lanaken.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `lecot.be` | [policy](https://magento.com/security) | monetary | — | expired |
@@ -229,6 +230,7 @@
 | `vinted.be` | — | — | — | active |
 | `viroinval.be` | — | — | — | active |
 | `visitdehaan.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
+| `visitlommel.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `vistaprint.be` | — | — | — | active |
 | `vivaqua.be` | [policy](https://www.vivaqua.be/en/vulnerability-report) | — | — | active |
 | `vliz.be` | — | — | — | active |

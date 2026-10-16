@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-445 programs.
+450 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -10,6 +10,7 @@
 | `a7.de` | [policy](https://a7.de/wiki/security-txt/) | — | — | active |
 | `aachen.de` | — | — | — | active |
 | `abendblatt.de` | — | — | — | active |
+| `abgeordnetenwatch.de` | — | — | — | active |
 | `aboutyou.de` | — | monetary | — | retired |
 | `adesso.de` | — | — | — | active |
 | `adminforge.de` | — | — | — | active |
@@ -44,6 +45,7 @@
 | `bg-kliniken.de` | — | — | — | active |
 | `bht-berlin.de` | — | recognition | — | active |
 | `bibb.de` | — | — | — | expired |
+| `bigdata-insider.de` | — | — | — | expired |
 | `bike-components.de` | — | — | — | active |
 | `billiger-mietwagen.de` | — | — | — | active |
 | `bioenergie-bamberg.de` | [policy](https://g.co/vrp) | — | — | active |
@@ -124,6 +126,7 @@
 | `esslingen.de` | — | — | — | active |
 | `eventim-inhouse.de` | — | — | — | active |
 | `eventim.de` | — | — | — | active |
+| `eversports.de` | — | — | — | active |
 | `expedia.de` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
 | `expert.de` | [policy](https://www.expert.de/service/contact/security) | — | — | active |
 | `fairexa.de` | [policy](https://www.fairexa.de/security/) | recognition | — | active |
@@ -204,7 +207,7 @@
 | `hwk-muenchen.de` | — | — | — | active |
 | `hzdr.de` | — | — | — | active |
 | `iab.de` | — | — | — | retired |
-| `ihk.de` | — | — | — | active |
+| `ihk.de` | — | — | — | retired |
 | `immobilienscout24.de` | — | monetary | — | active |
 | `immowelt.de` | — | — | — | active |
 | `in-berlin.de` | — | — | — | active |
@@ -340,6 +343,7 @@
 | `sithcom.de` | [policy](https://github.com/go-gitea/gitea/blob/main/SECURITY.md) | recognition | — | active |
 | `slub-dresden.de` | — | — | — | active |
 | `sma.de` | [policy](https://www.sma.de/en/cybersecurity/responsible-disclosure) | — | — | active |
+| `snafu.de` | — | — | — | active |
 | `soscisurvey.de` | [policy](https://www.soscisurvey.de/en/security) | monetary | — | active |
 | `sparkasse.de` | [policy](https://www.s-communication.de/BugBounty.html) | monetary | — | active |
 | `spdfraktion.de` | — | — | — | retired |
@@ -390,8 +394,8 @@
 | `uni-augsburg.de` | [policy](https://www.uni-augsburg.de/datenschutz) | — | — | active |
 | `uni-bamberg.de` | — | — | — | active |
 | `uni-bonn.de` | — | — | — | active |
-| `uni-due.de` | — | recognition | — | retired |
-| `uni-duisburg-essen.de` | — | recognition | — | retired |
+| `uni-due.de` | — | recognition | — | active |
+| `uni-duisburg-essen.de` | — | recognition | — | active |
 | `uni-erlangen.de` | — | — | — | active |
 | `uni-frankfurt.de` | — | — | — | active |
 | `uni-freiburg.de` | — | — | — | active |
@@ -409,6 +413,7 @@
 | `uni-paderborn.de` | [policy](https://www.uni-paderborn.de/universitaet/informationssicherheit/informationssicherheitsvorfall) | — | — | active |
 | `uni-stuttgart.de` | — | — | — | active |
 | `uni-ulm.de` | — | — | — | active |
+| `uni-vechta.de` | — | — | — | active |
 | `uni-wuppertal.de` | — | recognition | — | active |
 | `unibw.de` | — | — | — | active |
 | `united-domains.de` | — | — | — | active |
@@ -445,7 +450,7 @@
 | `wuerzburg.de` | — | — | — | active |
 | `wuppertal.de` | [policy](https://digital.wuppertal.de/medien_digitalisierung/10_ISMS_Stadt_Wuppertal_Richtlinie_zur_Offenlegung_von_Sicherheitsluecken_V2.0.pdf) | monetary | — | active |
 | `xing.de` | [policy](https://www.new-work.se/.well-known/rfc-2350.txt) | — | — | expired |
-| `zdf.de` | — | — | — | active |
+| `zdf.de` | — | — | — | expired |
 | `zdfheute.de` | — | — | — | active |
 | `zdh.de` | — | — | — | active |
 | `zentrale.de` | — | — | — | retired |
