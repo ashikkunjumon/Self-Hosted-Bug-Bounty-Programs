@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-507 programs.
+508 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -458,7 +458,7 @@
 | `tomelilla.se` | — | — | — | active |
 | `torsby.se` | — | — | — | active |
 | `trafa.se` | — | — | — | expired |
-| `trafikverket.se` | — | — | — | active |
+| `trafikverket.se` | — | — | — | retired |
 | `tranastidning.se` | — | — | — | active |
 | `transportforetagen.se` | — | — | — | active |
 | `transportstyrelsen.se` | — | — | — | active |
@@ -508,6 +508,7 @@
 | `vr.se` | — | — | — | active |
 | `vti.se` | — | — | — | active |
 | `websupport.se` | [policy](https://www.websupport.sk/support/kb/nahlasenie-zranitelnosti/) | — | — | active |
+| `xenit.se` | [policy](https://xenit.se/vdp) | — | — | active |
 | `yrkeshogskolan.se` | — | — | — | active |
 | `ystad.se` | — | — | — | active |
 | `ystadsallehanda.se` | — | — | — | active |

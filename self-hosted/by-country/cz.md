@@ -18,7 +18,7 @@
 | `ambis.cz` | — | — | — | expired |
 | `amo.cz` | — | — | — | active |
 | `anifilm.cz` | — | — | — | expired |
-| `annonce.cz` | — | — | — | active |
+| `annonce.cz` | — | — | — | retired |
 | `anobudelip.cz` | — | — | — | active |
 | `arriva.cz` | — | — | — | active |
 | `atlaso.cz` | — | — | — | active |
@@ -181,7 +181,7 @@
 | `luxusnipradlo.cz` | — | — | — | active |
 | `luzanky.cz` | — | — | — | active |
 | `magieprirody.cz` | — | — | — | active |
-| `magistra.cz` | — | — | — | retired |
+| `magistra.cz` | — | — | — | active |
 | `makro.cz` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | active |
 | `maminka.cz` | — | — | — | active |
 | `manboxeo.cz` | — | — | — | active |

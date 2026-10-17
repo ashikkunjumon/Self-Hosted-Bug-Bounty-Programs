@@ -1,6 +1,6 @@
 # Self-hosted programs — PL
 
-173 programs.
+175 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -96,6 +96,7 @@
 | `motofakty.pl` | — | — | — | expired |
 | `muza.com.pl` | — | — | — | active |
 | `muzhp.pl` | — | — | — | active |
+| `najlepsibukmacherzy.pl` | — | — | — | active |
 | `nask.pl` | — | — | — | active |
 | `naszemiasto.pl` | — | — | — | expired |
 | `national-geographic.pl` | [policy](https://www.immediate.co.uk/security-disclosure-policy/) | — | — | retired |
@@ -150,6 +151,7 @@
 | `stronazdrowia.pl` | — | — | — | expired |
 | `superauto.pl` | — | — | — | active |
 | `swiatczytnikow.pl` | — | — | — | active |
+| `syskonf.pl` | — | — | — | active |
 | `tchibo.pl` | — | — | — | active |
 | `telemagazyn.pl` | — | — | — | expired |
 | `tim.pl` | — | — | — | active |

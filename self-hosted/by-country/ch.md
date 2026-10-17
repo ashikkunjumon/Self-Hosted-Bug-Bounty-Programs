@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-376 programs.
+377 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -48,6 +48,7 @@
 | `bvger.ch` | — | — | — | active |
 | `caravan24.ch` | — | — | — | active |
 | `caritas-regio.ch` | [policy](https://caritas-regio.ch/security-policy) | recognition | — | active |
+| `carouge.ch` | — | — | — | active |
 | `casinobern.ch` | — | — | — | active |
 | `casinolocarno.ch` | — | — | — | active |
 | `centrepatronal.ch` | — | — | — | active |

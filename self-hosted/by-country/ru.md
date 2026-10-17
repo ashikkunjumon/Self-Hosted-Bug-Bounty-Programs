@@ -1,6 +1,6 @@
 # Self-hosted programs — RU
 
-38 programs.
+40 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -9,6 +9,7 @@
 | `1september.ru` | — | — | — | expired |
 | `avito.ru` | [policy](https://bugbounty.bi.zone/companies/avito/main) | monetary | — | active |
 | `b17.ru` | — | recognition | — | active |
+| `baltika.ru` | — | — | — | active |
 | `beeline.ru` | — | — | — | active |
 | `bitrix24.ru` | — | — | — | active |
 | `bitrix24site.ru` | — | — | — | active |
@@ -27,6 +28,7 @@
 | `mos.ru` | — | — | — | expired |
 | `mykaliningradgid.ru` | — | — | — | active |
 | `newsvl.ru` | — | — | — | active |
+| `nstarikov.ru` | — | — | — | active |
 | `odnoklassniki.ru` | — | — | — | active |
 | `ok.ru` | — | — | — | active |
 | `ozon.ru` | — | monetary | — | active |

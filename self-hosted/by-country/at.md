@@ -85,7 +85,7 @@
 | `linzag.at` | — | — | — | active |
 | `lions.at` | — | — | — | active |
 | `lionshome.at` | — | — | — | retired |
-| `lknoe.at` | [policy](https://www.landesgesundheitsagentur.at/fileadmin/media_data/Dateien/NOELGA/rfc2350_noelga_v2.txt) | — | — | active |
+| `lknoe.at` | [policy](https://www.landesgesundheitsagentur.at/fileadmin/media_data/Dateien/NOELGA/rfc2350_noelga_v2.txt) | — | — | retired |
 | `lotterien.at` | [policy](https://www.lotterien.at/responsible-disclosure-1-1) | — | — | active |
 | `meindm.at` | — | — | — | active |
 | `metro.at` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | active |

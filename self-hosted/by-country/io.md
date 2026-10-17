@@ -1,6 +1,6 @@
 # Self-hosted programs — IO
 
-68 programs.
+67 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -41,7 +41,6 @@
 | `kpa.io` | [policy](https://hs.kpa.io/responsible-disclosure-policy) | monetary | yes | retired |
 | `leantime.io` | [policy](https://leantime.io/responsible-disclosure-policy/) | — | — | retired |
 | `ledgerguard.io` | [policy](https://ledgerguard.io/security) | — | — | retired |
-| `lisk.io` | [policy](https://lisk.com/legal/privacy/) | monetary | yes | active |
 | `mlaify.io` | [policy](https://mlaify.io/security/) | — | yes | active |
 | `multihub.io` | [policy](https://www.multihub.io/security) | monetary | — | retired |
 | `mydukaan.io` | [policy](https://mydukaan.io/bugbounty/) | monetary | — | retired |

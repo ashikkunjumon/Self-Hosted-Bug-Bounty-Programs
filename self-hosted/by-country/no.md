@@ -1,6 +1,6 @@
 # Self-hosted programs — NO
 
-229 programs.
+230 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@
 | `helse-vest.no` | — | — | — | active |
 | `helsenorge.no` | [policy](https://nhn.no/.well-known/vulnerability-disclosure.html) | recognition | — | active |
 | `hi.no` | — | — | — | active |
-| `historiskmuseum.no` | [policy](https://cert.uio.no/vulnerability-disclosure-policy.html) | monetary | — | active |
+| `historiskmuseum.no` | [policy](https://cert.uio.no/vulnerability-disclosure-policy.html) | monetary | — | retired |
 | `hnt.no` | — | — | — | active |
 | `ice.no` | — | — | — | retired |
 | `idag.no` | — | — | — | expired |
@@ -132,7 +132,7 @@
 | `nbim.no` | [policy](https://www.nbim.no/en/responsible-disclosure-policy/) | recognition | — | active |
 | `ndla.no` | — | — | — | active |
 | `neat.no` | [policy](https://support.neat.no/article/security-vulnerability-reporting-policy-at-neat/) | — | — | retired |
-| `nettskjema.no` | [policy](https://cert.uio.no/vulnerability-disclosure-policy.html) | monetary | — | active |
+| `nettskjema.no` | [policy](https://cert.uio.no/vulnerability-disclosure-policy.html) | monetary | — | retired |
 | `newsweb.no` | [policy](https://www.oslobors.no/ob_eng/Oslo-Boers/About-Oslo-Boers/Responsible-Disclosure) | — | — | active |
 | `nhf.no` | — | — | — | active |
 | `nhn.no` | [policy](https://nhn.no/.well-known/vulnerability-disclosure.html) | recognition | — | active |
@@ -144,7 +144,7 @@
 | `nordlandssykehuset.no` | — | — | — | active |
 | `nordnet.no` | [policy](https://www.nordnet.se/security-disclosure) | monetary | — | active |
 | `norges-bank.no` | — | — | — | active |
-| `norgeshistorie.no` | [policy](https://cert.uio.no/vulnerability-disclosure-policy.html) | monetary | — | active |
+| `norgeshistorie.no` | [policy](https://cert.uio.no/vulnerability-disclosure-policy.html) | monetary | — | retired |
 | `norgesnasjonalparker.no` | — | — | — | active |
 | `norid.no` | — | — | — | active |
 | `norsar.no` | — | — | — | active |
@@ -218,7 +218,7 @@
 | `tryg.no` | [policy](https://tryg.com/en/responsible-disclosure) | — | — | retired |
 | `tv2.no` | [policy](https://info.tv2.no/info/artikkel/responsible-disclosure-policy) | swag | yes | active |
 | `udi.no` | — | — | — | retired |
-| `uio.no` | [policy](https://cert.uio.no/vulnerability-disclosure-policy.html) | monetary | — | active |
+| `uio.no` | [policy](https://cert.uio.no/vulnerability-disclosure-policy.html) | monetary | — | retired |
 | `uninett.no` | [policy](https://www.sikt.no/security-policy) | recognition | yes | active |
 | `unit.no` | [policy](https://www.sikt.no/security-policy) | recognition | yes | active |
 | `unn.no` | — | — | — | active |
@@ -229,7 +229,8 @@
 | `vestreviken.no` | [policy](https://www.sykehuspartner.no/siteassets/documents/sikkerhet---regionale-bruksvilkar/no-38---responsible-disclosure-policy-engelsk.pdf) | — | — | active |
 | `vg.no` | [policy](https://www.schibsted.com/about/security-in-schibsted/schibsted-security-policy/) | — | — | active |
 | `viivilla.no` | — | — | — | active |
-| `vikingtidsmuseet.no` | [policy](https://cert.uio.no/vulnerability-disclosure-policy.html) | monetary | — | active |
+| `vikingtidsmuseet.no` | [policy](https://cert.uio.no/vulnerability-disclosure-policy.html) | monetary | — | retired |
 | `vipps.no` | [policy](https://vdp.vippsmobilepay.com) | — | — | active |
 | `vkm.no` | — | — | — | active |
+| `vy.no` | [policy](https://www.vy.no/vilkar-og-personvern/vulnerability-disclosure-policy) | — | yes | active |
 | `yr.no` | [policy](https://info.nrk.no/hjem/responsible-disclosure-policy/) | swag | yes | expired |

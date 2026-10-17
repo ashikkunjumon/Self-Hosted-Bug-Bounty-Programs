@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-450 programs.
+452 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -322,6 +322,7 @@
 | `rki.de` | — | — | — | active |
 | `rlp.de` | — | — | — | active |
 | `rmv.de` | — | — | — | active |
+| `rossmann.de` | — | — | — | active |
 | `rub.de` | — | — | — | active |
 | `ruhr-uni-bochum.de` | — | — | — | active |
 | `ruhrnachrichten.de` | — | — | — | active |
@@ -435,6 +436,7 @@
 | `waiblingen.de` | — | — | — | expired |
 | `wallstein-verlag.de` | — | — | — | active |
 | `waltrop.de` | — | — | — | active |
+| `waz-online.de` | — | — | — | active |
 | `waz.de` | — | — | — | active |
 | `web.de` | [policy](https://bugbounty.web.de) | monetary | — | active |
 | `webador.de` | — | — | — | active |
@@ -450,7 +452,7 @@
 | `wuerzburg.de` | — | — | — | active |
 | `wuppertal.de` | [policy](https://digital.wuppertal.de/medien_digitalisierung/10_ISMS_Stadt_Wuppertal_Richtlinie_zur_Offenlegung_von_Sicherheitsluecken_V2.0.pdf) | monetary | — | active |
 | `xing.de` | [policy](https://www.new-work.se/.well-known/rfc-2350.txt) | — | — | expired |
-| `zdf.de` | — | — | — | expired |
+| `zdf.de` | — | — | — | active |
 | `zdfheute.de` | — | — | — | active |
 | `zdh.de` | — | — | — | active |
 | `zentrale.de` | — | — | — | retired |

@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-608 programs.
+610 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@
 | `agriculture.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `aikido.dev` | [policy](https://app.intigriti.com/programs/aikido/aikido/detail) | monetary | — | active |
 | `airbnb.com` | [policy](https://hackerone.com/airbnb#overview) | — | — | active |
-| `airbnb.io` | [policy](https://hackerone.com/airbnb#overview) | — | — | retired |
+| `airbnb.io` | [policy](https://hackerone.com/airbnb#overview) | — | — | active |
 | `airtable.com` | [policy](https://hackerone.com/airtable) | — | — | active |
 | `aiven.io` | [policy](https://bugcrowd.com/aiven-mbb-og) | monetary | — | active |
 | `alfen.com` | [policy](https://alfen.com/en-at/privacy-and-security/responsible-disclosure-policy) | recognition | yes | retired |
@@ -31,8 +31,8 @@
 | `allrecipes.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `alphabet.com` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
 | `amazon.com` | [policy](https://hackerone.com/amazonvrp) | — | — | active |
-| `amazonaws.com` | [policy](https://vdp.aws.security/) | — | — | expired |
-| `amazonwebservices.com` | [policy](https://vdp.aws.security/) | — | — | expired |
+| `amazonaws.com` | [policy](https://vdp.aws.security/) | — | — | active |
+| `amazonwebservices.com` | [policy](https://vdp.aws.security/) | — | — | active |
 | `amplitude.com` | [policy](https://amplitude.com/docs/faq/security-and-privacy) | monetary | — | active |
 | `amsterdamuas.com` | [policy](https://www.amsterdamuas.com/practical-matters/coordinated-vulnerability-disclosure) | monetary | — | retired |
 | `amzn.com` | [policy](https://hackerone.com/amazonvrp) | — | — | active |
@@ -53,8 +53,8 @@
 | `aveva.com` | — | — | — | active |
 | `avvo.com` | — | — | — | retired |
 | `awin.com` | — | — | — | active |
-| `aws.com` | [policy](https://vdp.aws.security/) | — | — | expired |
-| `awscloud.com` | [policy](https://vdp.aws.security/) | — | — | expired |
+| `aws.com` | [policy](https://vdp.aws.security/) | — | — | active |
+| `awscloud.com` | [policy](https://vdp.aws.security/) | — | — | active |
 | `axelspringer.com` | — | monetary | — | active |
 | `axis.com` | [policy](https://help.axis.com/axis-vulnerability-management-policy) | monetary | — | active |
 | `backblaze.com` | [policy](https://www.backblaze.com/cloud-storage/security) | monetary | — | retired |
@@ -266,6 +266,7 @@
 | `infisical.com` | [policy](https://infisical.com/vulnerability-disclosure) | recognition | yes | active |
 | `infomaniak.com` | [policy](https://infomaniak.vulnerability-disclosure.com) | — | — | active |
 | `informatica.com` | [policy](https://www.informatica.com/trust-center/responsible-disclosure-program.html) | recognition | — | retired |
+| `inhabitat.com` | — | — | — | active |
 | `innovateuk.org` | [policy](https://www.gov.uk/help/report-vulnerability) | — | — | active |
 | `instacart.com` | [policy](https://hackerone.com/instacart) | — | — | active |
 | `instyle.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
@@ -339,7 +340,7 @@
 | `mongodb.org` | — | recognition | — | retired |
 | `monzo.com` | [policy](https://app.intigriti.com/company/programs/monzobank/monzopublicbugbountyprogram/detail) | monetary | — | active |
 | `moonpay.com` | — | — | — | active |
-| `mortons.com` | [policy](https://hackerone.com/fertitta_entertainment/__;!!P9vvK-4S!k4OXa2Y5beJxlkD0SgPSR9q2bUGYARLffhrZlhNZRhTus-7yk61IeDxnRaufmK0V8GQVvqvI09Tr4dxWeHU$) | recognition | — | active |
+| `mortons.com` | [policy](https://hackerone.com/fertitta_entertainment/__;!!P9vvK-4S!k4OXa2Y5beJxlkD0SgPSR9q2bUGYARLffhrZlhNZRhTus-7yk61IeDxnRaufmK0V8GQVvqvI09Tr4dxWeHU$) | recognition | — | retired |
 | `motorauthority.com` | — | — | — | active |
 | `mtpelerin.com` | [policy](https://www.mtpelerin.com/responsible-disclosure-policy) | monetary | — | retired |
 | `murena.io` | [policy](https://hackerone.com/nextcloud) | — | — | active |
@@ -379,7 +380,7 @@
 | `octopus.com` | [policy](https://g.octopushq.com/disclosure) | swag | — | active |
 | `okta.com` | [policy](https://www.okta.com/vulnerability-reporting-policy/) | — | — | active |
 | `omarchy.org` | [policy](https://omarchy.org/security) | swag | — | active |
-| `oohcams.com` | [policy](https://hackerone.com/chaturbate?type=team&view_policy=true) | — | — | active |
+| `oohcams.com` | [policy](https://hackerone.com/chaturbate?type=team&view_policy=true) | — | — | retired |
 | `ookla.com` | [policy](https://security.ookla.com) | — | — | active |
 | `openai.com` | [policy](https://openai.com/policies/coordinated-vulnerability-disclosure-policy) | recognition | — | active |
 | `opensea.io` | [policy](https://bugcrowd.com/opensea) | monetary | — | active |
@@ -388,6 +389,7 @@
 | `ory.com` | [policy](https://www.ory.com/docs/ecosystem/security) | — | — | active |
 | `oshrc.gov` | [policy](https://www.oshrc.gov/vulnerability-disclosure-policy/) | — | — | retired |
 | `ourfabriq.com` | [policy](https://ourfabriq.com/responsible-disclosure-policy) | monetary | yes | retired |
+| `outbrain.com` | [policy](https://www.outbrain.com/security/bug-bounty/) | monetary | yes | active |
 | `overture.com` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | active |
 | `ovh.com` | [policy](https://yeswehack.com/programs/ovh) | monetary | — | active |
 | `ovhcloud.com` | [policy](https://yeswehack.com/programs/ovh) | monetary | — | active |

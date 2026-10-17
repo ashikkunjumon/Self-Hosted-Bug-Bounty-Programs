@@ -1,6 +1,6 @@
 # Self-hosted programs — FR
 
-161 programs.
+162 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -36,6 +36,7 @@
 | `coface.fr` | — | — | — | active |
 | `colissimo.fr` | [policy](https://vdp.laposte.fr/p/Security-Information) | — | — | active |
 | `cotesdarmor.fr` | — | — | — | expired |
+| `courroie-distribution.fr` | — | — | — | active |
 | `cryptoast.fr` | — | — | — | expired |
 | `cuisineactuelle.fr` | — | — | — | active |
 | `dcode.fr` | [policy](https://www.dcode.fr/about) | — | — | active |

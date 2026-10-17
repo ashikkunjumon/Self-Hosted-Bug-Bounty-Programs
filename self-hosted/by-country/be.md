@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-246 programs.
+247 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -218,6 +218,7 @@
 | `tvd.be` | [policy](https://dovendi.com/en/security-policy) | — | yes | active |
 | `ucll.be` | — | — | — | expired |
 | `uclouvain.be` | — | — | — | active |
+| `uitpas.be` | [policy](https://www.publiq.be/en/projects/publiq-platform/responsible-disclosure-policy) | recognition | — | active |
 | `unix-solutions.be` | [policy](https://datacenters.unix-solutions.be/responsibledisclosure) | — | — | active |
 | `vanbreda.be` | [policy](https://www.vanbreda.be/en/legal/vulnerability-report) | monetary | — | expired |
 | `vdab.be` | [policy](https://www.vdab.be/responsible-disclosure) | recognition | yes | expired |

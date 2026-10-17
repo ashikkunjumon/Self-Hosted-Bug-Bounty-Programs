@@ -1,6 +1,6 @@
 # Self-hosted programs — BR
 
-91 programs.
+92 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -22,6 +22,7 @@
 | `cert.br` | — | — | — | active |
 | `cesan.com.br` | — | — | — | active |
 | `cirurgicabrasil.com.br` | — | — | — | active |
+| `confeitariacolombo.com.br` | — | — | — | active |
 | `cuponeria.com.br` | — | — | — | active |
 | `cvcrm.com.br` | — | — | — | active |
 | `defesa.gov.br` | [policy](https://www.gov.br/defesa/pt-br/arquivos/legislacao/posin-md-2022.pdf) | — | — | retired |
