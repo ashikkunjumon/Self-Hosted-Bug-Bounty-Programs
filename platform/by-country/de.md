@@ -1,11 +1,13 @@
 # Platform-hosted programs — DE
 
-34 programs.
+36 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
+| `adac.de` | — | — | — | active |
 | `airbnb.de` | [policy](https://hackerone.com/airbnb#overview) | — | — | active |
 | `atu.de` | — | — | — | active |
+| `aufbaubank.de` | [policy](https://yeswehack.com/programs/thuringer-aufbaubank-bug-bounty-program) | monetary | — | active |
 | `autobild.de` | [policy](https://app.intigriti.com/programs/axelspringerse/nmt/detail) | monetary | — | active |
 | `autoscout24.de` | [policy](https://app.intigriti.com/programs/autoscout/autoscout24-vdp/detail) | monetary | — | expired |
 | `axelspringer.de` | — | monetary | — | active |

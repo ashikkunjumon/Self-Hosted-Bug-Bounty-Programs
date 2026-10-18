@@ -84,7 +84,7 @@
 | `leroymerlin.pl` | — | — | — | active |
 | `lidl.pl` | — | — | — | active |
 | `lorealparis.pl` | — | recognition | — | active |
-| `makro.pl` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | active |
+| `makro.pl` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | expired |
 | `mamotoja.pl` | [policy](https://www.immediate.co.uk/security-disclosure-policy/) | — | — | retired |
 | `mapa-turystyczna.pl` | — | — | — | active |
 | `mbank.pl` | [policy](https://www.mbank.pl/pdf/inne/cert-mbank-rfc2350.pdf) | monetary | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — RO
 
-56 programs.
+58 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -12,6 +12,7 @@
 | `bosch.ro` | [policy](https://psirt.bosch.com/bosch-responsible-disclosure-policy/) | recognition | — | active |
 | `brainly.ro` | [policy](https://brainly.com/responsible-disclosure-program) | — | — | active |
 | `brasovcity.ro` | — | — | — | active |
+| `brd.ro` | — | — | — | active |
 | `carrefour.ro` | [policy](https://carrefour.com/disclosure) | — | — | active |
 | `certsign.ro` | — | — | — | expired |
 | `clausweb.ro` | — | — | — | active |
@@ -32,6 +33,7 @@
 | `eventim.ro` | — | — | — | active |
 | `farmaciata.ro` | — | — | — | active |
 | `flashscore.ro` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
+| `flixbus.ro` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |
 | `galantom.ro` | — | — | — | active |
 | `glami.ro` | — | monetary | — | active |
 | `hornbach.ro` | — | — | — | active |
@@ -39,7 +41,7 @@
 | `infomusic.ro` | — | recognition | — | active |
 | `lidl.ro` | — | — | — | active |
 | `listafirme.ro` | — | — | — | retired |
-| `metro.ro` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | active |
+| `metro.ro` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | expired |
 | `michelin.ro` | — | — | — | active |
 | `notino.ro` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
 | `observatorulph.ro` | — | — | — | active |

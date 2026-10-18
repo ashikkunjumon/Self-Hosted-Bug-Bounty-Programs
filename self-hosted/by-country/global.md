@@ -1,6 +1,6 @@
 # Self-hosted programs — GLOBAL
 
-3,090 programs.
+3,099 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -125,6 +125,7 @@
 | `ampcode.com` | [policy](https://ampcode.com/security) | monetary | yes | active |
 | `amplify.com` | [policy](https://amplify.com/report-a-vulnerability) | — | — | active |
 | `amprion.net` | — | — | — | retired |
+| `ams-osram.com` | — | — | — | active |
 | `amsterdamumc.org` | [policy](https://www.amsterdamumc.org/en/responsible-disclosure.htm) | — | — | active |
 | `amwater.com` | — | — | — | retired |
 | `ancestry.com` | [policy](https://www.ancestry.com/c/legal/security) | — | — | retired |
@@ -316,6 +317,7 @@
 | `bootlin.com` | [policy](https://bootlin.com/company/security/) | — | — | active |
 | `borealisgroup.com` | [policy](https://www.borealisgroup.com/legal/responsible-disclosure) | — | — | retired |
 | `bosch.com` | [policy](https://psirt.bosch.com/report-a-vulnerability/) | recognition | — | active |
+| `boschrexroth.com` | [policy](https://psirt.bosch.com/bosch-responsible-disclosure-policy/) | recognition | — | active |
 | `bostonscientific.com` | [policy](https://www.bostonscientific.com/en-US/customer-service/product-security/responsible-disclosure.html) | — | — | retired |
 | `bounty.mit.edu` | [policy](https://bounty.mit.edu/) | monetary | — | retired |
 | `brainly.com` | [policy](https://brainly.com/responsible-disclosure-program) | — | — | active |
@@ -519,7 +521,7 @@
 | `computingforgeeks.com` | — | — | — | active |
 | `concur.com` | — | — | — | expired |
 | `conduktor.io` | — | — | — | active |
-| `conferencebadge.com` | [policy](https://www.conferencebadge.com/security) | monetary | — | active |
+| `conferencebadge.com` | [policy](https://www.conferencebadge.com/security) | — | — | active |
 | `conferences.center` | [policy](https://www.conferences.center/.well-known/security.txt) | — | yes | active |
 | `confluent.io` | [policy](https://www.confluent.io/trust-and-security/) | monetary | — | active |
 | `confused.com` | [policy](https://www.confused.com/privacy-and-security/security/security-disclosure-policy) | swag | — | active |
@@ -618,6 +620,7 @@
 | `dazn.com` | [policy](https://www.dazn.com/en-GB/help/articles/responsible-disclosure) | — | — | active |
 | `db.com` | — | — | — | active |
 | `dbs.com` | [policy](https://www.dbs.com/vdp) | — | — | active |
+| `dcdn-us.mitiendanube.com` | — | — | — | active |
 | `de-cix.net` | — | — | — | active |
 | `de.wikipedia.org` | [policy](https://www.mediawiki.org/wiki/Reporting_security_bugs) | recognition | — | active |
 | `debconf.org` | [policy](https://www.debian.org/security/disclosure-policy) | — | — | active |
@@ -1198,10 +1201,12 @@
 | `hg.eu` | — | — | — | active |
 | `hiabgroup.com` | [policy](https://www.hiabgroup.com/en/about-us/cyber-and-information-security/) | — | — | retired |
 | `hidemyass.com` | — | recognition | — | expired |
+| `highcharts.com` | — | — | — | active |
 | `hightail.com` | [policy](https://www.opentext.com/about/security-acknowledgements) | recognition | — | active |
 | `hillasian.com` | [policy](https://www.hillasian.com/security) | — | yes | retired |
 | `hindawi.com` | — | — | — | active |
 | `hiroad.com` | [policy](https://www.hiroad.com/responsible-disclosure-new) | — | yes | retired |
+| `historicum.net` | — | — | — | active |
 | `historyextra.com` | [policy](https://www.immediate.co.uk/security-disclosure-policy/) | — | — | expired |
 | `hitachi.com` | [policy](https://www.hitachi.com/en/hirt/) | monetary | — | active |
 | `hitachienergy.com` | [policy](https://publisher.hitachienergy.com/preview?DocumentID=9AKK107991A7713&LanguageCode=en&DocumentPartId=&Action=Launch) | — | — | active |
@@ -1438,7 +1443,7 @@
 | `kamalaharris.com` | — | — | — | expired |
 | `karbonhq.com` | [policy](https://karbonhq.com/security/vulnerability-disclosure/) | monetary | — | expired |
 | `kashmirlife.net` | — | — | — | retired |
-| `katiethe.dev` | — | — | — | retired |
+| `katiethe.dev` | — | — | — | expired |
 | `kde.org` | [policy](https://community.kde.org/Policies/Security_Policy) | — | — | active |
 | `keepa.com` | — | — | — | active |
 | `keepassxc.org` | — | — | — | active |
@@ -1506,6 +1511,7 @@
 | `langdock.com` | [policy](https://langdock.com/vulnerability-disclosure-policy) | monetary | yes | retired |
 | `lansingstatejournal.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
 | `laravel.io` | [policy](https://github.com/laravelio/laravel.io/security/policy) | — | — | active |
+| `laserfiche.com` | — | — | — | active |
 | `lasernetgroup.com` | [policy](https://www.lasernetgroup.com/vulnerability-disclosure-policy/) | — | yes | retired |
 | `latentpatterns.com` | — | recognition | — | active |
 | `lavote.net` | — | — | — | active |
@@ -1618,6 +1624,7 @@
 | `mansfieldnewsjournal.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
 | `manychat.com` | [policy](https://manychat.com/security/vulnerability) | — | — | expired |
 | `mappy.com` | — | — | — | active |
+| `mapsof.net` | [policy](https://www.mapsof.net/contact) | — | — | active |
 | `maptiler.com` | — | — | — | active |
 | `marad.com` | [policy](https://www.marad.com/trust) | — | yes | retired |
 | `mariadb.com` | [policy](https://mariadb.com/security) | monetary | — | expired |
@@ -1635,7 +1642,7 @@
 | `mbari.org` | — | recognition | — | active |
 | `mcpsec.dev` | [policy](https://mcpsec.dev/disclosure-policy/) | — | — | active |
 | `medallia.com` | — | — | — | active |
-| `medel.com` | [policy](https://www.medel.com/terms/medel-vulnerability-handling-and-disclosure-policy) | recognition | — | active |
+| `medel.com` | [policy](https://www.medel.com/terms/medel-vulnerability-handling-and-disclosure-policy) | recognition | — | expired |
 | `mediamatic.net` | — | — | — | active |
 | `mediawiki.org` | [policy](https://www.mediawiki.org/wiki/Reporting_security_bugs) | recognition | — | active |
 | `medindia.net` | [policy](https://www.medindia.net/includes/medindiaprivacy.asp) | monetary | — | active |
@@ -1804,7 +1811,7 @@
 | `netzero.net` | — | — | — | expired |
 | `netzpolitik.org` | — | — | — | active |
 | `neuralink.com` | [policy](https://neuralink.com/vulnerability-disclosure/) | — | — | active |
-| `neuralinverse.com` | [policy](https://neuralinverse.com/security/responsible-disclosure) | recognition | — | retired |
+| `neuralinverse.com` | [policy](https://neuralinverse.com/trust/vulnerability-disclosure/) | — | — | active |
 | `neurology.org` | — | — | — | active |
 | `neustadt.eu` | — | — | — | active |
 | `newegg.com` | [policy](https://kb.newegg.com/knowledge-base/privacy-policy-newegg/) | monetary | — | active |
@@ -2021,6 +2028,7 @@
 | `patsnap.com` | — | — | — | active |
 | `paybis.com` | — | — | — | active |
 | `payboy.biz` | [policy](https://payboy.biz/security) | — | — | retired |
+| `paydayloanscalifornia.net` | — | — | — | active |
 | `payhawk.com` | [policy](https://payhawk.com/security/disclosure) | monetary | yes | active |
 | `paysera.com` | [policy](https://www.paysera.com/v2/en-RU/safety/bug-bounty-program) | monetary | yes | retired |
 | `pbs.org` | — | — | — | active |
@@ -2157,7 +2165,7 @@
 | `privacybee.com` | [policy](https://privacybee.com/responsible-disclosure/) | — | yes | active |
 | `privatebin.info` | — | recognition | — | active |
 | `privateinternetaccess.com` | — | monetary | — | active |
-| `privatestackhub.com` | [policy](https://privatestackhub.com/trust) | monetary | — | active |
+| `privatestackhub.com` | [policy](https://privatestackhub.com/trust) | — | — | active |
 | `privsec.dev` | — | — | — | active |
 | `prodege.com` | [policy](https://security.prodege.com/) | recognition | yes | expired |
 | `productboard.com` | [policy](https://www.productboard.com/platform/security/) | monetary | — | retired |
@@ -2735,7 +2743,7 @@
 | `tomra.com` | — | — | — | expired |
 | `ton.eu` | — | — | — | active |
 | `toogoodtogo.com` | — | — | — | active |
-| `toolglade.com` | [policy](https://toolglade.com/security-policy) | monetary | yes | active |
+| `toolglade.com` | [policy](https://toolglade.com/security-policy) | monetary | yes | retired |
 | `toolslib.net` | — | recognition | — | active |
 | `top10vpn.com` | — | recognition | — | active |
 | `topdesk.com` | [policy](https://www.topdesk.com/en/coordinated-vulnerability-disclosure/) | — | — | active |
@@ -2977,6 +2985,7 @@
 | `whooing.com` | [policy](https://whooing.com/info/privacy) | — | — | active |
 | `wickedlocal.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
 | `wien.info` | — | — | — | active |
+| `wika.com` | — | — | — | active |
 | `wiki.asterisk.org` | [policy](https://docs.asterisk.org/Development/Asterisk-Bug-Bounties/) | monetary | — | retired |
 | `wiki.zimbra.com` | [policy](https://wiki.zimbra.com/wiki/Zimbra_Responsible_Disclosure_Policy) | — | — | retired |
 | `wikibooks.org` | [policy](https://www.mediawiki.org/wiki/Reporting_security_bugs) | recognition | — | active |

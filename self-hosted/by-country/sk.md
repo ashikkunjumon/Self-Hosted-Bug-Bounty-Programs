@@ -30,7 +30,7 @@
 | `ifortuna.sk` | — | monetary | — | active |
 | `lidl.sk` | — | — | — | active |
 | `martinus.sk` | — | — | — | active |
-| `metro.sk` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | active |
+| `metro.sk` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | expired |
 | `mojadm.sk` | — | — | — | active |
 | `naj.sk` | — | — | — | active |
 | `notino.sk` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
@@ -46,6 +46,6 @@
 | `vlastnatvorba.sk` | — | — | — | active |
 | `websupport.sk` | [policy](https://www.websupport.sk/support/kb/nahlasenie-zranitelnosti/) | — | — | active |
 | `worki.sk` | — | — | — | expired |
-| `wz.sk` | — | — | — | expired |
+| `wz.sk` | — | — | — | retired |
 | `zonercloud.sk` | — | — | — | expired |
 | `zsdis.sk` | — | — | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — DK
 
-151 programs.
+152 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -104,10 +104,11 @@
 | `optagelse.dk` | — | — | — | active |
 | `pegani.dk` | — | — | — | active |
 | `permin.dk` | — | — | — | active |
-| `piefed.dk` | — | — | — | retired |
+| `piefed.dk` | — | — | — | active |
 | `pixelfed.dk` | — | — | — | active |
 | `pka.dk` | — | — | — | active |
 | `polarportal.dk` | — | — | — | active |
+| `powerhosting.dk` | — | — | — | active |
 | `prisjagt.dk` | — | — | — | expired |
 | `prosa.dk` | — | — | — | retired |
 | `punktum.dk` | — | — | — | active |

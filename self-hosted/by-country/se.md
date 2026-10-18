@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-508 programs.
+510 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -20,6 +20,7 @@
 | `almhult.se` | — | — | — | active |
 | `alvdalen.se` | — | — | — | active |
 | `amal.se` | — | — | — | active |
+| `amelia.se` | — | — | — | active |
 | `ancestry.se` | [policy](https://www.ancestry.com/c/legal/security) | — | — | retired |
 | `ange.se` | — | — | — | active |
 | `antagning.se` | — | — | — | active |
@@ -122,6 +123,7 @@
 | `forsvarsmakten.se` | — | — | — | active |
 | `forte.se` | — | — | — | active |
 | `fortum.se` | — | recognition | — | active |
+| `fredriksdal.se` | — | — | — | active |
 | `gavle.se` | — | — | — | active |
 | `gd.se` | — | — | — | active |
 | `gear4music.se` | — | — | — | active |

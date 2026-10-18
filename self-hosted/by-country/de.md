@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-452 programs.
+455 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -48,6 +48,7 @@
 | `bigdata-insider.de` | — | — | — | expired |
 | `bike-components.de` | — | — | — | active |
 | `billiger-mietwagen.de` | — | — | — | active |
+| `billiger.de` | — | — | — | active |
 | `bioenergie-bamberg.de` | [policy](https://g.co/vrp) | — | — | active |
 | `bitcoin.de` | [policy](https://www.bitcoin.de/en/bug-bounty) | monetary | — | retired |
 | `blutspende.de` | — | — | — | expired |
@@ -260,7 +261,7 @@
 | `medatixx.de` | [policy](https://medatixx.de/security-policy) | monetary | yes | active |
 | `medpex.de` | [policy](https://www.medpex.de/ueber-uns/cyber-sicherheit) | — | yes | active |
 | `meineschufa.de` | — | — | — | active |
-| `metro.de` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | active |
+| `metro.de` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | expired |
 | `michelin.de` | — | — | — | active |
 | `mindfactory.de` | — | recognition | — | active |
 | `misterspex.de` | — | — | — | active |
@@ -301,6 +302,7 @@
 | `phoenix.de` | — | — | — | active |
 | `phpunit.de` | [policy](https://github.com/sebastianbergmann/phpunit-website/blob/main/SECURITY.md) | — | — | active |
 | `pixum.de` | — | — | — | active |
+| `planet-schule.de` | — | — | — | active |
 | `pnn.de` | — | — | — | active |
 | `pnp.de` | — | — | — | active |
 | `poppen.de` | — | — | — | expired |
@@ -327,6 +329,7 @@
 | `ruhr-uni-bochum.de` | — | — | — | active |
 | `ruhrnachrichten.de` | — | — | — | active |
 | `rwth-aachen.de` | [policy](https://help.itc.rwth-aachen.de/service/e0bd09c2eb3241f784a3581fd8da5d81/article/c2079013844b48538571da06041bb857/) | — | — | active |
+| `s-communication.de` | [policy](https://www.s-communication.de/BugBounty.html) | monetary | — | active |
 | `sachsen-anhalt.de` | — | — | — | active |
 | `sachsen.de` | — | — | — | active |
 | `sana.de` | — | — | — | active |

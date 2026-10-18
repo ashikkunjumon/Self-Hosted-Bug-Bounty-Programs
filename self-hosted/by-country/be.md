@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-247 programs.
+249 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -42,6 +42,7 @@
 | `clickx.be` | — | — | — | active |
 | `coolblue.be` | — | monetary | — | active |
 | `corendon.be` | [policy](https://www.corendon.be/privacy-verklaring) | monetary | — | active |
+| `cu.be` | [policy](https://cu.be/.well-known/security-policy.txt) | — | — | active |
 | `dailybits.be` | — | monetary | — | expired |
 | `davidsfonds.be` | — | — | — | active |
 | `decathlon.be` | [policy](https://vdp.decathlon.net) | — | — | active |
@@ -121,6 +122,7 @@
 | `kompascamping.be` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | active |
 | `kringwinkel.be` | — | — | — | expired |
 | `lanaken.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
+| `lcp.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `lecot.be` | [policy](https://magento.com/security) | monetary | — | expired |
 | `legrand.be` | [policy](https://www.legrand.com/cybersecurity/en/cvd-policy) | — | — | active |
 | `liantis.be` | [policy](https://www.liantis.be/disclosure) | — | — | expired |

@@ -1,6 +1,6 @@
 # Platform-hosted programs — CH
 
-63 programs.
+64 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -38,6 +38,7 @@
 | `kpt.ch` | [policy](https://app.bugbounty.ch/public/engagement/details/291c747e-d690-45bd-9aa3-54990d75e265) | — | — | active |
 | `laredoute.ch` | [policy](https://www.laredoute.com/vulnerability_disclosure_program.aspx) | — | — | expired |
 | `lematin.ch` | [policy](https://bugcrowd.com/twentyminuten) | monetary | — | expired |
+| `lyss.ch` | [policy](https://www.talus.ch/de/datenschutz/bug-bounty.php) | — | — | active |
 | `mobiliar.ch` | — | — | — | active |
 | `mobiliare.ch` | — | — | — | active |
 | `mobiliere.ch` | — | — | — | active |

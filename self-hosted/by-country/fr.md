@@ -102,7 +102,7 @@
 | `marseille.fr` | — | recognition | — | active |
 | `matmut.fr` | — | — | — | expired |
 | `melenchon.fr` | — | — | — | expired |
-| `metro.fr` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | active |
+| `metro.fr` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | expired |
 | `michaelpage.fr` | — | — | — | expired |
 | `michelin.fr` | — | — | — | active |
 | `mouv.fr` | — | — | — | active |

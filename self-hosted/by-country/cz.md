@@ -182,7 +182,7 @@
 | `luzanky.cz` | — | — | — | active |
 | `magieprirody.cz` | — | — | — | active |
 | `magistra.cz` | — | — | — | active |
-| `makro.cz` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | active |
+| `makro.cz` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | expired |
 | `maminka.cz` | — | — | — | active |
 | `manboxeo.cz` | — | — | — | active |
 | `martinus.cz` | — | — | — | active |
@@ -339,7 +339,7 @@
 | `web4u.cz` | — | — | — | active |
 | `webareal.cz` | — | — | — | active |
 | `websupport.cz` | [policy](https://www.websupport.sk/support/kb/nahlasenie-zranitelnosti/) | — | — | active |
-| `webzdarma.cz` | — | — | — | expired |
+| `webzdarma.cz` | — | — | — | retired |
 | `wedos.cz` | [policy](https://vedos.cz/security-policy) | — | — | active |
 | `wikyhracky.cz` | — | — | — | active |
 | `winehouse.cz` | — | — | — | active |

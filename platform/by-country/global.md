@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-610 programs.
+611 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -380,7 +380,7 @@
 | `octopus.com` | [policy](https://g.octopushq.com/disclosure) | swag | — | active |
 | `okta.com` | [policy](https://www.okta.com/vulnerability-reporting-policy/) | — | — | active |
 | `omarchy.org` | [policy](https://omarchy.org/security) | swag | — | active |
-| `oohcams.com` | [policy](https://hackerone.com/chaturbate?type=team&view_policy=true) | — | — | retired |
+| `oohcams.com` | [policy](https://hackerone.com/chaturbate?type=team&view_policy=true) | — | — | active |
 | `ookla.com` | [policy](https://security.ookla.com) | — | — | active |
 | `openai.com` | [policy](https://openai.com/policies/coordinated-vulnerability-disclosure-policy) | recognition | — | active |
 | `opensea.io` | [policy](https://bugcrowd.com/opensea) | monetary | — | active |
@@ -538,6 +538,7 @@
 | `trustly.com` | [policy](https://www.trustly.com/security/disclosure) | monetary | — | retired |
 | `trustwave.com` | [policy](https://www.levelblue.com/legal/privacy-policy) | — | — | active |
 | `tumblr.com` | [policy](https://hackerone.com/automattic) | — | — | active |
+| `turborepo.dev` | [policy](https://security.vercel.com/) | — | — | active |
 | `tuv.com` | — | monetary | — | active |
 | `tw.bid.yahoo.com` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | active |
 | `tweakers.net` | [policy](https://tweakers.net/info/responsible-disclosure/) | monetary | — | active |

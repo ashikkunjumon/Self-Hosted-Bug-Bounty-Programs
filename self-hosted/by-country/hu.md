@@ -32,7 +32,7 @@
 | `lisztmuseum.hu` | — | recognition | — | active |
 | `mbvk.hu` | — | — | — | active |
 | `media1.hu` | — | — | — | active |
-| `metro.hu` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | active |
+| `metro.hu` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | expired |
 | `mountex.hu` | [policy](https://www.mountex.hu/security-policy) | — | — | active |
 | `mszp.hu` | — | — | — | active |
 | `naih.hu` | — | — | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — NL
 
-375 programs.
+376 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@
 | `cultureelerfgoed.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `cz.nl` | [policy](https://www.cz.nl/over-cz/beveiligingsprobleem-melden) | monetary | yes | active |
 | `d66.nl` | [policy](https://www.d66.nl/responsible-disclosure/) | monetary | yes | expired |
-| `dagjeweg.nl` | — | — | — | expired |
+| `dagjeweg.nl` | — | — | — | retired |
 | `das.nl` | [policy](https://www.das.nl/kwetsbaarheid-melden) | — | yes | expired |
 | `datarotonde.nl` | [policy](https://datarotonde.nl/responsible-disclosure/) | — | — | retired |
 | `dds.nl` | — | monetary | — | active |
@@ -356,6 +356,7 @@
 | `vzinfo.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `wandelnet.nl` | — | — | — | active |
 | `waternet.nl` | [policy](https://www.waternet.nl/service-en-contact/help-ons-verbeteren/meld-een-beveiligingsprobleem/) | — | — | active |
+| `webcambabes.nl` | [policy](https://webcambabes.nl/security-policy.html) | recognition | — | expired |
 | `webklik.nl` | — | — | — | expired |
 | `webmethod.nl` | [policy](https://github.com/webmethod/coordinated-vulnerability-disclosure) | — | — | retired |
 | `websec.nl` | [policy](https://websec.nl/responsible-disclosure) | — | — | active |

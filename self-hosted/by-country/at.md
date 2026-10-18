@@ -1,6 +1,6 @@
 # Self-hosted programs — AT
 
-149 programs.
+150 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -11,6 +11,7 @@
 | `ankoe.at` | — | — | — | active |
 | `apg.at` | — | — | — | active |
 | `ara.at` | — | — | — | active |
+| `asyl.at` | — | — | — | active |
 | `auva.at` | — | — | — | active |
 | `axians.at` | — | — | — | active |
 | `bank99.at` | [policy](https://bank99.at/responsible-disclosure-policy) | — | — | active |
@@ -88,7 +89,7 @@
 | `lknoe.at` | [policy](https://www.landesgesundheitsagentur.at/fileadmin/media_data/Dateien/NOELGA/rfc2350_noelga_v2.txt) | — | — | retired |
 | `lotterien.at` | [policy](https://www.lotterien.at/responsible-disclosure-1-1) | — | — | active |
 | `meindm.at` | — | — | — | active |
-| `metro.at` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | active |
+| `metro.at` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | expired |
 | `mydays.at` | [policy](https://public-jsmd.s3.eu-central-1.amazonaws.com/Bug-Bounty-Policy-1.3.pdf) | monetary | — | active |
 | `nessus.at` | — | — | — | active |
 | `netzwerk-bgf.at` | — | — | — | active |

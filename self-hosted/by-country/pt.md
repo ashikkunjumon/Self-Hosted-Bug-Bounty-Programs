@@ -1,6 +1,6 @@
 # Self-hosted programs — PT
 
-43 programs.
+44 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -26,12 +26,13 @@
 | `iservices.pt` | [policy](https://institucional.worten.pt/divulgacao-responsavel-de-vulnerabilidades/) | recognition | — | active |
 | `lidl.pt` | — | — | — | active |
 | `lnec.pt` | — | — | — | expired |
-| `makro.pt` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | active |
+| `makro.pt` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | expired |
 | `michaelpage.pt` | — | — | — | expired |
 | `moto.pt` | — | — | — | active |
 | `nos.pt` | [policy](https://www.nos.pt/en/institutional/sustainability/responsible-conduct/security-and-privacy/cybersecurity-responsible-disclosure-of-vulnerabilities) | monetary | — | active |
 | `notino.pt` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
 | `omd.pt` | — | — | — | active |
+| `pccomponentes.pt` | — | — | — | active |
 | `rcgoncalves.pt` | — | — | — | expired |
 | `ren.pt` | [policy](https://www.ren.pt/pt-pt/csirt/rfc-2350) | — | — | active |
 | `trovit.pt` | — | recognition | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-377 programs.
+380 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -114,6 +114,7 @@
 | `gettyimages.ch` | — | — | — | retired |
 | `ghisler.ch` | — | recognition | — | active |
 | `gkb.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/gkb-bug-bounty) | monetary | — | active |
+| `gl.ch` | — | — | — | active |
 | `glamos.ch` | — | — | — | active |
 | `glassdoor.ch` | [policy](https://help.glassdoor.com/s/article/Bug-Bounty-Program?language=en_US) | — | — | retired |
 | `glueckskette.ch` | — | — | — | active |
@@ -211,6 +212,7 @@
 | `moltrust.ch` | — | — | — | active |
 | `motoscout24.ch` | — | — | — | active |
 | `mots-croises.ch` | — | — | — | active |
+| `mum.ch` | — | — | — | active |
 | `mycloud.ch` | [policy](https://github.com/swisscom/bugbounty) | monetary | yes | active |
 | `myvaud.ch` | — | — | — | active |
 | `nationalmuseum.ch` | — | — | — | active |
@@ -347,6 +349,7 @@
 | `unil.ch` | — | — | — | active |
 | `unisante.ch` | — | — | — | active |
 | `unisg.ch` | — | — | — | active |
+| `universityrankings.ch` | — | — | — | active |
 | `ur.ch` | — | — | — | active |
 | `usi.ch` | [policy](https://secureshare.usi.ch/filedrop/sicurezza-it) | — | — | active |
 | `uster.ch` | — | — | — | active |

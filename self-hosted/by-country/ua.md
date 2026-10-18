@@ -32,7 +32,7 @@
 | `kontramarka.ua` | — | — | — | active |
 | `lifecell.ua` | — | monetary | — | retired |
 | `medoc.ua` | — | — | — | active |
-| `metro.ua` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | active |
+| `metro.ua` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | expired |
 | `mfa.gov.ua` | — | — | — | active |
 | `mtsbu.ua` | — | — | — | retired |
 | `notino.ua` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
@@ -43,7 +43,7 @@
 | `redo.ua` | — | — | — | active |
 | `sendpulse.ua` | — | — | — | active |
 | `silpovoyage.ua` | — | — | — | active |
-| `slotor777.com.ua` | — | — | — | expired |
+| `slotor777.com.ua` | — | — | — | retired |
 | `thecapital.com.ua` | — | — | — | active |
 | `udpu.edu.ua` | — | — | — | expired |
 | `ukraine.com.ua` | [policy](https://www.ukraine.com.ua/info/bug-bounty/) | monetary | — | active |

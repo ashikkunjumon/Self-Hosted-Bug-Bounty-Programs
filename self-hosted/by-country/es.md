@@ -64,7 +64,7 @@
 | `lidl.es` | — | — | — | active |
 | `loreal-paris.es` | — | recognition | — | active |
 | `loreal.es` | — | recognition | — | active |
-| `makro.es` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | active |
+| `makro.es` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | expired |
 | `maybelline.es` | — | recognition | — | active |
 | `michaelpage.es` | — | — | — | expired |
 | `michelin.es` | — | — | — | active |

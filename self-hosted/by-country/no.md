@@ -1,6 +1,6 @@
 # Self-hosted programs — NO
 
-230 programs.
+231 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -70,6 +70,7 @@
 | `fremtind.no` | — | — | — | active |
 | `frende.no` | — | — | — | active |
 | `fretex.no` | — | — | — | active |
+| `fritanke.no` | — | — | — | expired |
 | `fylkesmannen.no` | — | — | — | retired |
 | `gear4music.no` | — | — | — | active |
 | `gettyimages.no` | — | — | — | retired |

@@ -1,6 +1,6 @@
 # Self-hosted programs — FI
 
-123 programs.
+124 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -80,6 +80,7 @@
 | `nordnet.fi` | [policy](https://www.nordnet.se/security-disclosure) | monetary | — | active |
 | `notino.fi` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
 | `omalaina.fi` | [policy](https://samblagroup.com/responsible-disclosure) | — | yes | retired |
+| `omasp.fi` | — | — | — | active |
 | `onninen.fi` | — | — | — | expired |
 | `osterbottenstidning.fi` | — | — | — | active |
 | `oulu.fi` | — | — | — | active |
