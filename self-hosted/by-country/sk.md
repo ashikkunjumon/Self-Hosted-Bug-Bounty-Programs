@@ -1,6 +1,6 @@
 # Self-hosted programs — SK
 
-45 programs.
+46 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -20,6 +20,7 @@
 | `dennikn.sk` | — | monetary | — | retired |
 | `donio.sk` | — | — | — | active |
 | `etipos.sk` | [policy](https://www.easit.cz/well-known/EASIT_Responsible_Disclosure_Policy.pdf) | monetary | — | active |
+| `euro-financie.sk` | — | — | — | active |
 | `eventim.sk` | — | — | — | active |
 | `festanca.sk` | — | — | — | active |
 | `flashscore.sk` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |

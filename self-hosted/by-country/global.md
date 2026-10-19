@@ -1,6 +1,6 @@
 # Self-hosted programs — GLOBAL
 
-3,099 programs.
+3,107 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -117,6 +117,7 @@
 | `amagi.com` | [policy](https://www.amagi.com/responsible-disclosure-program) | — | — | retired |
 | `amarillo.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
 | `amazee.io` | — | — | — | active |
+| `amazonwatch.org` | [policy](https://amazonwatch.org/privacy-policy/) | monetary | — | active |
 | `amboss.com` | [policy](https://www.amboss.com/us/legal/privacy-policy-overview) | monetary | — | active |
 | `americananthro.org` | — | — | — | active |
 | `americansforthearts.org` | — | — | — | active |
@@ -427,7 +428,7 @@
 | `churchofjesuschrist.org` | [policy](https://www.churchofjesuschrist.org/informationsecurity/disclosure-policy) | — | — | active |
 | `cigna.com` | [policy](https://www.cigna.com/legal/members/responsible-vulnerability-disclosure) | recognition | yes | retired |
 | `cincinnati.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
-| `ciphera.net` | [policy](https://ciphera.net/trust) | — | yes | active |
+| `ciphera.net` | [policy](https://ciphera.net/trust) | monetary | — | active |
 | `cipsentry.com` | [policy](https://cipsentry.com/trust/vulnerability-disclosure) | — | yes | active |
 | `ciralgo.com` | [policy](https://ciralgo.com/security/) | — | yes | retired |
 | `circleci.com` | [policy](https://circleci.com/security) | — | — | active |
@@ -604,7 +605,7 @@
 | `daitasoft.com` | [policy](https://www.daitasoft.com/vulnerability-disclosure-policy) | — | yes | retired |
 | `daktronics.com` | [policy](https://www.daktronics.com/en-us/about-us/security-disclosure) | — | — | retired |
 | `daneel-dynamics.com` | [policy](https://www.daneel-dynamics.com/security) | recognition | yes | retired |
-| `danfoss.com` | [policy](https://www.danfoss.com/en/service-and-support/coordinated-vulnerability-disclosure/vulnerability-disclosure-policy/) | — | — | active |
+| `danfoss.com` | [policy](https://www.danfoss.com/en/service-and-support/coordinated-vulnerability-disclosure/vulnerability-disclosure-policy/) | — | — | retired |
 | `danielmiessler.com` | — | — | — | active |
 | `danone.com` | — | — | — | active |
 | `danskebank.com` | [policy](https://danskebank.com/responsible-disclosure) | — | — | retired |
@@ -659,6 +660,7 @@
 | `deutsche-boerse.com` | — | recognition | — | expired |
 | `deutschebahn.com` | — | — | — | active |
 | `devby.io` | — | — | — | active |
+| `devexpress.com` | — | — | — | active |
 | `devguard.org` | [policy](https://devguard.org/security-contact) | — | — | active |
 | `devnician.net` | [policy](https://www.devnician.net/ResponsibleDisclosure.html) | — | yes | retired |
 | `df.eu` | [policy](https://df.eu/whitehat/policy) | — | — | active |
@@ -1464,7 +1466,7 @@
 | `kinde.com` | [policy](https://docs.kinde.com/trust-center/security/vulnerability-disclosure-policy/) | swag | yes | active |
 | `king883.dev` | [policy](https://king883.dev/security-policy) | — | — | retired |
 | `kingspalace.net` | [policy](https://codeberg.org/forgejo/forgejo/src/branch/forgejo/CONTRIBUTING.md) | — | — | expired |
-| `kinsta.com` | [policy](https://kinsta.com/knowledgebase/disclose-security-vulnerability/) | — | — | active |
+| `kinsta.com` | [policy](https://kinsta.com/knowledgebase/disclose-security-vulnerability/) | — | — | expired |
 | `kioxia.com` | [policy](https://www.kioxia-holdings.com/en-jp/sustainability/governance/security.html) | — | — | active |
 | `kissflow.com` | [policy](https://kissflow.com/responsible-disclosure/) | recognition | — | retired |
 | `kissinvestments.com` | [policy](https://kissinvestments.com/responsible-disclosure/) | swag | — | retired |
@@ -1805,6 +1807,7 @@
 | `netguru.com` | [policy](https://www.netguru.com/report-a-vulnerability) | monetary | — | active |
 | `netscout.com` | [policy](https://www.netscout.com/data-privacy-and-trust-center) | — | — | active |
 | `netskope.com` | [policy](https://www.netskope.com/vulnerability-disclosure-policy) | monetary | — | active |
+| `netspotapp.com` | [policy](https://www.netspotapp.com/help/vdp/) | recognition | yes | active |
 | `nette.org` | — | — | — | expired |
 | `networkconnex.com` | [policy](https://www.networkconnex.com/disclosure-policy/) | recognition | yes | retired |
 | `netwrix.com` | — | — | — | active |
@@ -1842,6 +1845,8 @@
 | `nirvet.com` | [policy](https://nirvet.com/legal/security-disclosure) | — | yes | retired |
 | `nitrado.net` | — | — | — | active |
 | `nitrd.gov` | [policy](https://www.nitrd.gov/vulnerability-disclosure-policy/) | — | — | retired |
+| `nitrokey.com` | — | — | — | active |
+| `njherald.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
 | `nl.trustpilot.com` | — | — | — | active |
 | `nmb.gov` | [policy](https://nmb.gov/NMB_Application/index.php/vdp/) | — | — | retired |
 | `nn-group.com` | [policy](https://www.nn-group.com/ethical-hacking-nn-groups-responsible-disclosure-policy.htm) | monetary | — | active |
@@ -1979,6 +1984,7 @@
 | `otrs.com` | [policy](https://otrs.com/vulnerability-disclosure-policy/) | — | — | active |
 | `ottobock.com` | [policy](https://corporate.ottobock.com/en/contact-us) | — | — | active |
 | `oursportscentral.com` | — | — | — | active |
+| `outbrain.com` | [policy](https://www.outbrain.com/security/bug-bounty/) | monetary | yes | active |
 | `outdoorproject.com` | [policy](https://www.onxmaps.com/security-policy) | — | — | expired |
 | `outsports.com` | — | — | — | active |
 | `outsystems.com` | [policy](https://success.outsystems.com/Support/Security/Vulnerabilities) | — | — | expired |
@@ -2415,7 +2421,7 @@
 | `sendfox.com` | — | — | — | active |
 | `sendpulse.com` | — | — | — | active |
 | `sennheiser-hearing.com` | [policy](https://www.sennheiser-hearing.com/en-DE/coordinated-vulnerability-disclosure-policy/) | — | — | active |
-| `sennheiser.com` | [policy](https://www.sennheiser.com/en-de/product-security#Vulnerability%20Handling%20Policy) | monetary | — | active |
+| `sennheiser.com` | [policy](https://www.sennheiser.com/en-de/product-security#Vulnerability%20Handling%20Policy) | swag | — | active |
 | `sentinelone.com` | — | monetary | — | active |
 | `sentry.dev` | [policy](https://sentry.io/security/#vulnerability-disclosure) | swag | — | active |
 | `sentry.io` | [policy](https://sentry.io/security/#vulnerability-disclosure) | swag | — | active |
@@ -2482,6 +2488,7 @@
 | `sma-japan.com` | [policy](https://www.sma.de/en/cybersecurity/responsible-disclosure) | — | — | active |
 | `smallpdf.com` | [policy](https://smallpdf.com/vulnerability-disclosure) | monetary | yes | expired |
 | `smartftp.com` | — | — | — | active |
+| `smarticular.net` | — | — | — | active |
 | `smartnews.com` | — | — | — | active |
 | `smartoptics.com` | [policy](https://smartoptics.com/security-policy/) | — | — | active |
 | `smartsheet.com` | — | — | — | expired |
@@ -2669,7 +2676,7 @@
 | `thalesgroup.com` | [policy](https://www.thalesgroup.com/en/global/group/psirt) | — | — | active |
 | `the-afc.com` | — | — | — | expired |
 | `the-guild.dev` | — | — | — | retired |
-| `the-independent.com` | — | — | — | retired |
+| `the-independent.com` | — | — | — | active |
 | `theadvertiser.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
 | `theatlantic.com` | [policy](https://www.theatlantic.com/responsible-disclosure-policy/) | recognition | — | retired |
 | `thebci.org` | [policy](https://pixl8.com/en/vulnerability-disclosure-policy.html) | — | — | active |
@@ -2706,6 +2713,7 @@
 | `thinkmcs.com` | — | — | — | active |
 | `thinkqualia.com` | [policy](https://thinkqualia.com/security) | — | — | active |
 | `threads.com` | [policy](https://bugbounty.meta.com/) | monetary | — | active |
+| `threatdown.com` | [policy](https://www.threatdown.com/coordinated-vulnerability-disclosure-program/) | monetary | — | active |
 | `thrivecart.com` | [policy](https://thrivecart.com/security) | monetary | — | active |
 | `thuiswinkel.org` | — | — | — | expired |
 | `ti.com` | [policy](https://www.ti.com/support-quality/quality-policies-procedures/report-product-security-vulnerabilities.html) | — | — | active |
@@ -2805,7 +2813,7 @@
 | `turbologo.com` | — | — | — | active |
 | `turnitin.com` | [policy](https://turnitin.com/vulnerability-disclosure-policy) | — | — | active |
 | `turnoffthelights.com` | [policy](https://www.turnoffthelights.com/privacy/) | monetary | — | active |
-| `turo.com` | [policy](https://turo.com/.well-known/responsible_vulnerability_disclosure_policy.txt) | monetary | yes | expired |
+| `turo.com` | [policy](https://turo.com/.well-known/responsible_vulnerability_disclosure_policy.txt) | monetary | yes | retired |
 | `tuscaloosanews.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
 | `tutsplus.com` | [policy](https://www.envato.com/lp/vulnerability-disclosure/) | — | — | active |
 | `tuturuuu.com` | [policy](https://tuturuuu.com/security) | monetary | — | retired |

@@ -5,6 +5,7 @@
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `0xprial.com` | [policy](https://0xprial.com/how-to-get-into-bug-bounties-part-01/) | monetary | — | retired |
+| `1inch.com` | [policy](https://hackenproof.com/programs/1inch-smart-contract) | monetary | — | active |
 | `1inch.io` | [policy](https://hackenproof.com/programs/1inch-smart-contract) | monetary | — | active |
 | `1password.com` | — | monetary | — | active |
 | `60.122` | [policy](http://183.204.60.122:10081/ZF/jitsi-meet/src/commit/600af629451d5e836528b38d5ce5a879deb28708/SECURITY.md) | — | — | active |
@@ -389,7 +390,6 @@
 | `ory.com` | [policy](https://www.ory.com/docs/ecosystem/security) | — | — | active |
 | `oshrc.gov` | [policy](https://www.oshrc.gov/vulnerability-disclosure-policy/) | — | — | retired |
 | `ourfabriq.com` | [policy](https://ourfabriq.com/responsible-disclosure-policy) | monetary | yes | retired |
-| `outbrain.com` | [policy](https://www.outbrain.com/security/bug-bounty/) | monetary | yes | active |
 | `overture.com` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | active |
 | `ovh.com` | [policy](https://yeswehack.com/programs/ovh) | monetary | — | active |
 | `ovhcloud.com` | [policy](https://yeswehack.com/programs/ovh) | monetary | — | active |

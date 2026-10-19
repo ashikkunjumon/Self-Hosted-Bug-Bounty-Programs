@@ -1,6 +1,6 @@
 # Self-hosted programs — FR
 
-162 programs.
+164 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -71,6 +71,7 @@
 | `gettyimages.fr` | — | — | — | retired |
 | `glassdoor.fr` | [policy](https://help.glassdoor.com/s/article/Bug-Bounty-Program?language=en_US) | — | — | retired |
 | `gmx.fr` | [policy](https://bugbounty.gmx.com/) | monetary | — | active |
+| `grandparisexpress.fr` | — | — | — | expired |
 | `grenoble-inp.fr` | — | recognition | — | active |
 | `groupebpce.fr` | — | — | — | expired |
 | `hellowatt.fr` | — | — | — | expired |
@@ -121,6 +122,7 @@
 | `placo.fr` | — | — | — | active |
 | `pluxee.fr` | [policy](https://vdp.pluxee.app/p/Policy) | — | — | active |
 | `pole-emploi.fr` | — | recognition | — | active |
+| `pug.fr` | — | — | — | active |
 | `radiofrance.fr` | — | — | — | active |
 | `red-by-sfr.fr` | — | — | — | active |
 | `regafi.fr` | — | — | — | active |

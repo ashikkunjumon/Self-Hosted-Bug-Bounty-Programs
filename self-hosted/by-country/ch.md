@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-380 programs.
+382 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -85,6 +85,7 @@
 | `emacs.ch` | — | — | — | expired |
 | `energie360.ch` | — | — | — | active |
 | `epfl.ch` | — | — | — | expired |
+| `ephj.ch` | — | — | — | active |
 | `ergon.ch` | — | — | — | active |
 | `eta.ch` | — | — | — | active |
 | `etavis.ch` | — | — | — | active |
@@ -214,6 +215,7 @@
 | `mots-croises.ch` | — | — | — | active |
 | `mum.ch` | — | — | — | active |
 | `mycloud.ch` | [policy](https://github.com/swisscom/bugbounty) | monetary | yes | active |
+| `myscience.ch` | — | — | — | active |
 | `myvaud.ch` | — | — | — | active |
 | `nationalmuseum.ch` | — | — | — | active |
 | `naturalsciences.ch` | — | — | — | active |

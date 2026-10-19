@@ -40,7 +40,7 @@
 | `imobiliare.ro` | — | — | — | active |
 | `infomusic.ro` | — | recognition | — | active |
 | `lidl.ro` | — | — | — | active |
-| `listafirme.ro` | — | — | — | retired |
+| `listafirme.ro` | — | — | — | active |
 | `metro.ro` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | expired |
 | `michelin.ro` | — | — | — | active |
 | `notino.ro` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |

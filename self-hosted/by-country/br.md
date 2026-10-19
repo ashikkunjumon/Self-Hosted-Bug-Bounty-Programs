@@ -1,6 +1,6 @@
 # Self-hosted programs — BR
 
-92 programs.
+93 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -72,6 +72,7 @@
 | `pebmed.com.br` | [policy](https://security.afya.com.br) | — | — | active |
 | `premierpet.com.br` | [policy](https://premierpet.com.br/privacidade/) | recognition | — | active |
 | `printi.com.br` | [policy](https://www.printi.com.br/politicas-de-privacidade/) | swag | — | active |
+| `profixdigital.com.br` | — | — | — | active |
 | `reclameaqui.com.br` | [policy](https://storage.googleapis.com/whitehat-policy/reclameaqui-whitehat-policy.pdf) | monetary | — | active |
 | `registro.br` | — | — | — | active |
 | `saboresdemarise.com.br` | — | — | — | retired |

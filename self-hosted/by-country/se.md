@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-510 programs.
+512 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -124,6 +124,7 @@
 | `forte.se` | — | — | — | active |
 | `fortum.se` | — | recognition | — | active |
 | `fredriksdal.se` | — | — | — | active |
+| `fysioterapeuterna.se` | — | — | — | active |
 | `gavle.se` | — | — | — | active |
 | `gd.se` | — | — | — | active |
 | `gear4music.se` | — | — | — | active |
@@ -373,6 +374,7 @@
 | `sbf.se` | — | — | — | active |
 | `scb.se` | — | — | — | active |
 | `scilifelab.se` | — | — | — | active |
+| `sek.se` | [policy](https://www.sek.se/vdp) | — | — | active |
 | `sfv.se` | — | — | — | active |
 | `sh.se` | — | — | — | active |
 | `showtic.se` | — | — | — | active |

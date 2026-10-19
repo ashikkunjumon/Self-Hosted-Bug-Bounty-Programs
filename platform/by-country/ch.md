@@ -1,6 +1,6 @@
 # Platform-hosted programs — CH
 
-64 programs.
+65 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -65,6 +65,7 @@
 | `toyota.ch` | — | monetary | — | expired |
 | `uek.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | recognition | yes | active |
 | `usz.ch` | [policy](https://kb.intigriti.com/en/articles/5466165-researcher-terms-conditions) | monetary | — | expired |
+| `wetzikon.ch` | [policy](https://www.talus.ch/de/datenschutz/bug-bounty.php) | — | — | active |
 | `xpertcenter.ch` | [policy](https://www.xpertcenter.ch/it/vdp-it/) | — | yes | retired |
 | `yelp.ch` | [policy](https://hackerone.com/yelp?view_policy=true) | — | — | active |
 | `zh.ch` | [policy](https://app.bugbounty.ch/public/engagement/details/43f98579-7afc-400e-a5fa-f64c15e2bb90) | — | — | expired |
