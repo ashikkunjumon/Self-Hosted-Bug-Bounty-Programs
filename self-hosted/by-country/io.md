@@ -1,6 +1,6 @@
 # Self-hosted programs — IO
 
-67 programs.
+66 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -51,7 +51,6 @@
 | `pingram.io` | [policy](https://www.pingram.io/vulnerability-disclosure-policy) | — | yes | active |
 | `primer.io` | [policy](https://primer.io/responsible-disclosure) | monetary | yes | retired |
 | `pwnedlabs.io` | [policy](https://pwnedlabs.io/security-policy) | swag | yes | active |
-| `qt.io` | [policy](https://www.qt.io/terms-conditions/responsible-vulnerability-disclosure-process) | recognition | yes | active |
 | `recruitcrm.io` | [policy](https://recruitcrm.io/legal/rcrm-vulnerability-disclosure-program/) | — | yes | retired |
 | `regwatch.io` | [policy](https://www.regwatch.io/security) | — | — | active |
 | `rekaz.io` | [policy](https://rekaz.io/home/en/vulnerability-disclosure/) | — | — | retired |

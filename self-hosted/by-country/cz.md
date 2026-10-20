@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-354 programs.
+355 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -217,6 +217,7 @@
 | `nejremeslnici.cz` | — | — | — | active |
 | `nhr.cz` | — | — | — | active |
 | `nic.cz` | — | — | — | active |
+| `nidv.cz` | — | — | — | active |
 | `nkp.cz` | — | — | — | active |
 | `nm.cz` | — | — | — | active |
 | `nntb.cz` | — | — | — | expired |

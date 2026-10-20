@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-455 programs.
+459 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -78,6 +78,7 @@
 | `cherry.de` | — | — | — | active |
 | `codecentric.de` | — | — | — | active |
 | `comdirect.de` | [policy](https://www.commerzbank.com/security-policy.html) | recognition | — | active |
+| `commerzbank.de` | [policy](https://www.commerzbank.de/konzern/sec/security-policy.html) | recognition | — | active |
 | `computerbase.de` | — | — | — | active |
 | `ct.de` | [policy](https://heise.de/-7513540) | monetary | — | active |
 | `cure53.de` | — | recognition | — | active |
@@ -122,6 +123,7 @@
 | `einbeck.de` | — | — | — | active |
 | `ekd.de` | — | — | — | active |
 | `ekomi.de` | — | — | — | active |
+| `elektronikpraxis.de` | — | — | — | expired |
 | `eon.de` | — | — | — | active |
 | `erasmusplus.de` | — | — | — | active |
 | `esslingen.de` | — | — | — | active |
@@ -163,7 +165,7 @@
 | `gameswelt.de` | — | — | — | active |
 | `gdata.de` | [policy](https://www.gdata.de/en/privacy/vulnerability-disclosure) | recognition | yes | active |
 | `gelsenkirchen.de` | — | — | — | active |
-| `germany4ukraine.de` | — | — | — | retired |
+| `germany4ukraine.de` | — | — | — | active |
 | `gettyimages.de` | — | — | — | retired |
 | `giga.de` | — | — | — | active |
 | `gira.de` | [policy](https://www.gira.de/cybersecurity/en-cvd-policy) | — | yes | active |
@@ -252,12 +254,14 @@
 | `logo.de` | — | — | — | active |
 | `lotto.de` | [policy](https://vdp.lotto-niedersachsen.de/p/Policy) | — | — | active |
 | `ludwigsburg.de` | — | — | — | active |
+| `luebeck.de` | — | — | — | active |
 | `lvr.de` | — | — | — | active |
 | `lvz.de` | — | — | — | active |
 | `mainz.de` | [policy](https://mainz.de/cvd) | recognition | — | active |
 | `marburg.de` | — | — | — | active |
 | `maz-online.de` | — | — | — | active |
 | `mdc-berlin.de` | — | — | — | active |
+| `mdr.de` | [policy](https://www.mdr.de/vulnerability-disclosure-policy) | monetary | yes | active |
 | `medatixx.de` | [policy](https://medatixx.de/security-policy) | monetary | yes | active |
 | `medpex.de` | [policy](https://www.medpex.de/ueber-uns/cyber-sicherheit) | — | yes | active |
 | `meineschufa.de` | — | — | — | active |
@@ -275,7 +279,7 @@
 | `mvv.de` | — | — | — | active |
 | `my-hammer.de` | — | — | — | expired |
 | `mydays.de` | [policy](https://public-jsmd.s3.eu-central-1.amazonaws.com/Bug-Bounty-Policy-1.3.pdf) | monetary | — | active |
-| `neoshare.de` | [policy](https://neoshare.de/responsible-disclosure-program) | recognition | — | retired |
+| `neoshare.de` | [policy](https://www.neoshare.com/responsible-disclosure-program) | recognition | — | active |
 | `netto-online.de` | — | — | — | active |
 | `neuepresse.de` | — | — | — | active |
 | `nius.de` | — | — | — | active |

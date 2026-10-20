@@ -1,6 +1,6 @@
 # Self-hosted programs — AT
 
-151 programs.
+152 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -39,6 +39,7 @@
 | `easyname.at` | [policy](https://www.easyname.com/en/support/easyname/253-bug-bounty-program) | monetary | — | expired |
 | `eduscho.at` | — | — | — | active |
 | `elda.at` | — | — | — | active |
+| `energiedirect.at` | — | — | — | active |
 | `eucerin.at` | [policy](https://soc.beiersdorf.com/disclosurepolicy.html) | — | yes | active |
 | `eversports.at` | — | — | — | active |
 | `expedia.at` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |

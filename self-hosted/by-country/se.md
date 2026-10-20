@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-512 programs.
+514 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -199,6 +199,7 @@
 | `jp.se` | — | — | — | active |
 | `k-bygg.se` | — | — | — | expired |
 | `k-rauta.se` | — | — | — | expired |
+| `kalender.se` | [policy](https://kalender.se/security/) | monetary | — | active |
 | `kalmar.se` | — | — | — | active |
 | `kammarkollegiet.se` | — | — | — | active |
 | `karlshamn.se` | — | — | — | active |
@@ -478,6 +479,7 @@
 | `universityadmissions.se` | — | — | — | active |
 | `upplands-bro.se` | — | — | — | active |
 | `upplandsvasby.se` | — | — | — | active |
+| `uropenn.se` | — | — | — | active |
 | `ut.se` | — | — | — | active |
 | `uu.se` | — | — | — | active |
 | `vaggeryd.se` | — | — | — | active |

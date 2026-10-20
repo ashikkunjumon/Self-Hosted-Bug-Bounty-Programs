@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-382 programs.
+383 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -117,6 +117,7 @@
 | `gkb.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/gkb-bug-bounty) | monetary | — | active |
 | `gl.ch` | — | — | — | active |
 | `glamos.ch` | — | — | — | active |
+| `glarus.ch` | — | — | — | active |
 | `glassdoor.ch` | [policy](https://help.glassdoor.com/s/article/Bug-Bounty-Program?language=en_US) | — | — | retired |
 | `glueckskette.ch` | — | — | — | active |
 | `gmx.ch` | [policy](https://bugbounty.gmx.net) | monetary | — | active |
@@ -323,7 +324,7 @@
 | `swisstph.ch` | — | — | — | active |
 | `swisstxt.ch` | — | — | — | expired |
 | `swissvotes.ch` | [policy](https://www.seantis.ch/security) | recognition | yes | active |
-| `switch.ch` | [policy](https://www.switch.ch/security/SWITCH-CERT.txt) | — | — | active |
+| `switch.ch` | [policy](https://portal.switch.ch/pub/Switch-CERT/rfc2350_SWITCH.txt) | — | — | active |
 | `sympany.ch` | — | — | — | active |
 | `sz.ch` | — | — | — | active |
 | `tchibo.ch` | — | — | — | active |

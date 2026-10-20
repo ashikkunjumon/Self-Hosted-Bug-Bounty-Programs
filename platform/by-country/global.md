@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-611 programs.
+614 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@
 | `blockchain.info` | [policy](https://bugcrowd.com/engagements/blockchain-dot-com https://hackenproof.com/programs/blockchain-dot-com) | — | — | active |
 | `bmw-welt.com` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
 | `bmwgroup.com` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
-| `booking.com` | — | — | — | expired |
+| `booking.com` | — | — | — | active |
 | `bounty.decred.org` | [policy](https://bounty.decred.org/) | monetary | — | retired |
 | `brave.com` | [policy](https://hackerone.com/brave?view_policy=true) | — | — | active |
 | `braze.com` | [policy](https://hackerone.com/braze_inc) | — | — | active |
@@ -245,7 +245,7 @@
 | `highdefdigest.com` | — | — | — | active |
 | `hiringlab.org` | [policy](https://www.indeed.com/legal?hl=en&from=gnav-homepage#ivrp) | monetary | — | expired |
 | `hivehome.com` | [policy](https://www.hivehome.com/security) | monetary | — | retired |
-| `hostinger.com` | [policy](https://www.hostinger.com/legal/responsible-disclosure-policy) | monetary | yes | active |
+| `hostinger.com` | [policy](https://www.hostinger.com/legal/responsible-disclosure-policy) | — | — | active |
 | `hotelfachzeitung.com` | [policy](https://www.hotelfachzeitung.com/hotelnachrichten/fachwissen/computer-hacker-im-hotel-bug-bounty-programme-zur-praevention) | monetary | — | retired |
 | `hotelscombined.com` | [policy](https://www.kayak.com/security/) | monetary | — | active |
 | `hotpads.com` | [policy](https://hackerone.com/zillowgroup) | recognition | — | retired |
@@ -390,6 +390,7 @@
 | `ory.com` | [policy](https://www.ory.com/docs/ecosystem/security) | — | — | active |
 | `oshrc.gov` | [policy](https://www.oshrc.gov/vulnerability-disclosure-policy/) | — | — | retired |
 | `ourfabriq.com` | [policy](https://ourfabriq.com/responsible-disclosure-policy) | monetary | yes | retired |
+| `outbrain.com` | [policy](https://www.outbrain.com/security/bug-bounty/) | monetary | yes | active |
 | `overture.com` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | active |
 | `ovh.com` | [policy](https://yeswehack.com/programs/ovh) | monetary | — | active |
 | `ovhcloud.com` | [policy](https://yeswehack.com/programs/ovh) | monetary | — | active |
@@ -525,6 +526,7 @@
 | `thoughtco.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `threema.com` | — | monetary | — | active |
 | `timeanddate.com` | [policy](https://hackerone.com/timeanddate) | monetary | — | expired |
+| `timhortons.com` | [policy](https://www.timhortons.ca/report-security-issue) | — | — | active |
 | `tomtom.com` | [policy](https://www.tomtom.com/responsible-disclosure/) | — | — | retired |
 | `toyota.com` | [policy](https://hackerone.com/toyota) | — | — | active |
 | `transferwise.com` | [policy](https://bugcrowd.com/engagements/wise) | monetary | — | expired |
@@ -614,4 +616,5 @@
 | `zapier.com` | [policy](https://zapier.com/l/bug-bounty-program) | monetary | — | retired |
 | `zendesk.com` | [policy](https://www.zendesk.com/company/policies-and-guidelines/responsible-disclosure-policy/) | — | — | active |
 | `zerodisclo.com` | [policy](https://vdp.yeswehack.com) | — | — | active |
+| `zopa.com` | — | — | — | active |
 | `zscaler.com` | [policy](https://www.zscaler.com/security/vulnerability-disclosure-program) | monetary | — | retired |

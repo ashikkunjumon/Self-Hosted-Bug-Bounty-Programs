@@ -74,7 +74,7 @@
 | `truemetal.it` | — | — | — | expired |
 | `unibocconi.it` | [policy](https://unibocconi.it/security/vulnerability-disclosure) | monetary | — | active |
 | `unige.it` | [policy](https://intranet.unige.it/notifica-incidenti-informatici) | — | — | active |
-| `unigre.it` | — | — | — | expired |
+| `unigre.it` | — | — | — | active |
 | `unipegaso.it` | — | — | — | active |
 | `unive.it` | — | — | — | active |
 | `vinted.it` | — | — | — | active |

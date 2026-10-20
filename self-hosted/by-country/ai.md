@@ -37,7 +37,7 @@
 | `indykite.ai` | [policy](https://indykite.com/responsible-disclosure-policy/) | swag | yes | active |
 | `inqura.ai` | [policy](https://inqura.ai/security) | recognition | yes | retired |
 | `insighthealth.ai` | [policy](https://insighthealth.ai/security) | recognition | — | active |
-| `iudexnc.ai` | [policy](https://iudexnc.ai/security) | — | yes | active |
+| `iudexnc.ai` | [policy](https://iudexnc.ai/security/vulnerability-disclosure) | — | yes | active |
 | `juicebox.ai` | [policy](https://juicebox.ai/responsible-disclosure) | — | — | active |
 | `junowealth.ai` | [policy](https://junowealth.ai/security) | recognition | yes | active |
 | `kavion.ai` | [policy](https://www.kavion.ai/responsible-disclosure-policy) | recognition | yes | retired |

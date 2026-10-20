@@ -100,7 +100,7 @@
 | `louvre.fr` | — | — | — | expired |
 | `m6.fr` | — | — | — | active |
 | `maisondelaradio.fr` | — | — | — | expired |
-| `marseille.fr` | — | recognition | — | active |
+| `marseille.fr` | — | recognition | — | retired |
 | `matmut.fr` | — | — | — | expired |
 | `melenchon.fr` | — | — | — | expired |
 | `metro.fr` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | expired |

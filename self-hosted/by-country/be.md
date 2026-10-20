@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-249 programs.
+250 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -105,6 +105,7 @@
 | `hollandandbarrett.be` | [policy](https://vdp.hollandandbarrett.com/) | — | — | active |
 | `hoogewijs.be` | [policy](https://www.hoogewijs.be/en/responsibledisclosure/) | — | — | retired |
 | `hoogstraten.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
+| `horecaexpo.be` | — | — | — | active |
 | `hotwin.be` | — | — | — | active |
 | `houthalen-helchteren.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `hzs.be` | — | — | — | active |

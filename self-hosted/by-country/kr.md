@@ -1,6 +1,6 @@
 # Self-hosted programs — KR
 
-4 programs.
+5 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -8,3 +8,4 @@
 | `engoo.co.kr` | — | — | — | active |
 | `expedia.co.kr` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
 | `flashscore.co.kr` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
+| `nyr.kr` | — | — | — | active |
