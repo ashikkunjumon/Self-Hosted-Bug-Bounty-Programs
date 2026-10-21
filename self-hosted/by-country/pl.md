@@ -1,12 +1,13 @@
 # Self-hosted programs — PL
 
-175 programs.
+176 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `abczdrowie.pl` | — | — | — | active |
 | `amso.pl` | — | — | — | active |
 | `android.com.pl` | [policy](https://android.com.pl/.well-known/security-policy.txt) | — | — | active |
+| `atomstore.pl` | — | — | — | active |
 | `auto-swiat.pl` | — | — | — | active |
 | `autocentrum.pl` | — | — | — | active |
 | `autokult.pl` | — | — | — | active |

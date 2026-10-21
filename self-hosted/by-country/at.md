@@ -1,6 +1,6 @@
 # Self-hosted programs — AT
 
-152 programs.
+154 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -101,6 +101,7 @@
 | `obdev.at` | [policy](https://obdev.at/cve/vulnerability-disclosure-policy.html) | monetary | yes | active |
 | `oebb.at` | — | — | — | active |
 | `oegk.at` | — | — | — | active |
+| `oenb.at` | — | — | — | active |
 | `omv.at` | — | — | — | active |
 | `opensocial.at` | [policy](https://friendi.ca/security-policy/) | monetary | — | active |
 | `orf.at` | [policy](https://der.orf.at/vdp100.html) | monetary | yes | active |
@@ -142,6 +143,7 @@
 | `tui.at` | [policy](https://vdp.tui.com/p/Policy) | — | — | active |
 | `tuwien.ac.at` | — | — | — | active |
 | `tuwien.at` | — | — | — | active |
+| `uibk.ac.at` | — | — | — | active |
 | `uni-salzburg.at` | — | — | — | expired |
 | `unileoben.ac.at` | — | — | — | active |
 | `unsereoebb.at` | — | — | — | active |

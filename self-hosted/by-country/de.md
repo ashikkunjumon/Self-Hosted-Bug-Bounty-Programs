@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-459 programs.
+461 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -14,6 +14,7 @@
 | `aboutyou.de` | — | monetary | — | retired |
 | `adesso.de` | — | — | — | active |
 | `adminforge.de` | — | — | — | active |
+| `aerzte-ohne-grenzen.de` | — | — | — | active |
 | `afterbuy.de` | — | — | — | active |
 | `allianz-fuer-cybersicherheit.de` | [policy](https://www.bsi.bund.de/dok/schwachstellenmeldung) | recognition | — | active |
 | `allianzdirect.de` | — | — | — | expired |
@@ -210,7 +211,7 @@
 | `hwk-muenchen.de` | — | — | — | active |
 | `hzdr.de` | — | — | — | active |
 | `iab.de` | — | — | — | retired |
-| `ihk.de` | — | — | — | retired |
+| `ihk.de` | — | — | — | active |
 | `immobilienscout24.de` | — | monetary | — | active |
 | `immowelt.de` | — | — | — | active |
 | `in-berlin.de` | — | — | — | active |
@@ -333,7 +334,7 @@
 | `ruhr-uni-bochum.de` | — | — | — | active |
 | `ruhrnachrichten.de` | — | — | — | active |
 | `rwth-aachen.de` | [policy](https://help.itc.rwth-aachen.de/service/e0bd09c2eb3241f784a3581fd8da5d81/article/c2079013844b48538571da06041bb857/) | — | — | active |
-| `s-communication.de` | [policy](https://www.s-communication.de/BugBounty.html) | monetary | — | active |
+| `s-communication.de` | [policy](https://www.s-communication.de/BugBounty.html) | monetary | — | retired |
 | `sachsen-anhalt.de` | — | — | — | active |
 | `sachsen.de` | — | — | — | active |
 | `sana.de` | — | — | — | active |
@@ -432,6 +433,7 @@
 | `utb.de` | — | — | — | active |
 | `utopia.de` | — | — | — | expired |
 | `verbraucherzentrale-energieberatung.de` | — | — | — | expired |
+| `verdi.de` | — | — | — | active |
 | `verivox.de` | — | — | — | expired |
 | `vogel.de` | — | — | — | active |
 | `vogelsbergkreis.de` | [policy](https://www.vogelsbergkreis.de/informationen/sicherheitsluecke-melden/) | — | — | active |
@@ -459,7 +461,7 @@
 | `wuerzburg.de` | — | — | — | active |
 | `wuppertal.de` | [policy](https://digital.wuppertal.de/medien_digitalisierung/10_ISMS_Stadt_Wuppertal_Richtlinie_zur_Offenlegung_von_Sicherheitsluecken_V2.0.pdf) | monetary | — | active |
 | `xing.de` | [policy](https://www.new-work.se/.well-known/rfc-2350.txt) | — | — | expired |
-| `zdf.de` | — | — | — | active |
+| `zdf.de` | — | — | — | expired |
 | `zdfheute.de` | — | — | — | active |
 | `zdh.de` | — | — | — | active |
 | `zentrale.de` | — | — | — | retired |

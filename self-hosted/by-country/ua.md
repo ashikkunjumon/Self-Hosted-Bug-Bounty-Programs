@@ -1,6 +1,6 @@
 # Self-hosted programs — UA
 
-50 programs.
+52 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -26,7 +26,9 @@
 | `flashscore.ua` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `fozzyshop.ua` | — | — | — | active |
 | `gas.ua` | — | — | — | expired |
+| `grmu.com.ua` | — | — | — | active |
 | `id.gov.ua` | — | — | — | active |
+| `irbis-nbuv.gov.ua` | — | — | — | active |
 | `jetsetter.ua` | — | — | — | retired |
 | `kg.ua` | [policy](https://kg.ua/sc_txt/security-policy.html) | — | — | active |
 | `kontramarka.ua` | — | — | — | active |

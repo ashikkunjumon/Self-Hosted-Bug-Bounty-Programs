@@ -1,6 +1,6 @@
 # Self-hosted programs — NL
 
-379 programs.
+383 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -98,6 +98,7 @@
 | `diabetesfonds.nl` | — | — | — | active |
 | `digid.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `digitaleoverheid.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
+| `dirk.nl` | [policy](https://dirk.nl/algemene-informatie) | monetary | — | active |
 | `dnb.nl` | [policy](https://www.dnb.nl/privacy-en-beveiliging/kwetsbaarheid-melden/) | — | yes | active |
 | `drentsmuseum.nl` | [policy](https://www.slash2.nl/responsible-disclosure-policy) | recognition | yes | active |
 | `duinrell.nl` | — | — | — | active |
@@ -146,6 +147,7 @@
 | `hollandandbarrett.nl` | [policy](https://vdp.hollandandbarrett.com/) | — | — | active |
 | `hornbach.nl` | — | — | — | active |
 | `hostfact.nl` | [policy](https://www.hostfact.nl/security/) | — | — | retired |
+| `hosting2go.nl` | — | — | — | expired |
 | `htm.nl` | [policy](https://www.htm.nl/en/general-terms-and-conditions/responsible-disclosure/hall-of-fame/) | recognition | — | retired |
 | `huurcommissie.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `hypotheker.nl` | — | recognition | — | active |
@@ -175,6 +177,7 @@
 | `justis.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `kaartje2go.nl` | [policy](https://k2go-assets-fra.s3.eu-central-1.amazonaws.com/Out+of+scope+responsible+disclosure.pdf) | monetary | — | active |
 | `kabk.nl` | — | — | — | active |
+| `kadaster.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `kanker.nl` | — | — | — | retired |
 | `kansspelautoriteit.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `kennisnet.nl` | — | — | — | active |
@@ -367,6 +370,7 @@
 | `werk.nl` | [policy](https://www.uwv.nl/nl/over-uwv/kwetsbaarheden-melden) | monetary | yes | active |
 | `werkaandemuur.nl` | — | — | — | active |
 | `werkspot.nl` | — | — | — | expired |
+| `wikikids.nl` | — | — | — | active |
 | `windesheim.nl` | [policy](https://www.windesheim.com/getmedia/e3e30de8-6c9b-4db5-9a68-5998d52b4d8b/Responsible-disclosure-policy-Windesheim.pdf) | monetary | — | active |
 | `wodc.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `woonbond.nl` | — | — | — | active |

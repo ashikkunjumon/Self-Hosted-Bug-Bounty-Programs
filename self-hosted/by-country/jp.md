@@ -13,7 +13,7 @@
 | `jps.jp` | — | — | — | active |
 | `konami.jp` | — | — | — | active |
 | `kuruma-news.jp` | — | — | — | expired |
-| `locondo.jp` | — | — | — | active |
+| `locondo.jp` | — | monetary | — | active |
 | `lolipop.jp` | [policy](https://pepabo.com/contact/vulnerability-reporting/) | monetary | yes | active |
 | `michelin.co.jp` | — | — | — | active |
 | `mitsubishielectric.co.jp` | [policy](https://www.mitsubishielectric.co.jp/psirt/policy/index.html) | — | — | active |

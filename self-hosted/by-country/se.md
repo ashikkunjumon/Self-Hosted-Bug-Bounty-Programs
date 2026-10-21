@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-514 programs.
+516 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -61,6 +61,7 @@
 | `businessregiongoteborg.se` | — | — | — | expired |
 | `byggindustrin.se` | — | — | — | active |
 | `byggnads.se` | — | — | — | active |
+| `cab.se` | — | — | — | active |
 | `cancercentrum.se` | — | — | — | active |
 | `casinodealen.se` | [policy](https://casinodealen.se/security-policy) | recognition | — | active |
 | `centerpartiet.se` | — | — | — | active |
@@ -355,6 +356,7 @@
 | `regionstockholm.se` | — | — | — | active |
 | `regionuppsala.se` | — | — | — | active |
 | `regionvasterbotten.se` | — | — | — | active |
+| `resume.se` | — | — | — | active |
 | `rf.se` | — | — | — | active |
 | `rfsisu.se` | — | — | — | active |
 | `riddermarkbil.se` | — | — | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — PT
 
-45 programs.
+46 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -44,6 +44,7 @@
 | `ubi.pt` | — | — | — | expired |
 | `uc.pt` | [policy](https://www.uc.pt/protecao-de-dados-e-informacao-administrativa/politica-de-privacidade/) | — | — | active |
 | `uevora.pt` | — | — | — | active |
+| `unipb.pt` | — | monetary | — | expired |
 | `upt.pt` | — | — | — | expired |
 | `vinted.pt` | — | — | — | active |
 | `virtualdata.pt` | — | — | — | active |

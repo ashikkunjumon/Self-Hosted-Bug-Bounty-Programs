@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-250 programs.
+252 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -120,6 +120,7 @@
 | `kaartdirect.be` | — | — | — | active |
 | `kaartje2go.be` | [policy](https://www.kaartje2go.be/responsible-disclosure) | monetary | yes | active |
 | `kaiserkraft.be` | — | — | — | active |
+| `kasterlee.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `kompascamping.be` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | active |
 | `kringwinkel.be` | — | — | — | expired |
 | `lanaken.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
@@ -221,6 +222,7 @@
 | `tvd.be` | [policy](https://dovendi.com/en/security-policy) | — | yes | active |
 | `ucll.be` | — | — | — | expired |
 | `uclouvain.be` | — | — | — | active |
+| `uitinvlaanderen.be` | [policy](https://www.publiq.be/en/projects/publiq-platform/responsible-disclosure-policy) | recognition | — | active |
 | `uitpas.be` | [policy](https://www.publiq.be/en/projects/publiq-platform/responsible-disclosure-policy) | recognition | — | active |
 | `unix-solutions.be` | [policy](https://datacenters.unix-solutions.be/responsibledisclosure) | — | — | active |
 | `vanbreda.be` | [policy](https://www.vanbreda.be/en/legal/vulnerability-report) | monetary | — | expired |

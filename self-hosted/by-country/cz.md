@@ -237,7 +237,7 @@
 | `osa.cz` | — | — | — | active |
 | `osu.cz` | — | — | — | active |
 | `paladix.cz` | — | — | — | active |
-| `pamatkovykatalog.cz` | — | — | — | retired |
+| `pamatkovykatalog.cz` | — | — | — | active |
 | `patria.cz` | — | — | — | active |
 | `penzion.cz` | — | — | — | active |
 | `petcenter.cz` | — | — | — | active |

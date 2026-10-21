@@ -1,6 +1,6 @@
 # Self-hosted programs — FR
 
-164 programs.
+165 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -20,6 +20,7 @@
 | `auchan.fr` | — | — | — | active |
 | `axa.fr` | [policy](https://cert.axa/) | — | — | active |
 | `backmarket.fr` | — | — | — | active |
+| `bdo.fr` | — | — | — | expired |
 | `bitrix24.fr` | — | — | — | active |
 | `boamp.fr` | — | — | — | active |
 | `bodacc.fr` | — | — | — | active |

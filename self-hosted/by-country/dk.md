@@ -154,5 +154,5 @@
 | `viborg.dk` | — | — | — | active |
 | `vielskerserier.dk` | — | — | — | expired |
 | `wannafind.dk` | — | — | — | active |
-| `williamdam.dk` | — | recognition | — | active |
+| `williamdam.dk` | — | recognition | — | retired |
 | `worldonline.dk` | — | — | — | active |
