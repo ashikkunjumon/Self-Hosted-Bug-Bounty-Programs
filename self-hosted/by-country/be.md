@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-252 programs.
+253 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -204,6 +204,7 @@
 | `starcasinosport.be` | — | — | — | active |
 | `stavelot.be` | — | — | — | active |
 | `steunactie.be` | — | — | — | expired |
+| `stripinfo.be` | — | — | — | active |
 | `studentjob.be` | [policy](https://www.youngcapital.nl/security) | monetary | yes | expired |
 | `synaro.be` | — | — | — | active |
 | `taaltelefoon.be` | — | — | — | active |

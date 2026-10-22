@@ -1,6 +1,6 @@
 # Self-hosted programs — PL
 
-176 programs.
+178 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -23,6 +23,7 @@
 | `ceneo.pl` | — | — | — | expired |
 | `ceo.com.pl` | — | — | — | active |
 | `cert.pl` | — | — | — | active |
+| `certum.pl` | [policy](https://www.certum.pl/.well-known/vdp.pdf) | monetary | — | active |
 | `chatazagadek.pl` | — | — | — | active |
 | `decathlon.pl` | [policy](https://vdp.decathlon.net) | — | — | retired |
 | `dns.pl` | — | — | — | active |
@@ -133,6 +134,7 @@
 | `pysznosci.pl` | — | — | — | active |
 | `radioram.pl` | — | — | — | active |
 | `radiowroclaw.pl` | — | — | — | active |
+| `rankomat.pl` | — | — | — | active |
 | `ratujemyzwierzaki.pl` | — | — | — | active |
 | `regiodom.pl` | — | — | — | expired |
 | `ringieraxelspringer.pl` | — | — | — | active |

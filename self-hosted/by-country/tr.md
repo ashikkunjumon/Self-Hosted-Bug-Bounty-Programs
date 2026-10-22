@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 | `akyatirim.com.tr` | — | — | — | active |
 | `bahcesehir.edu.tr` | [policy](https://bidb.bau.edu.tr/privacy-policy/) | — | — | active |
-| `bau.edu.tr` | [policy](https://bidb.bau.edu.tr/privacy-policy/) | — | — | active |
+| `bau.edu.tr` | [policy](https://bidb.bau.edu.tr/privacy-policy/) | — | — | retired |
 | `bosch.com.tr` | [policy](https://psirt.bosch.com/bosch-responsible-disclosure-policy/) | recognition | — | active |
 | `boyner.com.tr` | — | — | — | expired |
 | `decathlon.com.tr` | [policy](https://vdp.decathlon.net) | — | — | active |

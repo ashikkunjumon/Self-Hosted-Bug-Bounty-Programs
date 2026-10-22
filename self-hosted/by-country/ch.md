@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-383 programs.
+388 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -92,6 +92,7 @@
 | `ethz.ch` | [policy](https://www.ethz.ch/content/dam/ethz/associates/services/Service/IT-Services/files/documents/eth-disclosure-policy-en.pdf) | monetary | — | active |
 | `etools.ch` | — | — | — | active |
 | `eve-rave.ch` | — | — | — | active |
+| `ewl-luzern.ch` | — | — | — | active |
 | `ewz.ch` | — | — | — | active |
 | `exlibris.ch` | — | — | — | active |
 | `expedia.ch` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
@@ -188,6 +189,7 @@
 | `lenzburg.ch` | — | — | — | active |
 | `liarumantscha.ch` | — | — | — | active |
 | `lidl.ch` | — | — | — | active |
+| `liestal.ch` | — | — | — | active |
 | `liip.ch` | [policy](https://liip.to/security) | — | yes | active |
 | `local.ch` | — | monetary | — | active |
 | `localsearch.ch` | — | monetary | — | active |
@@ -195,7 +197,7 @@
 | `lqj.ch` | — | — | — | active |
 | `luks.ch` | — | recognition | — | active |
 | `lups.ch` | — | — | — | expired |
-| `martigny.ch` | — | — | — | active |
+| `martigny.ch` | — | — | — | retired |
 | `maschinenmarkt.ch` | — | — | — | expired |
 | `melectronics.ch` | — | — | — | active |
 | `meteotest.ch` | — | — | — | active |
@@ -240,6 +242,7 @@
 | `plan-les-ouates.ch` | — | — | — | active |
 | `pmodwrc.ch` | — | — | — | expired |
 | `pomona.ch` | — | — | — | active |
+| `porrentruy.ch` | — | — | — | active |
 | `post.ch` | [policy](https://vdp.post.ch/p/Information-Security) | — | — | active |
 | `postauto.ch` | [policy](https://vdp.post.ch/p/Information-Security) | — | — | active |
 | `poste.ch` | [policy](https://vdp.post.ch/p/Information-Security) | — | — | active |
@@ -280,6 +283,7 @@
 | `sge-ssn.ch` | — | — | — | active |
 | `sgkb.ch` | — | — | — | active |
 | `shiftcrypto.ch` | [policy](https://bitbox.swiss/policies/bug-bounty-policy/) | monetary | — | active |
+| `sierre.ch` | — | — | — | active |
 | `sig-ge.ch` | — | — | — | expired |
 | `sihf.ch` | — | — | — | active |
 | `sion.ch` | — | — | — | active |
@@ -294,6 +298,7 @@
 | `solnet.ch` | — | — | — | active |
 | `solothurnerspitaeler.ch` | — | — | — | active |
 | `spielsucht-radix.ch` | — | — | — | active |
+| `sportintegrity.ch` | — | — | — | active |
 | `spreadshirt.ch` | — | — | — | retired |
 | `srf.ch` | — | — | — | active |
 | `stadt-schaffhausen.ch` | — | — | — | active |

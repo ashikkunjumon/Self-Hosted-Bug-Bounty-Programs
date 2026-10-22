@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-461 programs.
+463 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -22,6 +22,7 @@
 | `aol.de` | [policy](https://legal.aol.com/responsible-disclosure.html) | — | — | active |
 | `arbeitsagentur.de` | — | — | — | active |
 | `ardaudiothek.de` | — | — | — | expired |
+| `ardsounds.de` | — | — | — | expired |
 | `aubi-plus.de` | — | — | — | active |
 | `augsburg.de` | — | — | — | active |
 | `auswaertiges-amt.de` | — | — | — | active |
@@ -170,7 +171,7 @@
 | `gettyimages.de` | — | — | — | retired |
 | `giga.de` | — | — | — | active |
 | `gira.de` | [policy](https://www.gira.de/cybersecurity/en-cvd-policy) | — | yes | active |
-| `gitslayer.de` | [policy](https://github.com/go-gitea/gitea/blob/main/SECURITY.md) | recognition | — | active |
+| `gitslayer.de` | [policy](https://github.com/go-gitea/gitea/blob/main/SECURITY.md) | recognition | — | retired |
 | `glassdoor.de` | [policy](https://help.glassdoor.com/s/article/Bug-Bounty-Program?language=en_US) | — | — | retired |
 | `gmx.de` | [policy](https://bugbounty.gmx.net) | monetary | — | active |
 | `goettingen.de` | — | — | — | active |
@@ -266,6 +267,7 @@
 | `medatixx.de` | [policy](https://medatixx.de/security-policy) | monetary | yes | active |
 | `medpex.de` | [policy](https://www.medpex.de/ueber-uns/cyber-sicherheit) | — | yes | active |
 | `meineschufa.de` | — | — | — | active |
+| `messe-ticket.de` | [policy](https://trust.aditus.com/) | — | — | active |
 | `metro.de` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | expired |
 | `michelin.de` | — | — | — | active |
 | `mindfactory.de` | — | recognition | — | active |
@@ -461,7 +463,7 @@
 | `wuerzburg.de` | — | — | — | active |
 | `wuppertal.de` | [policy](https://digital.wuppertal.de/medien_digitalisierung/10_ISMS_Stadt_Wuppertal_Richtlinie_zur_Offenlegung_von_Sicherheitsluecken_V2.0.pdf) | monetary | — | active |
 | `xing.de` | [policy](https://www.new-work.se/.well-known/rfc-2350.txt) | — | — | expired |
-| `zdf.de` | — | — | — | expired |
+| `zdf.de` | — | — | — | active |
 | `zdfheute.de` | — | — | — | active |
 | `zdh.de` | — | — | — | active |
 | `zentrale.de` | — | — | — | retired |

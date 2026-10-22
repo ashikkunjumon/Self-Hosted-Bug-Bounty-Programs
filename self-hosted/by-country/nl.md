@@ -1,6 +1,6 @@
 # Self-hosted programs — NL
 
-383 programs.
+390 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -56,6 +56,7 @@
 | `bevolkingsonderzoeknederland.nl` | [policy](https://www.bevolkingsonderzoeknederland.nl/responsible-disclosure/) | — | yes | retired |
 | `bibliotheek.nl` | — | — | — | expired |
 | `bigregister.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
+| `bit.nl` | [policy](https://www.bit.nl/en/about-bit/terms-and-policies/responsible-disclosure-en) | — | — | active |
 | `bitonic.nl` | [policy](https://bitonic.nl/nl/responsible-disclosure) | recognition | — | retired |
 | `bnr.nl` | [policy](https://fdmg.nl/content/uploads/2021/06/Responsible_Disclosure.pdf) | monetary | — | expired |
 | `bouwendnederland.nl` | — | — | — | active |
@@ -212,6 +213,7 @@
 | `meldmisdaadanoniem.nl` | — | — | — | expired |
 | `mensenrechten.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `menzis.nl` | [policy](https://www.menzis.nl/klantenservice/responsible-disclosure) | monetary | — | active |
+| `mijndomein.nl` | [policy](https://www.mijndomein.nl/over-mijndomein/ethisch-hacken) | recognition | — | active |
 | `mijnwebwinkel.nl` | — | monetary | — | expired |
 | `mijnwoordenboek.nl` | — | — | — | active |
 | `mkb.nl` | — | — | — | active |
@@ -219,6 +221,7 @@
 | `mooiedomeinnaam.nl` | — | — | — | expired |
 | `movisie.nl` | — | — | — | active |
 | `mumc.nl` | — | — | — | active |
+| `muziekgebouw.nl` | — | — | — | active |
 | `muziekschatten.nl` | — | — | — | active |
 | `nationaalarchief.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `nationaleombudsman.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
@@ -232,9 +235,11 @@
 | `netherlandsworldwide.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `nhnieuws.nl` | [policy](https://nhnieuws.nl/responsible-disclosure) | — | — | active |
 | `nijmegen.nl` | [policy](https://www.nijmegen.nl/diensten/privacy/beveiligings-of-datalek-melden/) | recognition | yes | active |
+| `nipv.nl` | [policy](https://nipv.nl/kwetsbaarheidmelden/) | — | yes | active |
 | `nivel.nl` | [policy](https://www.nivel.nl/responsible-disclosure-policy) | — | yes | expired |
 | `nji.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `nki.nl` | [policy](https://www.nki.nl/about-us/organization/disclaimer/coordinated-vulnerability-disclosure) | recognition | — | retired |
+| `nlarbeidsinspectie.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `nlnet.nl` | — | — | — | active |
 | `nlnetlabs.nl` | [policy](https://www.nlnetlabs.nl/security-report/) | — | — | active |
 | `nltimes.nl` | [policy](https://nltimes.nl/vulnerability-disclosure-policy) | monetary | — | expired |
@@ -267,6 +272,7 @@
 | `onderzoeksraad.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `onlinecasinoground.nl` | — | — | — | expired |
 | `onvz.nl` | [policy](https://www.onvz.nl/veiligheid) | — | — | active |
+| `oost.nl` | — | — | — | active |
 | `openluchtmuseum.nl` | — | — | — | active |
 | `openovergokken.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | swag | — | active |
 | `oranjefonds.nl` | — | — | — | active |
@@ -283,6 +289,7 @@
 | `raadvanstate.nl` | [policy](https://www.ncsc.nl/contact/kwetsbaarheid-melden) | monetary | — | active |
 | `rabobank.nl` | [policy](https://www.rabobank.com/responsible-disclosure) | — | — | active |
 | `radboudumc.nl` | [policy](https://www.radboudumc.nl/security/responsible-disclosure) | monetary | yes | active |
+| `radio1.nl` | — | recognition | — | active |
 | `rd.nl` | [policy](https://service.erdee.nl/security/responsible-disclosure-policy) | — | yes | active |
 | `rdw.nl` | [policy](https://www.rdw.nl/over-rdw/kwaliteits--en-servicenormen/security-operations-center-soc) | monetary | — | active |
 | `rechtspraak.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |

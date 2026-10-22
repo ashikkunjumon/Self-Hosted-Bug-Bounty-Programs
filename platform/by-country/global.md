@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-614 programs.
+615 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -122,6 +122,7 @@
 | `contentsquare.com` | [policy](https://contentsquare.com/disclosure) | monetary | — | active |
 | `continuum.io` | — | — | — | expired |
 | `cookinglight.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
+| `costco.com` | [policy](https://hackerone.com/costco) | — | — | active |
 | `coveo.com` | — | — | — | retired |
 | `covermymeds.com` | [policy](https://www.mckesson.com/cybersecurity/coordinated-vulnerability-disclosure/) | monetary | — | active |
 | `cpanel.com` | — | — | — | active |
@@ -262,7 +263,7 @@
 | `icann.org` | [policy](https://www.icann.org/vulnerabilities) | — | — | active |
 | `ifixit.com` | [policy](https://www.ifixit.com/Info/Responsible_Disclosure) | monetary | — | retired |
 | `igraal.com` | [policy](https://atolls.com/disclosure-policy) | — | — | active |
-| `iherb.com` | [policy](https://hackerone.com/iherb) | monetary | — | active |
+| `iherb.com` | [policy](https://hackerone.com/iherb) | monetary | — | retired |
 | `imperva.com` | [policy](https://www.imperva.com/trust-center/responsible-disclosure-policy/) | monetary | yes | retired |
 | `infisical.com` | [policy](https://infisical.com/vulnerability-disclosure) | recognition | yes | active |
 | `infomaniak.com` | [policy](https://infomaniak.vulnerability-disclosure.com) | — | — | active |
@@ -390,7 +391,6 @@
 | `ory.com` | [policy](https://www.ory.com/docs/ecosystem/security) | — | — | active |
 | `oshrc.gov` | [policy](https://www.oshrc.gov/vulnerability-disclosure-policy/) | — | — | retired |
 | `ourfabriq.com` | [policy](https://ourfabriq.com/responsible-disclosure-policy) | monetary | yes | retired |
-| `outbrain.com` | [policy](https://www.outbrain.com/security/bug-bounty/) | monetary | yes | active |
 | `overture.com` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | active |
 | `ovh.com` | [policy](https://yeswehack.com/programs/ovh) | monetary | — | active |
 | `ovhcloud.com` | [policy](https://yeswehack.com/programs/ovh) | monetary | — | active |
@@ -523,6 +523,7 @@
 | `thespruceeats.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `thesprucepets.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `thetileapp.com` | — | — | — | retired |
+| `thinkful.com` | [policy](https://www.chegg.com/skills/) | monetary | — | active |
 | `thoughtco.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `threema.com` | — | monetary | — | active |
 | `timeanddate.com` | [policy](https://hackerone.com/timeanddate) | monetary | — | expired |

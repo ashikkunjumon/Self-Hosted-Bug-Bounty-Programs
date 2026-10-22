@@ -1,6 +1,6 @@
 # Self-hosted programs — BR
 
-93 programs.
+94 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -17,6 +17,7 @@
 | `bosch.com.br` | [policy](https://psirt.bosch.com/bosch-responsible-disclosure-policy/) | recognition | — | active |
 | `brainly.com.br` | [policy](https://brainly.com/responsible-disclosure-program) | — | — | active |
 | `campanha.org.br` | — | — | — | active |
+| `canalmeio.com.br` | [policy](https://www.canalmeio.com.br/termos-de-uso-e-politica-de-privacidade-do-meio/) | — | — | expired |
 | `capterra.com.br` | — | — | — | active |
 | `cbpf.br` | — | — | — | active |
 | `cert.br` | — | — | — | active |

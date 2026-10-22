@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-355 programs.
+356 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -68,6 +68,7 @@
 | `csobpoj.cz` | — | — | — | active |
 | `cuni.cz` | [policy](https://csirt.cuni.cz/en/incident_reporting) | recognition | — | active |
 | `czech-tv.cz` | — | — | — | active |
+| `cztenis.cz` | — | — | — | active |
 | `czu.cz` | — | — | — | active |
 | `dakmoto.cz` | — | — | — | active |
 | `dama.cz` | — | — | — | active |

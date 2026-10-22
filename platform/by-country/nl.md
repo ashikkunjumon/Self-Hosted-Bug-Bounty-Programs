@@ -1,6 +1,6 @@
 # Platform-hosted programs — NL
 
-36 programs.
+35 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -22,7 +22,6 @@
 | `intermediair.nl` | — | monetary | — | active |
 | `libelle.nl` | — | monetary | — | active |
 | `margriet.nl` | — | monetary | — | active |
-| `mijndomein.nl` | [policy](https://www.mijndomein.nl/over-mijndomein/ethisch-hacken) | recognition | — | active |
 | `moneybird.nl` | [policy](https://www.moneybird.nl/security/) | — | — | retired |
 | `nationalevacaturebank.nl` | — | monetary | — | active |
 | `nederlandseloterij.nl` | [policy](https://www.nederlandseloterij.nl/responsible-disclosure) | — | yes | active |

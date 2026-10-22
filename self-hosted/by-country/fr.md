@@ -1,6 +1,6 @@
 # Self-hosted programs — FR
 
-165 programs.
+166 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -50,6 +50,7 @@
 | `ec-nantes.fr` | — | recognition | — | active |
 | `ekomi.fr` | — | — | — | active |
 | `ekwateur.fr` | — | recognition | — | active |
+| `emse.fr` | — | — | — | active |
 | `ensicaen.fr` | — | — | — | active |
 | `euromaster.fr` | — | recognition | — | active |
 | `evaneos.fr` | [policy](https://vdp.evaneos.com/) | — | — | active |
@@ -136,7 +137,7 @@
 | `sengager.fr` | — | — | — | expired |
 | `service-public.fr` | — | — | — | active |
 | `sfr.fr` | — | — | — | active |
-| `skeptikon.fr` | — | — | — | expired |
+| `skeptikon.fr` | — | — | — | retired |
 | `societedugrandparis.fr` | — | — | — | expired |
 | `somfy.fr` | [policy](https://vdp.somfy-group.com/) | — | — | active |
 | `speedy.fr` | — | — | — | active |
