@@ -1,6 +1,6 @@
 # Self-hosted programs — RO
 
-58 programs.
+59 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -61,4 +61,5 @@
 | `unitbv.ro` | — | — | — | active |
 | `upit.ro` | — | — | — | active |
 | `versuri.ro` | — | — | — | active |
+| `vexio.ro` | — | — | — | active |
 | `webcamromania.ro` | — | — | — | retired |

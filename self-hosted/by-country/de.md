@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-463 programs.
+468 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -38,12 +38,14 @@
 | `barmenia.de` | — | — | — | active |
 | `barmeniagothaer.de` | — | — | — | active |
 | `barmer.de` | — | — | — | active |
+| `bayreuth.de` | — | — | — | active |
 | `berlin.de` | [policy](https://www.berlin.de/wir-ueber-uns/security) | recognition | — | active |
 | `berliner-kurier.de` | [policy](https://www.berliner-kurier.de/datenschutzhinweise) | — | — | active |
 | `berliner-zeitung.de` | [policy](https://www.berliner-zeitung.de/datenschutzhinweise) | — | — | active |
 | `berlinerfestspiele.de` | — | — | — | active |
 | `betway.de` | — | — | — | expired |
 | `beuth-hochschule.de` | — | recognition | — | active |
+| `bfn.de` | — | — | — | active |
 | `bg-kliniken.de` | — | — | — | active |
 | `bht-berlin.de` | — | recognition | — | active |
 | `bibb.de` | — | — | — | expired |
@@ -62,6 +64,7 @@
 | `braunschweig.de` | — | — | — | active |
 | `braunschweiger-zeitung.de` | — | — | — | active |
 | `brunner.de` | [policy](https://www.brunner.de/cra-security) | — | — | active |
+| `bsb-muenchen.de` | — | — | — | active |
 | `bsi.de` | [policy](https://www.bsi.bund.de/DE/IT-Sicherheitsvorfall/IT-Schwachstellen/it-schwachstellen_node.html) | recognition | — | active |
 | `bund.de` | — | — | — | active |
 | `bundesamtsozialesicherung.de` | — | — | — | expired |
@@ -80,7 +83,7 @@
 | `cherry.de` | — | — | — | active |
 | `codecentric.de` | — | — | — | active |
 | `comdirect.de` | [policy](https://www.commerzbank.com/security-policy.html) | recognition | — | active |
-| `commerzbank.de` | [policy](https://www.commerzbank.de/konzern/sec/security-policy.html) | recognition | — | active |
+| `commerzbank.de` | [policy](https://www.commerzbank.de/konzern/sec/security-policy.html) | recognition | — | retired |
 | `computerbase.de` | — | — | — | active |
 | `ct.de` | [policy](https://heise.de/-7513540) | monetary | — | active |
 | `cure53.de` | — | recognition | — | active |
@@ -146,6 +149,7 @@
 | `fh-potsdam.de` | — | — | — | expired |
 | `fh-swf.de` | — | — | — | active |
 | `fh-zwickau.de` | — | — | — | active |
+| `filmmakers.de` | [policy](https://www.filmmakers.eu/security-policy) | — | yes | active |
 | `fischer.de` | — | — | — | active |
 | `fiz-karlsruhe.de` | — | — | — | active |
 | `flixbus.de` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |
@@ -240,6 +244,7 @@
 | `komoot.de` | [policy](https://www.komoot.com/security/bug-bounty) | — | — | active |
 | `konstanz.de` | — | — | — | active |
 | `korrektur.de` | — | — | — | active |
+| `krautreporter.de` | — | — | — | active |
 | `kuketz-blog.de` | — | — | — | active |
 | `kulturkaufhaus.de` | — | — | — | expired |
 | `kulturstaatsminister.de` | — | — | — | active |
@@ -316,7 +321,7 @@
 | `porsche.de` | [policy](https://www.porsche.com/international/information-security/) | — | — | active |
 | `postbank.de` | — | — | — | active |
 | `queer.de` | — | — | — | active |
-| `ragsuite.de` | [policy](https://ragsuite.de/security/disclosure) | recognition | yes | active |
+| `ragsuite.de` | [policy](https://ragsuite.de/sicherheitsluecke-melden/) | monetary | yes | active |
 | `ravensburg.de` | [policy](https://www.ravensburg.de/rv/security-policy.php) | monetary | yes | active |
 | `rebaze.de` | [policy](https://www.rebaze.de/security-policy/) | recognition | yes | active |
 | `rebuy.de` | — | — | — | active |
@@ -463,7 +468,7 @@
 | `wuerzburg.de` | — | — | — | active |
 | `wuppertal.de` | [policy](https://digital.wuppertal.de/medien_digitalisierung/10_ISMS_Stadt_Wuppertal_Richtlinie_zur_Offenlegung_von_Sicherheitsluecken_V2.0.pdf) | monetary | — | active |
 | `xing.de` | [policy](https://www.new-work.se/.well-known/rfc-2350.txt) | — | — | expired |
-| `zdf.de` | — | — | — | active |
+| `zdf.de` | — | — | — | expired |
 | `zdfheute.de` | — | — | — | active |
 | `zdh.de` | — | — | — | active |
 | `zentrale.de` | — | — | — | retired |

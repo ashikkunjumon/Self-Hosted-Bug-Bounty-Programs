@@ -4,7 +4,7 @@
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
-| `crowdproof.id` | [policy](https://crowdproof.id/security) | monetary | — | active |
+| `crowdproof.id` | [policy](https://crowdproof.id/security) | monetary | — | retired |
 | `honest.co.id` | [policy](https://honest.co.id/vulnerability-disclosure-policy) | — | yes | active |
 | `kelashack.id` | [policy](https://kelashack.id/vulnerability-disclosure-program) | monetary | — | retired |
 | `kredivo.id` | [policy](https://kredivo.id/en/bug-bounty.html) | monetary | yes | retired |

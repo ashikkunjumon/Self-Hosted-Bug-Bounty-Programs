@@ -1,6 +1,6 @@
 # Self-hosted programs — SK
 
-46 programs.
+47 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -28,6 +28,7 @@
 | `glami.sk` | — | monetary | — | active |
 | `herne-kupony.sk` | — | — | — | active |
 | `homecredit.sk` | — | — | — | active |
+| `idsbk.sk` | — | — | — | active |
 | `ifortuna.sk` | — | monetary | — | active |
 | `lidl.sk` | — | — | — | active |
 | `martinus.sk` | — | — | — | active |

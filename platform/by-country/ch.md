@@ -1,11 +1,12 @@
 # Platform-hosted programs — CH
 
-65 programs.
+66 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `20min.ch` | [policy](https://bugcrowd.com/twentyminuten) | monetary | — | expired |
 | `24heures.ch` | [policy](https://bugcrowd.com/tamedia) | monetary | — | expired |
+| `abacus.ch` | [policy](https://www.abacus.ch/security) | — | — | active |
 | `admin.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | recognition | yes | active |
 | `ag.ch` | — | — | — | active |
 | `airbnb.ch` | [policy](https://hackerone.com/airbnb#overview) | — | — | active |

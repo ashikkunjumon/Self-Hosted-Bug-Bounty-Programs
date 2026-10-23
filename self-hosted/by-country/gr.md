@@ -1,6 +1,6 @@
 # Self-hosted programs — GR
 
-24 programs.
+25 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -19,6 +19,7 @@
 | `larocheposay.gr` | — | recognition | — | active |
 | `lidl-hellas.gr` | — | — | — | active |
 | `masoutis.gr` | — | — | — | expired |
+| `metakomiseis24.gr` | — | — | — | active |
 | `notino.gr` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
 | `opeka.gr` | — | — | — | active |
 | `paixnidiaxl.gr` | — | — | — | active |

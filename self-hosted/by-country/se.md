@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-516 programs.
+517 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@
 | `alvdalen.se` | — | — | — | active |
 | `amal.se` | — | — | — | active |
 | `amelia.se` | — | — | — | active |
-| `ancestry.se` | [policy](https://www.ancestry.com/c/legal/security) | — | — | retired |
+| `ancestry.se` | [policy](https://www.ancestry.com/c/legal/security) | — | — | active |
 | `ange.se` | — | — | — | active |
 | `antagning.se` | — | — | — | active |
 | `arbetarbladet.se` | — | — | — | active |
@@ -142,6 +142,7 @@
 | `goteborgsregionen.se` | — | — | — | active |
 | `gotene.se` | — | — | — | active |
 | `gotland.se` | — | — | — | active |
+| `gotlandstrafikskola.se` | — | — | — | active |
 | `government.se` | — | — | — | active |
 | `grandhotel.se` | — | — | — | active |
 | `granngarden.se` | [policy](https://www.granngarden.se/dataskydd/personuppgiftspolicy) | monetary | — | active |

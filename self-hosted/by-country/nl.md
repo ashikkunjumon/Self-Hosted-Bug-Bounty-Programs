@@ -1,6 +1,6 @@
 # Self-hosted programs — NL
 
-390 programs.
+393 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -210,6 +210,7 @@
 | `marketingfacts.nl` | — | — | — | active |
 | `marktplaats.nl` | [policy](https://adevinta.com/security-vulnerability/) | recognition | yes | active |
 | `mastodon.nl` | [policy](https://www.procolix.eu/en/abuse) | — | — | active |
+| `mediawijsheid.nl` | — | — | — | expired |
 | `meldmisdaadanoniem.nl` | — | — | — | expired |
 | `mensenrechten.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `menzis.nl` | [policy](https://www.menzis.nl/klantenservice/responsible-disclosure) | monetary | — | active |
@@ -359,6 +360,7 @@
 | `veiligheid.nl` | — | — | — | active |
 | `veiliginternetten.nl` | — | — | — | active |
 | `vicompany.nl` | [policy](https://www.vicompany.nl/legal/responsible-disclosure) | monetary | yes | retired |
+| `vinted.nl` | — | — | — | active |
 | `vng.nl` | [policy](https://www.informatiebeveiligingsdienst.nl/responsible-disclosure-english/) | — | — | expired |
 | `vno-ncw.nl` | — | — | — | active |
 | `vodafone.nl` | [policy](https://www.vodafone.nl/over-deze-website/privacy-en-disclaimer/report-security-leak.shtml) | — | — | active |
@@ -391,6 +393,7 @@
 | `zonnet.nl` | — | — | — | active |
 | `zoover.nl` | — | — | — | active |
 | `zorginstituutnederland.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
+| `zorgvoorbeter.nl` | — | — | — | active |
 | `zuid-holland.nl` | [policy](https://www.zuid-holland.nl/algemeen/coordinated-vulnerability-disclosure/) | — | — | active |
 | `zuiderzeemuseum.nl` | — | — | — | active |
 | `zuyd.nl` | [policy](https://www.zuyd.nl/en/responsible-disclosure) | recognition | — | active |

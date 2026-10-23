@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-615 programs.
+616 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -135,6 +135,7 @@
 | `dailypaws.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `danaepp.com` | [policy](https://danaepp.com/the-security-researchers-guide-to-reporting-vulnerabilities-to-vendors) | monetary | yes | retired |
 | `databricks.com` | [policy](https://www.databricks.com/trust) | — | — | active |
+| `de.linkedin.com` | [policy](https://hackerone.com/linkedin?view_policy=true) | — | — | active |
 | `dealabs.com` | [policy](https://atolls.com/disclosure-policy) | — | — | active |
 | `deere.com` | [policy](https://www.deere.com/en-us/our-company/digital-security/responsible-disclosure-policy) | — | — | retired |
 | `deezer.com` | [policy](https://yeswehack.com/programs/deezer-bug-bounty-program-2019) | monetary | — | expired |
@@ -208,7 +209,7 @@
 | `front.com` | — | monetary | — | active |
 | `frtib.gov` | [policy](https://www.frtib.gov/vulnerability-disclosure-policy/) | — | — | retired |
 | `gameforge.com` | [policy](https://security.gameforge.com/en) | — | — | active |
-| `garfieldminusgarfield.net` | [policy](https://hackerone.com/automattic) | — | — | active |
+| `garfieldminusgarfield.net` | [policy](https://hackerone.com/automattic) | — | — | retired |
 | `geckoboard.com` | [policy](https://support.geckoboard.com/en/articles/6055718-report-a-security-vulnerability-and-responsible-disclosure-policies) | monetary | — | retired |
 | `geico.com` | — | — | — | active |
 | `gene.com` | [policy](https://hackerone.com/roche?view_policy=true) | — | — | active |
@@ -492,7 +493,7 @@
 | `stake.com` | — | — | — | expired |
 | `standoff365.com` | [policy](https://standoff365.com/en-US/articles/bug-bounty-platform-analytics-2022/) | monetary | — | retired |
 | `startupintros.com` | [policy](https://startupintros.com/orgs/bugcrowd) | monetary | yes | retired |
-| `statefarm.com` | [policy](https://www.statefarm.com/customer-care/privacy-security/security/vulnerability-disclosure-policy) | — | yes | active |
+| `statefarm.com` | [policy](https://www.statefarm.com/customer-care/privacy-security/security/vulnerability-disclosure-policy) | monetary | — | active |
 | `stellar.org` | [policy](https://stellar.org/grants-and-funding/bug-bounty) | monetary | — | retired |
 | `streamlabs.com` | [policy](https://hackerone.com/logitech) | — | — | active |
 | `streeteasy.com` | [policy](https://hackerone.com/zillowgroup) | recognition | — | active |

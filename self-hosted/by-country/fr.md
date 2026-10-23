@@ -1,6 +1,6 @@
 # Self-hosted programs — FR
 
-166 programs.
+167 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -8,6 +8,7 @@
 | `6play.fr` | — | — | — | active |
 | `99designs.fr` | — | — | — | active |
 | `abritel.fr` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
+| `adameteve.fr` | [policy](https://support.adameteve.fr/hc/fr/articles/7962333796253-Comment-mes-donn%C3%A9es-personnelles-seront-elles-prot%C3%A9g%C3%A9es) | — | — | active |
 | `ag2rlamondiale.fr` | — | recognition | — | active |
 | `agefi.fr` | — | — | — | active |
 | `aja.fr` | — | — | — | active |
@@ -137,7 +138,7 @@
 | `sengager.fr` | — | — | — | expired |
 | `service-public.fr` | — | — | — | active |
 | `sfr.fr` | — | — | — | active |
-| `skeptikon.fr` | — | — | — | retired |
+| `skeptikon.fr` | — | — | — | expired |
 | `societedugrandparis.fr` | — | — | — | expired |
 | `somfy.fr` | [policy](https://vdp.somfy-group.com/) | — | — | active |
 | `speedy.fr` | — | — | — | active |

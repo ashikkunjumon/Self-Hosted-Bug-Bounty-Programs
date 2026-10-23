@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-253 programs.
+255 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -27,6 +27,7 @@
 | `beringen.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `betrouwbaar-casino.be` | [policy](https://betrouwbaar-casino.be/security-policy) | recognition | — | active |
 | `beveren.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
+| `bijloke.be` | — | — | — | active |
 | `bloom.be` | [policy](https://www.bloom.be/security-policy) | recognition | — | active |
 | `bocholt.be` | — | — | — | active |
 | `brabantwallon.be` | — | — | — | active |
@@ -178,6 +179,7 @@
 | `pomwvl.be` | [policy](https://www.pomwvl.be/security-policy) | recognition | — | active |
 | `propertools.be` | [policy](https://propertools.be/security/) | — | yes | active |
 | `proximus.be` | — | — | — | active |
+| `proximusgoformusic.be` | — | — | — | active |
 | `proxis.be` | — | — | — | expired |
 | `quantix.be` | — | — | — | expired |
 | `raversyde.be` | — | — | — | active |

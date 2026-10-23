@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-356 programs.
+357 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -216,6 +216,7 @@
 | `nakluky.cz` | — | — | — | active |
 | `navolnenoze.cz` | [policy](https://navolnenoze.cz/o-nas/soukromi/) | — | — | active |
 | `nejremeslnici.cz` | — | — | — | active |
+| `nethost.cz` | — | — | — | active |
 | `nhr.cz` | — | — | — | active |
 | `nic.cz` | — | — | — | active |
 | `nidv.cz` | — | — | — | active |

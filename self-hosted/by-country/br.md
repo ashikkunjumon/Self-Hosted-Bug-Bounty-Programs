@@ -23,7 +23,7 @@
 | `cert.br` | — | — | — | active |
 | `cesan.com.br` | — | — | — | active |
 | `cirurgicabrasil.com.br` | — | — | — | active |
-| `confeitariacolombo.com.br` | — | — | — | active |
+| `confeitariacolombo.com.br` | — | — | — | expired |
 | `cuponeria.com.br` | — | — | — | active |
 | `cvcrm.com.br` | — | — | — | active |
 | `defesa.gov.br` | [policy](https://www.gov.br/defesa/pt-br/arquivos/legislacao/posin-md-2022.pdf) | — | — | retired |
@@ -52,7 +52,7 @@
 | `jusbrasil.com.br` | — | — | — | active |
 | `kiwify.com.br` | [policy](https://kiwify.com.br/politica-de-privacidade/) | — | — | active |
 | `livepass.com.br` | — | — | — | active |
-| `lojadocapita.com.br` | — | — | — | active |
+| `lojadocapita.com.br` | — | — | — | expired |
 | `loreal-paris.com.br` | — | recognition | — | active |
 | `maringapost.com.br` | — | — | — | active |
 | `marinha.mil.br` | — | — | — | active |
@@ -65,11 +65,11 @@
 | `nivea.com.br` | [policy](https://soc.beiersdorf.com/disclosurepolicy.html) | — | yes | active |
 | `noticiasautomotivas.com.br` | — | — | — | active |
 | `novatec.com.br` | — | — | — | active |
-| `nuvemshop.com.br` | — | — | — | active |
+| `nuvemshop.com.br` | — | — | — | expired |
 | `oabsp.org.br` | — | recognition | — | active |
 | `omelhordopari.com.br` | — | — | — | active |
-| `paraju-vinhos.com.br` | — | — | — | active |
-| `parajuvinhos.com.br` | — | — | — | active |
+| `paraju-vinhos.com.br` | — | — | — | expired |
+| `parajuvinhos.com.br` | — | — | — | expired |
 | `pebmed.com.br` | [policy](https://security.afya.com.br) | — | — | active |
 | `premierpet.com.br` | [policy](https://premierpet.com.br/privacidade/) | recognition | — | active |
 | `printi.com.br` | [policy](https://www.printi.com.br/politicas-de-privacidade/) | swag | — | active |
