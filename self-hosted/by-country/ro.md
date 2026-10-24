@@ -4,7 +4,7 @@
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
-| `aboutyou.ro` | — | monetary | — | retired |
+| `aboutyou.ro` | — | monetary | — | active |
 | `alistmagazine.ro` | — | — | — | active |
 | `antena3.ro` | — | recognition | — | active |
 | `antipa.ro` | — | — | — | active |

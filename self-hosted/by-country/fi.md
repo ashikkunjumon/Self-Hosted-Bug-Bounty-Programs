@@ -22,12 +22,12 @@
 | `curve.fi` | — | — | — | active |
 | `dna.fi` | — | — | — | active |
 | `dustin.fi` | — | — | — | active |
-| `ebookers.fi` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
+| `ebookers.fi` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `elenia.fi` | — | — | — | expired |
 | `elisa.fi` | — | — | — | active |
 | `epassi.fi` | — | — | — | active |
 | `etlehti.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | active |
-| `expedia.fi` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
+| `expedia.fi` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `fennia.fi` | — | — | — | active |
 | `finavia.fi` | — | — | — | active |
 | `finhockey.fi` | — | — | — | active |

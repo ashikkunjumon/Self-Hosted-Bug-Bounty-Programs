@@ -4,7 +4,7 @@
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
-| `expedia.co.jp` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
+| `expedia.co.jp` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `g123.jp` | — | — | — | active |
 | `gettyimages.co.jp` | — | — | — | retired |
 | `gmo.jp` | — | — | — | active |

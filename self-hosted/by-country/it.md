@@ -34,7 +34,7 @@
 | `economyup.it` | — | recognition | — | active |
 | `enav.it` | — | — | — | active |
 | `esg360.it` | — | recognition | — | active |
-| `expedia.it` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
+| `expedia.it` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `fastweb.it` | [policy](https://www.fastweb.it/corporate/responsible-disclosure/) | — | — | active |
 | `feddit.it` | — | — | — | active |
 | `flixbus.it` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |
@@ -67,7 +67,7 @@
 | `savee.it` | — | — | — | active |
 | `sdabocconi.it` | [policy](https://unibocconi.it/security/vulnerability-disclosure) | monetary | — | active |
 | `seeweb.it` | — | — | — | active |
-| `subito.it` | [policy](https://adevinta.com/security-vulnerability/) | — | — | retired |
+| `subito.it` | [policy](https://adevinta.com/security-vulnerability/) | recognition | yes | active |
 | `ticketone.it` | — | — | — | active |
 | `tim.it` | [policy](https://www.gruppotim.it/en/footer/responsible-disclosure.html) | — | — | active |
 | `treatwell.it` | — | — | — | active |

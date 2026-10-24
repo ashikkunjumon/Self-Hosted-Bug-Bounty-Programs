@@ -1,6 +1,6 @@
 # Self-hosted programs — IN
 
-39 programs.
+40 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@
 | `cuh.ac.in` | [policy](https://www.cuh.ac.in/uploads/policies/Clean_ICT_POLICY%5B1%5D.pdf) | — | — | active |
 | `droom.in` | [policy](https://droom.in/bugbounty) | monetary | — | retired |
 | `enj.in` | [policy](https://enj.in/security) | — | — | active |
-| `expedia.co.in` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
+| `expedia.co.in` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `flashscore.in` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `garnier.in` | — | recognition | — | active |
 | `gettyimages.in` | — | — | — | retired |
@@ -31,6 +31,7 @@
 | `nadiazillaparishad.in` | — | — | — | active |
 | `newaymsw.in` | [policy](https://www.agitex.africa.com/chinh-sach-bao-mat/) | — | — | retired |
 | `onnetsolution.in` | — | — | — | active |
+| `renault.co.in` | [policy](https://www.renaultgroup.com/en/vulnerability-disclosure-policy/) | — | — | active |
 | `restopos.in` | [policy](https://www.restopos.in/pages/security.html) | recognition | yes | retired |
 | `saralya.in` | [policy](https://saralya.in/security) | recognition | yes | active |
 | `starplaza.in` | [policy](https://starplaza.in/pages/responsible-disclosure) | monetary | — | retired |

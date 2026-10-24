@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-616 programs.
+619 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -101,7 +101,6 @@
 | `chatgpt.com` | [policy](https://openai.com/policies/coordinated-vulnerability-disclosure-policy) | recognition | — | active |
 | `cheapflights.com` | [policy](https://www.kayak.com/security/) | monetary | — | active |
 | `christianriesen.com` | [policy](https://hackerone.com/automattic) | — | — | retired |
-| `cisa.gov` | [policy](https://www.cisa.gov/vulnerability-disclosure-policy-template) | monetary | — | retired |
 | `classdojo.com` | [policy](https://bugcrowd.com/engagements/classdojo) | monetary | — | expired |
 | `claude.com` | [policy](https://support.claude.com/en/articles/12119250-model-safety-bug-bounty-program) | monetary | — | retired |
 | `clearme.com` | — | — | — | active |
@@ -274,6 +273,7 @@
 | `instacart.com` | [policy](https://hackerone.com/instacart) | — | — | active |
 | `instyle.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `intercom-attachments-1.com` | [policy](https://www.bugcrowd.com/resource/standard-disclosure-terms/) | monetary | — | active |
+| `intercom-attachments-7.com` | [policy](https://www.bugcrowd.com/resource/standard-disclosure-terms/) | monetary | — | active |
 | `intercom-help.eu` | [policy](https://www.bugcrowd.com/resource/standard-disclosure-terms/) | monetary | — | active |
 | `intercom.com` | [policy](https://www.bugcrowd.com/resource/standard-disclosure-terms/) | monetary | — | active |
 | `intercom.help` | [policy](https://www.bugcrowd.com/resource/standard-disclosure-terms/) | monetary | — | active |
@@ -349,7 +349,7 @@
 | `murena.io` | [policy](https://hackerone.com/nextcloud) | — | — | active |
 | `my.xfinity.com` | [policy](https://www.xfinity.com/vulnerabilityreport) | monetary | — | retired |
 | `mydomaine.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
-| `myemma.com` | [policy](https://myemma.com/trust/security) | — | — | expired |
+| `myemma.com` | [policy](https://myemma.com/trust/security) | monetary | — | expired |
 | `myetherwallet.com` | [policy](https://hackerone.com/myetherwallet) | — | — | active |
 | `myfitnesspal.com` | [policy](https://bugcrowd.com/engagements/myfitnesspal-mbb) | monetary | — | active |
 | `myrecipes.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
@@ -383,6 +383,7 @@
 | `octopus.com` | [policy](https://g.octopushq.com/disclosure) | swag | — | active |
 | `okta.com` | [policy](https://www.okta.com/vulnerability-reporting-policy/) | — | — | active |
 | `omarchy.org` | [policy](https://omarchy.org/security) | swag | — | active |
+| `ondeck.com` | [policy](https://www.ondeck.com/security-policy) | monetary | — | active |
 | `oohcams.com` | [policy](https://hackerone.com/chaturbate?type=team&view_policy=true) | — | — | active |
 | `ookla.com` | [policy](https://security.ookla.com) | — | — | active |
 | `openai.com` | [policy](https://openai.com/policies/coordinated-vulnerability-disclosure-policy) | recognition | — | active |
@@ -490,10 +491,11 @@
 | `speedtestcustom.com` | [policy](https://security.ookla.com) | — | — | active |
 | `splitcoaststampers.com` | — | — | — | active |
 | `springernature.com` | [policy](https://www.springernature.com/gp/info/disclosure) | recognition | — | retired |
+| `stackexchange.com` | [policy](https://stackexchange.com/about/security) | recognition | — | active |
 | `stake.com` | — | — | — | expired |
 | `standoff365.com` | [policy](https://standoff365.com/en-US/articles/bug-bounty-platform-analytics-2022/) | monetary | — | retired |
 | `startupintros.com` | [policy](https://startupintros.com/orgs/bugcrowd) | monetary | yes | retired |
-| `statefarm.com` | [policy](https://www.statefarm.com/customer-care/privacy-security/security/vulnerability-disclosure-policy) | monetary | — | active |
+| `statefarm.com` | [policy](https://www.statefarm.com/customer-care/privacy-security/security/vulnerability-disclosure-policy) | — | yes | active |
 | `stellar.org` | [policy](https://stellar.org/grants-and-funding/bug-bounty) | monetary | — | retired |
 | `streamlabs.com` | [policy](https://hackerone.com/logitech) | — | — | active |
 | `streeteasy.com` | [policy](https://hackerone.com/zillowgroup) | recognition | — | active |
@@ -566,6 +568,7 @@
 | `vanguard.com` | [policy](https://investor.vanguard.com/trust-security/vulnerability-disclosure-program) | — | — | active |
 | `veeam.com` | [policy](https://hackerone.com/veeam?type=team) | — | — | expired |
 | `vercel.com` | [policy](https://security.vercel.com/) | — | — | active |
+| `veriff.com` | [policy](https://www.veriff.com/bug-bounty) | monetary | — | active |
 | `verizonmedia.com` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | active |
 | `verywell.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `verywellfit.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |

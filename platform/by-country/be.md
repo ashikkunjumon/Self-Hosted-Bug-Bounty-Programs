@@ -20,7 +20,7 @@
 | `hln.be` | — | monetary | — | active |
 | `humo.be` | — | monetary | — | active |
 | `joe.be` | — | monetary | — | active |
-| `kuleuven.be` | [policy](https://admin.kuleuven.be/icts/english/responsible-disclosure) | monetary | yes | active |
+| `kuleuven.be` | [policy](https://admin.kuleuven.be/icts/english/responsible-disclosure) | monetary | yes | retired |
 | `laredoute.be` | [policy](https://www.laredoute.com/vulnerability_disclosure_program.aspx) | — | — | expired |
 | `livios.be` | — | monetary | — | active |
 | `mijnenergie.be` | — | monetary | — | active |
@@ -37,7 +37,7 @@
 | `streamz.be` | — | monetary | — | active |
 | `tempo-team.be` | [policy](https://www.randstad.com/report-a-security-problem/) | — | — | retired |
 | `toyota.be` | — | monetary | — | expired |
-| `unibet.be` | — | monetary | — | retired |
+| `unibet.be` | — | monetary | — | active |
 | `unibetcasino.be` | — | monetary | — | retired |
 | `unibetsports.be` | — | monetary | — | retired |
 | `uzleuven.be` | — | recognition | — | active |

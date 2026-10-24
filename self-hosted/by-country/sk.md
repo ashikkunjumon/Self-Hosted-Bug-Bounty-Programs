@@ -4,7 +4,7 @@
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
-| `aboutyou.sk` | — | monetary | — | retired |
+| `aboutyou.sk` | — | monetary | — | active |
 | `active24.sk` | [policy](https://faq.active24.com/cz/933388-Hl%C3%A1%C5%A1en%C3%AD-bezpe%C4%8Dnostn%C3%ADch-zranitelnost%C3%AD) | — | — | active |
 | `agel.sk` | — | — | — | expired |
 | `ajtaci.sk` | — | — | — | active |

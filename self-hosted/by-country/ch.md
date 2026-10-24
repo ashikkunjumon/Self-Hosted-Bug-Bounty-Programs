@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-388 programs.
+390 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@
 | `drs.ch` | — | — | — | active |
 | `duebendorf.ch` | — | — | — | active |
 | `ebas.ch` | — | — | — | active |
-| `ebookers.ch` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
+| `ebookers.ch` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `ecole-club.ch` | — | — | — | active |
 | `educeth.ch` | [policy](https://www.ethz.ch/content/dam/ethz/associates/services/Service/IT-Services/files/documents/eth-disclosure-policy-en.pdf) | monetary | — | active |
 | `egk.ch` | — | — | — | active |
@@ -95,7 +95,7 @@
 | `ewl-luzern.ch` | — | — | — | active |
 | `ewz.ch` | — | — | — | active |
 | `exlibris.ch` | — | — | — | active |
-| `expedia.ch` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
+| `expedia.ch` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `expertsuisse.ch` | — | — | — | active |
 | `ffhs.ch` | — | — | — | active |
 | `financescout24.ch` | — | — | — | active |
@@ -258,6 +258,7 @@
 | `radix.ch` | — | — | — | active |
 | `rapperswil-jona.ch` | — | — | — | active |
 | `rbs.ch` | — | — | — | active |
+| `redguard.ch` | — | — | — | active |
 | `regiondentsdumidi.ch` | — | — | — | active |
 | `reka.ch` | — | — | — | active |
 | `renens.ch` | — | — | — | active |
@@ -364,6 +365,7 @@
 | `valdebagnes.ch` | — | — | — | active |
 | `valiant.ch` | [policy](https://www.valiant.ch/vdp) | monetary | yes | active |
 | `vaud.ch` | — | — | — | active |
+| `vbz.ch` | — | — | — | active |
 | `vd.ch` | — | — | — | active |
 | `vellaci.ch` | [policy](https://www.vellaci.ch/security/disclosure) | recognition | yes | active |
 | `verbier4vallees.ch` | — | — | — | active |

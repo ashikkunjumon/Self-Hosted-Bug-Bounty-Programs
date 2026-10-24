@@ -1,6 +1,6 @@
 # Self-hosted programs — NL
 
-393 programs.
+394 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@
 | `eo.nl` | [policy](https://npo.nl/overnpo/privacy-en-security) | — | — | active |
 | `eur.nl` | [policy](https://www.eur.nl/campus/locaties/campus-woudestein/beveiliging-veiligheid/informatiebeveiliging/responsible-disclosure) | recognition | yes | active |
 | `europarcs.nl` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | active |
-| `expedia.nl` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
+| `expedia.nl` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `fbto.nl` | [policy](https://achmea.nl/en/responsible-disclosure) | swag | — | active |
 | `fd.nl` | [policy](https://fdmg.nl/content/uploads/2021/06/Responsible_Disclosure.pdf) | — | — | expired |
 | `ferm-rotterdam.nl` | [policy](https://ferm-zeehavens.nl/) | — | — | retired |
@@ -253,7 +253,7 @@
 | `npo.nl` | — | recognition | — | active |
 | `ns.nl` | [policy](https://ocp.ns.nl/caas/v1/media/stable/24134/data/statement-responsible-disclosure-engels.pdf) | monetary | — | active |
 | `ntvg.nl` | [policy](https://www.ntvg.nl/disclaimer) | — | yes | expired |
-| `nuffic.nl` | [policy](https://www.nuffic.nl/over-nuffic/contact/kwetsbaarheid-melden) | — | yes | active |
+| `nuffic.nl` | [policy](https://www.nuffic.nl/over-nuffic/contact/kwetsbaarheid-melden) | — | yes | expired |
 | `nvb.nl` | — | — | — | active |
 | `nvwa.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `nwo.nl` | [policy](https://www.nwo.nl/responsible-disclosure) | recognition | yes | active |
@@ -281,6 +281,7 @@
 | `partijvoordedieren.nl` | [policy](https://www.partijvoordedieren.nl/responsible-disclosure) | — | — | expired |
 | `patientenfederatie.nl` | — | — | — | active |
 | `pay.nl` | [policy](https://www.pay.nl/en/responsible-disclosure) | monetary | — | retired |
+| `petities.nl` | — | — | — | active |
 | `pixelbar.nl` | [policy](https://pixelbar.nl/responsibledisclosure/) | — | — | retired |
 | `politie.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `pricewise.nl` | — | — | — | active |

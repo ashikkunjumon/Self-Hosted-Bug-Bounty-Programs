@@ -4,7 +4,7 @@
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
-| `aboutyou.hu` | — | monetary | — | retired |
+| `aboutyou.hu` | — | monetary | — | active |
 | `alexanderezz.hu` | — | — | — | active |
 | `balmazujvaros.hu` | — | — | — | active |
 | `bdo.hu` | — | — | — | expired |

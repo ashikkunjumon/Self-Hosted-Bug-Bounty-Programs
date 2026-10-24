@@ -6,6 +6,6 @@
 |---|---|---|---|---|
 | `dgwork.co.kr` | [policy](https://github.com/go-gitea/gitea/blob/main/SECURITY.md) | recognition | — | active |
 | `engoo.co.kr` | — | — | — | active |
-| `expedia.co.kr` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
+| `expedia.co.kr` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `flashscore.co.kr` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `nyr.kr` | — | — | — | active |

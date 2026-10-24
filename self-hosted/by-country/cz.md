@@ -1,12 +1,12 @@
 # Self-hosted programs — CZ
 
-357 programs.
+358 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `1001hry.cz` | — | — | — | active |
 | `1url.cz` | — | — | — | active |
-| `aboutyou.cz` | — | monetary | — | retired |
+| `aboutyou.cz` | — | monetary | — | active |
 | `active24.cz` | [policy](https://faq.active24.com/cz/933388-Hl%C3%A1%C5%A1en%C3%AD-bezpe%C4%8Dnostn%C3%ADch-zranitelnost%C3%AD) | — | — | active |
 | `adiktologie.cz` | [policy](https://csirt.cuni.cz/en/incident_reporting) | recognition | — | active |
 | `affilbox.cz` | — | — | — | active |
@@ -242,6 +242,7 @@
 | `pamatkovykatalog.cz` | — | — | — | active |
 | `patria.cz` | — | — | — | active |
 | `penzion.cz` | — | — | — | active |
+| `pernikova-chaloupka.cz` | — | — | — | active |
 | `petcenter.cz` | — | — | — | active |
 | `phoca.cz` | [policy](https://github.com/PhocaCz/PhocaCz/blob/main/SECURITY.md) | — | — | active |
 | `pilulka.cz` | — | — | — | active |

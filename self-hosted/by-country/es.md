@@ -37,7 +37,7 @@
 | `emisora.org.es` | — | — | — | active |
 | `eucerin.es` | [policy](https://soc.beiersdorf.com/disclosurepolicy.html) | — | yes | active |
 | `euromaster-neumaticos.es` | — | recognition | — | active |
-| `expedia.es` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
+| `expedia.es` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `flashscore.es` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `flixbus.es` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |
 | `fotocasa.es` | [policy](https://adevinta.com/security-vulnerability/) | recognition | yes | active |

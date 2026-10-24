@@ -1,6 +1,6 @@
 # Self-hosted programs — DK
 
-152 programs.
+153 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@
 | `erhvervplus.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
 | `eroguide.dk` | — | — | — | retired |
 | `evermart.dk` | — | — | — | active |
-| `expedia.dk` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
+| `expedia.dk` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `faa.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | retired |
 | `familiejournal.dk` | — | — | — | expired |
 | `fe-ddis.dk` | [policy](https://fe-ddis.dk/vulnerability-disclosure.txt) | — | — | active |
@@ -102,6 +102,7 @@
 | `nykredit.dk` | — | monetary | — | active |
 | `odense.dk` | — | — | — | active |
 | `optagelse.dk` | — | — | — | active |
+| `ouh.dk` | — | — | — | active |
 | `pegani.dk` | — | — | — | active |
 | `permin.dk` | — | — | — | active |
 | `piefed.dk` | — | — | — | active |

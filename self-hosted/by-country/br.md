@@ -1,6 +1,6 @@
 # Self-hosted programs — BR
 
-94 programs.
+95 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@
 | `defesa.gov.br` | [policy](https://www.gov.br/defesa/pt-br/arquivos/legislacao/posin-md-2022.pdf) | — | — | retired |
 | `doctoralia.com.br` | — | — | — | active |
 | `eventim.com.br` | — | — | — | active |
-| `expedia.com.br` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
+| `expedia.com.br` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `fabricadeaplicativos.com.br` | — | — | — | active |
 | `fiepr.org.br` | — | — | — | active |
 | `flashscore.com.br` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
@@ -52,6 +52,7 @@
 | `jusbrasil.com.br` | — | — | — | active |
 | `kiwify.com.br` | [policy](https://kiwify.com.br/politica-de-privacidade/) | — | — | active |
 | `livepass.com.br` | — | — | — | active |
+| `loft.com.br` | — | — | — | active |
 | `lojadocapita.com.br` | — | — | — | expired |
 | `loreal-paris.com.br` | — | recognition | — | active |
 | `maringapost.com.br` | — | — | — | active |

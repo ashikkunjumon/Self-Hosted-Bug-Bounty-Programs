@@ -1,6 +1,6 @@
 # Self-hosted programs — PL
 
-178 programs.
+180 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -17,6 +17,7 @@
 | `bezdroza.pl` | — | — | — | active |
 | `brainly.pl` | [policy](https://brainly.com/responsible-disclosure-program) | — | — | active |
 | `bricoman.pl` | — | — | — | active |
+| `businessinsider.com.pl` | — | — | — | active |
 | `busko.pl` | — | — | — | active |
 | `carrefour.pl` | [policy](https://carrefour.com/disclosure) | — | — | active |
 | `cdrinfo.pl` | — | — | — | active |
@@ -37,7 +38,7 @@
 | `ebookpoint.pl` | — | — | — | active |
 | `electro.pl` | — | — | — | active |
 | `empikbilety.pl` | — | — | — | active |
-| `empikfoto.pl` | — | — | — | active |
+| `empikfoto.pl` | — | — | — | retired |
 | `esky.pl` | — | recognition | — | active |
 | `eventim.pl` | — | — | — | active |
 | `expressbydgoski.pl` | — | — | — | expired |
@@ -64,7 +65,7 @@
 | `grajteraz.pl` | — | — | — | active |
 | `gs24.pl` | — | — | — | expired |
 | `gust.org.pl` | — | — | — | expired |
-| `gwfoksal.pl` | — | — | — | active |
+| `gwfoksal.pl` | — | — | — | retired |
 | `helion.pl` | — | — | — | active |
 | `home.pl` | — | — | — | active |
 | `homebook.pl` | — | — | — | active |
@@ -151,6 +152,7 @@
 | `sportowefakty.pl` | — | — | — | active |
 | `sportowy24.pl` | — | — | — | expired |
 | `strefabiznesu.pl` | — | — | — | expired |
+| `strefaedukacji.pl` | — | — | — | expired |
 | `stronazdrowia.pl` | — | — | — | expired |
 | `superauto.pl` | — | — | — | active |
 | `swiatczytnikow.pl` | — | — | — | active |
@@ -162,12 +164,12 @@
 | `to.com.pl` | — | — | — | expired |
 | `totalmoney.pl` | — | — | — | active |
 | `trustedshops.pl` | [policy](https://www.trustedshops.de/.well-known/responsible-disclosure.txt) | — | yes | active |
-| `uokik.gov.pl` | — | recognition | — | active |
+| `uokik.gov.pl` | [policy](https://csirt.gov.pl/cee/cyber-security-incident-report/978,Cyber-security-incident-reporting.html) | — | — | active |
 | `urbanity.pl` | — | — | — | active |
 | `verseo.pl` | — | — | — | active |
 | `vichy.pl` | — | recognition | — | active |
 | `vinted.pl` | — | — | — | active |
-| `virtualo.pl` | — | — | — | active |
+| `virtualo.pl` | — | — | — | retired |
 | `viva.pl` | [policy](https://www.immediate.co.uk/security-disclosure-policy/) | — | — | retired |
 | `wakacje.pl` | — | — | — | active |
 | `wiadomosci24.pl` | — | — | — | expired |

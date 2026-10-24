@@ -4,19 +4,19 @@
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
-| `32rosu.ro` | — | monetary | — | retired |
+| `32rosu.ro` | — | monetary | — | active |
 | `auto-bild.ro` | — | — | — | expired |
 | `autoscout24.ro` | [policy](https://app.intigriti.com/programs/autoscout/autoscout24-vdp/detail) | monetary | — | expired |
 | `avantaje.ro` | — | — | — | expired |
 | `bmw.ro` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
-| `elle.ro` | — | — | — | expired |
+| `elle.ro` | — | — | — | retired |
 | `libertatea.ro` | — | — | — | retired |
 | `libertateapentrufemei.ro` | — | — | — | expired |
 | `momondo.ro` | [policy](https://www.kayak.com/security/) | monetary | — | active |
 | `toyota.ro` | — | monetary | — | expired |
 | `tvmania.ro` | — | — | — | expired |
-| `unibet.ro` | — | monetary | — | retired |
+| `unibet.ro` | — | monetary | — | active |
 | `unica.ro` | — | — | — | expired |
 | `viva.ro` | — | — | — | expired |
-| `vladcazino.ro` | — | monetary | — | retired |
+| `vladcazino.ro` | — | monetary | — | active |
 | `webnode.ro` | [policy](https://www.webnode.com/.well-known/security-policy.html) | — | yes | active |

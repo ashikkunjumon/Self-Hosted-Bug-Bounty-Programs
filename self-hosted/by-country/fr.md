@@ -1,13 +1,13 @@
 # Self-hosted programs — FR
 
-167 programs.
+168 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `1and1.fr` | [policy](https://www.ionos.com/it-security) | — | — | active |
 | `6play.fr` | — | — | — | active |
 | `99designs.fr` | — | — | — | active |
-| `abritel.fr` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
+| `abritel.fr` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `adameteve.fr` | [policy](https://support.adameteve.fr/hc/fr/articles/7962333796253-Comment-mes-donn%C3%A9es-personnelles-seront-elles-prot%C3%A9g%C3%A9es) | — | — | active |
 | `ag2rlamondiale.fr` | — | recognition | — | active |
 | `agefi.fr` | — | — | — | active |
@@ -47,7 +47,7 @@
 | `deliveroo.fr` | — | — | — | active |
 | `devinci.fr` | — | — | — | expired |
 | `dpd.fr` | — | monetary | — | active |
-| `ebookers.fr` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
+| `ebookers.fr` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `ec-nantes.fr` | — | recognition | — | active |
 | `ekomi.fr` | — | — | — | active |
 | `ekwateur.fr` | — | recognition | — | active |
@@ -55,7 +55,7 @@
 | `ensicaen.fr` | — | — | — | active |
 | `euromaster.fr` | — | recognition | — | active |
 | `evaneos.fr` | [policy](https://vdp.evaneos.com/) | — | — | active |
-| `expedia.fr` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
+| `expedia.fr` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `ffvl.fr` | — | — | — | active |
 | `fip.fr` | — | — | — | active |
 | `flashscore.fr` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
@@ -167,6 +167,7 @@
 | `vichy.fr` | — | recognition | — | active |
 | `vinted.fr` | — | — | — | active |
 | `vistaprint.fr` | — | — | — | active |
+| `vrin.fr` | — | — | — | active |
 | `wanadoo.fr` | — | — | — | active |
 | `webador.fr` | — | — | — | active |
 | `yandex.fr` | [policy](https://ya.cc/t/1cSZixjB3gkSva) | monetary | — | active |

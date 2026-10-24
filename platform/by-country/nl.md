@@ -34,7 +34,7 @@
 | `toto.nl` | [policy](https://www.nederlandseloterij.nl/responsible-disclosure) | — | yes | active |
 | `trouw.nl` | — | monetary | — | active |
 | `tubantia.nl` | — | monetary | — | active |
-| `unibet.nl` | — | monetary | — | retired |
+| `unibet.nl` | — | monetary | — | active |
 | `vattenfall.nl` | [policy](https://group.vattenfall.com/site-assets/privacy-policy---general#reporting_security) | — | — | expired |
 | `volkskrant.nl` | — | monetary | — | active |
 | `vtwonen.nl` | — | monetary | — | active |

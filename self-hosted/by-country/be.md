@@ -11,7 +11,7 @@
 | `aalter.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `aanbieders.be` | [policy](https://www.aanbieders.be/privacyverklaring) | — | — | active |
 | `aarschot.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
-| `aboutyou.be` | — | monetary | — | retired |
+| `aboutyou.be` | — | monetary | — | active |
 | `antp.be` | — | recognition | — | active |
 | `antwerpsymphonyorchestra.be` | — | — | — | active |
 | `aqualo.be` | — | — | — | active |
@@ -25,7 +25,7 @@
 | `belgacom.be` | — | — | — | active |
 | `belgie-vakantiehuis.be` | — | — | — | active |
 | `beringen.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
-| `betrouwbaar-casino.be` | [policy](https://betrouwbaar-casino.be/security-policy) | recognition | — | active |
+| `betrouwbaar-casino.be` | [policy](https://betrouwbaar-casino.be/security-policy) | recognition | — | retired |
 | `beveren.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `bijloke.be` | — | — | — | active |
 | `bloom.be` | [policy](https://www.bloom.be/security-policy) | recognition | — | active |
@@ -71,7 +71,7 @@
 | `eneco.be` | [policy](https://www.eneco.com/responsible-disclosure/) | — | — | active |
 | `equans.be` | — | recognition | — | active |
 | `eventail.be` | — | — | — | active |
-| `expedia.be` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
+| `expedia.be` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `facts.be` | — | — | — | active |
 | `fedustria.be` | — | — | — | expired |
 | `fixpart.be` | — | — | — | active |

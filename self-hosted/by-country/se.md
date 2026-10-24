@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-517 programs.
+518 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@
 | `epassi.se` | — | — | — | active |
 | `eskilstuna.se` | — | — | — | active |
 | `eventim.se` | — | — | — | active |
-| `expedia.se` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
+| `expedia.se` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `expressen.se` | — | — | — | active |
 | `fagersta-posten.se` | — | — | — | active |
 | `fagersta.se` | — | — | — | active |
@@ -295,7 +295,7 @@
 | `mp.se` | — | — | — | active |
 | `mpa.se` | [policy](https://www.lakemedelsverket.se/en/security/responsible-disclosure) | — | — | active |
 | `mpf.se` | — | — | — | active |
-| `mrjet.se` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
+| `mrjet.se` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `msb.se` | — | — | — | active |
 | `mucf.se` | — | — | — | active |
 | `munkedal.se` | — | — | — | active |
@@ -516,6 +516,7 @@
 | `volleyboll.se` | — | — | — | active |
 | `vr.se` | — | — | — | active |
 | `vti.se` | — | — | — | active |
+| `vy.se` | [policy](https://www.vy.no/vilkar-og-personvern/vulnerability-disclosure-policy) | — | yes | active |
 | `websupport.se` | [policy](https://www.websupport.sk/support/kb/nahlasenie-zranitelnosti/) | — | — | active |
 | `xenit.se` | [policy](https://xenit.se/vdp) | — | — | active |
 | `yrkeshogskolan.se` | — | — | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-468 programs.
+472 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -11,7 +11,7 @@
 | `aachen.de` | — | — | — | active |
 | `abendblatt.de` | — | — | — | active |
 | `abgeordnetenwatch.de` | — | — | — | active |
-| `aboutyou.de` | — | monetary | — | retired |
+| `aboutyou.de` | — | monetary | — | active |
 | `adesso.de` | — | — | — | active |
 | `adminforge.de` | — | — | — | active |
 | `aerzte-ohne-grenzen.de` | — | — | — | active |
@@ -76,6 +76,7 @@
 | `bundestag.de` | — | — | — | active |
 | `bundeswehr.de` | [policy](https://www.bundeswehr.de/de/security-policy) | recognition | — | active |
 | `capterra.com.de` | — | — | — | active |
+| `caritas-international.de` | [policy](https://www2.carinet.de/security-policy) | — | — | active |
 | `ccc.de` | — | — | — | active |
 | `cewe.de` | — | — | — | active |
 | `chaospott.de` | — | — | — | retired |
@@ -113,10 +114,11 @@
 | `dihk.de` | — | — | — | active |
 | `diplo.de` | — | — | — | active |
 | `dji.de` | [policy](https://www.intern.dji.de/footer-navigation/datenschutz.html) | — | — | active |
-| `dkb.de` | — | — | — | retired |
+| `dkb.de` | — | — | — | active |
 | `dkfz.de` | — | — | — | active |
 | `dlr.de` | — | recognition | — | active |
 | `dm.de` | — | — | — | active |
+| `dnn.de` | — | — | — | active |
 | `do.de` | [policy](https://www.do.de/bug-bounty/) | monetary | — | active |
 | `docmorris.de` | [policy](https://www.docmorris.de/ueber-uns/cyber-security) | — | yes | active |
 | `donaukurier.de` | — | — | — | active |
@@ -135,14 +137,14 @@
 | `eventim-inhouse.de` | — | — | — | active |
 | `eventim.de` | — | — | — | active |
 | `eversports.de` | — | — | — | active |
-| `expedia.de` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
+| `expedia.de` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `expert.de` | [policy](https://www.expert.de/service/contact/security) | — | — | active |
 | `fairexa.de` | [policy](https://www.fairexa.de/security/) | recognition | — | active |
 | `familie.de` | — | — | — | active |
 | `fau.de` | — | — | — | active |
 | `feg.de` | — | recognition | — | active |
 | `fes.de` | — | — | — | active |
-| `fewo-direkt.de` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
+| `fewo-direkt.de` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `fh-aachen.de` | — | — | — | active |
 | `fh-dortmund.de` | — | — | — | active |
 | `fh-muenster.de` | [policy](https://www.fh-muenster.de/en/informationssicherheit/fhms-cert/responsible-disclosure) | — | — | active |
@@ -152,6 +154,7 @@
 | `filmmakers.de` | [policy](https://www.filmmakers.eu/security-policy) | — | yes | active |
 | `fischer.de` | — | — | — | active |
 | `fiz-karlsruhe.de` | — | — | — | active |
+| `flensburg.de` | — | — | — | active |
 | `flixbus.de` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |
 | `focus.de` | [policy](https://www.burda-forward.de/en/security/) | recognition | — | active |
 | `foerderdatenbank.de` | — | — | — | expired |
@@ -240,7 +243,7 @@
 | `kleinanzeigen.de` | [policy](https://adevinta.com/security-vulnerability/) | recognition | yes | active |
 | `klett.de` | — | — | — | active |
 | `koblenz.de` | — | — | — | active |
-| `koeln.de` | — | — | — | active |
+| `koeln.de` | — | — | — | retired |
 | `komoot.de` | [policy](https://www.komoot.com/security/bug-bounty) | — | — | active |
 | `konstanz.de` | — | — | — | active |
 | `korrektur.de` | — | — | — | active |
@@ -317,7 +320,7 @@
 | `planet-schule.de` | — | — | — | active |
 | `pnn.de` | — | — | — | active |
 | `pnp.de` | — | — | — | active |
-| `poppen.de` | — | — | — | expired |
+| `poppen.de` | — | — | — | retired |
 | `porsche.de` | [policy](https://www.porsche.com/international/information-security/) | — | — | active |
 | `postbank.de` | — | — | — | active |
 | `queer.de` | — | — | — | active |
@@ -329,6 +332,7 @@
 | `redensarten-index.de` | — | — | — | retired |
 | `regensburg.de` | — | — | — | active |
 | `rekruter.de` | [policy](https://www.rekruter.de/impressum/datenschutz.lasso) | — | — | retired |
+| `renault.de` | [policy](https://www.renaultgroup.com/en/vulnerability-disclosure-policy/) | — | — | active |
 | `reutlingen.de` | — | — | — | expired |
 | `rewe.de` | — | — | — | active |
 | `rhein-kreis-neuss.de` | — | — | — | active |
@@ -468,7 +472,7 @@
 | `wuerzburg.de` | — | — | — | active |
 | `wuppertal.de` | [policy](https://digital.wuppertal.de/medien_digitalisierung/10_ISMS_Stadt_Wuppertal_Richtlinie_zur_Offenlegung_von_Sicherheitsluecken_V2.0.pdf) | monetary | — | active |
 | `xing.de` | [policy](https://www.new-work.se/.well-known/rfc-2350.txt) | — | — | expired |
-| `zdf.de` | — | — | — | expired |
+| `zdf.de` | — | — | — | active |
 | `zdfheute.de` | — | — | — | active |
 | `zdh.de` | — | — | — | active |
 | `zentrale.de` | — | — | — | retired |

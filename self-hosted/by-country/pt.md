@@ -18,7 +18,7 @@
 | `guimaraesdigital.pt` | — | — | — | active |
 | `hidrografico.pt` | [policy](https://www.hidrografico.pt/.well-known/security-policy.txt) | recognition | — | active |
 | `ibet.pt` | — | — | — | active |
-| `infraestruturasdeportugal.pt` | — | — | — | retired |
+| `infraestruturasdeportugal.pt` | — | recognition | — | active |
 | `iniav.pt` | — | — | — | active |
 | `ipb.pt` | — | monetary | — | expired |
 | `ipleiria.pt` | [policy](https://csirt.ipleiria.pt/politica-divulgacao) | recognition | — | active |

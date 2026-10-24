@@ -5,7 +5,7 @@
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `a-trust.at` | — | — | — | active |
-| `aboutyou.at` | — | monetary | — | retired |
+| `aboutyou.at` | — | monetary | — | active |
 | `adsimple.at` | — | — | — | active |
 | `aekktn.at` | [policy](https://www.aekktn.at/security-policy/) | recognition | — | active |
 | `ait.ac.at` | [policy](https://www.ait.ac.at/kontakt) | — | — | active |
@@ -42,7 +42,7 @@
 | `energiedirect.at` | — | — | — | active |
 | `eucerin.at` | [policy](https://soc.beiersdorf.com/disclosurepolicy.html) | — | yes | active |
 | `eversports.at` | — | — | — | active |
-| `expedia.at` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
+| `expedia.at` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `exxpress.at` | [policy](https://exxpress.at/security-policy) | recognition | — | active |
 | `fhstp.ac.at` | [policy](https://www.ustp.at/de/security-disclosure-policy) | swag | — | active |
 | `fhv.at` | — | — | — | active |

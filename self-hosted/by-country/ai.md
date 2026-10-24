@@ -1,6 +1,6 @@
 # Self-hosted programs — AI
 
-72 programs.
+75 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -18,6 +18,7 @@
 | `clawsecure.ai` | [policy](https://www.clawsecure.ai/vulnerability-disclosure) | — | yes | active |
 | `codemonster.ai` | [policy](https://codemonster.ai/security/vulnerability-disclosure) | recognition | yes | active |
 | `coderabbit.ai` | [policy](https://www.coderabbit.ai/vulnerability-disclosure) | monetary | yes | active |
+| `datachain.ai` | [policy](https://www.datachain.ai/bug-bounty) | monetary | yes | active |
 | `deepset.ai` | [policy](https://deepset.ai/disclosure/) | — | — | active |
 | `devin.ai` | [policy](https://docs.devin.ai/desktop/security/reporting) | — | yes | retired |
 | `easyaudit.ai` | [policy](https://easyaudit.ai/responsible-disclosure) | — | yes | active |
@@ -53,6 +54,7 @@
 | `nexusdsp.ai` | [policy](https://nexusdsp.ai/security.html) | — | — | active |
 | `nullify.ai` | [policy](https://docs.nullify.ai/more-info/security) | — | yes | retired |
 | `occludra.ai` | [policy](https://occludra.ai/security) | monetary | — | active |
+| `odin.ai` | [policy](https://0din.ai/policy) | monetary | — | active |
 | `orbitforms.ai` | [policy](https://orbitforms.ai/security) | recognition | yes | active |
 | `pokee.ai` | [policy](https://pokee.ai/bug-bounty) | monetary | yes | active |
 | `portal26.ai` | [policy](https://portal26.ai/vulnerability-disclosure) | — | yes | active |
@@ -61,6 +63,7 @@
 | `proon.ai` | [policy](https://www.proon.ai/security) | monetary | — | active |
 | `purple.ai` | [policy](https://www.purple.ai/en-gb/responsible-disclosure) | — | yes | active |
 | `retano.ai` | [policy](https://retano.ai/coordinated-vulnerability-disclosure-policy/) | swag | yes | retired |
+| `securiti.ai` | [policy](https://securiti.ai/security/) | — | — | active |
 | `silversight.ai` | [policy](https://silversight.ai/vulnerability-disclosure-policy) | monetary | — | active |
 | `smackdab.ai` | [policy](https://smackdab.ai/legal/responsible-disclosure-policy/) | monetary | yes | active |
 | `spicychat.ai` | [policy](https://docs.spicychat.ai/security-and-vulnerability-reporting) | recognition | yes | retired |

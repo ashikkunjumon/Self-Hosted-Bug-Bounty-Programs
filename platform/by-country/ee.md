@@ -5,7 +5,7 @@
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `elisa.ee` | [policy](https://elisa.fi/en/vulnerabilities/) | monetary | — | active |
-| `mariacasino.ee` | — | monetary | — | retired |
+| `mariacasino.ee` | — | monetary | — | active |
 | `prismamarket.ee` | — | — | — | retired |
 | `telia.ee` | [policy](https://hackerone.com/telia_eesti?view_policy=true) | recognition | — | active |
-| `unibet.ee` | — | monetary | — | retired |
+| `unibet.ee` | — | monetary | — | active |

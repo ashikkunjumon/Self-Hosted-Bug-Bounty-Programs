@@ -45,7 +45,7 @@
 | `dustin.no` | — | — | — | active |
 | `dustinhome.no` | — | — | — | active |
 | `eidsiva.no` | — | — | — | expired |
-| `eie.no` | [policy](https://eie.no/security-policy) | recognition | — | active |
+| `eie.no` | [policy](https://eie.no/security-policy) | recognition | — | retired |
 | `einnsyn.no` | [policy](https://www.digdir.no/digdir/responsible-disclosure-policy/6386) | recognition | yes | active |
 | `elektroimportoren.no` | — | — | — | active |
 | `eliteserien.no` | — | recognition | — | active |
@@ -54,7 +54,7 @@
 | `enova.no` | — | recognition | — | expired |
 | `entur.no` | — | — | — | active |
 | `eventim.no` | — | — | — | active |
-| `expedia.no` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
+| `expedia.no` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `ez.no` | [policy](https://www.ibexa.co/software-information/security) | recognition | — | active |
 | `fagforbundet.no` | — | — | — | active |
 | `fargerike.no` | — | — | — | retired |
@@ -88,7 +88,7 @@
 | `helse-stavanger.no` | — | — | — | active |
 | `helse-vest.no` | — | — | — | active |
 | `helsenorge.no` | [policy](https://nhn.no/.well-known/vulnerability-disclosure.html) | recognition | — | active |
-| `hi.no` | — | — | — | active |
+| `hi.no` | — | — | — | retired |
 | `historiskmuseum.no` | [policy](https://cert.uio.no/vulnerability-disclosure-policy.html) | monetary | — | retired |
 | `hnt.no` | — | — | — | active |
 | `ice.no` | — | — | — | retired |
@@ -133,7 +133,7 @@
 | `nav.no` | — | — | — | active |
 | `nbim.no` | [policy](https://www.nbim.no/en/responsible-disclosure-policy/) | recognition | — | active |
 | `ndla.no` | — | — | — | active |
-| `neat.no` | [policy](https://support.neat.no/article/security-vulnerability-reporting-policy-at-neat/) | — | — | retired |
+| `neat.no` | [policy](https://support.neat.no/article/security-vulnerability-reporting-policy-at-neat/) | — | yes | active |
 | `nettskjema.no` | [policy](https://cert.uio.no/vulnerability-disclosure-policy.html) | monetary | — | retired |
 | `newsweb.no` | [policy](https://www.oslobors.no/ob_eng/Oslo-Boers/About-Oslo-Boers/Responsible-Disclosure) | — | — | active |
 | `nhf.no` | — | — | — | active |
@@ -220,7 +220,7 @@
 | `tryg.no` | [policy](https://tryg.com/en/responsible-disclosure) | — | — | retired |
 | `tv2.no` | [policy](https://info.tv2.no/info/artikkel/responsible-disclosure-policy) | swag | yes | active |
 | `udi.no` | — | — | — | active |
-| `uio.no` | [policy](https://cert.uio.no/vulnerability-disclosure-policy.html) | monetary | — | retired |
+| `uio.no` | [policy](https://cert.uio.no/vulnerability-disclosure-policy.html) | monetary | — | active |
 | `uninett.no` | [policy](https://www.sikt.no/security-policy) | recognition | yes | active |
 | `unit.no` | [policy](https://www.sikt.no/security-policy) | recognition | yes | active |
 | `unn.no` | — | — | — | active |

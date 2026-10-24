@@ -22,5 +22,5 @@
 | `nic.lv` | [policy](https://www.nic.lv/en/nic-vulnerability-reporting-procedure) | — | — | active |
 | `slots.lv` | [policy](https://slots.lv/bug-bounty) | monetary | — | active |
 | `swedbank.lv` | [policy](https://www.swedbank.se/om-oss/sakerhet/report-a-security-flaw.html) | — | — | active |
-| `tele2.lv` | — | — | — | active |
+| `tele2.lv` | — | — | — | retired |
 | `yandex.lv` | [policy](https://ya.cc/t/1cSZixjB3gkSva) | monetary | — | active |
