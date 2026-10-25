@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-518 programs.
+519 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -160,6 +160,7 @@
 | `harryda.se` | — | — | — | active |
 | `hassleholm.se` | — | — | — | active |
 | `hd.se` | — | — | — | active |
+| `heidelbergmaterials.se` | — | — | — | active |
 | `helsingborg.se` | — | — | — | active |
 | `hemnet.se` | [policy](https://www.hemnet.se/responsible-disclosure) | — | — | active |
 | `hemtex.se` | — | — | — | expired |

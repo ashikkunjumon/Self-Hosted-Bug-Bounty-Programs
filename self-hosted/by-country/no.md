@@ -1,6 +1,6 @@
 # Self-hosted programs — NO
 
-232 programs.
+233 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -140,6 +140,7 @@
 | `nhn.no` | [policy](https://nhn.no/.well-known/vulnerability-disclosure.html) | recognition | — | active |
 | `nidarosdomen.no` | [policy](https://www.nidarosdomen.no/security-policy) | recognition | — | active |
 | `nille.no` | — | — | — | active |
+| `nina.no` | — | — | — | active |
 | `nkom.no` | — | — | — | active |
 | `nmh.no` | [policy](https://nmh.no/security-policy) | recognition | — | active |
 | `nordicchoicehotels.no` | — | — | — | expired |

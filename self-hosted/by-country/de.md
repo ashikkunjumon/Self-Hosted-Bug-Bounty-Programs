@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-472 programs.
+473 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -381,6 +381,7 @@
 | `swm.de` | — | — | — | active |
 | `swr.de` | — | — | — | active |
 | `swr3.de` | — | — | — | active |
+| `tagesschau.de` | [policy](https://www.tagesschau.de/vulnerability-disclosure-policy) | monetary | yes | active |
 | `tagesspiegel.de` | — | — | — | active |
 | `taskcards.de` | — | — | — | active |
 | `tchibo.de` | — | — | — | active |

@@ -384,7 +384,7 @@
 | `okta.com` | [policy](https://www.okta.com/vulnerability-reporting-policy/) | — | — | active |
 | `omarchy.org` | [policy](https://omarchy.org/security) | swag | — | active |
 | `ondeck.com` | [policy](https://www.ondeck.com/security-policy) | monetary | — | active |
-| `oohcams.com` | [policy](https://hackerone.com/chaturbate?type=team&view_policy=true) | — | — | active |
+| `oohcams.com` | [policy](https://hackerone.com/chaturbate?type=team&view_policy=true) | — | — | retired |
 | `ookla.com` | [policy](https://security.ookla.com) | — | — | active |
 | `openai.com` | [policy](https://openai.com/policies/coordinated-vulnerability-disclosure-policy) | recognition | — | active |
 | `opensea.io` | [policy](https://bugcrowd.com/opensea) | monetary | — | active |
@@ -526,7 +526,7 @@
 | `thespruceeats.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `thesprucepets.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `thetileapp.com` | — | — | — | retired |
-| `thinkful.com` | [policy](https://www.chegg.com/skills/) | monetary | — | active |
+| `thinkful.com` | [policy](https://www.chegg.com/skills/) | monetary | — | retired |
 | `thoughtco.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `threema.com` | — | monetary | — | active |
 | `timeanddate.com` | [policy](https://hackerone.com/timeanddate) | monetary | — | expired |

@@ -1,6 +1,6 @@
 # Self-hosted programs — AT
 
-154 programs.
+155 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -75,6 +75,7 @@
 | `jochen-schweizer.at` | [policy](https://public-jsmd.s3.eu-central-1.amazonaws.com/Bug-Bounty-Policy-1.3.pdf) | monetary | — | active |
 | `karl-voit.at` | — | — | — | active |
 | `karriere.at` | — | — | — | active |
+| `kitzimmo.at` | — | — | — | active |
 | `kleine.at` | — | — | — | expired |
 | `kleinezeitung.at` | — | — | — | expired |
 | `kletterzentrum-innsbruck.at` | — | — | — | active |
@@ -112,7 +113,7 @@
 | `pixum.at` | — | — | — | active |
 | `playlists.at` | — | — | — | active |
 | `plus.ac.at` | — | — | — | expired |
-| `porsche.at` | [policy](https://security-report.porscheinformatik.com/security-reporting-policy/) | — | — | active |
+| `porsche.at` | [policy](https://security-report.porscheinformatik.com/security-reporting-policy/) | — | — | retired |
 | `porschebank.at` | [policy](https://security-report.porscheinformatik.com/security-reporting-policy/) | — | — | active |
 | `post.at` | — | — | — | active |
 | `postbus.at` | — | — | — | active |

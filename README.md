@@ -1,11 +1,11 @@
 # Public Bug Bounty Programs — Self-Hosted & Off-Platform
 
-**A list of 8,643 public bug bounty programs and vulnerability
+**A list of 8,669 public bug bounty programs and vulnerability
 disclosure programs run by the organisations themselves — not on HackerOne,
 Bugcrowd or Intigriti.**
 
 Built from `/.well-known/security.txt` files and published disclosure policies,
-indexed by country, and rebuilt daily. 7,563 of these are
+indexed by country, and rebuilt daily. 7,589 of these are
 self-hosted VDP and bug bounty programs, which is the half that platform
 directories do not list.
 
@@ -13,15 +13,15 @@ directories do not list.
 
 | Metric | Count |
 |---|---|
-| **Total Programs** | 8,643 |
-| **Self-hosted** | 7,563 |
+| **Total Programs** | 8,669 |
+| **Self-hosted** | 7,589 |
 | **Platform-hosted** | 1,080 |
-| **Active** | 6,578 |
-| **Offering a reward** | 2,540 |
-| **Stating safe harbour** | 972 |
+| **Active** | 6,598 |
+| **Offering a reward** | 2,552 |
+| **Stating safe harbour** | 979 |
 | **Countries** | 61 |
 
-*Last Updated: October 24, 2026 at 12:07 UTC*
+*Last Updated: October 25, 2026 at 12:40 UTC*
 
 ## Find public bug bounty programs by country
 
@@ -36,15 +36,15 @@ region or a jurisdiction.
 ## Which programs offer a reward, and which state safe harbour
 
 Every row records whether the policy offers a reward — `monetary`, `swag` or
-`recognition` — and whether it explicitly states safe harbour. 2,540
-programs offer some reward; only 972 state safe harbour outright, which
+`recognition` — and whether it explicitly states safe harbour. 2,552
+programs offer some reward; only 979 state safe harbour outright, which
 is the number worth checking before you test anything.
 
 ## security.txt and disclosure policy URLs
 
 `programs.txt` gives a domain and a URL per line: the disclosure policy where
 one is published, and the `/.well-known/security.txt` file otherwise. Every one
-of the 8,643 entries carries a URL, so it loads straight into a
+of the 8,669 entries carries a URL, so it loads straight into a
 recon pipeline.
 
 ## Data files
@@ -58,7 +58,7 @@ A directory of organisations that accept vulnerability reports, built from what
 those organisations publish about themselves — their `/.well-known/security.txt`
 and their disclosure policy pages.
 
-Most of it is **self-hosted**: 7,563 of 8,643 programs run their own
+Most of it is **self-hosted**: 7,589 of 8,669 programs run their own
 disclosure process rather than sitting on a platform. Those are the hard ones to
 find. Programs on HackerOne, Bugcrowd and Intigriti are already indexed
 everywhere; a company that quietly published a security.txt is not.
@@ -73,7 +73,7 @@ everywhere; a company that quietly published a security.txt is not.
 | `live` | whether the domain still resolves and serves |
 | `policy_dead` | the policy URL was published but no longer loads |
 
-Only 972 of 8,643 programs state safe harbour explicitly. That is the
+Only 979 of 8,669 programs state safe harbour explicitly. That is the
 single most important column here, and the number is low.
 
 ### Before you test anything

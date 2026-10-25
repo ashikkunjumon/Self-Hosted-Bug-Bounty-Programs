@@ -11,7 +11,7 @@
 | `bosch.pt` | [policy](https://psirt.bosch.com/bosch-responsible-disclosure-policy/) | recognition | — | active |
 | `cm-portimao.pt` | — | — | — | expired |
 | `decathlon.pt` | [policy](https://vdp.decathlon.net) | — | — | active |
-| `dges.gov.pt` | — | — | — | active |
+| `dges.gov.pt` | — | — | — | retired |
 | `flashscore.pt` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `flixbus.pt` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |
 | `gettyimages.pt` | — | — | — | retired |

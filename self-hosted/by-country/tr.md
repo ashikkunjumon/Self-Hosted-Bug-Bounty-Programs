@@ -1,6 +1,6 @@
 # Self-hosted programs — TR
 
-30 programs.
+31 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -10,6 +10,7 @@
 | `bosch.com.tr` | [policy](https://psirt.bosch.com/bosch-responsible-disclosure-policy/) | recognition | — | active |
 | `boyner.com.tr` | — | — | — | expired |
 | `decathlon.com.tr` | [policy](https://vdp.decathlon.net) | — | — | active |
+| `denktas.av.tr` | — | — | — | active |
 | `elle.com.tr` | — | — | — | active |
 | `engoo.com.tr` | — | — | — | active |
 | `erdemhastahanesi.com.tr` | — | — | — | active |

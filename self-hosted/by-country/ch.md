@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-390 programs.
+394 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -109,6 +109,7 @@
 | `fr.ch` | — | — | — | active |
 | `frauenfeld.ch` | — | — | — | active |
 | `freiburger-nachrichten.ch` | — | — | — | active |
+| `fust.ch` | [policy](https://www.coop.ch/de/unternehmen/vdp.html) | monetary | — | active |
 | `galaxus.ch` | [policy](https://www.galaxus.ch/security) | monetary | yes | active |
 | `gameswelt.ch` | — | — | — | active |
 | `gastrojournal.ch` | — | — | — | expired |
@@ -222,12 +223,14 @@
 | `myvaud.ch` | — | — | — | active |
 | `nationalmuseum.ch` | — | — | — | active |
 | `naturalsciences.ch` | — | — | — | active |
+| `naturwissenschaften.ch` | — | — | — | active |
 | `ne.ch` | — | recognition | — | active |
 | `nexplore.ch` | [policy](https://www.nexplore.ch/vulnerability-disclosure-policy) | — | — | expired |
 | `nic.ch` | [policy](https://www.switch.ch/security/SWITCH-CERT.txt) | — | — | active |
 | `nivea.ch` | [policy](https://soc.beiersdorf.com/disclosurepolicy.html) | — | yes | active |
 | `notino.ch` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
 | `nw.ch` | — | — | — | active |
+| `nyon.ch` | — | — | — | active |
 | `olten.ch` | — | — | — | active |
 | `oneplus.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/compass-bug-bounty) | monetary | — | active |
 | `opfikon.ch` | — | — | — | active |
@@ -352,6 +355,7 @@
 | `trustedshops.ch` | [policy](https://www.trustedshops.de/.well-known/responsible-disclosure.txt) | — | yes | active |
 | `tui.ch` | [policy](https://vdp.tui.com/p/Policy) | — | — | active |
 | `tvo-online.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/compass-bug-bounty) | monetary | — | active |
+| `umb.ch` | — | — | — | active |
 | `uncoded.ch` | — | — | — | active |
 | `unibe.ch` | — | — | — | expired |
 | `unicef.ch` | — | — | — | retired |

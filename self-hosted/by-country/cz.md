@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-358 programs.
+359 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -100,6 +100,7 @@
 | `etnetera.cz` | — | — | — | active |
 | `expert.cz` | — | — | — | active |
 | `farmarsketrziste.cz` | — | — | — | active |
+| `fastcr.cz` | — | — | — | expired |
 | `fg.cz` | — | — | — | active |
 | `firmy.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `fitmin.cz` | — | — | — | active |
@@ -239,7 +240,7 @@
 | `osa.cz` | — | — | — | active |
 | `osu.cz` | — | — | — | active |
 | `paladix.cz` | — | — | — | active |
-| `pamatkovykatalog.cz` | — | — | — | active |
+| `pamatkovykatalog.cz` | — | — | — | retired |
 | `patria.cz` | — | — | — | active |
 | `penzion.cz` | — | — | — | active |
 | `pernikova-chaloupka.cz` | — | — | — | active |
@@ -331,7 +332,7 @@
 | `vedos.cz` | [policy](https://vedos.cz/security-policy) | — | — | active |
 | `velkemezirici.cz` | — | — | — | active |
 | `vesmir.cz` | — | — | — | active |
-| `vetkom.cz` | — | — | — | active |
+| `vetkom.cz` | — | — | — | retired |
 | `vinci-construction.cz` | — | — | — | expired |
 | `vinted.cz` | — | — | — | active |
 | `vitalia.cz` | — | — | — | active |

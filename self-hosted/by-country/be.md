@@ -25,7 +25,7 @@
 | `belgacom.be` | — | — | — | active |
 | `belgie-vakantiehuis.be` | — | — | — | active |
 | `beringen.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
-| `betrouwbaar-casino.be` | [policy](https://betrouwbaar-casino.be/security-policy) | recognition | — | retired |
+| `betrouwbaar-casino.be` | [policy](https://betrouwbaar-casino.be/security-policy) | recognition | — | active |
 | `beveren.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `bijloke.be` | — | — | — | active |
 | `bloom.be` | [policy](https://www.bloom.be/security-policy) | recognition | — | active |
@@ -80,7 +80,7 @@
 | `flemalle.be` | — | — | — | active |
 | `flixbus.be` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |
 | `florealgroup.be` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | active |
-| `fluvius.be` | [policy](https://www.fluvius.be/nl/privacybeleid) | monetary | — | active |
+| `fluvius.be` | [policy](https://www.fluvius.be/nl/privacybeleid) | monetary | — | retired |
 | `fnac.be` | — | — | — | active |
 | `folderbode.be` | — | — | — | active |
 | `fomu.be` | [policy](https://fomu.be/security-policy) | recognition | — | active |
@@ -232,8 +232,8 @@
 | `vdab.be` | [policy](https://www.vdab.be/responsible-disclosure) | recognition | yes | expired |
 | `velora.be` | — | — | — | active |
 | `veloro.be` | [policy](https://www.registrarhub.net/.well-known/responsible_disclosure.txt) | — | — | active |
-| `vib.be` | [policy](https://www.vib.be/responsible-disclosure) | recognition | yes | active |
-| `vibconferences.be` | [policy](https://www.vib.be/responsible-disclosure) | recognition | yes | active |
+| `vib.be` | [policy](https://www.vib.be/responsible-disclosure) | recognition | yes | expired |
+| `vibconferences.be` | [policy](https://www.vib.be/responsible-disclosure) | recognition | yes | expired |
 | `vielsalm.be` | — | — | — | active |
 | `villedecomines-warneton.be` | — | — | — | active |
 | `vinted.be` | — | — | — | active |

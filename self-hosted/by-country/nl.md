@@ -1,6 +1,6 @@
 # Self-hosted programs — NL
 
-394 programs.
+400 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -44,6 +44,7 @@
 | `asr.nl` | [policy](https://www.asrnederland.nl/meldpunt-digitale-kwetsbaarheden) | — | yes | retired |
 | `asterict.nl` | — | — | — | active |
 | `at5.nl` | [policy](https://at5.nl/responsible-disclosure) | — | — | active |
+| `autorai.nl` | — | — | — | active |
 | `autoriteitpersoonsgegevens.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `avans.nl` | [policy](https://www.avans.nl/over-avans/responsible-disclosure) | — | yes | active |
 | `avl.nl` | [policy](https://www.avl.nl/en/about-the-netherlands-cancer-institute/organization/disclaimer/information-security-and-coordinated-vulnerability-disclosure/) | recognition | — | retired |
@@ -127,6 +128,7 @@
 | `fontys.nl` | [policy](https://www.fontys.nl/en/About-Fontys/Who-we-are/Our-organisation/Rules-regulations/Report-a-Vulnerability-to-Fontys-Coordinated-Vulnerability-Disclosure.htm) | monetary | yes | active |
 | `friesland.nl` | — | — | — | active |
 | `ftm.nl` | — | — | — | expired |
+| `funx.nl` | — | recognition | — | active |
 | `gasunie.nl` | [policy](https://www.gasunie.nl/en/responsible-disclosure) | monetary | yes | active |
 | `gelderland.nl` | — | — | — | active |
 | `gemeentemaastricht.nl` | [policy](https://cert-gm.net/policy.md) | monetary | yes | active |
@@ -143,6 +145,7 @@
 | `hanze.nl` | [policy](https://www.hanze.nl/en/about-hanze/organization/coordinated-vulnerability-disclosure-cvd) | recognition | — | expired |
 | `hcc.nl` | — | — | — | expired |
 | `hccnet.nl` | — | — | — | expired |
+| `hersenstichting.nl` | — | — | — | active |
 | `hetcak.nl` | [policy](https://www.hetcak.nl/kwetsbare-plek-ontdekt/) | — | yes | active |
 | `hetutrechtsarchief.nl` | — | — | — | active |
 | `hollandandbarrett.nl` | [policy](https://vdp.hollandandbarrett.com/) | — | — | active |
@@ -188,6 +191,7 @@
 | `knb.nl` | [policy](https://www.knb.nl/kwetsbaarheid-melden/) | — | yes | active |
 | `kngf.nl` | [policy](https://z-cert.nl/kwetsbaarheid-melden/) | — | — | active |
 | `knmp.nl` | — | — | — | active |
+| `knrm.nl` | — | — | — | active |
 | `koncon.nl` | — | — | — | active |
 | `koninklijkhuis.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `kpn.nl` | — | monetary | — | active |
@@ -251,6 +255,7 @@
 | `nos.nl` | [policy](https://over.nos.nl/wp-content/uploads/2026/06/260615_NOS-Responsible-disclosure-beleid_NE_EN.pdf) | monetary | — | active |
 | `notaris.nl` | [policy](https://www.notaris.nl/page/beveiliging-niet-in-orde-meld-het-ons) | recognition | yes | active |
 | `npo.nl` | — | recognition | — | active |
+| `nporadio5.nl` | — | recognition | — | active |
 | `ns.nl` | [policy](https://ocp.ns.nl/caas/v1/media/stable/24134/data/statement-responsible-disclosure-engels.pdf) | monetary | — | active |
 | `ntvg.nl` | [policy](https://www.ntvg.nl/disclaimer) | — | yes | expired |
 | `nuffic.nl` | [policy](https://www.nuffic.nl/over-nuffic/contact/kwetsbaarheid-melden) | — | yes | expired |
@@ -293,7 +298,7 @@
 | `radboudumc.nl` | [policy](https://www.radboudumc.nl/security/responsible-disclosure) | monetary | yes | active |
 | `radio1.nl` | — | recognition | — | active |
 | `rd.nl` | [policy](https://service.erdee.nl/security/responsible-disclosure-policy) | — | yes | active |
-| `rdw.nl` | [policy](https://www.rdw.nl/over-rdw/kwaliteits--en-servicenormen/security-operations-center-soc) | monetary | — | active |
+| `rdw.nl` | [policy](https://www.rdw.nl/over-rdw/kwaliteits--en-servicenormen/security-operations-center-soc) | monetary | — | expired |
 | `rechtspraak.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `refdag.nl` | [policy](https://service.erdee.nl/security/responsible-disclosure-policy) | — | yes | active |
 | `regelhulp.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
@@ -389,6 +394,7 @@
 | `xel.nl` | — | — | — | expired |
 | `xpos.nl` | [policy](https://www.xpos.nl/security.html) | — | yes | active |
 | `youngcapital.nl` | [policy](https://www.youngcapital.nl/security) | monetary | yes | expired |
+| `yourhosting.nl` | — | — | — | active |
 | `zeeland.nl` | [policy](https://www.zeeland.nl/responsible-disclosure) | — | yes | active |
 | `zilverenkruis.nl` | [policy](https://achmea.nl/en/responsible-disclosure) | swag | — | active |
 | `zonnet.nl` | — | — | — | active |

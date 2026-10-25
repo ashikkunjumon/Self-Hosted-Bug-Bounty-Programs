@@ -18,7 +18,7 @@
 | `bernerzeitung.ch` | [policy](https://bugcrowd.com/tamedia) | monetary | — | expired |
 | `berufsbildung-schweiz.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | recognition | yes | active |
 | `bilan.ch` | [policy](https://bugcrowd.com/tamedia) | monetary | — | expired |
-| `blick.ch` | — | monetary | — | active |
+| `blick.ch` | — | monetary | — | expired |
 | `bmw.ch` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
 | `bundesanwaltschaft.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | recognition | yes | active |
 | `cadastre.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | recognition | yes | active |

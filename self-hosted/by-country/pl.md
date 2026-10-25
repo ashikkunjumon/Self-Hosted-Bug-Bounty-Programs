@@ -1,6 +1,6 @@
 # Self-hosted programs — PL
 
-180 programs.
+181 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -15,6 +15,7 @@
 | `avlab.pl` | — | — | — | active |
 | `benchmark.pl` | — | — | — | active |
 | `bezdroza.pl` | — | — | — | active |
+| `biala.pl` | — | — | — | active |
 | `brainly.pl` | [policy](https://brainly.com/responsible-disclosure-program) | — | — | active |
 | `bricoman.pl` | — | — | — | active |
 | `businessinsider.com.pl` | — | — | — | active |
@@ -169,7 +170,7 @@
 | `verseo.pl` | — | — | — | active |
 | `vichy.pl` | — | recognition | — | active |
 | `vinted.pl` | — | — | — | active |
-| `virtualo.pl` | — | — | — | retired |
+| `virtualo.pl` | — | — | — | active |
 | `viva.pl` | [policy](https://www.immediate.co.uk/security-disclosure-policy/) | — | — | retired |
 | `wakacje.pl` | — | — | — | active |
 | `wiadomosci24.pl` | — | — | — | expired |

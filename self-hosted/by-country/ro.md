@@ -25,7 +25,7 @@
 | `defenseromania.ro` | — | recognition | — | active |
 | `dictie.ro` | — | — | — | active |
 | `dm.ro` | — | — | — | active |
-| `doctorulzilei.ro` | [policy](https://doctorulzilei.ro/security-policy) | — | — | retired |
+| `doctorulzilei.ro` | [policy](https://doctorulzilei.ro/security-policy) | — | — | active |
 | `ediconnect.ro` | [policy](https://www.ediconnect.ro/contact) | — | — | active |
 | `ejobs.ro` | — | — | — | active |
 | `eon.ro` | — | — | — | active |
