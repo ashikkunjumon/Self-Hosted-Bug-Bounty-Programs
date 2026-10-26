@@ -1,6 +1,6 @@
 # Platform-hosted programs — NL
 
-35 programs.
+36 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -29,6 +29,7 @@
 | `oudersvannu.nl` | — | monetary | — | active |
 | `parool.nl` | — | monetary | — | active |
 | `pzc.nl` | — | monetary | — | active |
+| `qmusic.nl` | — | monetary | — | active |
 | `snsbank.nl` | [policy](https://hackerone.com/asnbank) | — | — | active |
 | `sportnieuws.nl` | — | monetary | — | active |
 | `toto.nl` | [policy](https://www.nederlandseloterij.nl/responsible-disclosure) | — | yes | active |

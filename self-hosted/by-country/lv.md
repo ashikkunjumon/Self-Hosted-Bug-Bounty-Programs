@@ -1,6 +1,6 @@
 # Self-hosted programs — LV
 
-20 programs.
+21 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -13,6 +13,7 @@
 | `bite.lv` | [policy](https://www.bite.lv/lv/informacijas-izpausanas-programma) | monetary | — | active |
 | `bovada.lv` | [policy](https://bovada.lv/bug-bounty) | monetary | — | active |
 | `cafecasino.lv` | [policy](https://cafecasino.lv/bug-bounty) | monetary | — | active |
+| `cloudhosting.lv` | — | — | — | active |
 | `cvk.lv` | [policy](https://www.cvk.lv/drosibas-politika) | — | — | active |
 | `failiem.lv` | [policy](https://files.fm/nis2-compliance) | — | — | active |
 | `kalkulatori.lv` | [policy](https://kalkulatori.lv/security-policy) | — | — | active |

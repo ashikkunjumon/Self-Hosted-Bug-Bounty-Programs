@@ -1,6 +1,6 @@
 # Self-hosted programs — DK
 
-153 programs.
+155 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -61,6 +61,7 @@
 | `frdb.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
 | `frederiksbergliv.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
 | `fyens.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | retired |
+| `get2net.dk` | — | — | — | active |
 | `gettyimages.dk` | — | — | — | retired |
 | `gigahost.dk` | — | — | — | active |
 | `gisselfeld-kloster.dk` | — | — | — | active |
@@ -148,6 +149,7 @@
 | `trustpilot.dk` | — | — | — | active |
 | `tryg.dk` | [policy](https://tryg.com/en/responsible-disclosure) | — | — | active |
 | `tv2.dk` | [policy](https://omtv2.tv2.dk/media/126365/tv_2_responsible_disclosure.pdf) | — | — | active |
+| `uddannelsesstatistik.dk` | — | — | — | active |
 | `udeoghjemme.dk` | — | — | — | expired |
 | `vafo.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
 | `version2.dk` | — | — | — | active |

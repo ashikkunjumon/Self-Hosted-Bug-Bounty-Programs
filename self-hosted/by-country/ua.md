@@ -1,6 +1,6 @@
 # Self-hosted programs — UA
 
-52 programs.
+53 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -43,6 +43,7 @@
 | `pethouse.ua` | [policy](https://pethouse.ua/ua/security-policy/) | — | yes | active |
 | `podushka.com.ua` | — | — | — | active |
 | `redo.ua` | — | — | — | active |
+| `renault.ua` | [policy](https://www.renaultgroup.com/en/vulnerability-disclosure-policy/) | — | — | active |
 | `sendpulse.ua` | — | — | — | active |
 | `silpovoyage.ua` | — | — | — | active |
 | `slotor777.com.ua` | — | — | — | retired |

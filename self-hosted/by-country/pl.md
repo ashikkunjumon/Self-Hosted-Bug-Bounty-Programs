@@ -1,6 +1,6 @@
 # Self-hosted programs — PL
 
-181 programs.
+182 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -70,6 +70,7 @@
 | `helion.pl` | — | — | — | active |
 | `home.pl` | — | — | — | active |
 | `homebook.pl` | — | — | — | active |
+| `i-apteka.pl` | — | — | — | active |
 | `i.pl` | — | — | — | expired |
 | `inpost.pl` | [policy](https://vdp.inpost.pl/p/Policy?lang=en-gb) | — | — | active |
 | `intel.pl` | [policy](https://www.intel.com/content/www/us/en/security-center/vulnerability-handling-guidelines.html) | — | — | active |

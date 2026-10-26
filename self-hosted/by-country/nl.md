@@ -1,6 +1,6 @@
 # Self-hosted programs — NL
 
-400 programs.
+402 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -114,6 +114,7 @@
 | `enschede.nl` | [policy](https://www.enschede.nl/kwetsbaarheid-melden-responsible-disclosure) | — | — | active |
 | `ensie.nl` | — | — | — | active |
 | `eo.nl` | [policy](https://npo.nl/overnpo/privacy-en-security) | — | — | active |
+| `eredivisie.nl` | [policy](https://www.onyourmarks.agency/security-policy/) | monetary | — | active |
 | `eur.nl` | [policy](https://www.eur.nl/campus/locaties/campus-woudestein/beveiliging-veiligheid/informatiebeveiliging/responsible-disclosure) | recognition | yes | active |
 | `europarcs.nl` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | active |
 | `expedia.nl` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
@@ -170,6 +171,7 @@
 | `internetconsultatie.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `interpolis.nl` | [policy](https://achmea.nl/en/responsible-disclosure) | swag | — | active |
 | `intratuin.nl` | — | — | — | active |
+| `iss.nl` | [policy](https://www.eur.nl/campus/locaties/campus-woudestein/beveiliging-veiligheid/informatiebeveiliging/responsible-disclosure) | recognition | yes | active |
 | `it-notaris.nl` | [policy](https://it-notaris.nl/responsible-disclosure/) | recognition | yes | retired |
 | `jaarbeurs.nl` | [policy](https://www.jaarbeurs.nl/responsible-disclosure) | — | — | expired |
 | `jeito.nl` | [policy](https://jeito.nl/security-policy.html) | — | — | active |

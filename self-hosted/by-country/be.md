@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-255 programs.
+256 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -222,6 +222,7 @@
 | `triodos.be` | — | — | — | active |
 | `trivon.be` | — | — | — | active |
 | `trovit.be` | — | recognition | — | active |
+| `tubize.be` | — | — | — | active |
 | `tvd.be` | [policy](https://dovendi.com/en/security-policy) | — | yes | active |
 | `ucll.be` | — | — | — | expired |
 | `uclouvain.be` | — | — | — | active |

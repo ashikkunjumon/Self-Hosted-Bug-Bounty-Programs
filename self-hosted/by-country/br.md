@@ -1,6 +1,6 @@
 # Self-hosted programs — BR
 
-95 programs.
+97 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -73,6 +73,7 @@
 | `parajuvinhos.com.br` | — | — | — | expired |
 | `pebmed.com.br` | [policy](https://security.afya.com.br) | — | — | active |
 | `premierpet.com.br` | [policy](https://premierpet.com.br/privacidade/) | recognition | — | active |
+| `primeirahora.com.br` | — | — | — | active |
 | `printi.com.br` | [policy](https://www.printi.com.br/politicas-de-privacidade/) | swag | — | active |
 | `profixdigital.com.br` | — | — | — | active |
 | `reclameaqui.com.br` | [policy](https://storage.googleapis.com/whitehat-policy/reclameaqui-whitehat-policy.pdf) | monetary | — | active |
@@ -93,6 +94,7 @@
 | `ufscar.br` | [policy](https://www.sin.ufscar.br/governanca/politicas-e-normas) | — | — | active |
 | `unesp.br` | — | — | — | expired |
 | `unifal-mg.edu.br` | — | — | — | active |
+| `unigranrio.edu.br` | [policy](https://security.afya.com.br) | — | — | active |
 | `unochapeco.edu.br` | — | — | — | active |
 | `viajanet.com.br` | — | recognition | — | active |
 | `viva.com.br` | — | — | — | active |

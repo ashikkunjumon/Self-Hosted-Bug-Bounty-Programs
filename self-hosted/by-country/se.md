@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-519 programs.
+521 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -35,6 +35,7 @@
 | `arvsfonden.se` | — | — | — | active |
 | `astorp.se` | — | — | — | active |
 | `avanza.se` | [policy](https://www.avanza.se/sakerhet-villkor/sakerhet.html) | — | — | active |
+| `b3.se` | — | — | — | active |
 | `barometern.se` | — | — | — | active |
 | `bauhaus.se` | — | — | — | active |
 | `bblat.se` | — | — | — | active |
@@ -321,6 +322,7 @@
 | `nvp.se` | — | — | — | active |
 | `nwt.se` | — | — | — | active |
 | `nynashamn.se` | — | — | — | active |
+| `nynashamnsposten.se` | — | — | — | active |
 | `oddsbonusar.se` | [policy](https://oddsbonusar.se/security-policy) | recognition | — | active |
 | `olandsbladet.se` | — | — | — | active |
 | `op.se` | — | — | — | active |

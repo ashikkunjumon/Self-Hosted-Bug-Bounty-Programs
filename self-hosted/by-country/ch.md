@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-394 programs.
+397 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -84,6 +84,7 @@
 | `elca.ch` | — | monetary | — | expired |
 | `emacs.ch` | — | — | — | expired |
 | `energie360.ch` | — | — | — | active |
+| `enjoymedia.ch` | — | — | — | active |
 | `epfl.ch` | — | — | — | expired |
 | `ephj.ch` | — | — | — | active |
 | `ergon.ch` | — | — | — | active |
@@ -172,6 +173,7 @@
 | `kaiserkraft.ch` | — | — | — | active |
 | `kfmv.ch` | — | — | — | active |
 | `kibag.ch` | [policy](https://kibag.ch/impressum) | — | — | active |
+| `klett.ch` | — | — | — | active |
 | `kloten.ch` | — | — | — | active |
 | `klubschule.ch` | — | — | — | active |
 | `koeniz.ch` | — | — | — | active |
@@ -241,6 +243,7 @@
 | `parking-luzern.ch` | — | recognition | — | active |
 | `parship.ch` | — | — | — | active |
 | `perfactive.ch` | — | — | — | active |
+| `pewrsr.ch` | — | — | — | active |
 | `piratenpartei.ch` | — | — | — | active |
 | `plan-les-ouates.ch` | — | — | — | active |
 | `pmodwrc.ch` | — | — | — | expired |

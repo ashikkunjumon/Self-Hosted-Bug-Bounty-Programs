@@ -1,6 +1,6 @@
 # Self-hosted programs — ES
 
-102 programs.
+103 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -82,6 +82,7 @@
 | `slid.es` | — | — | — | active |
 | `sodexo.es` | [policy](https://vdp.sodexo.com) | — | — | expired |
 | `solcasino.es` | — | — | — | active |
+| `somfy.es` | [policy](https://vdp.somfy-group.com/) | — | — | active |
 | `spreadshirt.es` | — | — | — | retired |
 | `studentjob.es` | [policy](https://www.youngcapital.nl/security) | monetary | yes | expired |
 | `teatroreal.es` | — | — | — | active |

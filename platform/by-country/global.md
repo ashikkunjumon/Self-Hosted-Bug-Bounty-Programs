@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-619 programs.
+622 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -77,6 +77,7 @@
 | `blm.gov` | [policy](https://bugcrowd.com/engagements/blm-vdp) | — | — | active |
 | `blockchain.com` | [policy](https://bugcrowd.com/engagements/blockchain-dot-com https://hackenproof.com/programs/blockchain-dot-com) | — | — | active |
 | `blockchain.info` | [policy](https://bugcrowd.com/engagements/blockchain-dot-com https://hackenproof.com/programs/blockchain-dot-com) | — | — | active |
+| `bmw-motorrad.com` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
 | `bmw-welt.com` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
 | `bmwgroup.com` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
 | `booking.com` | — | — | — | active |
@@ -103,6 +104,7 @@
 | `christianriesen.com` | [policy](https://hackerone.com/automattic) | — | — | retired |
 | `classdojo.com` | [policy](https://bugcrowd.com/engagements/classdojo) | monetary | — | expired |
 | `claude.com` | [policy](https://support.claude.com/en/articles/12119250-model-safety-bug-bounty-program) | monetary | — | retired |
+| `claudeusercontent.com` | [policy](https://www.anthropic.com/responsible-disclosure-policy) | monetary | yes | active |
 | `clearme.com` | — | — | — | active |
 | `cloudflare.com` | [policy](https://www.cloudflare.com/disclosure/) | — | — | active |
 | `cloudsek.com` | [policy](https://www.cloudsek.com/knowledge-base/best-bug-bounty-platforms) | monetary | yes | retired |
@@ -130,6 +132,7 @@
 | `creditkarma.com` | [policy](https://hackerone.com/creditkarma) | — | — | active |
 | `criminaldefenselawyer.com` | — | — | — | active |
 | `csosa.gov` | [policy](https://www.csosa.gov/vulnerability-disclosure-policy/) | — | — | active |
+| `cybereason.com` | [policy](https://www.levelblue.com/legal/privacy-policy) | — | — | active |
 | `cybersecurityventures.com` | [policy](https://cybersecurityventures.com/bug-bounty-blog/) | monetary | — | retired |
 | `dailypaws.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `danaepp.com` | [policy](https://danaepp.com/the-security-researchers-guide-to-reporting-vulnerabilities-to-vendors) | monetary | yes | retired |
@@ -384,7 +387,7 @@
 | `okta.com` | [policy](https://www.okta.com/vulnerability-reporting-policy/) | — | — | active |
 | `omarchy.org` | [policy](https://omarchy.org/security) | swag | — | active |
 | `ondeck.com` | [policy](https://www.ondeck.com/security-policy) | monetary | — | active |
-| `oohcams.com` | [policy](https://hackerone.com/chaturbate?type=team&view_policy=true) | — | — | retired |
+| `oohcams.com` | [policy](https://hackerone.com/chaturbate?type=team&view_policy=true) | — | — | active |
 | `ookla.com` | [policy](https://security.ookla.com) | — | — | active |
 | `openai.com` | [policy](https://openai.com/policies/coordinated-vulnerability-disclosure-policy) | recognition | — | active |
 | `opensea.io` | [policy](https://bugcrowd.com/opensea) | monetary | — | active |
@@ -621,5 +624,5 @@
 | `zapier.com` | [policy](https://zapier.com/l/bug-bounty-program) | monetary | — | retired |
 | `zendesk.com` | [policy](https://www.zendesk.com/company/policies-and-guidelines/responsible-disclosure-policy/) | — | — | active |
 | `zerodisclo.com` | [policy](https://vdp.yeswehack.com) | — | — | active |
-| `zopa.com` | — | — | — | active |
+| `zopa.com` | — | — | — | retired |
 | `zscaler.com` | [policy](https://www.zscaler.com/security/vulnerability-disclosure-program) | monetary | — | retired |

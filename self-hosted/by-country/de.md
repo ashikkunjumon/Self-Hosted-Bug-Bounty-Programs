@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-473 programs.
+475 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -368,6 +368,7 @@
 | `sparkasse.de` | [policy](https://www.s-communication.de/BugBounty.html) | monetary | — | active |
 | `spdfraktion.de` | — | — | — | retired |
 | `speyer.de` | — | — | — | active |
+| `sportschau.de` | [policy](https://www.sportschau.de/vulnerability-disclosure-policy) | monetary | yes | active |
 | `spreadshirt.de` | — | — | — | retired |
 | `spritmonitor.de` | — | — | — | expired |
 | `srlabs.de` | — | — | — | active |
@@ -447,6 +448,7 @@
 | `verbraucherzentrale-energieberatung.de` | — | — | — | expired |
 | `verdi.de` | — | — | — | active |
 | `verivox.de` | — | — | — | expired |
+| `vinted.de` | — | — | — | active |
 | `vogel.de` | — | — | — | active |
 | `vogelsbergkreis.de` | [policy](https://www.vogelsbergkreis.de/informationen/sicherheitsluecke-melden/) | — | — | active |
 | `volkswagen.de` | — | — | — | retired |
@@ -473,7 +475,7 @@
 | `wuerzburg.de` | — | — | — | active |
 | `wuppertal.de` | [policy](https://digital.wuppertal.de/medien_digitalisierung/10_ISMS_Stadt_Wuppertal_Richtlinie_zur_Offenlegung_von_Sicherheitsluecken_V2.0.pdf) | monetary | — | active |
 | `xing.de` | [policy](https://www.new-work.se/.well-known/rfc-2350.txt) | — | — | expired |
-| `zdf.de` | — | — | — | active |
+| `zdf.de` | — | — | — | expired |
 | `zdfheute.de` | — | — | — | active |
 | `zdh.de` | — | — | — | active |
 | `zentrale.de` | — | — | — | retired |
