@@ -1,6 +1,6 @@
 # Self-hosted programs — NO
 
-233 programs.
+234 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -32,6 +32,7 @@
 | `coolstuff.no` | — | — | — | expired |
 | `coop.no` | — | — | — | active |
 | `datatilsynet.no` | — | — | — | active |
+| `deichman.no` | — | — | — | active |
 | `detnorsketeatret.no` | [policy](https://www.detnorsketeatret.no/security-policy) | recognition | — | active |
 | `diakonhjemmetsykehus.no` | — | — | — | active |
 | `digdir.no` | [policy](https://www.digdir.no/digdir/responsible-disclosure-policy/6386) | recognition | yes | active |

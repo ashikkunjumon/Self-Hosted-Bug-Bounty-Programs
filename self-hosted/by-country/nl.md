@@ -1,6 +1,6 @@
 # Self-hosted programs — NL
 
-402 programs.
+407 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -102,6 +102,7 @@
 | `digitaleoverheid.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `dirk.nl` | [policy](https://dirk.nl/algemene-informatie) | monetary | — | active |
 | `dnb.nl` | [policy](https://www.dnb.nl/privacy-en-beveiliging/kwetsbaarheid-melden/) | — | yes | active |
+| `douane.nl` | [policy](https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/standaard_functies/individuals/contact/data-leak-vulnerability-abuse-computer-systems/coordinated-vulnerability-disclosure) | recognition | — | active |
 | `drentsmuseum.nl` | [policy](https://www.slash2.nl/responsible-disclosure-policy) | recognition | yes | active |
 | `duinrell.nl` | — | — | — | active |
 | `ede.nl` | [policy](https://ede.nl/over-de-site-en-privacyverklaring#c1009) | — | yes | active |
@@ -130,6 +131,7 @@
 | `friesland.nl` | — | — | — | active |
 | `ftm.nl` | — | — | — | expired |
 | `funx.nl` | — | recognition | — | active |
+| `gardenersworldmagazine.nl` | — | — | — | active |
 | `gasunie.nl` | [policy](https://www.gasunie.nl/en/responsible-disclosure) | monetary | yes | active |
 | `gelderland.nl` | — | — | — | active |
 | `gemeentemaastricht.nl` | [policy](https://cert-gm.net/policy.md) | monetary | yes | active |
@@ -285,6 +287,7 @@
 | `openovergokken.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | swag | — | active |
 | `oranjefonds.nl` | — | — | — | active |
 | `overheid.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
+| `paleisamsterdam.nl` | — | — | — | expired |
 | `partijvoordedieren.nl` | [policy](https://www.partijvoordedieren.nl/responsible-disclosure) | — | — | expired |
 | `patientenfederatie.nl` | — | — | — | active |
 | `pay.nl` | [policy](https://www.pay.nl/en/responsible-disclosure) | monetary | — | retired |
@@ -333,6 +336,7 @@
 | `sitearchief.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `slachtofferhulp.nl` | — | — | — | active |
 | `slo.nl` | — | — | — | active |
+| `socialevraagstukken.nl` | — | — | — | active |
 | `somi.nl` | [policy](https://somi.nl/en/responsible-disclosure-policy) | — | — | retired |
 | `spar.nl` | — | — | — | expired |
 | `sron.nl` | — | — | — | active |
@@ -399,6 +403,7 @@
 | `yourhosting.nl` | — | — | — | active |
 | `zeeland.nl` | [policy](https://www.zeeland.nl/responsible-disclosure) | — | yes | active |
 | `zilverenkruis.nl` | [policy](https://achmea.nl/en/responsible-disclosure) | swag | — | active |
+| `zoetermeer.nl` | [policy](https://www.zoetermeer.nl/beveiliginglek-of-datalek-melden) | monetary | — | active |
 | `zonnet.nl` | — | — | — | active |
 | `zoover.nl` | — | — | — | active |
 | `zorginstituutnederland.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |

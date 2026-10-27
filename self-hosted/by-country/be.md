@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-256 programs.
+258 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -12,6 +12,7 @@
 | `aanbieders.be` | [policy](https://www.aanbieders.be/privacyverklaring) | — | — | active |
 | `aarschot.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `aboutyou.be` | — | monetary | — | active |
+| `advocaat-zedenfeiten.be` | — | — | — | active |
 | `antp.be` | — | recognition | — | active |
 | `antwerpsymphonyorchestra.be` | — | — | — | active |
 | `aqualo.be` | — | — | — | active |
@@ -51,6 +52,7 @@
 | `deliveroo.be` | — | — | — | active |
 | `dendermonde.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `designmuseumgent.be` | [policy](https://www.designmuseumgent.be/security-policy) | — | — | retired |
+| `desingel.be` | — | — | — | active |
 | `despil.be` | — | — | — | active |
 | `dewatergroep.be` | [policy](https://www.dewatergroep.be/nl-be/security) | — | — | expired |
 | `dnsbelgium.be` | [policy](https://www.dnsbelgium.be/responsible-disclosure-policy) | — | — | active |
@@ -80,7 +82,7 @@
 | `flemalle.be` | — | — | — | active |
 | `flixbus.be` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |
 | `florealgroup.be` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | active |
-| `fluvius.be` | [policy](https://www.fluvius.be/nl/privacybeleid) | monetary | — | retired |
+| `fluvius.be` | [policy](https://www.fluvius.be/nl/privacybeleid) | monetary | — | active |
 | `fnac.be` | — | — | — | active |
 | `folderbode.be` | — | — | — | active |
 | `fomu.be` | [policy](https://fomu.be/security-policy) | recognition | — | active |

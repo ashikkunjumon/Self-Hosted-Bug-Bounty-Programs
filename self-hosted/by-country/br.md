@@ -1,6 +1,6 @@
 # Self-hosted programs — BR
 
-97 programs.
+98 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -27,6 +27,7 @@
 | `cuponeria.com.br` | — | — | — | active |
 | `cvcrm.com.br` | — | — | — | active |
 | `defesa.gov.br` | [policy](https://www.gov.br/defesa/pt-br/arquivos/legislacao/posin-md-2022.pdf) | — | — | retired |
+| `digitalatibaia.com.br` | [policy](https://digitalatibaia.com.br/) | — | — | active |
 | `doctoralia.com.br` | — | — | — | active |
 | `eventim.com.br` | — | — | — | active |
 | `expedia.com.br` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |

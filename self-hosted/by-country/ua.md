@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 | `agro-center.com.ua` | — | — | — | active |
 | `arma.gov.ua` | — | — | — | active |
-| `autolux.ua` | — | — | — | active |
+| `autolux.ua` | — | — | — | retired |
 | `avrora.ua` | [policy](https://avrora.ua/vulnerability-disclosure-policy.html) | — | — | active |
 | `biotus.ua` | [policy](https://biotus.ua/security-policy) | — | yes | active |
 | `cert.gov.ua` | — | — | — | active |

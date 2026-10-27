@@ -18,7 +18,7 @@
 | `biala.pl` | — | — | — | active |
 | `brainly.pl` | [policy](https://brainly.com/responsible-disclosure-program) | — | — | active |
 | `bricoman.pl` | — | — | — | active |
-| `businessinsider.com.pl` | — | — | — | active |
+| `businessinsider.com.pl` | — | — | — | retired |
 | `busko.pl` | — | — | — | active |
 | `carrefour.pl` | [policy](https://carrefour.com/disclosure) | — | — | active |
 | `cdrinfo.pl` | — | — | — | active |
@@ -39,7 +39,7 @@
 | `ebookpoint.pl` | — | — | — | active |
 | `electro.pl` | — | — | — | active |
 | `empikbilety.pl` | — | — | — | active |
-| `empikfoto.pl` | — | — | — | retired |
+| `empikfoto.pl` | — | — | — | active |
 | `esky.pl` | — | recognition | — | active |
 | `eventim.pl` | — | — | — | active |
 | `expressbydgoski.pl` | — | — | — | expired |

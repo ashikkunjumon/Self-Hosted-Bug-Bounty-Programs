@@ -1,6 +1,6 @@
 # Self-hosted programs — TR
 
-31 programs.
+32 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -25,6 +25,7 @@
 | `kamilkoc.com.tr` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |
 | `lorealparis.com.tr` | — | recognition | — | active |
 | `michelin.com.tr` | — | — | — | active |
+| `pistar.com.tr` | [policy](https://pistar.com.tr/gizlilik) | — | — | active |
 | `pluxee.com.tr` | [policy](https://vdp.pluxee.app/p/Policy) | — | — | active |
 | `rossmann.com.tr` | — | — | — | expired |
 | `rumeli.edu.tr` | — | — | — | expired |

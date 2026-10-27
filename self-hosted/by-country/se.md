@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-521 programs.
+523 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -14,6 +14,7 @@
 | `akademiska.se` | — | — | — | active |
 | `aktuellhallbarhet.se` | — | — | — | active |
 | `albanova.se` | — | — | — | active |
+| `alde.se` | [policy](https://www.truma.com/responsible-disclosure-policy/) | monetary | — | active |
 | `ale.se` | — | — | — | active |
 | `alingsas.se` | — | — | — | expired |
 | `allehanda.se` | — | — | — | active |
@@ -75,6 +76,7 @@
 | `dagensmedia.se` | — | — | — | active |
 | `dagensmedicin.se` | — | — | — | active |
 | `dagenssamhalle.se` | — | — | — | active |
+| `dagligvarunytt.se` | — | — | — | active |
 | `dahl.se` | — | — | — | active |
 | `dalademokraten.se` | — | — | — | active |
 | `damernasvarld.se` | — | — | — | active |

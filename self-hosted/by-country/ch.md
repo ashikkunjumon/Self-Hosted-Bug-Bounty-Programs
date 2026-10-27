@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-397 programs.
+399 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -20,6 +20,7 @@
 | `aquaspa.ch` | — | — | — | active |
 | `arcinfo.ch` | — | — | — | active |
 | `argovia.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/compass-bug-bounty) | monetary | — | active |
+| `asmobil.ch` | — | — | — | active |
 | `autoscout24.ch` | — | — | — | active |
 | `axa.ch` | — | — | — | active |
 | `baar.ch` | — | — | — | active |
@@ -29,6 +30,7 @@
 | `baselland.ch` | — | — | — | active |
 | `bauhaus.ch` | — | — | — | active |
 | `bdo.ch` | — | — | — | active |
+| `be.ch` | [policy](https://www.kaio.fin.be.ch/de/start/dienstleistungen/sicherheit/melden-einer-schwachstelle--cvd-/rahmenbedingungen-und-regeln--cvd-.html) | — | — | active |
 | `bekb.ch` | — | — | — | active |
 | `bern.ch` | — | — | — | active |
 | `bernmobil.ch` | — | — | — | active |

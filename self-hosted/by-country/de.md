@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-475 programs.
+480 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -38,6 +38,7 @@
 | `barmenia.de` | — | — | — | active |
 | `barmeniagothaer.de` | — | — | — | active |
 | `barmer.de` | — | — | — | active |
+| `bayerischerhof.de` | — | — | — | active |
 | `bayreuth.de` | — | — | — | active |
 | `berlin.de` | [policy](https://www.berlin.de/wir-ueber-uns/security) | recognition | — | active |
 | `berliner-kurier.de` | [policy](https://www.berliner-kurier.de/datenschutzhinweise) | — | — | active |
@@ -148,7 +149,7 @@
 | `fh-aachen.de` | — | — | — | active |
 | `fh-dortmund.de` | — | — | — | active |
 | `fh-muenster.de` | [policy](https://www.fh-muenster.de/en/informationssicherheit/fhms-cert/responsible-disclosure) | — | — | active |
-| `fh-potsdam.de` | — | — | — | expired |
+| `fh-potsdam.de` | — | — | — | active |
 | `fh-swf.de` | — | — | — | active |
 | `fh-zwickau.de` | — | — | — | active |
 | `filmmakers.de` | [policy](https://www.filmmakers.eu/security-policy) | — | yes | active |
@@ -178,7 +179,7 @@
 | `gettyimages.de` | — | — | — | retired |
 | `giga.de` | — | — | — | active |
 | `gira.de` | [policy](https://www.gira.de/cybersecurity/en-cvd-policy) | — | yes | active |
-| `gitslayer.de` | [policy](https://github.com/go-gitea/gitea/blob/main/SECURITY.md) | recognition | — | retired |
+| `gitslayer.de` | [policy](https://github.com/go-gitea/gitea/blob/main/SECURITY.md) | recognition | — | active |
 | `glassdoor.de` | [policy](https://help.glassdoor.com/s/article/Bug-Bounty-Program?language=en_US) | — | — | retired |
 | `gmx.de` | [policy](https://bugbounty.gmx.net) | monetary | — | active |
 | `goettingen.de` | — | — | — | active |
@@ -252,6 +253,7 @@
 | `kulturkaufhaus.de` | — | — | — | expired |
 | `kulturstaatsminister.de` | — | — | — | active |
 | `kulturstaatsministerin.de` | — | — | — | active |
+| `kvb.de` | — | — | — | active |
 | `lancom-systems.de` | — | — | — | active |
 | `landesrecht-bw.de` | — | — | — | active |
 | `landwirtschaft-bw.de` | — | — | — | expired |
@@ -348,6 +350,7 @@
 | `s-communication.de` | [policy](https://www.s-communication.de/BugBounty.html) | monetary | — | retired |
 | `sachsen-anhalt.de` | — | — | — | active |
 | `sachsen.de` | — | — | — | active |
+| `saechsische.de` | — | — | — | active |
 | `sana.de` | — | — | — | active |
 | `schmorp.de` | — | — | — | active |
 | `schoener.de` | [policy](https://g.co/vrp) | — | — | active |
@@ -378,6 +381,7 @@
 | `strato.de` | [policy](https://www.strato.de/it-security) | monetary | — | active |
 | `study-in-germany.de` | — | — | — | active |
 | `stuttgart.de` | — | — | — | active |
+| `stylight.de` | — | recognition | — | active |
 | `suse.de` | — | — | — | active |
 | `swm.de` | — | — | — | active |
 | `swr.de` | — | — | — | active |
@@ -405,6 +409,7 @@
 | `trustedshops.de` | [policy](https://www.trustedshops.de/.well-known/responsible-disclosure.txt) | — | yes | active |
 | `tu-braunschweig.de` | [policy](https://www.tu-braunschweig.de/en/ciso/cert/responsible-disclosure) | monetary | yes | active |
 | `tu-bs.de` | [policy](https://www.tu-braunschweig.de/en/ciso/cert/responsible-disclosure) | monetary | yes | active |
+| `tu-dortmund.de` | — | — | — | active |
 | `tu-dresden.de` | — | recognition | — | active |
 | `tu-freiberg.de` | — | — | — | active |
 | `tu-ilmenau.de` | — | recognition | — | active |
@@ -475,7 +480,7 @@
 | `wuerzburg.de` | — | — | — | active |
 | `wuppertal.de` | [policy](https://digital.wuppertal.de/medien_digitalisierung/10_ISMS_Stadt_Wuppertal_Richtlinie_zur_Offenlegung_von_Sicherheitsluecken_V2.0.pdf) | monetary | — | active |
 | `xing.de` | [policy](https://www.new-work.se/.well-known/rfc-2350.txt) | — | — | expired |
-| `zdf.de` | — | — | — | expired |
+| `zdf.de` | — | — | — | active |
 | `zdfheute.de` | — | — | — | active |
 | `zdh.de` | — | — | — | active |
 | `zentrale.de` | — | — | — | retired |

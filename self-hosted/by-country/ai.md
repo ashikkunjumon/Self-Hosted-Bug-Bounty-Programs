@@ -18,7 +18,7 @@
 | `clawsecure.ai` | [policy](https://www.clawsecure.ai/vulnerability-disclosure) | — | yes | active |
 | `codemonster.ai` | [policy](https://codemonster.ai/security/vulnerability-disclosure) | recognition | yes | active |
 | `coderabbit.ai` | [policy](https://www.coderabbit.ai/vulnerability-disclosure) | monetary | yes | active |
-| `datachain.ai` | [policy](https://www.datachain.ai/bug-bounty) | monetary | yes | active |
+| `datachain.ai` | [policy](https://www.datachain.ai/bug-bounty) | monetary | yes | retired |
 | `deepset.ai` | [policy](https://deepset.ai/disclosure/) | — | — | active |
 | `devin.ai` | [policy](https://docs.devin.ai/desktop/security/reporting) | — | yes | retired |
 | `easyaudit.ai` | [policy](https://easyaudit.ai/responsible-disclosure) | — | yes | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — FR
 
-168 programs.
+171 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -12,9 +12,10 @@
 | `ag2rlamondiale.fr` | — | recognition | — | active |
 | `agefi.fr` | — | — | — | active |
 | `aja.fr` | — | — | — | active |
+| `albi.fr` | — | recognition | — | active |
 | `aliceadsl.fr` | — | — | — | active |
 | `alternativesante.fr` | — | — | — | active |
-| `ancestry.fr` | [policy](https://www.ancestry.com/c/legal/security) | — | — | retired |
+| `ancestry.fr` | [policy](https://www.ancestry.com/c/legal/security) | — | — | active |
 | `annuaire-mairie.fr` | — | — | — | active |
 | `anpe.fr` | — | recognition | — | active |
 | `aphp.fr` | [policy](https://aphp.fr/security-policy) | — | — | expired |
@@ -34,6 +35,7 @@
 | `cea.fr` | [policy](https://www.cea.fr/cert) | monetary | — | active |
 | `centre-commercial.fr` | — | — | — | active |
 | `cewe.fr` | — | — | — | active |
+| `cma-auvergnerhonealpes.fr` | — | — | — | active |
 | `cmb.fr` | — | — | — | retired |
 | `coface.fr` | — | — | — | active |
 | `colissimo.fr` | [policy](https://vdp.laposte.fr/p/Security-Information) | — | — | active |
@@ -53,6 +55,7 @@
 | `ekwateur.fr` | — | recognition | — | active |
 | `emse.fr` | — | — | — | active |
 | `ensicaen.fr` | — | — | — | active |
+| `equans.fr` | — | recognition | — | active |
 | `euromaster.fr` | — | recognition | — | active |
 | `evaneos.fr` | [policy](https://vdp.evaneos.com/) | — | — | active |
 | `expedia.fr` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |

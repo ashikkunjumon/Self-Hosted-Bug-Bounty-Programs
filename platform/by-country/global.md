@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-622 programs.
+624 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -386,7 +386,7 @@
 | `octopus.com` | [policy](https://g.octopushq.com/disclosure) | swag | — | active |
 | `okta.com` | [policy](https://www.okta.com/vulnerability-reporting-policy/) | — | — | active |
 | `omarchy.org` | [policy](https://omarchy.org/security) | swag | — | active |
-| `ondeck.com` | [policy](https://www.ondeck.com/security-policy) | monetary | — | active |
+| `ondeck.com` | [policy](https://www.ondeck.com/security-policy) | monetary | — | retired |
 | `oohcams.com` | [policy](https://hackerone.com/chaturbate?type=team&view_policy=true) | — | — | active |
 | `ookla.com` | [policy](https://security.ookla.com) | — | — | active |
 | `openai.com` | [policy](https://openai.com/policies/coordinated-vulnerability-disclosure-policy) | recognition | — | active |
@@ -396,6 +396,7 @@
 | `ory.com` | [policy](https://www.ory.com/docs/ecosystem/security) | — | — | active |
 | `oshrc.gov` | [policy](https://www.oshrc.gov/vulnerability-disclosure-policy/) | — | — | retired |
 | `ourfabriq.com` | [policy](https://ourfabriq.com/responsible-disclosure-policy) | monetary | yes | retired |
+| `outbrain.com` | [policy](https://www.outbrain.com/security/bug-bounty/) | monetary | yes | active |
 | `overture.com` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | active |
 | `ovh.com` | [policy](https://yeswehack.com/programs/ovh) | monetary | — | active |
 | `ovhcloud.com` | [policy](https://yeswehack.com/programs/ovh) | monetary | — | active |
@@ -494,7 +495,7 @@
 | `speedtestcustom.com` | [policy](https://security.ookla.com) | — | — | active |
 | `splitcoaststampers.com` | — | — | — | active |
 | `springernature.com` | [policy](https://www.springernature.com/gp/info/disclosure) | recognition | — | retired |
-| `stackexchange.com` | [policy](https://stackexchange.com/about/security) | recognition | — | active |
+| `stackexchange.com` | [policy](https://stackexchange.com/about/security) | recognition | — | retired |
 | `stake.com` | — | — | — | expired |
 | `standoff365.com` | [policy](https://standoff365.com/en-US/articles/bug-bounty-platform-analytics-2022/) | monetary | — | retired |
 | `startupintros.com` | [policy](https://startupintros.com/orgs/bugcrowd) | monetary | yes | retired |
@@ -559,6 +560,7 @@
 | `uipath.com` | [policy](https://hackerone.com/uipath) | — | — | active |
 | `ultimateears.com` | [policy](https://hackerone.com/logitech) | — | — | active |
 | `unesco.org` | [policy](https://www.unesco.org/en/vulnerability-disclosure) | recognition | — | retired |
+| `unibet.com` | — | monetary | — | active |
 | `unico.io` | — | — | — | active |
 | `unrealengine.com` | [policy](https://hackerone.com/epicgames) | — | — | active |
 | `uphold.com` | [policy](https://app.intigriti.com/programs/Uphold/upholdcom/detail) | monetary | — | active |
@@ -571,7 +573,7 @@
 | `vanguard.com` | [policy](https://investor.vanguard.com/trust-security/vulnerability-disclosure-program) | — | — | active |
 | `veeam.com` | [policy](https://hackerone.com/veeam?type=team) | — | — | expired |
 | `vercel.com` | [policy](https://security.vercel.com/) | — | — | active |
-| `veriff.com` | [policy](https://www.veriff.com/bug-bounty) | monetary | — | active |
+| `veriff.com` | [policy](https://www.veriff.com/bug-bounty) | monetary | — | retired |
 | `verizonmedia.com` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | active |
 | `verywell.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `verywellfit.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |

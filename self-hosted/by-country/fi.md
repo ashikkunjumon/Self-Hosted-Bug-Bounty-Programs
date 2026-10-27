@@ -1,6 +1,6 @@
 # Self-hosted programs — FI
 
-126 programs.
+127 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -39,6 +39,7 @@
 | `gloria.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | active |
 | `hameenlinna.fi` | — | — | — | active |
 | `hbl.fi` | — | — | — | active |
+| `hel.fi` | — | — | — | active |
 | `hel2.fi` | — | — | — | active |
 | `helsinginsanomat.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | expired |
 | `helsinki.fi` | — | — | — | active |

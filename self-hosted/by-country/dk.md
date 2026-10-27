@@ -36,7 +36,7 @@
 | `djurslandsbank.dk` | — | — | — | active |
 | `dk-hostmaster.dk` | — | — | — | active |
 | `dknyt.dk` | — | — | — | active |
-| `dmi.dk` | — | — | — | active |
+| `dmi.dk` | — | — | — | expired |
 | `dpu.dk` | — | — | — | active |
 | `dsb.dk` | [policy](https://www.dsb.dk/disclosure-policy.html) | — | — | active |
 | `dustin.dk` | — | — | — | active |
@@ -109,7 +109,7 @@
 | `piefed.dk` | — | — | — | active |
 | `pixelfed.dk` | — | — | — | active |
 | `pka.dk` | — | — | — | active |
-| `polarportal.dk` | — | — | — | active |
+| `polarportal.dk` | — | — | — | expired |
 | `powerhosting.dk` | — | — | — | active |
 | `prisjagt.dk` | — | — | — | expired |
 | `prosa.dk` | — | — | — | retired |
