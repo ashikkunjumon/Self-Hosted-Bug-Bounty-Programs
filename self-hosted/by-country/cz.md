@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-359 programs.
+360 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -204,7 +204,7 @@
 | `mojeid.cz` | — | — | — | active |
 | `moneta.cz` | [policy](https://www.moneta.cz/bug-bounty) | monetary | yes | active |
 | `mozilla.cz` | — | — | — | active |
-| `mp.cz` | — | — | — | expired |
+| `mp.cz` | — | — | — | active |
 | `msmt.cz` | — | — | — | retired |
 | `msmt.gov.cz` | — | — | — | retired |
 | `mssf.cz` | — | — | — | active |
@@ -217,7 +217,7 @@
 | `nakluky.cz` | — | — | — | active |
 | `navolnenoze.cz` | [policy](https://navolnenoze.cz/o-nas/soukromi/) | — | — | active |
 | `nejremeslnici.cz` | — | — | — | active |
-| `nethost.cz` | — | — | — | active |
+| `nethost.cz` | [policy](https://www.nethost.cz/en/security/) | — | — | active |
 | `nhr.cz` | — | — | — | active |
 | `nic.cz` | — | — | — | active |
 | `nidv.cz` | — | — | — | active |
@@ -293,6 +293,7 @@
 | `skippay.cz` | [policy](https://skippay.cz/vseobecne-obchodni-podminky) | — | — | active |
 | `sklarnaharrachov.cz` | — | — | — | active |
 | `sklik.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
+| `slevomat.cz` | — | — | — | active |
 | `slunecnice.cz` | — | — | — | active |
 | `spa.cz` | — | — | — | active |
 | `sport.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
@@ -332,7 +333,7 @@
 | `vedos.cz` | [policy](https://vedos.cz/security-policy) | — | — | active |
 | `velkemezirici.cz` | — | — | — | active |
 | `vesmir.cz` | — | — | — | active |
-| `vetkom.cz` | — | — | — | retired |
+| `vetkom.cz` | — | — | — | active |
 | `vinci-construction.cz` | — | — | — | expired |
 | `vinted.cz` | — | — | — | active |
 | `vitalia.cz` | — | — | — | active |

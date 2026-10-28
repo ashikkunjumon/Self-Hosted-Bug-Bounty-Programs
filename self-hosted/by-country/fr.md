@@ -1,6 +1,6 @@
 # Self-hosted programs — FR
 
-171 programs.
+172 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -39,6 +39,7 @@
 | `cmb.fr` | — | — | — | retired |
 | `coface.fr` | — | — | — | active |
 | `colissimo.fr` | [policy](https://vdp.laposte.fr/p/Security-Information) | — | — | active |
+| `conrad.fr` | [policy](https://www.conrad.de/de/ueber-conrad/vulnerability-disclosure-program.html) | — | — | expired |
 | `cotesdarmor.fr` | — | — | — | expired |
 | `courroie-distribution.fr` | — | — | — | active |
 | `cryptoast.fr` | — | — | — | expired |

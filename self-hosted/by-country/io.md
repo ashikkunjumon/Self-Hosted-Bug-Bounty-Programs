@@ -1,6 +1,6 @@
 # Self-hosted programs — IO
 
-66 programs.
+65 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -55,7 +55,6 @@
 | `regwatch.io` | [policy](https://www.regwatch.io/security) | — | — | active |
 | `rekaz.io` | [policy](https://rekaz.io/home/en/vulnerability-disclosure/) | — | — | retired |
 | `salestrail.io` | [policy](https://www.salestrail.io/vulnerability) | — | — | retired |
-| `scrapfly.io` | [policy](https://scrapfly.io/bug-bounty-program) | — | — | active |
 | `secrethub.io` | [policy](https://secrethub.io/security/responsible-disclosure/) | — | — | retired |
 | `securin.io` | [policy](https://www.securin.io/zero-days/disclosure-policy) | monetary | yes | retired |
 | `senseon.io` | [policy](https://www.senseon.io/responsible-disclosure-policy) | recognition | yes | active |

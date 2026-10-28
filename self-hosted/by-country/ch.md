@@ -136,7 +136,7 @@
 | `gruene.ch` | — | — | — | active |
 | `gurtenpark.ch` | — | — | — | active |
 | `hbl.ch` | — | — | — | active |
-| `heg-fr.ch` | [policy](https://go.hefr.ch/sinfofr/security-report-scopes-and-rules) | recognition | — | expired |
+| `heg-fr.ch` | [policy](https://go.hefr.ch/sinfofr/security-report-scopes-and-rules) | recognition | — | active |
 | `heia-fr.ch` | [policy](https://go.hefr.ch/sinfofr/security-report-scopes-and-rules) | recognition | — | active |
 | `helbing.ch` | — | — | — | retired |
 | `helsana.ch` | — | — | — | expired |

@@ -1,6 +1,6 @@
 # Self-hosted programs — PL
 
-182 programs.
+184 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -16,9 +16,10 @@
 | `benchmark.pl` | — | — | — | active |
 | `bezdroza.pl` | — | — | — | active |
 | `biala.pl` | — | — | — | active |
+| `bookero.pl` | [policy](https://www.bookero.pl/polityka-zglaszania-podatnosci) | — | — | active |
 | `brainly.pl` | [policy](https://brainly.com/responsible-disclosure-program) | — | — | active |
 | `bricoman.pl` | — | — | — | active |
-| `businessinsider.com.pl` | — | — | — | retired |
+| `businessinsider.com.pl` | — | — | — | active |
 | `busko.pl` | — | — | — | active |
 | `carrefour.pl` | [policy](https://carrefour.com/disclosure) | — | — | active |
 | `cdrinfo.pl` | — | — | — | active |
@@ -44,6 +45,7 @@
 | `eventim.pl` | — | — | — | active |
 | `expressbydgoski.pl` | — | — | — | expired |
 | `expressilustrowany.pl` | — | — | — | expired |
+| `extradom.pl` | — | — | — | active |
 | `ezebra.pl` | — | — | — | active |
 | `fizjoterapiabecher.pl` | — | — | — | active |
 | `flashscore.pl` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |

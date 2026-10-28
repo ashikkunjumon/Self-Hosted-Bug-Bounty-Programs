@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-624 programs.
+625 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -77,6 +77,7 @@
 | `blm.gov` | [policy](https://bugcrowd.com/engagements/blm-vdp) | — | — | active |
 | `blockchain.com` | [policy](https://bugcrowd.com/engagements/blockchain-dot-com https://hackenproof.com/programs/blockchain-dot-com) | — | — | active |
 | `blockchain.info` | [policy](https://bugcrowd.com/engagements/blockchain-dot-com https://hackenproof.com/programs/blockchain-dot-com) | — | — | active |
+| `bmw-m.com` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
 | `bmw-motorrad.com` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
 | `bmw-welt.com` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
 | `bmwgroup.com` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
@@ -590,7 +591,7 @@
 | `vlerick.com` | [policy](https://www.vlerick.com/en/legal/responsible-disclosure-policy/) | recognition | — | retired |
 | `w.org` | [policy](https://make.wordpress.org/core/handbook/testing/reporting-security-vulnerabilities/) | monetary | — | active |
 | `wallacecollection.org` | [policy](https://www.wallacecollection.org/vulnerability-reporting/) | — | — | expired |
-| `wealthsimple.com` | [policy](https://hackerone.com/wealthsimple?view_policy=true) | — | — | expired |
+| `wealthsimple.com` | [policy](https://hackerone.com/wealthsimple?view_policy=true) | — | — | active |
 | `weaviate.io` | — | recognition | — | expired |
 | `weblate.org` | [policy](https://docs.weblate.org/en/latest/security/issues.html) | — | — | active |
 | `webmd.com` | — | — | — | active |

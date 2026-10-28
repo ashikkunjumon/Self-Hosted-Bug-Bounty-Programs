@@ -109,7 +109,7 @@
 | `piefed.dk` | — | — | — | active |
 | `pixelfed.dk` | — | — | — | active |
 | `pka.dk` | — | — | — | active |
-| `polarportal.dk` | — | — | — | expired |
+| `polarportal.dk` | — | — | — | active |
 | `powerhosting.dk` | — | — | — | active |
 | `prisjagt.dk` | — | — | — | expired |
 | `prosa.dk` | — | — | — | retired |

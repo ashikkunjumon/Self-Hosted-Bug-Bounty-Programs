@@ -1,6 +1,6 @@
 # Self-hosted programs — AT
 
-157 programs.
+158 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -139,6 +139,7 @@
 | `thomann.at` | — | — | — | active |
 | `time2win.at` | [policy](https://bbtiming.com/page/vulnerability-policy) | — | yes | active |
 | `tipp3.at` | [policy](https://www.lotterien.at/responsible-disclosure) | — | — | active |
+| `treatsoft.at` | — | — | — | active |
 | `treatwell.at` | — | — | — | active |
 | `trustedshops.at` | [policy](https://www.trustedshops.de/.well-known/responsible-disclosure.txt) | — | yes | active |
 | `tugraz.at` | — | — | — | active |

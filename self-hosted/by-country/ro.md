@@ -1,6 +1,6 @@
 # Self-hosted programs — RO
 
-59 programs.
+60 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -41,6 +41,7 @@
 | `infomusic.ro` | — | recognition | — | active |
 | `lidl.ro` | — | — | — | active |
 | `listafirme.ro` | — | — | — | active |
+| `mariuspavel.ro` | — | — | — | active |
 | `metro.ro` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | expired |
 | `michelin.ro` | — | — | — | active |
 | `notino.ro` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |

@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-480 programs.
+481 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -213,7 +213,7 @@
 | `hs-bremen.de` | [policy](https://www.hs-bremen.de/en/security/disclosure-policy) | swag | — | active |
 | `hs-fulda.de` | [policy](https://it-sicherheit.hs-fulda.de/en/vorfall_melden/schwachstelle/index.html) | — | — | active |
 | `hs-furtwangen.de` | — | — | — | active |
-| `hs-heilbronn.de` | — | — | — | active |
+| `hs-heilbronn.de` | — | — | — | retired |
 | `hs-koblenz.de` | — | — | — | active |
 | `hs-niederrhein.de` | — | — | — | active |
 | `hu-berlin.de` | [policy](https://informationssicherheit.hu-berlin.de/de/schwachstellenmeldung) | — | — | active |
@@ -342,6 +342,7 @@
 | `rki.de` | — | — | — | active |
 | `rlp.de` | — | — | — | active |
 | `rmv.de` | — | — | — | active |
+| `rnd.de` | — | — | — | active |
 | `rossmann.de` | — | — | — | active |
 | `rub.de` | — | — | — | active |
 | `ruhr-uni-bochum.de` | — | — | — | active |

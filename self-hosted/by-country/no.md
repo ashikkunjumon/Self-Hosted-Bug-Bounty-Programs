@@ -161,7 +161,7 @@
 | `ntnu.no` | — | — | — | active |
 | `nuug.no` | — | — | — | expired |
 | `nyemetoder.no` | — | — | — | active |
-| `obos.no` | — | — | — | active |
+| `obos.no` | — | — | — | expired |
 | `ofk.no` | — | — | — | active |
 | `onninen.no` | — | — | — | expired |
 | `oslo-universitetssykehus.no` | [policy](https://www.sykehuspartner.no/siteassets/documents/sikkerhet---regionale-bruksvilkar/no-38---responsible-disclosure-policy-engelsk.pdf) | — | — | active |

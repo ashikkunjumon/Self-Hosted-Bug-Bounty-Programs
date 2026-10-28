@@ -1,6 +1,6 @@
 # Platform-hosted programs — BR
 
-13 programs.
+14 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -14,6 +14,7 @@
 | `nubank.com.br` | — | monetary | — | active |
 | `quintoandar.com.br` | [policy](https://bugcrowd.com/engagements/quintoandar) | monetary | — | active |
 | `randstad.com.br` | [policy](https://www.randstad.com/report-a-security-problem/) | — | — | active |
+| `roche.com.br` | [policy](https://hackerone.com/roche?view_policy=true) | — | — | active |
 | `webnode.com.br` | [policy](https://www.webnode.com/.well-known/security-policy.html) | — | yes | active |
 | `yahoo.com.br` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | — | — | retired |
 | `zendesk.com.br` | [policy](https://www.zendesk.com/company/policies-and-guidelines/responsible-disclosure-policy/) | — | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — HU
 
-45 programs.
+46 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -23,6 +23,7 @@
 | `hetkoznapi.hu` | — | — | — | active |
 | `hup.hu` | — | — | — | active |
 | `jatekokxl.hu` | — | — | — | active |
+| `k-monitor.hu` | — | — | — | active |
 | `kanizsamediahaz.hu` | — | — | — | active |
 | `kanizsaujsag.hu` | — | — | — | active |
 | `kifli.hu` | — | — | — | active |

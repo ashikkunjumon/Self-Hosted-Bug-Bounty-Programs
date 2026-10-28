@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-523 programs.
+524 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -154,6 +154,7 @@
 | `habo.se` | — | — | — | active |
 | `hagfors.se` | — | — | — | active |
 | `hallakonsument.se` | — | — | — | expired |
+| `hallsberg.se` | — | — | — | active |
 | `hallstahammar.se` | — | — | — | active |
 | `halmstad.se` | — | — | — | active |
 | `handelsbanken.se` | — | — | — | active |
@@ -333,7 +334,7 @@
 | `orebro.se` | — | — | — | active |
 | `oringen.se` | — | — | — | active |
 | `orkelljunga.se` | — | — | — | active |
-| `ornskoldsvik.se` | — | — | — | expired |
+| `ornskoldsvik.se` | — | — | — | active |
 | `oru.se` | — | — | — | active |
 | `orust.se` | — | — | — | active |
 | `osby.se` | — | — | — | active |
@@ -367,7 +368,7 @@
 | `rfsisu.se` | — | — | — | active |
 | `riddermarkbil.se` | — | — | — | active |
 | `ridsport.se` | — | — | — | active |
-| `riksdagen.se` | — | — | — | active |
+| `riksdagen.se` | — | — | — | expired |
 | `riksgalden.se` | — | — | — | active |
 | `rikshandboken-bhv.se` | — | — | — | active |
 | `riksrevisionen.se` | — | — | — | active |

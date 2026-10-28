@@ -1,6 +1,6 @@
 # Self-hosted programs — NL
 
-407 programs.
+410 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -75,6 +75,7 @@
 | `centraalbeheer.nl` | [policy](https://achmea.nl/en/responsible-disclosure) | swag | — | active |
 | `closure.nl` | [policy](https://closure.nl/responsible-disclosure/) | monetary | yes | active |
 | `cloudwise.nl` | [policy](https://www.cloudwise.nl/security-policy) | recognition | — | active |
+| `coa.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `commercive.nl` | — | — | — | active |
 | `conclusion.nl` | — | — | — | active |
 | `conrad.nl` | [policy](https://www.conrad.de/de/ueber-conrad/vulnerability-disclosure-program.html) | — | — | expired |
@@ -151,6 +152,7 @@
 | `hersenstichting.nl` | — | — | — | active |
 | `hetcak.nl` | [policy](https://www.hetcak.nl/kwetsbare-plek-ontdekt/) | — | yes | active |
 | `hetutrechtsarchief.nl` | — | — | — | active |
+| `historischnieuwsblad.nl` | — | — | — | active |
 | `hollandandbarrett.nl` | [policy](https://vdp.hollandandbarrett.com/) | — | — | active |
 | `hornbach.nl` | — | — | — | active |
 | `hostfact.nl` | [policy](https://www.hostfact.nl/security/) | — | — | retired |
@@ -167,6 +169,7 @@
 | `ilent.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `ind.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `independer.nl` | [policy](https://www.independer.nl/algemeen/info/responsible-disclosure.aspx?networkId=68ef56a9-e505-4572-95e0-f7da91bb1dcc) | monetary | yes | retired |
+| `infomil.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `informatiebeveiliging.nl` | — | — | — | active |
 | `inholland.nl` | [policy](https://www.inholland.nl/inhollandcom/responsible-disclosure) | recognition | — | active |
 | `internet.nl` | [policy](https://internet.nl/disclosure/) | swag | — | active |
