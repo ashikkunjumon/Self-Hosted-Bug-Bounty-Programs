@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-481 programs.
+483 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@
 | `cure53.de` | — | recognition | — | active |
 | `daad.de` | — | — | — | active |
 | `darmstadt.de` | — | — | — | active |
-| `dasauge.de` | — | — | — | active |
+| `dasauge.de` | — | — | — | retired |
 | `dasding.de` | — | — | — | active |
 | `datacenter-insider.de` | — | — | — | expired |
 | `datawrapper.de` | — | — | — | active |
@@ -177,6 +177,7 @@
 | `gelsenkirchen.de` | — | — | — | active |
 | `germany4ukraine.de` | — | — | — | active |
 | `gettyimages.de` | — | — | — | retired |
+| `giessen.de` | — | — | — | active |
 | `giga.de` | — | — | — | active |
 | `gira.de` | [policy](https://www.gira.de/cybersecurity/en-cvd-policy) | — | yes | active |
 | `gitslayer.de` | [policy](https://github.com/go-gitea/gitea/blob/main/SECURITY.md) | recognition | — | active |
@@ -213,7 +214,7 @@
 | `hs-bremen.de` | [policy](https://www.hs-bremen.de/en/security/disclosure-policy) | swag | — | active |
 | `hs-fulda.de` | [policy](https://it-sicherheit.hs-fulda.de/en/vorfall_melden/schwachstelle/index.html) | — | — | active |
 | `hs-furtwangen.de` | — | — | — | active |
-| `hs-heilbronn.de` | — | — | — | retired |
+| `hs-heilbronn.de` | — | — | — | active |
 | `hs-koblenz.de` | — | — | — | active |
 | `hs-niederrhein.de` | — | — | — | active |
 | `hu-berlin.de` | [policy](https://informationssicherheit.hu-berlin.de/de/schwachstellenmeldung) | — | — | active |
@@ -244,7 +245,7 @@
 | `kleinanzeigen.de` | [policy](https://adevinta.com/security-vulnerability/) | recognition | yes | active |
 | `klett.de` | — | — | — | active |
 | `koblenz.de` | — | — | — | active |
-| `koeln.de` | — | — | — | retired |
+| `koeln.de` | — | — | — | active |
 | `komoot.de` | [policy](https://www.komoot.com/security/bug-bounty) | — | — | active |
 | `konstanz.de` | — | — | — | active |
 | `korrektur.de` | — | — | — | active |
@@ -269,6 +270,7 @@
 | `luebeck.de` | — | — | — | active |
 | `lvr.de` | — | — | — | active |
 | `lvz.de` | — | — | — | active |
+| `maerkischeallgemeine.de` | — | — | — | active |
 | `mainz.de` | [policy](https://mainz.de/cvd) | recognition | — | active |
 | `marburg.de` | — | — | — | active |
 | `maz-online.de` | — | — | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-258 programs.
+260 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -31,6 +31,7 @@
 | `bijloke.be` | — | — | — | active |
 | `bloom.be` | [policy](https://www.bloom.be/security-policy) | recognition | — | active |
 | `bocholt.be` | — | — | — | active |
+| `bornem.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `brabantwallon.be` | — | — | — | active |
 | `braine-lalleud.be` | — | — | — | active |
 | `braine-le-comte.be` | — | — | — | active |
@@ -176,6 +177,7 @@
 | `petitesuisse.be` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | active |
 | `plantentuinmeise.be` | — | — | — | active |
 | `plopsa.be` | [policy](https://www.plopsa.com/en/responsible-disclosure-policy) | — | — | active |
+| `plopsaqua.be` | [policy](https://www.plopsa.com/en/responsible-disclosure-policy) | — | — | active |
 | `pluxee.be` | [policy](https://vdp.pluxee.app/p/Policy) | — | — | active |
 | `politeia.be` | — | — | — | expired |
 | `pomwvl.be` | [policy](https://www.pomwvl.be/security-policy) | recognition | — | active |

@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-625 programs.
+626 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -388,7 +388,7 @@
 | `okta.com` | [policy](https://www.okta.com/vulnerability-reporting-policy/) | — | — | active |
 | `omarchy.org` | [policy](https://omarchy.org/security) | swag | — | active |
 | `ondeck.com` | [policy](https://www.ondeck.com/security-policy) | monetary | — | retired |
-| `oohcams.com` | [policy](https://hackerone.com/chaturbate?type=team&view_policy=true) | — | — | active |
+| `oohcams.com` | [policy](https://hackerone.com/chaturbate?type=team&view_policy=true) | — | — | retired |
 | `ookla.com` | [policy](https://security.ookla.com) | — | — | active |
 | `openai.com` | [policy](https://openai.com/policies/coordinated-vulnerability-disclosure-policy) | recognition | — | active |
 | `opensea.io` | [policy](https://bugcrowd.com/opensea) | monetary | — | active |
@@ -491,6 +491,7 @@
 | `snyk.io` | [policy](https://docs.snyk.io/more-info/disclosing-vulnerabilities/disclose-a-vulnerability-in-snyk-services) | monetary | — | active |
 | `socialbee.com` | — | — | — | active |
 | `sonatype.com` | [policy](https://www.sonatype.com/report-a-security-vulnerability) | monetary | — | retired |
+| `soundtrack.io` | [policy](https://app.intigriti.com/programs/syb/soundtrackyourbrand/detail) | monetary | — | active |
 | `southernliving.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `speedtest.net` | [policy](https://security.ookla.com) | — | — | active |
 | `speedtestcustom.com` | [policy](https://security.ookla.com) | — | — | active |
@@ -511,7 +512,7 @@
 | `supabase.com` | — | — | — | active |
 | `supabase.io` | — | — | — | active |
 | `support.sugarcrm.com` | [policy](https://support.sugarai.com/resources/security/bug_bounty_program/) | monetary | — | retired |
-| `swapcard.com` | [policy](https://yeswehack.com/programs/swapcard) | monetary | — | active |
+| `swapcard.com` | [policy](https://yeswehack.com/programs/swapcard) | monetary | — | retired |
 | `synack.responsibledisclosure.com` | [policy](https://synack.responsibledisclosure.com/hc/en-us) | — | — | retired |
 | `synology.com` | [policy](https://www.synology.com/security/bounty_program) | monetary | — | active |
 | `sysaid.com` | [policy](https://www.sysaid.com/responsible-disclosure) | — | — | retired |

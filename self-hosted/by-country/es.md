@@ -1,6 +1,6 @@
 # Self-hosted programs — ES
 
-103 programs.
+104 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -55,6 +55,7 @@
 | `hotfrog.es` | — | — | — | active |
 | `immedicohospitalario.es` | [policy](https://www.publimasdigital.com/proteccion-de-datos) | — | — | active |
 | `incibe-cert.es` | [policy](https://www.incibe.es/en/incibe-cert/about-us/vulnerability-disclosure-policy) | recognition | — | retired |
+| `inpost.es` | [policy](https://vdp.inpost.pl/p/Policy?lang=en-gb) | — | — | active |
 | `ionos.es` | [policy](https://www.ionos.com/it-security) | — | — | active |
 | `juntadeandalucia.es` | — | — | — | active |
 | `kiehls.es` | — | recognition | — | active |

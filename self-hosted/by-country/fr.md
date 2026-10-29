@@ -1,6 +1,6 @@
 # Self-hosted programs — FR
 
-172 programs.
+174 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -105,6 +105,7 @@
 | `loreal-paris.fr` | — | recognition | — | active |
 | `loreal.fr` | — | recognition | — | active |
 | `louvre.fr` | — | — | — | expired |
+| `lpcr.fr` | — | — | — | expired |
 | `m6.fr` | — | — | — | active |
 | `maisondelaradio.fr` | — | — | — | expired |
 | `marseille.fr` | — | recognition | — | retired |
@@ -113,6 +114,7 @@
 | `metro.fr` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | expired |
 | `michaelpage.fr` | — | — | — | expired |
 | `michelin.fr` | — | — | — | active |
+| `mondialrelay.fr` | [policy](https://vdp.inpost.pl/p/Policy?lang=en-gb) | — | — | active |
 | `mouv.fr` | — | — | — | active |
 | `msa.fr` | — | — | — | active |
 | `museeairespace.fr` | — | — | — | active |

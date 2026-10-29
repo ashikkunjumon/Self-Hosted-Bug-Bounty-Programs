@@ -1,6 +1,6 @@
 # Self-hosted programs — HU
 
-46 programs.
+47 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -14,6 +14,7 @@
 | `conrad.hu` | [policy](https://www.conrad.de/de/ueber-conrad/vulnerability-disclosure-program.html) | — | — | expired |
 | `crysys.hu` | — | — | — | active |
 | `decathlon.hu` | [policy](https://vdp.decathlon.net) | — | — | active |
+| `dft.hu` | — | — | — | active |
 | `digitalhungary.hu` | — | — | — | expired |
 | `dm.hu` | — | — | — | active |
 | `dunaujvaros.hu` | — | — | — | expired |

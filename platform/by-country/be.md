@@ -20,7 +20,7 @@
 | `hln.be` | — | monetary | — | active |
 | `humo.be` | — | monetary | — | active |
 | `joe.be` | — | monetary | — | active |
-| `kuleuven.be` | [policy](https://admin.kuleuven.be/icts/english/responsible-disclosure) | monetary | yes | retired |
+| `kuleuven.be` | [policy](https://admin.kuleuven.be/icts/english/responsible-disclosure) | monetary | yes | active |
 | `laredoute.be` | [policy](https://www.laredoute.com/vulnerability_disclosure_program.aspx) | — | — | expired |
 | `livios.be` | — | monetary | — | active |
 | `mijnenergie.be` | — | monetary | — | active |

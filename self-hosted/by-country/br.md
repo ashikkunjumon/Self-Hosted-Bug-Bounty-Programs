@@ -1,6 +1,6 @@
 # Self-hosted programs — BR
 
-98 programs.
+99 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -77,6 +77,7 @@
 | `primeirahora.com.br` | — | — | — | active |
 | `printi.com.br` | [policy](https://www.printi.com.br/politicas-de-privacidade/) | swag | — | active |
 | `profixdigital.com.br` | — | — | — | active |
+| `psol50.org.br` | — | — | — | active |
 | `reclameaqui.com.br` | [policy](https://storage.googleapis.com/whitehat-policy/reclameaqui-whitehat-policy.pdf) | monetary | — | active |
 | `registro.br` | — | — | — | active |
 | `saboresdemarise.com.br` | — | — | — | retired |

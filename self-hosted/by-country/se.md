@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-524 programs.
+526 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -164,6 +164,7 @@
 | `harryda.se` | — | — | — | active |
 | `hassleholm.se` | — | — | — | active |
 | `hd.se` | — | — | — | active |
+| `hedemora.se` | — | — | — | active |
 | `heidelbergmaterials.se` | — | — | — | active |
 | `helsingborg.se` | — | — | — | active |
 | `hemnet.se` | [policy](https://www.hemnet.se/responsible-disclosure) | — | — | active |
@@ -267,7 +268,7 @@
 | `lt.se` | — | — | — | active |
 | `ltu.se` | — | — | — | active |
 | `ltz.se` | — | — | — | active |
-| `lu.se` | — | — | — | expired |
+| `lu.se` | — | — | — | active |
 | `ludvika.se` | — | — | — | active |
 | `lulea.se` | — | — | — | expired |
 | `lund.se` | — | — | — | active |
@@ -444,6 +445,7 @@
 | `sunne.se` | — | — | — | active |
 | `suntarbetsliv.se` | — | — | — | active |
 | `svalov.se` | — | — | — | active |
+| `svanen.se` | — | — | — | active |
 | `svenskarnaochinternet.se` | [policy](https://internetstiftelsen.se/en/about-this-website/responsible-disclosure/) | — | — | expired |
 | `svenskaspel.se` | — | — | — | active |
 | `svenskfotboll.se` | — | — | — | active |

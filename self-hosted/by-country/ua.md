@@ -1,6 +1,6 @@
 # Self-hosted programs — UA
 
-53 programs.
+54 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -33,6 +33,7 @@
 | `kg.ua` | [policy](https://kg.ua/sc_txt/security-policy.html) | — | — | active |
 | `kontramarka.ua` | — | — | — | active |
 | `lifecell.ua` | — | monetary | — | retired |
+| `loreal-paris.ua` | — | recognition | — | active |
 | `medoc.ua` | — | — | — | active |
 | `metro.ua` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | expired |
 | `mfa.gov.ua` | — | — | — | active |

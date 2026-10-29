@@ -1,6 +1,6 @@
 # Self-hosted programs — PL
 
-184 programs.
+186 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -94,6 +94,7 @@
 | `makro.pl` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | expired |
 | `mamotoja.pl` | [policy](https://www.immediate.co.uk/security-disclosure-policy/) | — | — | retired |
 | `mapa-turystyczna.pl` | — | — | — | active |
+| `matfel.pl` | — | — | — | active |
 | `mbank.pl` | [policy](https://www.mbank.pl/pdf/inne/cert-mbank-rfc2350.pdf) | monetary | — | active |
 | `mediaexpert.pl` | — | — | — | active |
 | `medonet.pl` | — | — | — | active |
@@ -182,6 +183,7 @@
 | `wp.pl` | — | — | — | active |
 | `wroclaw.naszemiasto.pl` | — | — | — | expired |
 | `wspolczesna.pl` | — | — | — | expired |
+| `wuw.pl` | — | — | — | active |
 | `wynagrodzenia.pl` | — | — | — | retired |
 | `x-kom.pl` | — | — | — | active |
 | `zaufanatrzeciastrona.pl` | — | — | — | active |

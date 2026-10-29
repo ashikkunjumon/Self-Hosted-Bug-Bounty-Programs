@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-399 programs.
+400 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@
 | `bl.ch` | — | — | — | active |
 | `blkb.ch` | — | — | — | active |
 | `blt.ch` | — | — | — | active |
-| `bluewin.ch` | [policy](https://github.com/swisscom/bugbounty) | monetary | yes | expired |
+| `bluewin.ch` | [policy](https://github.com/swisscom/bugbounty) | monetary | — | expired |
 | `bremgarten.ch` | — | — | — | active |
 | `bs.ch` | — | — | — | expired |
 | `buelach.ch` | — | — | — | active |
@@ -152,7 +152,7 @@
 | `hotelplan.ch` | — | — | — | expired |
 | `houzy.ch` | — | — | — | retired |
 | `hslu.ch` | — | — | — | active |
-| `i-web.ch` | [policy](https://github.com/swisscom/bugbounty) | monetary | yes | active |
+| `i-web.ch` | [policy](https://github.com/swisscom/bugbounty) | monetary | — | active |
 | `iconomix.ch` | — | — | — | retired |
 | `idsia.ch` | — | — | — | active |
 | `ilo.ch` | — | — | — | active |
@@ -204,6 +204,7 @@
 | `lups.ch` | — | — | — | expired |
 | `martigny.ch` | — | — | — | retired |
 | `maschinenmarkt.ch` | — | — | — | expired |
+| `medespoir.ch` | [policy](https://www.medespoir.ch/mentions-legales.php) | — | — | active |
 | `melectronics.ch` | — | — | — | active |
 | `meteotest.ch` | — | — | — | active |
 | `meyrin.ch` | — | — | — | active |
@@ -222,7 +223,7 @@
 | `motoscout24.ch` | — | — | — | active |
 | `mots-croises.ch` | — | — | — | active |
 | `mum.ch` | — | — | — | active |
-| `mycloud.ch` | [policy](https://github.com/swisscom/bugbounty) | monetary | yes | active |
+| `mycloud.ch` | [policy](https://github.com/swisscom/bugbounty) | monetary | — | active |
 | `myscience.ch` | — | — | — | active |
 | `myvaud.ch` | — | — | — | active |
 | `nationalmuseum.ch` | — | — | — | active |
@@ -332,7 +333,7 @@
 | `swiss-athletics.ch` | — | — | — | active |
 | `swissbanking.ch` | — | — | — | expired |
 | `swisscard.ch` | — | — | — | active |
-| `swisscom.ch` | [policy](https://github.com/swisscom/bugbounty) | monetary | yes | active |
+| `swisscom.ch` | [policy](https://github.com/swisscom/bugbounty) | monetary | — | active |
 | `swissolar.ch` | — | — | — | active |
 | `swisspost.ch` | [policy](https://vdp.post.ch/p/Information-Security) | — | — | active |
 | `swisstph.ch` | — | — | — | active |
@@ -389,7 +390,7 @@
 | `weekend4two.ch` | — | — | — | expired |
 | `wettingen.ch` | — | — | — | active |
 | `wie-gehts-dir.ch` | [policy](https://www.wie-gehts-dir.ch/security-policy) | recognition | — | active |
-| `wingo.ch` | [policy](https://github.com/swisscom/bugbounty) | monetary | yes | expired |
+| `wingo.ch` | [policy](https://github.com/swisscom/bugbounty) | monetary | — | expired |
 | `wog.ch` | — | — | — | retired |
 | `wohlen.ch` | — | — | — | active |
 | `workzeitung.ch` | — | — | — | active |
