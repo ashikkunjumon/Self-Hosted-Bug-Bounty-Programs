@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-526 programs.
+529 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -18,6 +18,7 @@
 | `ale.se` | — | — | — | active |
 | `alingsas.se` | — | — | — | expired |
 | `allehanda.se` | — | — | — | active |
+| `alltommat.se` | — | — | — | active |
 | `almhult.se` | — | — | — | active |
 | `alvdalen.se` | — | — | — | active |
 | `amal.se` | — | — | — | active |
@@ -225,6 +226,7 @@
 | `kmh.se` | — | — | — | active |
 | `knivsta.se` | — | — | — | active |
 | `knowit.se` | — | — | — | expired |
+| `komplett.se` | — | — | — | expired |
 | `konj.se` | — | — | — | active |
 | `konkurrensverket.se` | — | — | — | active |
 | `konstnarsnamnden.se` | — | — | — | expired |
@@ -288,7 +290,7 @@
 | `mdu.se` | — | — | — | expired |
 | `mediemyndigheten.se` | — | — | — | expired |
 | `mfn.se` | — | — | — | active |
-| `mi.se` | — | — | — | expired |
+| `mi.se` | — | — | — | active |
 | `michelin.se` | — | — | — | active |
 | `migrationsverket.se` | — | — | — | active |
 | `mil.se` | — | — | — | active |
@@ -361,6 +363,7 @@
 | `regionkalmar.se` | — | — | — | active |
 | `regionkronoberg.se` | — | — | — | active |
 | `regionostergotland.se` | — | — | — | active |
+| `regionsormland.se` | — | — | — | active |
 | `regionstockholm.se` | — | — | — | active |
 | `regionuppsala.se` | — | — | — | active |
 | `regionvasterbotten.se` | — | — | — | active |

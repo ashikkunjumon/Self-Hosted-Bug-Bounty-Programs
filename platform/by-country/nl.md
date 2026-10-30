@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 | `ad.nl` | — | monetary | — | active |
 | `airbnb.nl` | [policy](https://hackerone.com/airbnb#overview) | — | — | active |
-| `amsterdam.nl` | [policy](https://www.amsterdam.nl/en/general-items/items-footer/privacy-city-of-amsterdam/information-security/) | recognition | — | expired |
+| `amsterdam.nl` | [policy](https://www.amsterdam.nl/en/general-items/items-footer/privacy-city-of-amsterdam/information-security/) | recognition | — | active |
 | `asnbank.nl` | [policy](https://hackerone.com/asnbank) | — | — | active |
 | `autoscout24.nl` | [policy](https://app.intigriti.com/programs/autoscout/autoscout24-vdp/detail) | monetary | — | expired |
 | `autoweek.nl` | — | monetary | — | active |

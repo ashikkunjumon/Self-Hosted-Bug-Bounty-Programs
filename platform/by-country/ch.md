@@ -14,7 +14,7 @@
 | `baloise.ch` | [policy](https://app.bugbounty.ch/public/engagement/details/568e2d99-380c-433b-86fd-8ee6063fc141) | — | — | active |
 | `baz.ch` | [policy](https://bugcrowd.com/tamedia) | monetary | — | expired |
 | `bazonline.ch` | [policy](https://bugcrowd.com/tamedia) | monetary | — | expired |
-| `bcn.ch` | [policy](https://gobugfree.com/programs/bcn-vdp) | monetary | yes | active |
+| `bcn.ch` | [policy](https://gobugfree.com/programs/bcn-vdp) | — | — | active |
 | `bernerzeitung.ch` | [policy](https://bugcrowd.com/tamedia) | monetary | — | expired |
 | `berufsbildung-schweiz.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | recognition | yes | active |
 | `bilan.ch` | [policy](https://bugcrowd.com/tamedia) | monetary | — | expired |
@@ -47,7 +47,7 @@
 | `momondo.ch` | [policy](https://www.kayak.com/security/) | monetary | — | active |
 | `onedoc.ch` | — | monetary | — | active |
 | `puzzle.ch` | [policy](https://app.bugbounty.ch/public/engagement/details/2d63f8dd-fc5f-482a-bc3e-c4c4ee60f624) | — | — | active |
-| `raiffeisen.ch` | [policy](https://gobugfree.com/programs/raiffeisen-bb) | monetary | — | active |
+| `raiffeisen.ch` | [policy](https://gobugfree.com/programs/raiffeisen-bb) | — | — | active |
 | `randstad.ch` | [policy](https://www.randstad.com/report-a-security-problem/) | — | — | active |
 | `roche.ch` | [policy](https://hackerone.com/roche?view_policy=true) | — | — | active |
 | `sixt.ch` | [policy](https://bugcrowd.com/a22b9798-491e-4d3a-87f3-a69484e02a2f/external/report) | — | — | active |

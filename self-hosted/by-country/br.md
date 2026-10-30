@@ -21,7 +21,7 @@
 | `capterra.com.br` | — | — | — | active |
 | `cbpf.br` | — | — | — | active |
 | `cert.br` | — | — | — | active |
-| `cesan.com.br` | — | — | — | active |
+| `cesan.com.br` | — | — | — | retired |
 | `cirurgicabrasil.com.br` | — | — | — | active |
 | `confeitariacolombo.com.br` | — | — | — | expired |
 | `cuponeria.com.br` | — | — | — | active |

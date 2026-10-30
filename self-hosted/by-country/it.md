@@ -1,6 +1,6 @@
 # Self-hosted programs — IT
 
-79 programs.
+80 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -13,6 +13,7 @@
 | `badtaste.it` | — | — | — | retired |
 | `bdo.it` | — | — | — | expired |
 | `bed-and-breakfast.it` | — | — | — | active |
+| `binged.it` | — | — | — | active |
 | `biografieonline.it` | — | — | — | retired |
 | `bookmakerbonus.it` | [policy](https://bookmakerbonus.it/security-policy) | recognition | — | active |
 | `borsaitaliana.it` | — | — | — | active |
@@ -71,7 +72,7 @@
 | `ticketone.it` | — | — | — | active |
 | `tim.it` | [policy](https://www.gruppotim.it/en/footer/responsible-disclosure.html) | — | — | active |
 | `treatwell.it` | — | — | — | active |
-| `truemetal.it` | — | — | — | expired |
+| `truemetal.it` | — | — | — | retired |
 | `unibocconi.it` | [policy](https://unibocconi.it/security/vulnerability-disclosure) | monetary | — | active |
 | `unige.it` | [policy](https://intranet.unige.it/notifica-incidenti-informatici) | — | — | active |
 | `unigre.it` | — | — | — | active |

@@ -37,7 +37,7 @@
 | `fortum.fi` | — | recognition | — | active |
 | `gettyimages.fi` | — | — | — | retired |
 | `gloria.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | active |
-| `hameenlinna.fi` | — | — | — | active |
+| `hameenlinna.fi` | — | — | — | retired |
 | `hbl.fi` | — | — | — | active |
 | `hel.fi` | — | — | — | active |
 | `hel2.fi` | — | — | — | active |

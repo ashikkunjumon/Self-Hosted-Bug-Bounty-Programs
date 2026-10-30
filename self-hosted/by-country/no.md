@@ -1,6 +1,6 @@
 # Self-hosted programs — NO
 
-234 programs.
+235 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -14,6 +14,7 @@
 | `arbeidstilsynet.no` | — | — | — | active |
 | `avinor.no` | [policy](https://om.avinor.no/en/about-us/Avinor-IT-security/) | — | — | active |
 | `bankid.no` | — | recognition | — | active |
+| `barebitcoin.no` | [policy](https://barebitcoin.no/security) | — | yes | active |
 | `barentswatch.no` | — | — | — | active |
 | `bauhaus.no` | — | — | — | active |
 | `bdo.no` | — | — | — | expired |
@@ -89,7 +90,7 @@
 | `helse-stavanger.no` | — | — | — | active |
 | `helse-vest.no` | — | — | — | active |
 | `helsenorge.no` | [policy](https://nhn.no/.well-known/vulnerability-disclosure.html) | recognition | — | active |
-| `hi.no` | — | — | — | retired |
+| `hi.no` | — | — | — | active |
 | `historiskmuseum.no` | [policy](https://cert.uio.no/vulnerability-disclosure-policy.html) | monetary | — | retired |
 | `hnt.no` | — | — | — | active |
 | `ice.no` | — | — | — | retired |

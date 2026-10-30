@@ -1,6 +1,6 @@
 # Self-hosted programs — AT
 
-158 programs.
+159 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@
 | `pixum.at` | — | — | — | active |
 | `playlists.at` | — | — | — | active |
 | `plus.ac.at` | — | — | — | expired |
-| `porsche.at` | [policy](https://security-report.porscheinformatik.com/security-reporting-policy/) | — | — | retired |
+| `porsche.at` | [policy](https://security-report.porscheinformatik.com/security-reporting-policy/) | — | — | active |
 | `porschebank.at` | [policy](https://security-report.porscheinformatik.com/security-reporting-policy/) | — | — | active |
 | `post.at` | — | — | — | active |
 | `postbus.at` | — | — | — | active |
@@ -159,6 +159,7 @@
 | `wegfinder.at` | — | — | — | active |
 | `wien.at` | — | — | — | active |
 | `wienerstadtwerke.at` | [policy](https://www.wienerstadtwerke.at/datenschutz) | — | — | active |
+| `wienerstaedtische.at` | [policy](https://www.wienerstaedtische.at/online-sicherheit/responsible-disclosure.html) | — | yes | active |
 | `wiiw.ac.at` | — | — | — | active |
 | `willhaben.at` | [policy](https://vdp.willhaben.at) | — | — | active |
 | `win2day.at` | [policy](https://www.lotterien.at/responsible-disclosure) | — | — | active |

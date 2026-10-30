@@ -1,6 +1,6 @@
 # Self-hosted programs — RO
 
-60 programs.
+61 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -15,6 +15,7 @@
 | `brd.ro` | — | — | — | active |
 | `carrefour.ro` | [policy](https://carrefour.com/disclosure) | — | — | active |
 | `certsign.ro` | — | — | — | expired |
+| `citatepedia.ro` | — | recognition | — | active |
 | `clausweb.ro` | — | — | — | active |
 | `cnpp.ro` | — | — | — | active |
 | `comunadezna.ro` | — | — | — | active |
@@ -25,7 +26,7 @@
 | `defenseromania.ro` | — | recognition | — | active |
 | `dictie.ro` | — | — | — | active |
 | `dm.ro` | — | — | — | active |
-| `doctorulzilei.ro` | [policy](https://doctorulzilei.ro/security-policy) | — | — | retired |
+| `doctorulzilei.ro` | [policy](https://doctorulzilei.ro/security-policy) | — | — | active |
 | `ediconnect.ro` | [policy](https://www.ediconnect.ro/contact) | — | — | active |
 | `ejobs.ro` | — | — | — | active |
 | `eon.ro` | — | — | — | active |

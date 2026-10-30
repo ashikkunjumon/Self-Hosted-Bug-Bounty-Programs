@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-360 programs.
+362 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -215,6 +215,7 @@
 | `najbrt.cz` | — | — | — | expired |
 | `najdireality.cz` | — | — | — | active |
 | `nakluky.cz` | — | — | — | active |
+| `nanospace.cz` | — | — | — | active |
 | `navolnenoze.cz` | [policy](https://navolnenoze.cz/o-nas/soukromi/) | — | — | active |
 | `nejremeslnici.cz` | — | — | — | active |
 | `nethost.cz` | [policy](https://www.nethost.cz/en/security/) | — | — | active |
@@ -270,6 +271,7 @@
 | `rako.cz` | — | — | — | active |
 | `raynet.cz` | — | — | — | active |
 | `rb.cz` | [policy](https://www.rb.cz/.well-known/cvd-policy) | monetary | — | active |
+| `recenzer.cz` | — | — | — | active |
 | `regzone.cz` | — | — | — | expired |
 | `reichard.cz` | — | — | — | active |
 | `reservanto.cz` | — | — | — | active |

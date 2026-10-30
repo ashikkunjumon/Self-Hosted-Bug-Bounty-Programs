@@ -1,6 +1,6 @@
 # Self-hosted programs — FR
 
-174 programs.
+175 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -171,6 +171,7 @@
 | `ut-capitole.fr` | — | — | — | active |
 | `utt.fr` | — | recognition | — | active |
 | `vichy.fr` | — | recognition | — | active |
+| `villejuif.fr` | — | — | — | active |
 | `vinted.fr` | — | — | — | active |
 | `vistaprint.fr` | — | — | — | active |
 | `vrin.fr` | — | — | — | active |

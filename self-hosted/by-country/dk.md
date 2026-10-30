@@ -1,9 +1,10 @@
 # Self-hosted programs — DK
 
-155 programs.
+157 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
+| `aalborg.dk` | — | — | — | active |
 | `aarhusmotion.dk` | [policy](https://bbtiming.com/page/vulnerability-policy) | — | yes | active |
 | `aktuelnaturvidenskab.dk` | — | — | — | active |
 | `alexandra.dk` | — | — | — | active |
@@ -98,6 +99,7 @@
 | `nordjyskebank.dk` | — | — | — | active |
 | `nordnet.dk` | [policy](https://www.nordnet.se/security-disclosure) | monetary | — | active |
 | `norlys.dk` | — | — | — | active |
+| `northside.dk` | — | — | — | active |
 | `nota.dk` | — | recognition | — | active |
 | `notino.dk` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
 | `nykredit.dk` | — | monetary | — | active |

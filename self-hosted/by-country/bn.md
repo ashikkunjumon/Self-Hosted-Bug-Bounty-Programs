@@ -4,4 +4,4 @@
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
-| `bcsa.bn` | [policy](https://bcsa.bn/security) | — | yes | active |
+| `bcsa.bn` | [policy](https://bcsa.bn/security) | recognition | yes | active |

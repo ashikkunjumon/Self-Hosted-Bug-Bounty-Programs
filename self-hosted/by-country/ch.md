@@ -9,7 +9,7 @@
 | `abbaye-stmaurice.ch` | — | — | — | active |
 | `abraxas.ch` | [policy](https://www.abraxas.ch/de/vdp) | recognition | yes | active |
 | `abuse.ch` | — | — | — | active |
-| `adfinis-sygroup.ch` | — | — | — | active |
+| `adfinis-sygroup.ch` | — | — | — | retired |
 | `ajour.ch` | — | — | — | active |
 | `allianceswisspass.ch` | — | recognition | — | active |
 | `alltron.ch` | — | — | — | active |
@@ -166,7 +166,7 @@
 | `ipng.ch` | — | — | — | active |
 | `isb-sib.ch` | — | — | — | expired |
 | `isolutions.ch` | — | — | — | active |
-| `iway.ch` | — | — | — | expired |
+| `iway.ch` | — | — | — | active |
 | `iwb.ch` | — | — | — | expired |
 | `jobcloud.ch` | — | — | — | active |
 | `jobs.ch` | — | — | — | active |

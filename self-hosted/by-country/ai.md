@@ -51,7 +51,7 @@
 | `naitra.ai` | [policy](https://naitra.ai/security) | — | — | retired |
 | `neogenic.ai` | [policy](https://neogenic.ai/security/) | — | yes | active |
 | `netcore.ai` | [policy](https://netcore.ai/responsible-disclosure/) | recognition | — | retired |
-| `nexusdsp.ai` | [policy](https://nexusdsp.ai/security.html) | — | — | active |
+| `nexusdsp.ai` | [policy](https://nexusdsp.ai/security.html) | — | — | retired |
 | `nullify.ai` | [policy](https://docs.nullify.ai/more-info/security) | — | yes | retired |
 | `occludra.ai` | [policy](https://occludra.ai/security) | monetary | — | active |
 | `odin.ai` | [policy](https://0din.ai/policy) | monetary | — | active |
@@ -67,7 +67,7 @@
 | `silversight.ai` | [policy](https://silversight.ai/vulnerability-disclosure-policy) | monetary | — | active |
 | `smackdab.ai` | [policy](https://smackdab.ai/legal/responsible-disclosure-policy/) | monetary | yes | active |
 | `spicychat.ai` | [policy](https://docs.spicychat.ai/security-and-vulnerability-reporting) | recognition | yes | retired |
-| `storehouses.ai` | [policy](https://storehouses.ai/security/bug-bounty) | monetary | — | active |
+| `storehouses.ai` | [policy](https://storehouses.ai/security/bug-bounty) | — | — | active |
 | `tibly.ai` | [policy](https://tibly.ai/security) | — | yes | retired |
 | `tightknit.ai` | [policy](https://tightknit.ai/legal/responsible-disclosure) | monetary | yes | active |
 | `transglot.ai` | [policy](https://transglot.ai/legal/vulnerability-disclosure) | — | — | active |

@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-626 programs.
+627 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -385,6 +385,7 @@
 | `nvidia.com` | [policy](https://app.intigriti.com/programs/nvidia/nvidiavdp/detail) | monetary | — | retired |
 | `oberlo.com` | [policy](https://hackerone.com/shopify) | — | — | active |
 | `octopus.com` | [policy](https://g.octopushq.com/disclosure) | swag | — | active |
+| `odesk.com` | [policy](https://support.upwork.com/hc/en-us/articles/211067638) | — | — | active |
 | `okta.com` | [policy](https://www.okta.com/vulnerability-reporting-policy/) | — | — | active |
 | `omarchy.org` | [policy](https://omarchy.org/security) | swag | — | active |
 | `ondeck.com` | [policy](https://www.ondeck.com/security-policy) | monetary | — | retired |
