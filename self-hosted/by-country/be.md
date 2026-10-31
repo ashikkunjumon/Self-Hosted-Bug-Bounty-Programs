@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-260 programs.
+261 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -102,6 +102,7 @@
 | `grimbergen.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `groups.be` | [policy](https://www.groups.be/en/responsible-disclosure-policy) | — | — | active |
 | `haaltert.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
+| `hamme.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `heist-op-den-berg.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `heusden-zolder.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `hgr-css.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |

@@ -16,7 +16,7 @@
 | `bankid.no` | — | recognition | — | active |
 | `barebitcoin.no` | [policy](https://barebitcoin.no/security) | — | yes | active |
 | `barentswatch.no` | — | — | — | active |
-| `bauhaus.no` | — | — | — | active |
+| `bauhaus.no` | — | — | — | retired |
 | `bdo.no` | — | — | — | expired |
 | `berg-hansen.no` | — | — | — | active |
 | `bfk.no` | — | — | — | active |

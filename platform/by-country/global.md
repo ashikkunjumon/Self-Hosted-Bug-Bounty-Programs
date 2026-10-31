@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-627 programs.
+629 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -8,6 +8,7 @@
 | `1inch.com` | [policy](https://hackenproof.com/programs/1inch-smart-contract) | monetary | — | active |
 | `1inch.io` | [policy](https://hackenproof.com/programs/1inch-smart-contract) | monetary | — | active |
 | `1password.com` | — | monetary | — | active |
+| `32red.com` | — | monetary | — | active |
 | `60.122` | [policy](http://183.204.60.122:10081/ZF/jitsi-meet/src/commit/600af629451d5e836528b38d5ce5a879deb28708/SECURITY.md) | — | — | active |
 | `aacounty.org` | [policy](https://www.aacounty.org/oit/vulnerability-disclosure-program) | monetary | — | retired |
 | `accorhotels.com` | — | — | — | active |
@@ -169,6 +170,7 @@
 | `ed.gov` | [policy](https://www.ed.gov/about/ed-overview/required-notices/vulnerability-disclosure-policy) | recognition | — | retired |
 | `edinburghcastle.scot` | [policy](https://www.edinburghcastle.scot/vulnerability-disclosure-policy/) | — | — | retired |
 | `eeoc.gov` | [policy](https://www.eeoc.gov/vulnerability-disclosure-policy) | — | — | retired |
+| `elance.com` | [policy](https://support.upwork.com/hc/en-us/articles/211067638) | — | — | active |
 | `emburse.com` | [policy](https://www.emburse.com/responsible-disclosure) | monetary | — | expired |
 | `emedicine.com` | — | — | — | active |
 | `emedicinehealth.com` | — | — | — | active |

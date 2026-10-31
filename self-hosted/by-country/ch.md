@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-400 programs.
+402 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -160,8 +160,8 @@
 | `immoscout24.ch` | — | — | — | active |
 | `impo.ch` | [policy](https://www.coop.ch/de/unternehmen/vdp.html) | — | yes | expired |
 | `infoguard.ch` | [policy](https://www.infoguard.ch/en/security-policy) | — | — | active |
-| `insel.ch` | — | — | — | active |
-| `inselgruppe.ch` | — | — | — | active |
+| `insel.ch` | — | — | — | expired |
+| `inselgruppe.ch` | — | — | — | expired |
 | `interdiscount.ch` | — | monetary | — | active |
 | `ipng.ch` | — | — | — | active |
 | `isb-sib.ch` | — | — | — | expired |
@@ -192,6 +192,7 @@
 | `lausanne.ch` | — | — | — | active |
 | `lenouvelliste.ch` | — | — | — | active |
 | `lenzburg.ch` | — | — | — | active |
+| `lesestoff.ch` | — | — | — | expired |
 | `liarumantscha.ch` | — | — | — | active |
 | `lidl.ch` | — | — | — | active |
 | `liestal.ch` | — | — | — | active |
@@ -232,6 +233,7 @@
 | `ne.ch` | — | recognition | — | active |
 | `nexplore.ch` | [policy](https://www.nexplore.ch/vulnerability-disclosure-policy) | — | — | expired |
 | `nic.ch` | [policy](https://www.switch.ch/security/SWITCH-CERT.txt) | — | — | active |
+| `nine.ch` | — | — | — | active |
 | `nivea.ch` | [policy](https://soc.beiersdorf.com/disclosurepolicy.html) | — | yes | active |
 | `notino.ch` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
 | `nw.ch` | — | — | — | active |

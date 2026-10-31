@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-483 programs.
+486 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -212,6 +212,7 @@
 | `hpi.de` | — | — | — | expired |
 | `hs-augsburg.de` | — | — | — | active |
 | `hs-bremen.de` | [policy](https://www.hs-bremen.de/en/security/disclosure-policy) | swag | — | active |
+| `hs-coburg.de` | — | — | — | active |
 | `hs-fulda.de` | [policy](https://it-sicherheit.hs-fulda.de/en/vorfall_melden/schwachstelle/index.html) | — | — | active |
 | `hs-furtwangen.de` | — | — | — | active |
 | `hs-heilbronn.de` | — | — | — | active |
@@ -248,6 +249,7 @@
 | `koeln.de` | — | — | — | active |
 | `komoot.de` | [policy](https://www.komoot.com/security/bug-bounty) | — | — | active |
 | `konstanz.de` | — | — | — | active |
+| `kopp-verlag.de` | — | — | — | active |
 | `korrektur.de` | — | — | — | active |
 | `krautreporter.de` | — | — | — | active |
 | `kuketz-blog.de` | — | — | — | active |
@@ -409,6 +411,7 @@
 | `tlz.de` | — | — | — | active |
 | `toom.de` | — | — | — | active |
 | `treatwell.de` | — | — | — | active |
+| `trier.de` | — | — | — | active |
 | `trustedshops.de` | [policy](https://www.trustedshops.de/.well-known/responsible-disclosure.txt) | — | yes | active |
 | `tu-braunschweig.de` | [policy](https://www.tu-braunschweig.de/en/ciso/cert/responsible-disclosure) | monetary | yes | active |
 | `tu-bs.de` | [policy](https://www.tu-braunschweig.de/en/ciso/cert/responsible-disclosure) | monetary | yes | active |

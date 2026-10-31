@@ -36,7 +36,7 @@
 | `centre-commercial.fr` | — | — | — | active |
 | `cewe.fr` | — | — | — | active |
 | `cma-auvergnerhonealpes.fr` | — | — | — | active |
-| `cmb.fr` | — | — | — | retired |
+| `cmb.fr` | — | — | — | active |
 | `coface.fr` | — | — | — | active |
 | `colissimo.fr` | [policy](https://vdp.laposte.fr/p/Security-Information) | — | — | active |
 | `conrad.fr` | [policy](https://www.conrad.de/de/ueber-conrad/vulnerability-disclosure-program.html) | — | — | expired |

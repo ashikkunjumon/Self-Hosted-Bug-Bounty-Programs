@@ -1,10 +1,11 @@
 # Self-hosted programs — PL
 
-186 programs.
+187 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `abczdrowie.pl` | — | — | — | active |
+| `ahk.pl` | — | — | — | active |
 | `amso.pl` | — | — | — | active |
 | `android.com.pl` | [policy](https://android.com.pl/.well-known/security-policy.txt) | — | — | active |
 | `atomstore.pl` | — | — | — | active |

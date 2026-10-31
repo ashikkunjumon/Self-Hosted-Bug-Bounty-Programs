@@ -1,6 +1,6 @@
 # Self-hosted programs — DK
 
-157 programs.
+158 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@
 | `djurslandsbank.dk` | — | — | — | active |
 | `dk-hostmaster.dk` | — | — | — | active |
 | `dknyt.dk` | — | — | — | active |
-| `dmi.dk` | — | — | — | expired |
+| `dmi.dk` | — | — | — | active |
 | `dpu.dk` | — | — | — | active |
 | `dsb.dk` | [policy](https://www.dsb.dk/disclosure-policy.html) | — | — | active |
 | `dustin.dk` | — | — | — | active |
@@ -87,6 +87,7 @@
 | `jv.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
 | `kilroy.dk` | — | — | — | active |
 | `kk.dk` | — | — | — | active |
+| `kobenhavnliv.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
 | `komplett.dk` | — | — | — | expired |
 | `landbobanken.dk` | — | — | — | active |
 | `lex.dk` | — | — | — | expired |

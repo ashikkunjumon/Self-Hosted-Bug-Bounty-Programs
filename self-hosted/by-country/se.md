@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-529 programs.
+531 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -468,6 +468,7 @@
 | `teknikdelar.se` | [policy](https://www.teknikdelar.se/rapportera-brist) | — | yes | active |
 | `tele2.se` | — | — | — | active |
 | `telenor.se` | — | recognition | — | active |
+| `teoricentralen.se` | — | — | — | active |
 | `teracom.se` | — | — | — | active |
 | `tidningencurie.se` | — | — | — | active |
 | `tierp.se` | — | — | — | active |
@@ -481,6 +482,7 @@
 | `tranastidning.se` | — | — | — | active |
 | `transportforetagen.se` | — | — | — | active |
 | `transportstyrelsen.se` | — | — | — | active |
+| `travstugan.se` | [policy](https://travstugan.se/security-policy) | recognition | — | active |
 | `trelleborgsallehanda.se` | — | — | — | active |
 | `trollhattan.se` | — | — | — | active |
 | `tv4.se` | [policy](https://responsible-disclosure.tv4.se/01-policy.html) | recognition | yes | active |
