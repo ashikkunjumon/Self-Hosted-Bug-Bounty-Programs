@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-402 programs.
+406 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -95,6 +95,7 @@
 | `ethz.ch` | [policy](https://www.ethz.ch/content/dam/ethz/associates/services/Service/IT-Services/files/documents/eth-disclosure-policy-en.pdf) | monetary | — | active |
 | `etools.ch` | — | — | — | active |
 | `eve-rave.ch` | — | — | — | active |
+| `eversports.ch` | — | — | — | active |
 | `ewl-luzern.ch` | — | — | — | active |
 | `ewz.ch` | — | — | — | active |
 | `exlibris.ch` | — | — | — | active |
@@ -136,6 +137,7 @@
 | `gruene.ch` | — | — | — | active |
 | `gurtenpark.ch` | — | — | — | active |
 | `hbl.ch` | — | — | — | active |
+| `hefr.ch` | [policy](https://go.hefr.ch/sinfofr/security-report-scopes-and-rules) | recognition | — | active |
 | `heg-fr.ch` | [policy](https://go.hefr.ch/sinfofr/security-report-scopes-and-rules) | recognition | — | active |
 | `heia-fr.ch` | [policy](https://go.hefr.ch/sinfofr/security-report-scopes-and-rules) | recognition | — | active |
 | `helbing.ch` | — | — | — | retired |
@@ -168,6 +170,7 @@
 | `isolutions.ch` | — | — | — | active |
 | `iway.ch` | — | — | — | active |
 | `iwb.ch` | — | — | — | expired |
+| `jackpots.ch` | — | — | — | active |
 | `jobcloud.ch` | — | — | — | active |
 | `jobs.ch` | — | — | — | active |
 | `jobup.ch` | — | — | — | active |
@@ -335,6 +338,7 @@
 | `swiss-athletics.ch` | — | — | — | active |
 | `swissbanking.ch` | — | — | — | expired |
 | `swisscard.ch` | — | — | — | active |
+| `swisschocolate.ch` | — | — | — | active |
 | `swisscom.ch` | [policy](https://github.com/swisscom/bugbounty) | monetary | — | active |
 | `swissolar.ch` | — | — | — | active |
 | `swisspost.ch` | [policy](https://vdp.post.ch/p/Information-Security) | — | — | active |

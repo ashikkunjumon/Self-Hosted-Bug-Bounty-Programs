@@ -45,7 +45,7 @@
 | `bettingkollen.se` | [policy](https://bettingkollen.se/security-policy) | recognition | — | active |
 | `billerud.se` | — | — | — | active |
 | `bilprovningen.se` | — | — | — | active |
-| `bio-link.se` | [policy](https://bio-link.se/page/security) | recognition | — | active |
+| `bio-link.se` | [policy](https://bio-link.se/page/security) | recognition | — | expired |
 | `bjurfors.se` | — | — | — | active |
 | `blocket.se` | [policy](https://vend.com/responsible-disclosure-policy.txt) | swag | yes | active |
 | `blt.se` | — | — | — | active |

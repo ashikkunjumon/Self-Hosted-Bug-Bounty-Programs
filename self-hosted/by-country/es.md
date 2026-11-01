@@ -52,7 +52,7 @@
 | `henkel.es` | — | — | — | active |
 | `holidu.es` | — | monetary | — | active |
 | `homeaway.es` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | — | — | active |
-| `hotfrog.es` | — | — | — | active |
+| `hotfrog.es` | — | — | — | retired |
 | `immedicohospitalario.es` | [policy](https://www.publimasdigital.com/proteccion-de-datos) | — | — | active |
 | `incibe-cert.es` | [policy](https://www.incibe.es/en/incibe-cert/about-us/vulnerability-disclosure-policy) | recognition | — | retired |
 | `inpost.es` | [policy](https://vdp.inpost.pl/p/Policy?lang=en-gb) | — | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — IN
 
-41 programs.
+42 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -18,7 +18,8 @@
 | `garnier.in` | — | recognition | — | active |
 | `gettyimages.in` | — | — | — | retired |
 | `gillette.co.in` | — | — | — | active |
-| `hotfrog.in` | — | — | — | active |
+| `hcidhaka.gov.in` | — | recognition | — | active |
+| `hotfrog.in` | — | — | — | retired |
 | `huffingtonpost.in` | — | monetary | — | active |
 | `intel.in` | [policy](https://www.intel.com/content/www/us/en/security-center/vulnerability-handling-guidelines.html) | — | — | active |
 | `krmangalam.edu.in` | — | — | — | active |

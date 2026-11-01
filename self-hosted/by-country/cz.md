@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-362 programs.
+365 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -97,6 +97,7 @@
 | `epojisteni.cz` | [policy](https://www.epojisteni.cz/security-policy.txt) | — | — | active |
 | `eshop-rychle.cz` | — | — | — | active |
 | `essox.cz` | — | — | — | active |
+| `eta.cz` | [policy](https://www.eta.cz/product-security/) | — | — | active |
 | `etnetera.cz` | — | — | — | active |
 | `expert.cz` | — | — | — | active |
 | `farmarsketrziste.cz` | — | — | — | active |
@@ -111,6 +112,7 @@
 | `forrest.cz` | — | — | — | active |
 | `forum2000.cz` | — | — | — | expired |
 | `fraus.cz` | — | — | — | active |
+| `freelo.cz` | — | — | — | active |
 | `freeride.cz` | — | — | — | expired |
 | `fyft.cz` | — | — | — | active |
 | `garaz.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
@@ -151,7 +153,7 @@
 | `kanzelsberger.cz` | — | — | — | active |
 | `karlovylazne.cz` | — | — | — | expired |
 | `karlovyvary.cz` | — | — | — | active |
-| `karolinum.cz` | [policy](https://csirt.cuni.cz/en/incident_reporting) | recognition | — | expired |
+| `karolinum.cz` | [policy](https://csirt.cuni.cz/en/incident_reporting) | recognition | — | retired |
 | `kb.cz` | — | — | — | active |
 | `ketodiet.cz` | — | — | — | expired |
 | `klaus.cz` | — | — | — | expired |
@@ -324,6 +326,7 @@
 | `toprecepty.cz` | — | — | — | active |
 | `tribune.cz` | — | — | — | active |
 | `tul.cz` | — | — | — | active |
+| `turistik.cz` | — | — | — | active |
 | `turris.cz` | — | — | — | active |
 | `uhk.cz` | — | — | — | active |
 | `ujv.cz` | — | — | — | active |

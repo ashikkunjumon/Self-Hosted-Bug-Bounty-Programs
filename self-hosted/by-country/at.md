@@ -1,6 +1,6 @@
 # Self-hosted programs — AT
 
-159 programs.
+160 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -151,6 +151,7 @@
 | `unileoben.ac.at` | — | — | — | active |
 | `unsereoebb.at` | — | — | — | active |
 | `ustp.at` | [policy](https://www.ustp.at/de/security-disclosure-policy) | swag | — | active |
+| `vegan.at` | — | — | — | active |
 | `viennaairportlines.at` | — | — | — | active |
 | `vinted.at` | — | — | — | active |
 | `vobs.at` | — | — | — | active |

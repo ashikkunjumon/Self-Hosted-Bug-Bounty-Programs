@@ -1,6 +1,6 @@
 # Platform-hosted programs — CH
 
-67 programs.
+68 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -28,6 +28,7 @@
 | `energieschweiz.ch` | [policy](https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden/scope-and-rules.html) | recognition | yes | active |
 | `ewb.ch` | — | — | — | active |
 | `fait.ch` | [policy](https://hackerone.com/nextcloud) | — | — | active |
+| `fr.airbnb.ch` | [policy](https://hackerone.com/airbnb#overview) | — | — | active |
 | `fuw.ch` | [policy](https://bugcrowd.com/tamedia) | monetary | — | expired |
 | `indeed.ch` | [policy](https://www.indeed.com/legal?hl=en&from=gnav-homepage#ivrp) | — | — | retired |
 | `infomaniak.ch` | [policy](https://infomaniak.vulnerability-disclosure.com) | — | — | active |

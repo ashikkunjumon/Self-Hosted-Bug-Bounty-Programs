@@ -1,6 +1,6 @@
 # Self-hosted programs — BR
 
-99 programs.
+100 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -59,6 +59,7 @@
 | `maringapost.com.br` | — | — | — | active |
 | `marinha.mil.br` | — | — | — | active |
 | `mda.gov.br` | [policy](https://www.gov.br/agricultura/pt-br/acesso-a-informacao/tecnologia-da-informacao/seguranca-da-informacao/politica-de-seguranca-da-informacao-e-comunicacao-posic) | — | — | active |
+| `meutimao.com.br` | [policy](https://www.meutimao.com.br/politica-de-privacidade) | — | — | active |
 | `michaelpage.com.br` | — | — | — | expired |
 | `msnoticias.com.br` | — | — | — | expired |
 | `mst.org.br` | — | — | — | expired |

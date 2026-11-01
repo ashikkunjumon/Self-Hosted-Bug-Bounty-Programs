@@ -1,6 +1,6 @@
 # Platform-hosted programs — BE
 
-46 programs.
+47 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -8,6 +8,7 @@
 | `airbnb.be` | [policy](https://hackerone.com/airbnb#overview) | — | — | active |
 | `auto5.be` | — | — | — | active |
 | `autoscout24.be` | [policy](https://app.intigriti.com/programs/autoscout/autoscout24-vdp/detail) | monetary | — | expired |
+| `azdelta.be` | — | — | — | active |
 | `bmw-motorrad.be` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
 | `bmw.be` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
 | `comparateur-energie.be` | — | monetary | — | active |
@@ -40,7 +41,7 @@
 | `unibet.be` | — | monetary | — | active |
 | `unibetcasino.be` | — | monetary | — | retired |
 | `unibetsports.be` | — | monetary | — | retired |
-| `uzleuven.be` | — | recognition | — | active |
+| `uzleuven.be` | — | recognition | — | expired |
 | `vlaanderen.be` | [policy](https://yeswehack.com/programs/digital-flanders-vulnerability-disclosure-program) | recognition | — | retired |
 | `vtm.be` | — | monetary | — | active |
 | `vtmgo.be` | — | monetary | — | active |

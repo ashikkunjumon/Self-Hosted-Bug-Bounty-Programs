@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-629 programs.
+630 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -199,6 +199,7 @@
 | `findmespot.com` | — | — | — | active |
 | `firebounty.com` | [policy](https://vdp.yeswehack.com) | — | — | active |
 | `firecrawl.dev` | [policy](https://bugcrowd.com/engagements/firecrawl-vdp-ess) | — | — | active |
+| `fitday.com` | — | — | — | active |
 | `flat.io` | — | — | — | active |
 | `flexmail.eu` | — | recognition | — | active |
 | `flexport.com` | [policy](https://hackerone.com/flexport_vdp) | — | — | active |
@@ -391,7 +392,7 @@
 | `okta.com` | [policy](https://www.okta.com/vulnerability-reporting-policy/) | — | — | active |
 | `omarchy.org` | [policy](https://omarchy.org/security) | swag | — | active |
 | `ondeck.com` | [policy](https://www.ondeck.com/security-policy) | monetary | — | retired |
-| `oohcams.com` | [policy](https://hackerone.com/chaturbate?type=team&view_policy=true) | — | — | retired |
+| `oohcams.com` | [policy](https://hackerone.com/chaturbate?type=team&view_policy=true) | — | — | active |
 | `ookla.com` | [policy](https://security.ookla.com) | — | — | active |
 | `openai.com` | [policy](https://openai.com/policies/coordinated-vulnerability-disclosure-policy) | recognition | — | active |
 | `opensea.io` | [policy](https://bugcrowd.com/opensea) | monetary | — | active |

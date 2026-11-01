@@ -1,6 +1,6 @@
 # Self-hosted programs — PL
 
-187 programs.
+188 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -163,6 +163,7 @@
 | `superauto.pl` | — | — | — | active |
 | `swiatczytnikow.pl` | — | — | — | active |
 | `syskonf.pl` | — | — | — | active |
+| `tatara.com.pl` | — | — | — | active |
 | `tchibo.pl` | — | — | — | active |
 | `telemagazyn.pl` | — | — | — | expired |
 | `tim.pl` | — | — | — | active |

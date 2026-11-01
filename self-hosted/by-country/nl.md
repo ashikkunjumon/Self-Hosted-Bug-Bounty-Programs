@@ -1,6 +1,6 @@
 # Self-hosted programs — NL
 
-421 programs.
+426 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -20,6 +20,7 @@
 | `airmiles.nl` | [policy](https://www.airmiles.nl/responsible-disclosure) | — | — | active |
 | `aivd.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `ajax.nl` | — | — | — | active |
+| `allesoverhetgebit.nl` | — | — | — | active |
 | `allesoversport.nl` | — | — | — | expired |
 | `allianzdirect.nl` | — | — | — | expired |
 | `almere.nl` | — | recognition | — | active |
@@ -130,6 +131,7 @@
 | `ferm-rotterdam.nl` | [policy](https://ferm-zeehavens.nl/) | — | — | retired |
 | `fietsersbond.nl` | [policy](https://level-level.com/responsible-disclosure/) | — | — | expired |
 | `filmfestival.nl` | — | — | — | active |
+| `filmkrant.nl` | — | — | — | active |
 | `flevoland.nl` | [policy](https://www.flevoland.nl/loket/doorgeven/zwakke-plek-informatiesystemen) | — | yes | active |
 | `fmo.nl` | — | — | — | active |
 | `fok.nl` | — | — | — | active |
@@ -156,6 +158,7 @@
 | `hccnet.nl` | — | — | — | expired |
 | `hersenstichting.nl` | — | — | — | active |
 | `hetcak.nl` | [policy](https://www.hetcak.nl/kwetsbare-plek-ontdekt/) | — | yes | active |
+| `hetnatuurhistorisch.nl` | — | — | — | active |
 | `hetutrechtsarchief.nl` | — | — | — | active |
 | `historischnieuwsblad.nl` | — | — | — | active |
 | `hollandandbarrett.nl` | [policy](https://vdp.hollandandbarrett.com/) | — | — | active |
@@ -165,6 +168,7 @@
 | `htm.nl` | [policy](https://www.htm.nl/en/general-terms-and-conditions/responsible-disclosure/hall-of-fame/) | recognition | — | retired |
 | `huurcommissie.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `hypotheker.nl` | — | recognition | — | active |
+| `hz.nl` | [policy](https://hz.nl/uploads/documents/1.4-Over-de-HZ/1.4.3.-Regelingen-en-documenten/NL/6.-Overige-regelingen/Overig/rfc2350-hz-csirt-20160610.txt) | — | — | active |
 | `iculture.nl` | — | — | — | active |
 | `ideal.nl` | [policy](https://www.ideal.nl/en/coordinated-vulnerability-disclosure) | monetary | yes | active |
 | `idfa.nl` | — | — | — | active |
@@ -222,6 +226,7 @@
 | `lumc.nl` | [policy](https://www.lumc.nl/coordinated-vulnerability-disclosure-cvd/) | recognition | yes | active |
 | `maasschilder-limburg.nl` | — | — | — | active |
 | `maastrichtuniversity.nl` | — | — | — | active |
+| `makro.nl` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | expired |
 | `managementboek.nl` | — | — | — | active |
 | `maritiemmuseum.nl` | — | — | — | active |
 | `marketingfacts.nl` | — | — | — | active |

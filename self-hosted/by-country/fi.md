@@ -1,6 +1,6 @@
 # Self-hosted programs — FI
 
-127 programs.
+129 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@
 | `coronaria.fi` | — | — | — | active |
 | `csc.fi` | [policy](https://csc.fi/en/security-privacy-data-policy-and-open-source-policy/) | — | — | active |
 | `curve.fi` | — | — | — | active |
-| `dna.fi` | — | — | — | active |
+| `dna.fi` | — | — | — | retired |
 | `dustin.fi` | — | — | — | active |
 | `ebookers.fi` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `elenia.fi` | — | — | — | expired |
@@ -41,6 +41,7 @@
 | `hbl.fi` | — | — | — | active |
 | `hel.fi` | — | — | — | active |
 | `hel2.fi` | — | — | — | active |
+| `helmet.fi` | — | — | — | active |
 | `helsinginsanomat.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | expired |
 | `helsinki.fi` | — | — | — | active |
 | `hintaopas.fi` | — | — | — | expired |
@@ -75,6 +76,7 @@
 | `lippu.fi` | — | — | — | active |
 | `lynex.fi` | — | — | — | active |
 | `lyyti.fi` | — | — | — | active |
+| `maajakotitalousnaiset.fi` | [policy](https://www.maajakotitalousnaiset.fi/security-policy) | recognition | — | active |
 | `maaseuduntulevaisuus.fi` | — | — | — | active |
 | `mobilepay.fi` | [policy](https://vdp.vippsmobilepay.com) | — | — | active |
 | `motonet.fi` | — | — | — | expired |

@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-486 programs.
+487 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@
 | `computerbase.de` | — | — | — | active |
 | `ct.de` | [policy](https://heise.de/-7513540) | monetary | — | active |
 | `cure53.de` | — | recognition | — | active |
-| `daad.de` | — | — | — | active |
+| `daad.de` | — | — | — | retired |
 | `darmstadt.de` | — | — | — | active |
 | `dasauge.de` | — | — | — | retired |
 | `dasding.de` | — | — | — | active |
@@ -133,7 +133,7 @@
 | `ekomi.de` | — | — | — | active |
 | `elektronikpraxis.de` | — | — | — | expired |
 | `eon.de` | — | — | — | active |
-| `erasmusplus.de` | — | — | — | active |
+| `erasmusplus.de` | — | — | — | retired |
 | `esslingen.de` | — | — | — | active |
 | `eventim-inhouse.de` | — | — | — | active |
 | `eventim.de` | — | — | — | active |
@@ -337,6 +337,7 @@
 | `reddotmedia.de` | [policy](https://g.co/vrp) | — | — | active |
 | `redensarten-index.de` | — | — | — | retired |
 | `regensburg.de` | — | — | — | active |
+| `reisereporter.de` | — | — | — | active |
 | `rekruter.de` | [policy](https://www.rekruter.de/impressum/datenschutz.lasso) | — | — | retired |
 | `renault.de` | [policy](https://www.renaultgroup.com/en/vulnerability-disclosure-policy/) | — | — | active |
 | `reutlingen.de` | — | — | — | expired |
@@ -384,10 +385,10 @@
 | `stadtlindau.de` | — | — | — | active |
 | `statistikportal.de` | — | — | — | active |
 | `strato.de` | [policy](https://www.strato.de/it-security) | monetary | — | active |
-| `study-in-germany.de` | — | — | — | active |
+| `study-in-germany.de` | — | — | — | retired |
 | `stuttgart.de` | — | — | — | active |
 | `stylight.de` | — | recognition | — | active |
-| `suse.de` | — | — | — | active |
+| `suse.de` | — | — | — | expired |
 | `swm.de` | — | — | — | active |
 | `swr.de` | — | — | — | active |
 | `swr3.de` | — | — | — | active |

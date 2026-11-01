@@ -1,6 +1,6 @@
 # Self-hosted programs — NO
 
-235 programs.
+236 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -169,7 +169,7 @@
 | `oslobors.no` | — | — | — | active |
 | `oslokonserthus.no` | [policy](https://oslokonserthus.no/security-policy) | recognition | — | active |
 | `oslomet.no` | [policy](https://nett.oslomet.no/.well-known/rfc2350.pdf) | monetary | — | active |
-| `p3.no` | [policy](https://info.nrk.no/hjem/responsible-disclosure-policy/) | swag | yes | expired |
+| `p3.no` | [policy](https://info.nrk.no/hjem/responsible-disclosure-policy/) | swag | yes | retired |
 | `paretosec.no` | — | — | — | active |
 | `pilegrimsleden.no` | [policy](https://www.pilegrimsleden.no/security-policy) | recognition | — | active |
 | `politiet.no` | — | — | — | active |
@@ -183,6 +183,7 @@
 | `samforsk.no` | [policy](https://samforsk.no/security-policy) | recognition | — | active |
 | `sas.no` | [policy](https://www.sasgroup.net/contact/vulnerability-disclosure-policy/) | recognition | yes | active |
 | `sbanken.no` | — | — | — | active |
+| `sbm.no` | — | — | — | active |
 | `sikt.no` | [policy](https://www.sikt.no/security-policy) | recognition | yes | active |
 | `siv.no` | [policy](https://www.sykehuspartner.no/siteassets/documents/sikkerhet---regionale-bruksvilkar/no-38---responsible-disclosure-policy-engelsk.pdf) | — | — | active |
 | `skatteetaten.no` | — | — | — | active |
