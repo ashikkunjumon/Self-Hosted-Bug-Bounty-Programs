@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-365 programs.
+366 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -30,6 +30,7 @@
 | `bdo.cz` | — | — | — | expired |
 | `bellarose.cz` | — | — | — | active |
 | `bernard.cz` | — | — | — | active |
+| `betano-bonus-cz.cz` | — | — | — | active |
 | `bezpecnyinternet.cz` | — | — | — | active |
 | `biano.cz` | — | — | — | retired |
 | `billboard.cz` | — | — | — | active |

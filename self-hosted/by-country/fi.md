@@ -1,6 +1,6 @@
 # Self-hosted programs — FI
 
-129 programs.
+130 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -94,6 +94,7 @@
 | `proagria.fi` | [policy](https://www.proagria.fi/security-policy) | recognition | — | active |
 | `ptt.fi` | — | recognition | — | active |
 | `rakennuslehti.fi` | — | recognition | — | active |
+| `rakennustieto.fi` | — | — | — | active |
 | `rakentaja.fi` | — | — | — | retired |
 | `risingshadow.fi` | — | — | — | active |
 | `sanoma.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | expired |

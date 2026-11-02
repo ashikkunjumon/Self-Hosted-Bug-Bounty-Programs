@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-406 programs.
+408 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -230,6 +230,7 @@
 | `mycloud.ch` | [policy](https://github.com/swisscom/bugbounty) | monetary | — | active |
 | `myscience.ch` | — | — | — | active |
 | `myvaud.ch` | — | — | — | active |
+| `nagra.ch` | — | — | — | active |
 | `nationalmuseum.ch` | — | — | — | active |
 | `naturalsciences.ch` | — | — | — | active |
 | `naturwissenschaften.ch` | — | — | — | active |
@@ -315,6 +316,7 @@
 | `spielsucht-radix.ch` | — | — | — | active |
 | `sportintegrity.ch` | — | — | — | active |
 | `spreadshirt.ch` | — | — | — | retired |
+| `sps.ch` | — | — | — | active |
 | `srf.ch` | — | — | — | active |
 | `stadt-schaffhausen.ch` | — | — | — | active |
 | `stadt-zuerich.ch` | — | — | — | active |

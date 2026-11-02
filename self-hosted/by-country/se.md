@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-531 programs.
+533 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -165,6 +165,7 @@
 | `harryda.se` | — | — | — | active |
 | `hassleholm.se` | — | — | — | active |
 | `hd.se` | — | — | — | active |
+| `heby.se` | — | — | — | active |
 | `hedemora.se` | — | — | — | active |
 | `heidelbergmaterials.se` | — | — | — | active |
 | `helsingborg.se` | — | — | — | active |
@@ -466,6 +467,7 @@
 | `taby.se` | [policy](https://www.taby.se/sakerhetsbrist) | — | yes | active |
 | `tanum.se` | — | — | — | active |
 | `teknikdelar.se` | [policy](https://www.teknikdelar.se/rapportera-brist) | — | yes | active |
+| `teknikensvarld.se` | — | — | — | active |
 | `tele2.se` | — | — | — | active |
 | `telenor.se` | — | recognition | — | active |
 | `teoricentralen.se` | — | — | — | active |

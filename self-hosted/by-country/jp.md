@@ -1,6 +1,6 @@
 # Self-hosted programs — JP
 
-22 programs.
+23 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -13,6 +13,7 @@
 | `jps.jp` | — | — | — | active |
 | `konami.jp` | — | — | — | active |
 | `kuruma-news.jp` | — | — | — | expired |
+| `line.naver.jp` | [policy](https://bugbounty.linecorp.com/en) | — | yes | active |
 | `locondo.jp` | — | monetary | — | active |
 | `lolipop.jp` | [policy](https://pepabo.com/contact/vulnerability-reporting/) | monetary | yes | active |
 | `michelin.co.jp` | — | — | — | active |

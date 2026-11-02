@@ -1,6 +1,6 @@
 # Platform-hosted programs — NL
 
-36 programs.
+37 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -11,6 +11,7 @@
 | `autoscout24.nl` | [policy](https://app.intigriti.com/programs/autoscout/autoscout24-vdp/detail) | monetary | — | expired |
 | `autoweek.nl` | — | monetary | — | active |
 | `bd.nl` | — | monetary | — | active |
+| `bmw.nl` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
 | `bndestem.nl` | — | monetary | — | active |
 | `deondernemer.nl` | — | monetary | — | active |
 | `destentor.nl` | — | monetary | — | active |

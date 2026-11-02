@@ -1,6 +1,6 @@
 # Self-hosted programs — PL
 
-188 programs.
+189 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -144,6 +144,7 @@
 | `rankomat.pl` | — | — | — | active |
 | `ratujemyzwierzaki.pl` | — | — | — | active |
 | `regiodom.pl` | — | — | — | expired |
+| `renault.pl` | [policy](https://www.renaultgroup.com/en/vulnerability-disclosure-policy/) | — | — | active |
 | `ringieraxelspringer.pl` | — | — | — | active |
 | `rmf24.pl` | [policy](https://www.rmf.fm/security-policy.txt) | — | — | active |
 | `rmfclassic.pl` | [policy](https://www.rmf.fm/security-policy.txt) | — | — | active |

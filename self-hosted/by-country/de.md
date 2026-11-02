@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-487 programs.
+488 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@
 | `computerbase.de` | — | — | — | active |
 | `ct.de` | [policy](https://heise.de/-7513540) | monetary | — | active |
 | `cure53.de` | — | recognition | — | active |
-| `daad.de` | — | — | — | retired |
+| `daad.de` | — | — | — | active |
 | `darmstadt.de` | — | — | — | active |
 | `dasauge.de` | — | — | — | retired |
 | `dasding.de` | — | — | — | active |
@@ -133,7 +133,7 @@
 | `ekomi.de` | — | — | — | active |
 | `elektronikpraxis.de` | — | — | — | expired |
 | `eon.de` | — | — | — | active |
-| `erasmusplus.de` | — | — | — | retired |
+| `erasmusplus.de` | — | — | — | active |
 | `esslingen.de` | — | — | — | active |
 | `eventim-inhouse.de` | — | — | — | active |
 | `eventim.de` | — | — | — | active |
@@ -196,6 +196,7 @@
 | `hannover-airport.de` | — | — | — | active |
 | `hansemerkur.de` | — | — | — | active |
 | `haz.de` | — | — | — | active |
+| `hboeck.de` | — | — | — | expired |
 | `heidelberg.de` | — | — | — | active |
 | `heilbronn.de` | — | — | — | active |
 | `heise.de` | [policy](https://heise.de/-7513540) | monetary | — | active |
@@ -385,7 +386,7 @@
 | `stadtlindau.de` | — | — | — | active |
 | `statistikportal.de` | — | — | — | active |
 | `strato.de` | [policy](https://www.strato.de/it-security) | monetary | — | active |
-| `study-in-germany.de` | — | — | — | retired |
+| `study-in-germany.de` | — | — | — | active |
 | `stuttgart.de` | — | — | — | active |
 | `stylight.de` | — | recognition | — | active |
 | `suse.de` | — | — | — | expired |
@@ -487,7 +488,7 @@
 | `wuerzburg.de` | — | — | — | active |
 | `wuppertal.de` | [policy](https://digital.wuppertal.de/medien_digitalisierung/10_ISMS_Stadt_Wuppertal_Richtlinie_zur_Offenlegung_von_Sicherheitsluecken_V2.0.pdf) | monetary | — | active |
 | `xing.de` | [policy](https://www.new-work.se/.well-known/rfc-2350.txt) | — | — | expired |
-| `zdf.de` | — | — | — | active |
+| `zdf.de` | — | — | — | expired |
 | `zdfheute.de` | — | — | — | active |
 | `zdh.de` | — | — | — | active |
 | `zentrale.de` | — | — | — | retired |

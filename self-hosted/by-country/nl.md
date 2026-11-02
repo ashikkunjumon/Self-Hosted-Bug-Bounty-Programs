@@ -357,7 +357,7 @@
 | `spar.nl` | — | — | — | expired |
 | `sron.nl` | — | — | — | active |
 | `staatsbosbeheer.nl` | — | — | — | active |
-| `staff.universiteitleiden.nl` | [policy](https://www.staff.universiteitleiden.nl/binaries/content/assets/ul2staff/ict/responsible-disclosure-eng.pdf) | monetary | — | active |
+| `staff.universiteitleiden.nl` | [policy](https://www.staff.universiteitleiden.nl/binaries/content/assets/ul2staff/ict/responsible-disclosure-eng.pdf) | monetary | — | expired |
 | `stagemarkt.nl` | [policy](https://www.s-bb.nl/contact/responsible-disclosure-policy/) | monetary | — | retired |
 | `stimuleringsfonds.nl` | — | — | — | active |
 | `studiekeuze123.nl` | — | — | — | expired |
@@ -379,7 +379,7 @@
 | `umcutrecht.nl` | [policy](https://z-cert.nl/cvd-melden/) | recognition | — | active |
 | `unesco.nl` | — | — | — | active |
 | `unive.nl` | [policy](https://www.unive.nl/kwetsbaarheid-melden) | — | yes | active |
-| `universiteitleiden.nl` | [policy](https://www.staff.universiteitleiden.nl/binaries/content/assets/ul2staff/ict/responsible-disclosure-eng.pdf) | monetary | — | active |
+| `universiteitleiden.nl` | [policy](https://www.staff.universiteitleiden.nl/binaries/content/assets/ul2staff/ict/responsible-disclosure-eng.pdf) | monetary | — | expired |
 | `utwente.nl` | [policy](https://www.utwente.nl/en/cyber-safety/responsible/) | monetary | — | active |
 | `uu.nl` | [policy](https://www.uu.nl/en/node/1599/responsible-disclosure) | recognition | — | active |
 | `uva.nl` | — | monetary | — | expired |

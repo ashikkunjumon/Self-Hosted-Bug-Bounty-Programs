@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-261 programs.
+264 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -13,12 +13,14 @@
 | `aarschot.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `aboutyou.be` | — | monetary | — | active |
 | `advocaat-zedenfeiten.be` | — | — | — | active |
+| `amay.be` | — | — | — | active |
 | `antp.be` | — | recognition | — | active |
 | `antwerpsymphonyorchestra.be` | — | — | — | active |
 | `aqualo.be` | — | — | — | active |
 | `arlon.be` | — | — | — | active |
 | `aspeditions.be` | — | — | — | expired |
 | `ath.be` | — | — | — | active |
+| `baarle-hertog.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `backmarket.be` | — | — | — | active |
 | `baloise.be` | [policy](https://www.baloise.be/Security/vulnerability-disclose-policy.html) | recognition | — | active |
 | `bastogne.be` | — | — | — | active |
@@ -130,7 +132,7 @@
 | `kringwinkel.be` | — | — | — | expired |
 | `lanaken.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `lcp.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
-| `lecot.be` | [policy](https://magento.com/security) | monetary | — | expired |
+| `lecot.be` | [policy](https://magento.com/security) | monetary | — | retired |
 | `legrand.be` | [policy](https://www.legrand.com/cybersecurity/en/cvd-policy) | — | — | active |
 | `liantis.be` | [policy](https://www.liantis.be/disclosure) | — | — | expired |
 | `lidl-shop.be` | — | — | — | active |
@@ -195,6 +197,7 @@
 | `rtbf.be` | [policy](https://security.rtbf.be/cvdp.txt) | — | — | active |
 | `samsonite.be` | — | — | — | active |
 | `secudoc.be` | [policy](https://www.secudoc.nl/security-policy-for-secudoc) | recognition | — | active |
+| `sint-laureins.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `sint-truiden.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `siteffect.be` | — | — | — | active |
 | `slotenexpert.be` | — | — | — | active |

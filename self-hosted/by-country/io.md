@@ -39,7 +39,7 @@
 | `isomate.io` | [policy](https://isomate.io/en/security-hall-of-fame-2/) | monetary | yes | retired |
 | `kpa.io` | [policy](https://hs.kpa.io/responsible-disclosure-policy) | monetary | yes | retired |
 | `leantime.io` | [policy](https://leantime.io/responsible-disclosure-policy/) | — | — | retired |
-| `ledgerguard.io` | [policy](https://ledgerguard.io/security) | — | — | retired |
+| `ledgerguard.io` | [policy](https://ledgerguard.io/security/responsible-disclosure) | recognition | — | active |
 | `mlaify.io` | [policy](https://mlaify.io/security/) | — | yes | active |
 | `multihub.io` | [policy](https://www.multihub.io/security) | monetary | — | retired |
 | `mydukaan.io` | [policy](https://mydukaan.io/bugbounty/) | monetary | — | retired |
