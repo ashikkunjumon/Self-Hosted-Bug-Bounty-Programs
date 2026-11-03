@@ -1,6 +1,6 @@
 # Self-hosted programs — DK
 
-158 programs.
+159 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -33,6 +33,7 @@
 | `danskespil.dk` | — | — | — | active |
 | `dba.dk` | [policy](https://vend.com/responsible-disclosure-policy.txt) | swag | yes | active |
 | `dbrs.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
+| `denstoredanske.lex.dk` | — | — | — | expired |
 | `dinero.dk` | [policy](https://www.visma.com/trust-centre/responsible-disclosure) | swag | yes | active |
 | `djurslandsbank.dk` | — | — | — | active |
 | `dk-hostmaster.dk` | — | — | — | active |

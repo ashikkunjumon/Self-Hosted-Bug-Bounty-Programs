@@ -220,7 +220,7 @@
 | `taaltelefoon.be` | — | — | — | active |
 | `tervuren.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `thomasmore.be` | [policy](https://security.thomasmore.be) | — | yes | active |
-| `ticketswap.be` | [policy](https://www.ticketswap.com/content/responsible-disclosure) | — | — | expired |
+| `ticketswap.be` | [policy](https://www.ticketswap.com/content/responsible-disclosure) | — | — | active |
 | `toerismeieper.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `tongeren-borgloon.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `totalenergies.be` | [policy](https://totalenergies.com/cert) | — | — | active |

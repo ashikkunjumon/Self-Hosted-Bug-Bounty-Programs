@@ -1,6 +1,6 @@
 # Self-hosted programs — UA
 
-54 programs.
+55 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -43,6 +43,7 @@
 | `okko.ua` | — | — | — | expired |
 | `pethouse.ua` | [policy](https://pethouse.ua/ua/security-policy/) | monetary | yes | active |
 | `podushka.com.ua` | — | — | — | active |
+| `pulse.gov.ua` | — | — | — | active |
 | `redo.ua` | — | — | — | active |
 | `renault.ua` | [policy](https://www.renaultgroup.com/en/vulnerability-disclosure-policy/) | — | — | active |
 | `sendpulse.ua` | — | — | — | active |

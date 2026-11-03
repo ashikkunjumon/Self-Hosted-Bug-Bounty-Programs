@@ -1,10 +1,11 @@
 # Self-hosted programs — RO
 
-61 programs.
+62 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `aboutyou.ro` | — | monetary | — | active |
+| `aeroportcraiova.ro` | — | recognition | — | active |
 | `alistmagazine.ro` | — | — | — | active |
 | `antena3.ro` | — | recognition | — | active |
 | `antipa.ro` | — | — | — | active |

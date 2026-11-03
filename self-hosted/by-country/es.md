@@ -1,10 +1,11 @@
 # Self-hosted programs — ES
 
-104 programs.
+105 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `1and1.es` | [policy](https://www.ionos.com/it-security) | — | — | active |
+| `2kgam.es` | — | — | — | active |
 | `99designs.es` | — | — | — | active |
 | `active24.es` | [policy](https://faq.active24.com/cz/933388-Hl%C3%A1%C5%A1en%C3%AD-bezpe%C4%8Dnostn%C3%ADch-zranitelnost%C3%AD) | — | — | active |
 | `adeje.es` | — | — | — | active |

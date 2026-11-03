@@ -1,6 +1,6 @@
 # Platform-hosted programs — FI
 
-10 programs.
+11 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -13,4 +13,5 @@
 | `s-pankki.fi` | — | — | — | active |
 | `toyota.fi` | — | monetary | — | expired |
 | `webnode.fi` | [policy](https://www.webnode.com/.well-known/security-policy.html) | — | yes | active |
+| `yearn.fi` | [policy](https://github.com/yearn/yearn-security/blob/master/SECURITY.md) | monetary | — | active |
 | `yelp.fi` | [policy](https://hackerone.com/yelp?view_policy=true) | — | — | active |

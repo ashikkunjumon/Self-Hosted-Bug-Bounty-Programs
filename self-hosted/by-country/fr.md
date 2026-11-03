@@ -15,7 +15,7 @@
 | `albi.fr` | — | recognition | — | active |
 | `aliceadsl.fr` | — | — | — | active |
 | `alternativesante.fr` | — | — | — | active |
-| `ancestry.fr` | [policy](https://www.ancestry.com/c/legal/security) | — | — | retired |
+| `ancestry.fr` | [policy](https://www.ancestry.com/c/legal/security) | — | — | active |
 | `annuaire-mairie.fr` | — | — | — | active |
 | `anpe.fr` | — | recognition | — | active |
 | `aphp.fr` | [policy](https://aphp.fr/security-policy) | — | — | expired |

@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-408 programs.
+409 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -187,6 +187,7 @@
 | `ksbl.ch` | — | — | — | active |
 | `ksgr.ch` | — | — | — | active |
 | `ksw.ch` | — | — | — | active |
+| `kuesnacht.ch` | — | — | — | active |
 | `kuoni.ch` | — | — | — | active |
 | `lacote.ch` | — | — | — | active |
 | `lakelucerne.ch` | — | — | — | active |

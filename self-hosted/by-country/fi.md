@@ -1,6 +1,6 @@
 # Self-hosted programs — FI
 
-130 programs.
+131 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -27,6 +27,7 @@
 | `elisa.fi` | — | — | — | active |
 | `epassi.fi` | — | — | — | active |
 | `etlehti.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | active |
+| `euromaster.fi` | — | recognition | — | active |
 | `expedia.fi` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `fennia.fi` | — | — | — | active |
 | `finavia.fi` | — | — | — | active |

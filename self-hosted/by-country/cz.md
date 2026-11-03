@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-366 programs.
+369 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -217,6 +217,7 @@
 | `mydreams.cz` | — | — | — | active |
 | `najbrt.cz` | — | — | — | expired |
 | `najdireality.cz` | — | — | — | active |
+| `nakliceno.cz` | — | — | — | active |
 | `nakluky.cz` | — | — | — | active |
 | `nanospace.cz` | — | — | — | active |
 | `navolnenoze.cz` | [policy](https://navolnenoze.cz/o-nas/soukromi/) | — | — | active |
@@ -285,6 +286,7 @@
 | `rozhlas.cz` | — | — | — | active |
 | `rsts.cz` | — | — | — | active |
 | `sauto.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
+| `sazka-recenze.cz` | — | — | — | active |
 | `sazka.cz` | [policy](https://www.allwyn.cz/.well-known/responsible_disclosure_policy.pdf) | monetary | — | active |
 | `sbazar.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `sblog.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
@@ -347,6 +349,7 @@
 | `vse.cz` | — | — | — | expired |
 | `vspj.cz` | — | — | — | active |
 | `vsup.cz` | — | — | — | active |
+| `vyplnto.cz` | — | — | — | active |
 | `warhorsestudios.cz` | — | — | — | active |
 | `web4u.cz` | — | — | — | active |
 | `webareal.cz` | — | — | — | active |

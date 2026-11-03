@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-488 programs.
+490 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -378,6 +378,7 @@
 | `sparkasse.de` | [policy](https://www.s-communication.de/BugBounty.html) | monetary | — | active |
 | `spdfraktion.de` | — | — | — | retired |
 | `speyer.de` | — | — | — | active |
+| `sportbuzzer.de` | — | — | — | active |
 | `sportschau.de` | [policy](https://www.sportschau.de/vulnerability-disclosure-policy) | monetary | yes | active |
 | `spreadshirt.de` | — | — | — | retired |
 | `spritmonitor.de` | — | — | — | expired |
@@ -449,6 +450,7 @@
 | `uni-stuttgart.de` | — | — | — | active |
 | `uni-ulm.de` | — | — | — | active |
 | `uni-vechta.de` | — | — | — | active |
+| `uni-weimar.de` | — | — | — | active |
 | `uni-wuppertal.de` | — | recognition | — | active |
 | `unibw.de` | — | — | — | active |
 | `united-domains.de` | — | — | — | active |
@@ -488,7 +490,7 @@
 | `wuerzburg.de` | — | — | — | active |
 | `wuppertal.de` | [policy](https://digital.wuppertal.de/medien_digitalisierung/10_ISMS_Stadt_Wuppertal_Richtlinie_zur_Offenlegung_von_Sicherheitsluecken_V2.0.pdf) | monetary | — | active |
 | `xing.de` | [policy](https://www.new-work.se/.well-known/rfc-2350.txt) | — | — | expired |
-| `zdf.de` | — | — | — | expired |
+| `zdf.de` | — | — | — | active |
 | `zdfheute.de` | — | — | — | active |
 | `zdh.de` | — | — | — | active |
 | `zentrale.de` | — | — | — | retired |

@@ -1,6 +1,6 @@
 # Self-hosted programs — NL
 
-426 programs.
+430 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -160,6 +160,7 @@
 | `hetcak.nl` | [policy](https://www.hetcak.nl/kwetsbare-plek-ontdekt/) | — | yes | active |
 | `hetnatuurhistorisch.nl` | — | — | — | active |
 | `hetutrechtsarchief.nl` | — | — | — | active |
+| `hilversum.nl` | [policy](https://www.informatiebeveiligingsdienst.nl/responsible-disclosure/) | recognition | — | active |
 | `historischnieuwsblad.nl` | — | — | — | active |
 | `hollandandbarrett.nl` | [policy](https://vdp.hollandandbarrett.com/) | — | — | active |
 | `hornbach.nl` | — | — | — | active |
@@ -257,6 +258,7 @@
 | `netherlandsandyou.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `netherlandsworldwide.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `nhnieuws.nl` | [policy](https://nhnieuws.nl/responsible-disclosure) | — | — | active |
+| `nierstichting.nl` | — | — | — | active |
 | `nijmegen.nl` | [policy](https://www.nijmegen.nl/diensten/privacy/beveiligings-of-datalek-melden/) | recognition | yes | active |
 | `nipv.nl` | [policy](https://nipv.nl/kwetsbaarheidmelden/) | — | yes | active |
 | `nivel.nl` | [policy](https://www.nivel.nl/responsible-disclosure-policy) | — | yes | expired |
@@ -273,6 +275,7 @@
 | `nos.nl` | [policy](https://over.nos.nl/wp-content/uploads/2026/06/260615_NOS-Responsible-disclosure-beleid_NE_EN.pdf) | monetary | — | active |
 | `notaris.nl` | [policy](https://www.notaris.nl/page/beveiliging-niet-in-orde-meld-het-ons) | recognition | yes | active |
 | `npo.nl` | — | recognition | — | active |
+| `nporadio1.nl` | — | recognition | — | active |
 | `nporadio5.nl` | — | recognition | — | active |
 | `ns.nl` | [policy](https://ocp.ns.nl/caas/v1/media/stable/24134/data/statement-responsible-disclosure-engels.pdf) | monetary | — | active |
 | `ntvg.nl` | [policy](https://www.ntvg.nl/disclaimer) | — | yes | expired |
@@ -375,6 +378,7 @@
 | `triodos.nl` | — | — | — | active |
 | `tudelft.nl` | [policy](https://www.tudelft.nl/responsible-disclosure-van-kwetsbaarheden) | monetary | yes | active |
 | `tue.nl` | [policy](https://assets.w3.tue.nl/w/fileadmin/content/universiteit/diensten/IMS/RFC2350_1.10.pdf) | monetary | — | active |
+| `tvblik.nl` | — | monetary | — | active |
 | `tweedekamer.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `umcutrecht.nl` | [policy](https://z-cert.nl/cvd-melden/) | recognition | — | active |
 | `unesco.nl` | — | — | — | active |

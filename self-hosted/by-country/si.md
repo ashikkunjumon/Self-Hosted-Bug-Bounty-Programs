@@ -1,6 +1,6 @@
 # Self-hosted programs — SI
 
-17 programs.
+18 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -18,6 +18,7 @@
 | `loterija.si` | — | — | — | active |
 | `metropolitan.si` | — | — | — | active |
 | `notino.si` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
+| `podjetniskisklad.si` | — | — | — | active |
 | `register.si` | [policy](https://www.register.si/en/responsible-disclosure-policy/) | monetary | — | active |
 | `tax-fin-lex.si` | [policy](https://www.tax-fin-lex.si/Home/Vsebina?id=PogojUporabe) | — | — | active |
 | `varninainternetu.si` | — | — | — | expired |

@@ -1,6 +1,6 @@
 # Self-hosted programs — IO
 
-64 programs.
+63 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -28,7 +28,6 @@
 | `flanks.io` | [policy](https://www.flanks.io/responsible-disclosure) | — | — | active |
 | `gitpod.io` | [policy](https://ona.com/docs/ona/security/report) | — | yes | retired |
 | `hackhq.io` | [policy](https://hackhq.io/security) | — | yes | active |
-| `hadrian.io` | [policy](https://hadrian.io/vulnerability-disclosure-policy) | monetary | — | active |
 | `honeycomb.io` | [policy](https://docs.honeycomb.io/security-compliance/bug-bounty-program) | monetary | — | retired |
 | `hrpartner.io` | [policy](https://www.hrpartner.io/security.html) | — | — | retired |
 | `hybridclaw.io` | [policy](https://hybridclaw.io/security) | recognition | yes | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — BR
 
-100 programs.
+101 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -43,6 +43,7 @@
 | `governoeletronico.gov.br` | — | — | — | active |
 | `granado.com.br` | — | — | — | active |
 | `grancursosonline.com.br` | — | — | — | active |
+| `guiadopc.com.br` | — | — | — | active |
 | `hallbook.com.br` | [policy](https://hallbook.com.br/static/terms) | — | — | active |
 | `hubsoft.com.br` | [policy](https://hubsoft.io/politica-de-privacidade/) | — | — | active |
 | `idinheiro.com.br` | [policy](https://www.idinheiro.com.br/politica-de-privacidade/) | — | — | active |

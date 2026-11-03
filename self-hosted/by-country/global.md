@@ -1,6 +1,6 @@
 # Self-hosted programs — GLOBAL
 
-3,233 programs.
+3,238 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -575,6 +575,7 @@
 | `courierpress.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
 | `covestro.com` | [policy](https://www.covestro.com/vulnerability-disclosure) | — | — | active |
 | `coviqo.com` | [policy](https://coviqo.com/security) | swag | yes | active |
+| `covivio.eu` | — | — | — | active |
 | `cox.com` | [policy](https://www.cox.com/aboutus/policies/cox-security-responsible-disclosure-policy.html) | — | — | expired |
 | `coxautoinc.com` | [policy](https://www.coxautoinc.com/responsible-disclosure) | — | — | active |
 | `cpsc.gov` | [policy](https://www.cpsc.gov/vulnerability-disclosure-policy) | — | — | expired |
@@ -810,7 +811,7 @@
 | `eipa.eu` | — | — | — | active |
 | `ejfoundation.org` | [policy](https://ejfoundation.org/security-policy) | recognition | — | active |
 | `ekonty.com` | — | — | — | active |
-| `eksisozluk.com` | — | — | — | retired |
+| `eksisozluk.com` | — | — | — | active |
 | `electroneek.com` | [policy](https://electroneek.com/security/) | — | — | active |
 | `electronicintifada.net` | — | — | — | expired |
 | `element.io` | [policy](https://element.io/security/security-disclosure-policy/) | recognition | — | expired |
@@ -1017,7 +1018,7 @@
 | `foxitsoftware.com` | — | — | — | active |
 | `fr.wikipedia.org` | [policy](https://www.mediawiki.org/wiki/Reporting_security_bugs) | recognition | — | active |
 | `framagit.org` | — | — | — | active |
-| `framer.com` | — | — | — | expired |
+| `framer.com` | — | — | — | active |
 | `francevelotourisme.com` | — | — | — | active |
 | `francismedical.com` | [policy](https://www.francismedical.com/product-security/) | — | yes | retired |
 | `franconnect.com` | [policy](https://www.franconnect.com/en/franconnect-policies/vulnerability-disclosure-policy/) | monetary | — | retired |
@@ -1028,7 +1029,7 @@
 | `frappe.io` | [policy](https://frappe.io/security) | — | — | active |
 | `fraserinstitute.org` | — | — | — | active |
 | `free.law` | [policy](https://wiki.free.law/c/terms/free-law-project-vulnerability-disclosure-policy-and-bounty-program) | monetary | yes | retired |
-| `freeagent.com` | [policy](https://www.freeagent.com/features/disclosure/) | — | — | active |
+| `freeagent.com` | [policy](https://www.freeagent.com/features/disclosure/) | monetary | — | active |
 | `freebsd.org` | [policy](https://www.freebsd.org/security/reporting/) | — | — | retired |
 | `freecodecamp.com` | [policy](https://contribute.freecodecamp.org/security) | recognition | — | active |
 | `freecodecamp.org` | [policy](https://contribute.freecodecamp.org/security) | recognition | — | active |
@@ -1058,6 +1059,7 @@
 | `futurae.com` | [policy](https://www.futurae.com/vulnerability-disclosure) | monetary | — | active |
 | `fylt.app` | [policy](https://fylt.app/data-security) | monetary | — | retired |
 | `fyxer.com` | [policy](https://www.fyxer.com/vulnerability-disclosure-policy) | monetary | yes | retired |
+| `gab.com` | — | — | — | expired |
 | `gadgethacks.com` | — | — | — | active |
 | `gainesville.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
 | `galaxy.com` | — | — | — | expired |
@@ -1209,6 +1211,7 @@
 | `guilfordjournals.com` | — | — | — | active |
 | `gymmaster.com` | [policy](https://www.gymmaster.com/vulnerability-disclosure/) | monetary | yes | retired |
 | `hackaday.io` | — | — | — | active |
+| `hadrian.io` | [policy](https://hadrian.io/vulnerability-disclosure-policy) | monetary | — | active |
 | `hallo.eu` | [policy](https://hallo.eu/privacy-policy/) | — | — | expired |
 | `halodoc.com` | [policy](https://halodoc.com/security) | — | — | retired |
 | `hamiltonwatch.com` | — | — | — | active |
@@ -1432,6 +1435,7 @@
 | `iter.org` | [policy](https://www.iter.org/vulnerability-report) | — | — | expired |
 | `iterable.com` | [policy](https://iterable.com/legal/responsible-disclosure-policy/) | — | — | retired |
 | `itslearning.com` | [policy](https://itslearning.com/privacy-commitment/responsible-disclosure/) | recognition | — | active |
+| `iucnredlist.org` | — | — | — | active |
 | `ivanti.com` | [policy](https://www.ivanti.com/support/contact-security) | monetary | yes | active |
 | `ivdnt.org` | — | — | — | active |
 | `iverify.io` | [policy](https://iverify.com/privacy-policy) | monetary | — | active |
@@ -1684,7 +1688,7 @@
 | `mamentis.com` | [policy](https://mamentis.com/security.html) | — | yes | active |
 | `mamp.info` | — | — | — | expired |
 | `manageengine.com` | [policy](https://bugbounty.zohocorp.com/bb/info) | monetary | — | active |
-| `mangadex.org` | [policy](https://mangadex.org/security.txt) | recognition | — | active |
+| `mangadex.org` | [policy](https://mangadex.org/security.txt) | recognition | — | retired |
 | `manh.com` | — | — | — | expired |
 | `manhattan.institute` | [policy](https://manhattan.institute/bug-bounty-program) | — | yes | retired |
 | `mann-filter.com` | — | — | — | active |
@@ -1716,7 +1720,7 @@
 | `medindia.net` | [policy](https://www.medindia.net/includes/medindiaprivacy.asp) | monetary | — | active |
 | `medsystum.com` | [policy](https://www.medsystum.com/security) | monetary | — | retired |
 | `megogo.net` | — | — | — | active |
-| `meilisearch.com` | [policy](https://trust.meilisearch.com/) | monetary | — | active |
+| `meilisearch.com` | [policy](https://trust.meilisearch.com/) | — | — | active |
 | `meilynx.com` | [policy](https://www.meilynx.com/security) | monetary | yes | active |
 | `meistertask.com` | [policy](https://vdp.meisterlabs.com/p/vulnerability-disclosure-policy) | — | — | active |
 | `meltwater.com` | — | — | — | active |
@@ -1876,6 +1880,7 @@
 | `netgate.com` | [policy](https://www.netgate.com/security/index.html) | — | — | active |
 | `netgear.com` | [policy](https://www.netgear.com/about/security/) | — | — | active |
 | `netguru.com` | [policy](https://www.netguru.com/report-a-vulnerability) | monetary | — | active |
+| `netmeister.org` | — | monetary | — | active |
 | `netscout.com` | [policy](https://www.netscout.com/data-privacy-and-trust-center) | — | — | active |
 | `netskope.com` | [policy](https://www.netskope.com/vulnerability-disclosure-policy) | monetary | — | active |
 | `netspotapp.com` | [policy](https://www.netspotapp.com/help/vdp/) | recognition | yes | active |
@@ -2059,7 +2064,6 @@
 | `otrs.com` | [policy](https://otrs.com/vulnerability-disclosure-policy/) | — | — | active |
 | `ottobock.com` | [policy](https://corporate.ottobock.com/en/contact-us) | — | — | active |
 | `oursportscentral.com` | — | — | — | retired |
-| `outbrain.com` | [policy](https://www.outbrain.com/security/bug-bounty/) | monetary | yes | active |
 | `outdoorproject.com` | [policy](https://www.onxmaps.com/security-policy) | — | — | expired |
 | `outsports.com` | — | — | — | active |
 | `outsystems.com` | [policy](https://success.outsystems.com/Support/Security/Vulnerabilities) | — | — | expired |
@@ -2557,6 +2561,7 @@
 | `silktide.com` | — | — | — | active |
 | `silvergoldbull.com` | [policy](https://silvergoldbull.com/bug-bounty) | monetary | — | active |
 | `simbase.com` | [policy](https://simbase.com/security) | monetary | — | retired |
+| `simple-help.com` | [policy](https://simple-help.com/simplehelp-vulnerability-disclosure-policy) | — | — | active |
 | `simplerisk.com` | [policy](https://www.simplerisk.com/responsible-disclosure-policy) | — | — | retired |
 | `simply.com` | — | — | — | active |
 | `simplybusiness.com` | [policy](https://www.simplybusiness.com/responsible-disclosure/) | — | — | expired |
@@ -2754,7 +2759,7 @@
 | `teacherspayteachers.com` | — | — | — | active |
 | `tealium.com` | [policy](https://tealium.com/vdp/) | monetary | yes | retired |
 | `tealyra.com` | [policy](https://www.tealyra.com/.well-known/policy.txt) | — | yes | active |
-| `teamup.com` | [policy](https://www.teamup.com/bug-bounty/) | monetary | — | expired |
+| `teamup.com` | [policy](https://www.teamup.com/bug-bounty/) | monetary | — | active |
 | `teamwork.com` | [policy](https://www.teamwork.com/security/) | — | — | active |
 | `techsmith.com` | [policy](https://www.techsmith.com/trust-center/report-security-vulnerabilities/) | — | — | active |
 | `techstars.com` | — | — | — | active |
@@ -2828,7 +2833,7 @@
 | `tib.eu` | — | — | — | active |
 | `tibco.com` | [policy](https://www.tibco.com/security/vulnerability-disclosure-policy) | — | — | retired |
 | `ticketmatic.com` | — | — | — | active |
-| `ticketswap.com` | [policy](https://www.ticketswap.com/content/responsible-disclosure) | — | — | expired |
+| `ticketswap.com` | [policy](https://www.ticketswap.com/content/responsible-disclosure) | — | — | active |
 | `tickettailor.com` | [policy](https://drive.google.com/file/d/1lt_cdi1xVoRBXVvY6T470n8T5RJbCyo8/view) | monetary | — | active |
 | `tickin.pro` | [policy](https://tickin.pro/security/disclosure) | — | yes | active |
 | `tidal.com` | — | — | — | active |
