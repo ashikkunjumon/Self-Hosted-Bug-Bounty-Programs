@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-631 programs.
+633 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -16,6 +16,7 @@
 | `add.my.yahoo.com` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | active |
 | `addigy.com` | [policy](https://addigy.com/responsible-disclosure/) | — | yes | retired |
 | `additudemag.com` | — | — | — | active |
+| `addons.opera.com` | [policy](https://security.opera.com/policy/) | monetary | — | active |
 | `adobe.com` | [policy](https://helpx.adobe.com/security.html/security/policy.ug.html) | monetary | — | active |
 | `affirm.com` | — | — | — | expired |
 | `afr.com` | [policy](https://bugcrowd.com/nine-entertainment-vdp-pro) | — | — | active |
@@ -93,6 +94,7 @@
 | `bugcrowd.com` | [policy](https://bugcrowd.com/bugcrowd) | monetary | — | active |
 | `bumble.com` | [policy](https://hackerone.com/bumble?view_policy) | — | — | active |
 | `byrdie.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
+| `cal.com` | [policy](https://cal.com/security) | — | — | active |
 | `campaignmonitor.com` | [policy](https://www.campaignmonitor.com/policies/) | monetary | yes | expired |
 | `canva.com` | [policy](https://canva.com/security/vulnerability-disclosure) | monetary | — | active |
 | `capital.com` | [policy](https://app.intigriti.com/programs/capitalcom/capitalcom/detail) | monetary | — | active |
@@ -246,6 +248,7 @@
 | `hardware.info` | [policy](https://tweakers.net/info/responsible-disclosure/) | monetary | — | active |
 | `harristeeter.com` | — | — | — | active |
 | `health.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
+| `help.smartling.com` | [policy](https://www.bugcrowd.com/resource/standard-disclosure-terms/) | monetary | — | active |
 | `henkel-adhesives.com` | — | — | — | active |
 | `heroku.com` | [policy](https://www.heroku.com/policy/security-hall-of-fame/) | recognition | — | retired |
 | `hexagon.com` | [policy](https://hexagon.com/legal/vulnerability) | — | yes | retired |
@@ -392,7 +395,7 @@
 | `okta.com` | [policy](https://www.okta.com/vulnerability-reporting-policy/) | — | — | active |
 | `omarchy.org` | [policy](https://omarchy.org/security) | swag | — | active |
 | `ondeck.com` | [policy](https://www.ondeck.com/security-policy) | monetary | — | retired |
-| `oohcams.com` | [policy](https://hackerone.com/chaturbate?type=team&view_policy=true) | — | — | active |
+| `oohcams.com` | [policy](https://hackerone.com/chaturbate?type=team&view_policy=true) | — | — | retired |
 | `ookla.com` | [policy](https://security.ookla.com) | — | — | active |
 | `openai.com` | [policy](https://openai.com/policies/coordinated-vulnerability-disclosure-policy) | recognition | — | active |
 | `opensea.io` | [policy](https://bugcrowd.com/opensea) | monetary | — | active |
@@ -443,7 +446,6 @@
 | `rcuniverse.com` | — | — | — | active |
 | `rea-group.com` | [policy](https://www.rea-group.com/security) | recognition | — | active |
 | `realpage.com` | [policy](https://www.realpage.com/support/security/responsible-disclosure/) | monetary | — | retired |
-| `realself.com` | [policy](https://www.realself.com/security/) | — | — | active |
 | `realsimple.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `recordedfuture.com` | — | — | — | active |
 | `reddit.com` | [policy](https://hackerone.com/reddit?type=team) | — | — | retired |

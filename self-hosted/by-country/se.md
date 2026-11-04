@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-533 programs.
+534 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -35,6 +35,7 @@
 | `arvika.se` | — | — | — | active |
 | `arvikanyheter.se` | — | — | — | active |
 | `arvsfonden.se` | — | — | — | active |
+| `askersund.se` | — | — | — | active |
 | `astorp.se` | — | — | — | active |
 | `avanza.se` | [policy](https://www.avanza.se/sakerhet-villkor/sakerhet.html) | — | — | active |
 | `b3.se` | — | — | — | active |
@@ -187,7 +188,7 @@
 | `ica.se` | — | — | — | active |
 | `icaforsakring.se` | — | — | — | active |
 | `icagruppen.se` | — | — | — | active |
-| `imy.se` | — | — | — | active |
+| `imy.se` | — | — | — | expired |
 | `indie-ver.se` | — | — | — | active |
 | `inet.se` | — | — | — | retired |
 | `informationsverige.se` | — | — | — | active |

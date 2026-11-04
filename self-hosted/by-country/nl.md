@@ -1,6 +1,6 @@
 # Self-hosted programs — NL
 
-430 programs.
+435 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -111,10 +111,12 @@
 | `douane.nl` | [policy](https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/standaard_functies/individuals/contact/data-leak-vulnerability-abuse-computer-systems/coordinated-vulnerability-disclosure) | recognition | — | active |
 | `drentsmuseum.nl` | [policy](https://www.slash2.nl/responsible-disclosure-policy) | recognition | yes | active |
 | `duinrell.nl` | — | — | — | active |
+| `easyhosting.nl` | — | — | — | active |
 | `ede.nl` | [policy](https://ede.nl/over-de-site-en-privacyverklaring#c1009) | — | yes | active |
 | `eenvandaag.nl` | [policy](https://www.avrotros.nl/responsible-disclosure~44/) | — | yes | expired |
 | `eerstekamer.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `eindhoven.nl` | — | — | — | active |
+| `emmen.nl` | [policy](https://gemeente.emmen.nl/coordinated-vulnerability-disclosure) | recognition | — | expired |
 | `encyclo.nl` | — | — | — | active |
 | `eneco.nl` | [policy](https://www.eneco.com/responsible-disclosure/) | — | — | active |
 | `enexis.nl` | — | — | — | active |
@@ -316,6 +318,7 @@
 | `pricewise.nl` | — | — | — | active |
 | `prorail.nl` | [policy](https://www.prorail.nl/responsible-disclosure) | — | yes | active |
 | `provincie-utrecht.nl` | — | — | — | active |
+| `psv.nl` | — | — | — | active |
 | `qalmsecurity.nl` | — | — | — | active |
 | `raadvanstate.nl` | [policy](https://www.ncsc.nl/contact/kwetsbaarheid-melden) | monetary | — | active |
 | `rabobank.nl` | [policy](https://www.rabobank.com/responsible-disclosure) | — | — | active |
@@ -351,6 +354,7 @@
 | `schiphol.nl` | [policy](https://www.schiphol.nl/en/schiphol-group/responsible-disclosure-notification/) | recognition | — | active |
 | `schooltv.nl` | — | — | — | expired |
 | `scp.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
+| `sheerenloo.nl` | [policy](https://www.sheerenloo.nl/over-de-website/coordinated-vulnerability-disclosure) | recognition | — | active |
 | `sidn.nl` | [policy](https://www.sidn.nl/cybersecurity/beveiligingslek-melden) | — | — | active |
 | `sitearchief.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `slachtofferhulp.nl` | — | — | — | active |
@@ -426,6 +430,7 @@
 | `zaanstad.nl` | — | — | — | active |
 | `zeeland.nl` | [policy](https://www.zeeland.nl/responsible-disclosure) | — | yes | active |
 | `zilverenkruis.nl` | [policy](https://achmea.nl/en/responsible-disclosure) | swag | — | active |
+| `zoek.officielebekendmakingen.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `zoetermeer.nl` | [policy](https://www.zoetermeer.nl/beveiliginglek-of-datalek-melden) | monetary | — | active |
 | `zonnet.nl` | — | — | — | active |
 | `zoover.nl` | — | — | — | active |

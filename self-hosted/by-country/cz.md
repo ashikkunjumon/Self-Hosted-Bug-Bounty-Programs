@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-369 programs.
+370 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -142,6 +142,7 @@
 | `info-praha.cz` | — | — | — | expired |
 | `innogy.cz` | [policy](https://innogy.cz/nahlaseni-zranitelnosti/) | — | — | active |
 | `inpage.cz` | — | — | — | expired |
+| `ipouzdro.cz` | — | — | — | active |
 | `iprima.cz` | — | — | — | active |
 | `irop.gov.cz` | — | — | — | active |
 | `irozhlas.cz` | — | — | — | active |

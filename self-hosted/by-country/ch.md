@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-409 programs.
+410 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -345,6 +345,7 @@
 | `swisscom.ch` | [policy](https://github.com/swisscom/bugbounty) | monetary | — | active |
 | `swissolar.ch` | — | — | — | active |
 | `swisspost.ch` | [policy](https://vdp.post.ch/p/Information-Security) | — | — | active |
+| `swissshooting.ch` | — | — | — | active |
 | `swisstph.ch` | — | — | — | active |
 | `swisstxt.ch` | — | — | — | expired |
 | `swissvotes.ch` | [policy](https://www.seantis.ch/security) | recognition | yes | active |

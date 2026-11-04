@@ -5,7 +5,7 @@
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `airbnb.se` | [policy](https://hackerone.com/airbnb#overview) | — | — | active |
-| `atg.se` | [policy](https://yeswehack.com/programs/atg-public-bug-bounty-program) | monetary | — | active |
+| `atg.se` | [policy](https://yeswehack.com/programs/atg-public-bug-bounty-program) | monetary | yes | active |
 | `bmw.se` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
 | `bokio.se` | [policy](https://www.visma.com/trust-centre/security/products-and-services/bug-bounty-and-responsible-disclosure/) | swag | yes | active |
 | `curl.se` | [policy](https://curl.se/dev/vuln-disclosure.html) | — | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — LV
 
-21 programs.
+22 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -17,6 +17,7 @@
 | `cvk.lv` | [policy](https://www.cvk.lv/drosibas-politika) | — | — | active |
 | `failiem.lv` | [policy](https://files.fm/nis2-compliance) | — | — | active |
 | `kalkulatori.lv` | [policy](https://kalkulatori.lv/security-policy) | — | — | active |
+| `lnso.lv` | — | — | — | active |
 | `lvm.lv` | — | — | — | active |
 | `mammadaba.lv` | — | — | — | active |
 | `naudasskola.lv` | [policy](https://www.naudasskola.lv/par-mums/ievainojamibu-atklasanas-politika) | monetary | — | expired |
