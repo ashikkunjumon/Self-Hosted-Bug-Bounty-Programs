@@ -1,6 +1,6 @@
 # Self-hosted programs — UA
 
-55 programs.
+56 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -29,6 +29,7 @@
 | `grmu.com.ua` | — | — | — | active |
 | `id.gov.ua` | — | — | — | active |
 | `irbis-nbuv.gov.ua` | — | — | — | active |
+| `japan-cars.com.ua` | — | — | — | active |
 | `jetsetter.ua` | — | — | — | retired |
 | `kg.ua` | [policy](https://kg.ua/sc_txt/security-policy.html) | — | — | active |
 | `kontramarka.ua` | — | — | — | active |

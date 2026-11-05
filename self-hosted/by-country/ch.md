@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-410 programs.
+411 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -78,6 +78,7 @@
 | `drs.ch` | — | — | — | active |
 | `duebendorf.ch` | — | — | — | active |
 | `ebas.ch` | — | — | — | active |
+| `ebl.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/ebl-bug-bounty) | monetary | — | active |
 | `ebookers.ch` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `ecole-club.ch` | — | — | — | active |
 | `educeth.ch` | [policy](https://www.ethz.ch/content/dam/ethz/associates/services/Service/IT-Services/files/documents/eth-disclosure-policy-en.pdf) | monetary | — | active |

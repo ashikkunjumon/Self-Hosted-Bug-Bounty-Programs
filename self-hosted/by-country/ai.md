@@ -55,7 +55,7 @@
 | `nullify.ai` | [policy](https://docs.nullify.ai/more-info/security) | — | yes | retired |
 | `occludra.ai` | [policy](https://occludra.ai/security) | monetary | — | active |
 | `odin.ai` | [policy](https://0din.ai/policy) | monetary | — | active |
-| `orbitforms.ai` | [policy](https://orbitforms.ai/security) | recognition | yes | active |
+| `orbitforms.ai` | [policy](https://useorbitcrm.ai/security) | recognition | yes | active |
 | `pokee.ai` | [policy](https://pokee.ai/bug-bounty) | monetary | yes | active |
 | `portal26.ai` | [policy](https://portal26.ai/vulnerability-disclosure) | — | yes | active |
 | `praesidia.ai` | [policy](https://praesidia.ai/security/vulnerability-disclosure) | — | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — DK
 
-159 programs.
+160 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -37,6 +37,7 @@
 | `dinero.dk` | [policy](https://www.visma.com/trust-centre/responsible-disclosure) | swag | yes | active |
 | `djurslandsbank.dk` | — | — | — | active |
 | `dk-hostmaster.dk` | — | — | — | active |
+| `dk-online.dk` | — | — | — | active |
 | `dknyt.dk` | — | — | — | active |
 | `dmi.dk` | — | — | — | active |
 | `dpu.dk` | — | — | — | active |

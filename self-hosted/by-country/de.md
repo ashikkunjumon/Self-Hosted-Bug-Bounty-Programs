@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-490 programs.
+491 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -261,6 +261,7 @@
 | `lancom-systems.de` | — | — | — | active |
 | `landesrecht-bw.de` | — | — | — | active |
 | `landwirtschaft-bw.de` | — | — | — | expired |
+| `lebensmittelklarheit.de` | — | — | — | active |
 | `leipzig.de` | [policy](https://www.leipzig.de/datenschutzerklaerung) | — | — | expired |
 | `lichtblick.de` | — | — | — | active |
 | `lidl.de` | — | — | — | active |
@@ -389,8 +390,8 @@
 | `strato.de` | [policy](https://www.strato.de/it-security) | monetary | — | active |
 | `study-in-germany.de` | — | — | — | active |
 | `stuttgart.de` | — | — | — | active |
-| `stylight.de` | — | recognition | — | active |
-| `suse.de` | — | — | — | expired |
+| `stylight.de` | — | recognition | — | retired |
+| `suse.de` | — | — | — | active |
 | `swm.de` | — | — | — | active |
 | `swr.de` | — | — | — | active |
 | `swr3.de` | — | — | — | active |

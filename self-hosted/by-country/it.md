@@ -45,7 +45,7 @@
 | `gruppotim.it` | [policy](https://www.gruppotim.it/en/footer/responsible-disclosure.html) | — | — | active |
 | `icrodarisoveria.edu.it` | — | — | — | active |
 | `innovationpost.it` | — | recognition | — | active |
-| `ionos.it` | [policy](https://www.ionos.com/it-security) | — | — | active |
+| `ionos.it` | [policy](https://www.ionos.com/it-security) | — | — | expired |
 | `leroymerlin.it` | — | — | — | active |
 | `lidl.it` | — | — | — | active |
 | `liketoknow.it` | — | — | — | active |

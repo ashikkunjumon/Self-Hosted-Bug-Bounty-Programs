@@ -353,7 +353,7 @@
 | `mongodb.org` | — | recognition | — | retired |
 | `monzo.com` | [policy](https://app.intigriti.com/company/programs/monzobank/monzopublicbugbountyprogram/detail) | monetary | — | active |
 | `moonpay.com` | — | — | — | active |
-| `mortons.com` | [policy](https://hackerone.com/fertitta_entertainment/__;!!P9vvK-4S!k4OXa2Y5beJxlkD0SgPSR9q2bUGYARLffhrZlhNZRhTus-7yk61IeDxnRaufmK0V8GQVvqvI09Tr4dxWeHU$) | recognition | — | retired |
+| `mortons.com` | [policy](https://hackerone.com/fertitta_entertainment/__;!!P9vvK-4S!k4OXa2Y5beJxlkD0SgPSR9q2bUGYARLffhrZlhNZRhTus-7yk61IeDxnRaufmK0V8GQVvqvI09Tr4dxWeHU$) | recognition | — | active |
 | `motorauthority.com` | — | — | — | active |
 | `mtpelerin.com` | [policy](https://www.mtpelerin.com/responsible-disclosure-policy) | monetary | — | retired |
 | `murena.io` | [policy](https://hackerone.com/nextcloud) | — | — | active |
@@ -486,7 +486,7 @@
 | `sitejet.io` | — | — | — | active |
 | `six-group.com` | — | monetary | — | expired |
 | `sixt.com` | [policy](https://bugcrowd.com/a22b9798-491e-4d3a-87f3-a69484e02a2f/external/report) | — | — | active |
-| `skechers.com` | — | — | — | active |
+| `skechers.com` | — | — | — | expired |
 | `skillsllm.com` | [policy](https://skillsllm.com/skill/claude-bug-bounty) | monetary | — | retired |
 | `skybet.com` | [policy](https://hackerone.com/flutteruki) | — | — | active |
 | `slack.com` | [policy](https://hackerone.com/slack/) | — | — | active |

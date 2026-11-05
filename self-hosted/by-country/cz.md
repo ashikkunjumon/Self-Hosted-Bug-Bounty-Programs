@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-370 programs.
+373 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -31,6 +31,7 @@
 | `bellarose.cz` | — | — | — | active |
 | `bernard.cz` | — | — | — | active |
 | `betano-bonus-cz.cz` | — | — | — | active |
+| `betano-recenze.cz` | — | — | — | active |
 | `bezpecnyinternet.cz` | — | — | — | active |
 | `biano.cz` | — | — | — | retired |
 | `billboard.cz` | — | — | — | active |
@@ -56,6 +57,7 @@
 | `cestolino.cz` | — | — | — | active |
 | `cewe.cz` | — | — | — | active |
 | `chateaumcely.cz` | — | — | — | expired |
+| `chlorito.cz` | — | — | — | active |
 | `cistedrevo.cz` | — | — | — | active |
 | `citybee.cz` | — | — | — | active |
 | `cls.cz` | — | — | — | active |
@@ -88,7 +90,7 @@
 | `drogy-info.cz` | — | — | — | retired |
 | `dudlu.cz` | — | — | — | active |
 | `dvojklik.cz` | [policy](https://www.eset.com/int/security-vulnerability-reporting/) | — | — | active |
-| `eberry.cz` | — | — | — | active |
+| `eberry.cz` | — | — | — | retired |
 | `ecn.cz` | — | — | — | active |
 | `efotbal.cz` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `elfetex.cz` | [policy](https://magento.com/security) | monetary | — | expired |
@@ -199,6 +201,7 @@
 | `mestojablonec.cz` | — | — | — | active |
 | `mestokralupy.cz` | — | recognition | — | active |
 | `mestskadivadlaprazska.cz` | — | — | — | active |
+| `metroweb.cz` | — | — | — | active |
 | `mioweb.cz` | — | — | — | active |
 | `mironet.cz` | — | — | — | expired |
 | `mmr.cz` | — | — | — | active |

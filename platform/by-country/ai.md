@@ -4,5 +4,5 @@
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
-| `krisp.ai` | [policy](https://krisp.ai/security/) | — | — | active |
+| `krisp.ai` | [policy](https://krisp.ai/security/) | monetary | — | active |
 | `reclaim.ai` | [policy](https://reclaim.ai/responsible-disclosure) | monetary | — | active |

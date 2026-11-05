@@ -1,6 +1,6 @@
 # Self-hosted programs — IN
 
-42 programs.
+43 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -23,6 +23,7 @@
 | `huffingtonpost.in` | — | monetary | — | active |
 | `intel.in` | [policy](https://www.intel.com/content/www/us/en/security-center/vulnerability-handling-guidelines.html) | — | — | active |
 | `krmangalam.edu.in` | — | — | — | active |
+| `kushaldas.in` | — | — | — | expired |
 | `linktw.in` | — | — | — | active |
 | `livescore.in` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `lorealparis.co.in` | — | recognition | — | active |

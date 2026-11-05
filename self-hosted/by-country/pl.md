@@ -20,7 +20,7 @@
 | `bookero.pl` | [policy](https://www.bookero.pl/polityka-zglaszania-podatnosci) | — | — | active |
 | `brainly.pl` | [policy](https://brainly.com/responsible-disclosure-program) | — | — | active |
 | `bricoman.pl` | — | — | — | active |
-| `businessinsider.com.pl` | — | — | — | active |
+| `businessinsider.com.pl` | — | — | — | retired |
 | `busko.pl` | — | — | — | active |
 | `carrefour.pl` | [policy](https://carrefour.com/disclosure) | — | — | active |
 | `cdrinfo.pl` | — | — | — | active |

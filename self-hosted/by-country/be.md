@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-264 programs.
+268 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -13,6 +13,7 @@
 | `aarschot.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `aboutyou.be` | — | monetary | — | active |
 | `advocaat-zedenfeiten.be` | — | — | — | active |
+| `alken.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `amay.be` | — | — | — | active |
 | `antp.be` | — | recognition | — | active |
 | `antwerpsymphonyorchestra.be` | — | — | — | active |
@@ -47,6 +48,7 @@
 | `clickx.be` | — | — | — | active |
 | `coolblue.be` | — | monetary | — | active |
 | `corendon.be` | [policy](https://www.corendon.be/privacy-verklaring) | monetary | — | active |
+| `couvin.be` | — | — | — | active |
 | `cu.be` | [policy](https://cu.be/.well-known/security-policy.txt) | — | — | active |
 | `dailybits.be` | — | monetary | — | expired |
 | `davidsfonds.be` | — | — | — | active |
@@ -130,6 +132,7 @@
 | `kasterlee.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `kompascamping.be` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | active |
 | `kringwinkel.be` | — | — | — | expired |
+| `lahulpe.be` | — | — | — | active |
 | `lanaken.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `lcp.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `lecot.be` | [policy](https://magento.com/security) | monetary | — | retired |
@@ -184,6 +187,7 @@
 | `pluxee.be` | [policy](https://vdp.pluxee.app/p/Policy) | — | — | active |
 | `politeia.be` | — | — | — | expired |
 | `pomwvl.be` | [policy](https://www.pomwvl.be/security-policy) | recognition | — | active |
+| `poperinge.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `propertools.be` | [policy](https://propertools.be/security/) | — | yes | active |
 | `proximus.be` | — | — | — | active |
 | `proximusgoformusic.be` | — | — | — | active |

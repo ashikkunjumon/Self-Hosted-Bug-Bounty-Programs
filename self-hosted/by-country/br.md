@@ -1,6 +1,6 @@
 # Self-hosted programs — BR
 
-101 programs.
+102 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -84,6 +84,7 @@
 | `registro.br` | — | — | — | active |
 | `saboresdemarise.com.br` | — | — | — | retired |
 | `saocarlosagora.com.br` | — | — | — | active |
+| `seoservices.com.br` | — | — | — | active |
 | `servaco.com.br` | — | — | — | active |
 | `sescpr.com.br` | [policy](https://www.sescpr.com.br/politica-de-privacidade) | — | — | active |
 | `softplan.com.br` | — | — | — | active |

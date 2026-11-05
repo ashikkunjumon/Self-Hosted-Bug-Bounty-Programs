@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-534 programs.
+539 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -42,12 +42,14 @@
 | `barometern.se` | — | — | — | active |
 | `bauhaus.se` | — | — | — | active |
 | `bblat.se` | — | — | — | active |
+| `berg.se` | — | — | — | active |
 | `bergianska.se` | — | — | — | active |
 | `bettingkollen.se` | [policy](https://bettingkollen.se/security-policy) | recognition | — | active |
 | `billerud.se` | — | — | — | active |
 | `bilprovningen.se` | — | — | — | active |
 | `bio-link.se` | [policy](https://bio-link.se/page/security) | recognition | — | expired |
 | `bjurfors.se` | — | — | — | active |
+| `bjuv.se` | — | — | — | active |
 | `blocket.se` | [policy](https://vend.com/responsible-disclosure-policy.txt) | swag | yes | active |
 | `blt.se` | — | — | — | active |
 | `boden.se` | — | — | — | active |
@@ -185,6 +187,7 @@
 | `huddinge.se` | — | — | — | active |
 | `hudiksvall.se` | — | — | — | expired |
 | `humana.se` | — | — | — | active |
+| `hylte.se` | — | — | — | active |
 | `ica.se` | — | — | — | active |
 | `icaforsakring.se` | — | — | — | active |
 | `icagruppen.se` | — | — | — | active |
@@ -331,6 +334,7 @@
 | `nwt.se` | — | — | — | active |
 | `nynashamn.se` | — | — | — | active |
 | `nynashamnsposten.se` | — | — | — | active |
+| `ockero.se` | — | — | — | active |
 | `oddsbonusar.se` | [policy](https://oddsbonusar.se/security-policy) | recognition | — | active |
 | `olandsbladet.se` | — | — | — | active |
 | `op.se` | — | — | — | active |
@@ -438,6 +442,7 @@
 | `srat.se` | — | — | — | active |
 | `stenungsund.se` | — | — | — | active |
 | `stim.se` | [policy](https://stim.se/security-policy) | — | — | active |
+| `stockholmbusinessregion.se` | — | — | — | active |
 | `stodlinjen.se` | — | — | — | active |
 | `strangnas.se` | — | — | — | active |
 | `strategiska.se` | — | — | — | expired |

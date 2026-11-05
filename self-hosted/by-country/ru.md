@@ -7,7 +7,7 @@
 | `1c-bitrix.ru` | — | — | — | active |
 | `1sept.ru` | — | — | — | expired |
 | `1september.ru` | — | — | — | expired |
-| `avito.ru` | [policy](https://bugbounty.bi.zone/companies/avito/main) | monetary | — | retired |
+| `avito.ru` | [policy](https://bugbounty.bi.zone/companies/avito/main) | monetary | — | active |
 | `b17.ru` | — | recognition | — | active |
 | `baltika.ru` | — | — | — | active |
 | `beeline.ru` | — | — | — | active |

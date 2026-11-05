@@ -1,6 +1,6 @@
 # Platform-hosted programs — IN
 
-9 programs.
+10 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -13,3 +13,4 @@
 | `oberlo.in` | [policy](https://hackerone.com/shopify) | — | — | active |
 | `randstad.in` | [policy](https://www.randstad.com/report-a-security-problem/) | — | — | active |
 | `scriptjacker.in` | [policy](https://www.blogs.scriptjacker.in/sensitive-data-exposure/) | — | — | retired |
+| `yahoo.co.in` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | active |

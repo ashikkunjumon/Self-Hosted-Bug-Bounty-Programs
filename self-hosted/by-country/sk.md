@@ -1,6 +1,6 @@
 # Self-hosted programs — SK
 
-47 programs.
+48 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -31,6 +31,7 @@
 | `idsbk.sk` | — | — | — | active |
 | `ifortuna.sk` | — | monetary | — | active |
 | `lidl.sk` | — | — | — | active |
+| `linia.sk` | — | — | — | active |
 | `martinus.sk` | — | — | — | active |
 | `metro.sk` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | expired |
 | `mojadm.sk` | — | — | — | active |
