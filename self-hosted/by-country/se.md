@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-539 programs.
+540 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -21,6 +21,7 @@
 | `alltommat.se` | — | — | — | active |
 | `almhult.se` | — | — | — | active |
 | `alvdalen.se` | — | — | — | active |
+| `alvkarleby.se` | — | — | — | active |
 | `amal.se` | — | — | — | active |
 | `amelia.se` | — | — | — | active |
 | `ancestry.se` | [policy](https://www.ancestry.com/c/legal/security) | — | — | active |

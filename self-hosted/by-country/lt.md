@@ -1,6 +1,6 @@
 # Self-hosted programs — LT
 
-20 programs.
+19 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -22,5 +22,4 @@
 | `swedbank.lt` | [policy](https://www.swedbank.se/om-oss/sakerhet/report-a-security-flaw.html) | — | — | active |
 | `tele2.lt` | — | — | — | active |
 | `treatwell.lt` | — | — | — | active |
-| `vinted.lt` | — | — | — | active |
 | `yandex.lt` | [policy](https://ya.cc/t/1cSZixjB3gkSva) | monetary | — | active |

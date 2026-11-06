@@ -1,6 +1,6 @@
 # Platform-hosted programs — DE
 
-37 programs.
+38 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -36,6 +36,7 @@
 | `timeanddate.de` | [policy](https://hackerone.com/timeanddate) | monetary | — | expired |
 | `toyota.de` | — | monetary | — | expired |
 | `travelbook.de` | [policy](https://app.intigriti.com/programs/axelspringerse/nmt/detail) | monetary | — | expired |
+| `vinted.de` | — | — | — | active |
 | `vodafone.de` | [policy](https://www.vodafone.com/about-vodafone/how-we-operate/consumer-privacy-and-cyber-security/cyber-security/report-a-vulnerability) | recognition | — | active |
 | `welt.de` | [policy](https://app.intigriti.com/programs/axelspringerse/nmt/detail) | monetary | — | expired |
 | `yahoo.de` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | retired |

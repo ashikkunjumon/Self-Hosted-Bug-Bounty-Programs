@@ -1,23 +1,23 @@
 # Platform-hosted programs
 
-1,103 programs across 36 countries.
+1,114 programs across 37 countries.
 
 | Country | Programs |
 |---|---|
 | [GLOBAL](by-country/global.md) | 633 |
 | [CH](by-country/ch.md) | 69 |
-| [BE](by-country/be.md) | 47 |
-| [DE](by-country/de.md) | 37 |
-| [NL](by-country/nl.md) | 37 |
-| [FR](by-country/fr.md) | 29 |
-| [ES](by-country/es.md) | 27 |
+| [BE](by-country/be.md) | 48 |
+| [DE](by-country/de.md) | 38 |
+| [NL](by-country/nl.md) | 38 |
+| [FR](by-country/fr.md) | 30 |
+| [ES](by-country/es.md) | 28 |
 | [SE](by-country/se.md) | 18 |
 | [RO](by-country/ro.md) | 16 |
+| [IT](by-country/it.md) | 15 |
 | [BR](by-country/br.md) | 14 |
-| [IT](by-country/it.md) | 14 |
-| [PL](by-country/pl.md) | 13 |
-| [AT](by-country/at.md) | 12 |
-| [PT](by-country/pt.md) | 12 |
+| [PL](by-country/pl.md) | 14 |
+| [AT](by-country/at.md) | 13 |
+| [PT](by-country/pt.md) | 13 |
 | [FI](by-country/fi.md) | 11 |
 | [IO](by-country/io.md) | 11 |
 | [NO](by-country/no.md) | 11 |
@@ -25,8 +25,8 @@
 | [IN](by-country/in.md) | 10 |
 | [JP](by-country/jp.md) | 10 |
 | [TR](by-country/tr.md) | 8 |
+| [CZ](by-country/cz.md) | 7 |
 | [UK](by-country/uk.md) | 7 |
-| [CZ](by-country/cz.md) | 6 |
 | [KR](by-country/kr.md) | 6 |
 | [UA](by-country/ua.md) | 6 |
 | [EE](by-country/ee.md) | 5 |
@@ -39,4 +39,5 @@
 | [SK](by-country/sk.md) | 2 |
 | [EU](by-country/eu.md) | 1 |
 | [IS](by-country/is.md) | 1 |
+| [LT](by-country/lt.md) | 1 |
 | [ME](by-country/me.md) | 1 |

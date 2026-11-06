@@ -1,6 +1,6 @@
 # Platform-hosted programs — IT
 
-14 programs.
+15 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -15,6 +15,7 @@
 | `momondo.it` | [policy](https://www.kayak.com/security/) | monetary | — | active |
 | `randstad.it` | [policy](https://www.randstad.com/report-a-security-problem/) | — | — | active |
 | `toyota.it` | — | monetary | — | expired |
+| `vinted.it` | — | — | — | active |
 | `webnode.it` | [policy](https://www.webnode.com/.well-known/security-policy.html) | — | yes | active |
 | `yahoo.it` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | retired |
 | `yelp.it` | [policy](https://hackerone.com/yelp?view_policy=true) | — | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-411 programs.
+412 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -60,6 +60,7 @@
 | `chur.ch` | — | — | — | active |
 | `chuv.ch` | — | — | — | active |
 | `ckw.ch` | — | — | — | active |
+| `cloudscale.ch` | — | — | — | active |
 | `cocobaden.ch` | — | — | — | active |
 | `concordia.ch` | — | — | — | active |
 | `crans-montana.ch` | [policy](https://www.crans-montana.ch/securitypolicy) | — | yes | active |
@@ -197,7 +198,7 @@
 | `lausanne.ch` | — | — | — | active |
 | `lenouvelliste.ch` | — | — | — | active |
 | `lenzburg.ch` | — | — | — | active |
-| `lesestoff.ch` | — | — | — | expired |
+| `lesestoff.ch` | — | — | — | retired |
 | `liarumantscha.ch` | — | — | — | active |
 | `lidl.ch` | — | — | — | active |
 | `liestal.ch` | — | — | — | active |

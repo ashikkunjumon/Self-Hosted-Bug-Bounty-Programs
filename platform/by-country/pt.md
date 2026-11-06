@@ -1,6 +1,6 @@
 # Platform-hosted programs — PT
 
-12 programs.
+13 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -13,6 +13,7 @@
 | `momondo.pt` | [policy](https://www.kayak.com/security/) | monetary | — | active |
 | `randstad.pt` | [policy](https://www.randstad.com/report-a-security-problem/) | — | — | active |
 | `toyota.pt` | — | monetary | — | expired |
+| `vinted.pt` | — | — | — | active |
 | `vodafone.pt` | [policy](https://www.vodafone.com/about-vodafone/how-we-operate/consumer-privacy-and-cyber-security/cyber-security/report-a-vulnerability) | — | — | active |
 | `webnode.com.pt` | [policy](https://www.webnode.com/.well-known/security-policy.html) | — | yes | active |
 | `webnode.pt` | [policy](https://www.webnode.com/.well-known/security-policy.html) | — | yes | active |

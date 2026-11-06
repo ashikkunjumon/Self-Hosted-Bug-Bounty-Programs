@@ -404,7 +404,6 @@
 | `ory.com` | [policy](https://www.ory.com/docs/ecosystem/security) | — | — | active |
 | `oshrc.gov` | [policy](https://www.oshrc.gov/vulnerability-disclosure-policy/) | — | — | retired |
 | `ourfabriq.com` | [policy](https://ourfabriq.com/responsible-disclosure-policy) | monetary | yes | retired |
-| `outbrain.com` | [policy](https://www.outbrain.com/security/bug-bounty/) | monetary | yes | active |
 | `overture.com` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | active |
 | `ovh.com` | [policy](https://yeswehack.com/programs/ovh) | monetary | — | active |
 | `ovhcloud.com` | [policy](https://yeswehack.com/programs/ovh) | monetary | — | active |
@@ -588,6 +587,7 @@
 | `verywellhealth.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `verywellmind.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `vimeo.com` | [policy](https://hackerone.com/vimeo/) | — | — | active |
+| `vinted.com` | — | — | — | active |
 | `virtru.com` | [policy](https://www.virtru.com/responsible-disclosure/) | recognition | — | retired |
 | `visa.com` | [policy](https://www.visa.com/en-us/company/vulnerability-disclosure) | monetary | yes | retired |
 | `visitbritain.com` | [policy](https://visitbritain.org/vulnerability-reporting) | — | — | active |

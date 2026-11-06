@@ -1,6 +1,6 @@
 # Self-hosted programs — PT
 
-46 programs.
+45 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -39,14 +39,13 @@
 | `trovit.pt` | — | recognition | — | active |
 | `tugatech.com.pt` | — | — | — | active |
 | `twinkl.pt` | — | — | — | retired |
-| `ua.pt` | — | — | — | active |
+| `ua.pt` | — | — | — | retired |
 | `uac.pt` | — | — | — | expired |
 | `ubi.pt` | — | — | — | expired |
 | `uc.pt` | [policy](https://www.uc.pt/protecao-de-dados-e-informacao-administrativa/politica-de-privacidade/) | — | — | active |
 | `uevora.pt` | — | — | — | active |
 | `unipb.pt` | — | monetary | — | expired |
 | `upt.pt` | — | — | — | expired |
-| `vinted.pt` | — | — | — | active |
 | `virtualdata.pt` | — | — | — | active |
 | `worten.pt` | — | recognition | — | active |
 | `zaask.pt` | — | recognition | — | active |

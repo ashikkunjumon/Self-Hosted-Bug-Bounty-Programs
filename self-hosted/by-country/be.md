@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-268 programs.
+271 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -14,6 +14,7 @@
 | `aboutyou.be` | — | monetary | — | active |
 | `advocaat-zedenfeiten.be` | — | — | — | active |
 | `alken.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
+| `altaplana.be` | — | — | — | active |
 | `amay.be` | — | — | — | active |
 | `antp.be` | — | recognition | — | active |
 | `antwerpsymphonyorchestra.be` | — | — | — | active |
@@ -32,6 +33,7 @@
 | `betrouwbaar-casino.be` | [policy](https://betrouwbaar-casino.be/security-policy) | recognition | — | active |
 | `beveren.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `bijloke.be` | — | — | — | active |
+| `bilzen.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `bloom.be` | [policy](https://www.bloom.be/security-policy) | recognition | — | active |
 | `bocholt.be` | — | — | — | active |
 | `bornem.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
@@ -131,6 +133,7 @@
 | `kaiserkraft.be` | — | — | — | active |
 | `kasterlee.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `kompascamping.be` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | active |
+| `kortenberg.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `kringwinkel.be` | — | — | — | expired |
 | `lahulpe.be` | — | — | — | active |
 | `lanaken.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
@@ -141,6 +144,7 @@
 | `lidl-shop.be` | — | — | — | active |
 | `lidl.be` | — | — | — | active |
 | `liege.be` | — | — | — | active |
+| `lifewatch.be` | — | — | — | active |
 | `lokeren.be` | [policy](https://lokeren.be/altijdincontact/kwetsbaarheden-melden) | recognition | yes | expired |
 | `lommel.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `luminex.be` | — | — | — | active |
@@ -249,7 +253,6 @@
 | `vibconferences.be` | [policy](https://www.vib.be/responsible-disclosure) | recognition | yes | expired |
 | `vielsalm.be` | — | — | — | active |
 | `villedecomines-warneton.be` | — | — | — | active |
-| `vinted.be` | — | — | — | active |
 | `viroinval.be` | — | — | — | active |
 | `visitdehaan.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `visitlommel.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |

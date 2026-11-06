@@ -1,6 +1,6 @@
 # Self-hosted programs — AT
 
-160 programs.
+159 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -153,7 +153,6 @@
 | `ustp.at` | [policy](https://www.ustp.at/de/security-disclosure-policy) | swag | — | active |
 | `vegan.at` | — | — | — | active |
 | `viennaairportlines.at` | — | — | — | active |
-| `vinted.at` | — | — | — | active |
 | `vobs.at` | — | — | — | active |
 | `vpnoe.at` | — | — | — | active |
 | `webador.at` | — | — | — | active |

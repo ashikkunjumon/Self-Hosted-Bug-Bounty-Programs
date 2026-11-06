@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-491 programs.
+493 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -16,6 +16,7 @@
 | `adminforge.de` | — | — | — | active |
 | `aerzte-ohne-grenzen.de` | — | — | — | active |
 | `afterbuy.de` | — | — | — | active |
+| `ahk.de` | — | — | — | active |
 | `allianz-fuer-cybersicherheit.de` | [policy](https://www.bsi.bund.de/dok/schwachstellenmeldung) | recognition | — | active |
 | `allianzdirect.de` | — | — | — | expired |
 | `anerkennung-in-deutschland.de` | — | — | — | expired |
@@ -33,7 +34,7 @@
 | `baden-baden.de` | — | — | — | active |
 | `badische-zeitung.de` | — | — | — | active |
 | `bagso.de` | — | — | — | active |
-| `bahn.de` | — | — | — | active |
+| `bahn.de` | — | — | — | retired |
 | `bamf.de` | — | — | — | active |
 | `barmenia.de` | — | — | — | active |
 | `barmeniagothaer.de` | — | — | — | active |
@@ -76,6 +77,7 @@
 | `bundesregierung.de` | — | — | — | active |
 | `bundestag.de` | — | — | — | active |
 | `bundeswehr.de` | [policy](https://www.bundeswehr.de/de/security-policy) | recognition | — | active |
+| `bundeswehrkarriere.de` | — | — | — | active |
 | `capterra.com.de` | — | — | — | active |
 | `caritas-international.de` | [policy](https://www2.carinet.de/security-policy) | — | — | active |
 | `ccc.de` | — | — | — | active |
@@ -100,6 +102,7 @@
 | `datenschutzzentrum.de` | — | — | — | active |
 | `datev.de` | [policy](https://serviceformulare.datev.de/link/ShowDoForm?FormID=7110) | — | — | active |
 | `decathlon.de` | [policy](https://vdp.decathlon.net) | — | — | active |
+| `dena.de` | — | monetary | — | active |
 | `denic.de` | [policy](https://www.denic.de/security/responsible-disclosure-policy) | recognition | yes | active |
 | `denx.de` | — | — | — | expired |
 | `desired.de` | — | — | — | active |
@@ -214,7 +217,7 @@
 | `hs-augsburg.de` | — | — | — | active |
 | `hs-bremen.de` | [policy](https://www.hs-bremen.de/en/security/disclosure-policy) | swag | — | active |
 | `hs-coburg.de` | — | — | — | active |
-| `hs-fulda.de` | [policy](https://it-sicherheit.hs-fulda.de/en/vorfall_melden/schwachstelle/index.html) | — | — | active |
+| `hs-fulda.de` | [policy](https://it-sicherheit.hs-fulda.de/vorfall_melden/schwachstelle/index.html) | recognition | — | active |
 | `hs-furtwangen.de` | — | — | — | active |
 | `hs-heilbronn.de` | — | — | — | active |
 | `hs-koblenz.de` | — | — | — | active |
@@ -464,7 +467,6 @@
 | `verbraucherzentrale-energieberatung.de` | — | — | — | expired |
 | `verdi.de` | — | — | — | active |
 | `verivox.de` | — | — | — | expired |
-| `vinted.de` | — | — | — | active |
 | `vogel.de` | — | — | — | active |
 | `vogelsbergkreis.de` | [policy](https://www.vogelsbergkreis.de/informationen/sicherheitsluecke-melden/) | — | — | active |
 | `volkswagen.de` | — | — | — | retired |

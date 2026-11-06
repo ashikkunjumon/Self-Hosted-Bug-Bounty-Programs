@@ -1,6 +1,6 @@
 # Self-hosted programs — IT
 
-80 programs.
+79 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -78,7 +78,6 @@
 | `unigre.it` | — | — | — | active |
 | `unipegaso.it` | — | — | — | active |
 | `unive.it` | — | — | — | active |
-| `vinted.it` | — | — | — | active |
 | `webador.it` | — | — | — | active |
 | `whistleblowing.it` | [policy](https://github.com/globaleaks/globaleaks-whistleblowing-software/blob/stable/SECURITY.md) | — | — | active |
 | `yhoo.it` | — | — | — | active |

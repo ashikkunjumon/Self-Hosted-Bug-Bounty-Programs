@@ -1,6 +1,6 @@
 # Self-hosted programs — ES
 
-105 programs.
+104 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -102,7 +102,6 @@
 | `usj.es` | — | — | — | expired |
 | `uva.es` | — | recognition | — | active |
 | `vilaviniteca.es` | — | — | — | active |
-| `vinted.es` | — | — | — | active |
 | `vistaprint.es` | — | — | — | active |
 | `volkswagen.es` | — | — | — | retired |
 | `webador.es` | — | — | — | active |

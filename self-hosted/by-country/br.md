@@ -1,6 +1,6 @@
 # Self-hosted programs — BR
 
-102 programs.
+103 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -16,6 +16,7 @@
 | `bnews.com.br` | — | — | — | active |
 | `bosch.com.br` | [policy](https://psirt.bosch.com/bosch-responsible-disclosure-policy/) | recognition | — | active |
 | `brainly.com.br` | [policy](https://brainly.com/responsible-disclosure-program) | — | — | active |
+| `cakto.com.br` | [policy](https://www.cakto.com.br/politica-de-privacidade) | — | — | active |
 | `campanha.org.br` | — | — | — | active |
 | `canalmeio.com.br` | [policy](https://www.canalmeio.com.br/termos-de-uso-e-politica-de-privacidade-do-meio/) | — | — | expired |
 | `capterra.com.br` | — | — | — | active |
@@ -49,7 +50,7 @@
 | `idinheiro.com.br` | [policy](https://www.idinheiro.com.br/politica-de-privacidade/) | — | — | active |
 | `inmet.gov.br` | [policy](https://www.gov.br/agricultura/pt-br/acesso-a-informacao/tecnologia-da-informacao/seguranca-da-informacao/politica-de-seguranca-da-informacao-e-comunicacao-posic) | — | — | active |
 | `investidorpetrobras.com.br` | — | — | — | retired |
-| `itaipuparquetec.org.br` | — | — | — | active |
+| `itaipuparquetec.org.br` | — | — | — | retired |
 | `jcconcursos.com.br` | — | — | — | expired |
 | `jusbrasil.com.br` | — | — | — | active |
 | `kiwify.com.br` | [policy](https://kiwify.com.br/politica-de-privacidade/) | — | — | active |

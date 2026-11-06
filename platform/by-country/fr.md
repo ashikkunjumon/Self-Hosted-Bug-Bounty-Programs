@@ -1,6 +1,6 @@
 # Platform-hosted programs — FR
 
-29 programs.
+30 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -28,6 +28,7 @@
 | `toyota.fr` | — | monetary | — | expired |
 | `unibet.fr` | — | monetary | — | active |
 | `veepee.fr` | — | — | — | active |
+| `vinted.fr` | — | — | — | active |
 | `vousnousils.fr` | [policy](https://app.yogosha.com/cvd/bpce-sa-cert/boYG4zQy7o72BFdpp1Gk1) | — | — | active |
 | `webnode.fr` | [policy](https://www.webnode.com/.well-known/security-policy.html) | — | yes | active |
 | `yahoo.fr` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | — | — | retired |

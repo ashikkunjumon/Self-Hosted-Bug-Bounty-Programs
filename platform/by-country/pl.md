@@ -1,6 +1,6 @@
 # Platform-hosted programs — PL
 
-13 programs.
+14 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -15,5 +15,6 @@
 | `pepper.pl` | [policy](https://atolls.com/disclosure-policy) | — | — | active |
 | `randstad.pl` | [policy](https://www.randstad.com/report-a-security-problem/) | — | — | active |
 | `toyota.pl` | — | monetary | — | expired |
+| `vinted.pl` | — | — | — | active |
 | `yelp.pl` | [policy](https://hackerone.com/yelp?view_policy=true) | — | — | active |
 | `zabka.pl` | [policy](https://app.intigriti.com/programs/zabkapolska/zabkagroup-vdp/detail) | monetary | — | active |

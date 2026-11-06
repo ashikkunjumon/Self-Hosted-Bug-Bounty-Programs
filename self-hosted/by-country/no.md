@@ -1,6 +1,6 @@
 # Self-hosted programs — NO
 
-236 programs.
+238 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -103,6 +103,7 @@
 | `inn.no` | — | — | — | active |
 | `innlandetfylke.no` | — | recognition | — | expired |
 | `jordskjelv.no` | — | — | — | active |
+| `justervesenet.no` | — | — | — | active |
 | `kartverket.no` | [policy](https://vdp.kartverket.no/responsible-disclosure-policy.txt) | swag | yes | active |
 | `kid.no` | — | — | — | expired |
 | `klp.no` | — | — | — | active |
@@ -239,4 +240,5 @@
 | `vipps.no` | [policy](https://vdp.vippsmobilepay.com) | — | — | active |
 | `vkm.no` | — | — | — | active |
 | `vy.no` | [policy](https://www.vy.no/vilkar-og-personvern/vulnerability-disclosure-policy) | — | yes | active |
+| `wimp.no` | — | — | — | active |
 | `yr.no` | [policy](https://info.nrk.no/hjem/responsible-disclosure-policy/) | swag | yes | expired |

@@ -1,6 +1,6 @@
 # Platform-hosted programs — CZ
 
-6 programs.
+7 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -9,4 +9,5 @@
 | `bmw.cz` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
 | `onedelivery.cz` | [policy](https://app.intigriti.com/programs/allegro/allegrobugbounty/detail) | monetary | — | active |
 | `toyota.cz` | — | monetary | — | expired |
+| `vinted.cz` | — | — | — | active |
 | `webnode.cz` | [policy](https://www.webnode.com/.well-known/security-policy.html) | — | yes | active |

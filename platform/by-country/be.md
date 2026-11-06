@@ -1,6 +1,6 @@
 # Platform-hosted programs — BE
 
-47 programs.
+48 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -42,6 +42,7 @@
 | `unibetcasino.be` | — | monetary | — | retired |
 | `unibetsports.be` | — | monetary | — | retired |
 | `uzleuven.be` | — | recognition | — | expired |
+| `vinted.be` | — | — | — | active |
 | `vlaanderen.be` | [policy](https://yeswehack.com/programs/digital-flanders-vulnerability-disclosure-program) | recognition | — | retired |
 | `vtm.be` | — | monetary | — | active |
 | `vtmgo.be` | — | monetary | — | active |

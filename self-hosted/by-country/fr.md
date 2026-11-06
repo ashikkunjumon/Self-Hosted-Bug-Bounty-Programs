@@ -1,6 +1,6 @@
 # Self-hosted programs — FR
 
-176 programs.
+175 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@
 | `albi.fr` | — | recognition | — | active |
 | `aliceadsl.fr` | — | — | — | active |
 | `alternativesante.fr` | — | — | — | active |
-| `ancestry.fr` | [policy](https://www.ancestry.com/c/legal/security) | — | — | active |
+| `ancestry.fr` | [policy](https://www.ancestry.com/c/legal/security) | — | — | retired |
 | `annuaire-mairie.fr` | — | — | — | active |
 | `anpe.fr` | — | recognition | — | active |
 | `aphp.fr` | [policy](https://aphp.fr/security-policy) | — | — | expired |
@@ -172,7 +172,6 @@
 | `utt.fr` | — | recognition | — | active |
 | `vichy.fr` | — | recognition | — | active |
 | `villejuif.fr` | — | — | — | active |
-| `vinted.fr` | — | — | — | active |
 | `vistaprint.fr` | — | — | — | active |
 | `vrin.fr` | — | — | — | active |
 | `wanadoo.fr` | — | — | — | active |

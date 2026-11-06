@@ -1,6 +1,6 @@
 # Platform-hosted programs — AT
 
-12 programs.
+13 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -14,5 +14,6 @@
 | `swoodoo.at` | [policy](https://www.kayak.com/security/) | monetary | — | active |
 | `toyota.at` | — | monetary | — | expired |
 | `veritas.at` | [policy](https://magento.com/security) | monetary | — | active |
+| `vinted.at` | — | — | — | active |
 | `webnode.at` | [policy](https://www.webnode.com/.well-known/security-policy.html) | — | yes | active |
 | `yelp.at` | [policy](https://hackerone.com/yelp?view_policy=true) | — | — | active |

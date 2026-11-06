@@ -36,7 +36,7 @@
 | `jungfrau.ch` | — | — | — | active |
 | `jura.ch` | [policy](https://www.jura.ch/scripts/index.aspx?idn=12853) | monetary | yes | active |
 | `kayak.ch` | [policy](https://www.kayak.com/security/) | monetary | — | active |
-| `kkg.ch` | — | — | — | active |
+| `kkg.ch` | — | — | — | expired |
 | `kpt.ch` | [policy](https://app.bugbounty.ch/public/engagement/details/291c747e-d690-45bd-9aa3-54990d75e265) | — | — | active |
 | `laredoute.ch` | [policy](https://www.laredoute.com/vulnerability_disclosure_program.aspx) | — | — | expired |
 | `lebendige-traditionen.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | recognition | yes | active |
@@ -72,4 +72,4 @@
 | `wetzikon.ch` | [policy](https://www.talus.ch/de/datenschutz/bug-bounty.php) | — | — | active |
 | `xpertcenter.ch` | [policy](https://www.xpertcenter.ch/it/vdp-it/) | — | yes | retired |
 | `yelp.ch` | [policy](https://hackerone.com/yelp?view_policy=true) | — | — | active |
-| `zh.ch` | [policy](https://app.bugbounty.ch/public/engagement/details/43f98579-7afc-400e-a5fa-f64c15e2bb90) | — | — | expired |
+| `zh.ch` | [policy](https://app.bugbounty.ch/public/engagement/details/43f98579-7afc-400e-a5fa-f64c15e2bb90) | — | — | active |

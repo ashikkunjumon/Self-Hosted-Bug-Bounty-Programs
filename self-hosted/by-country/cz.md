@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-373 programs.
+372 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -175,7 +175,7 @@
 | `kraj-lbc.cz` | — | — | — | active |
 | `kraloveskoly.cz` | — | — | — | active |
 | `krimi-plzen.cz` | — | — | — | active |
-| `kupi.cz` | [policy](https://napoveda.seznam.cz/cz/smluvni-podminky/podminky-kupi-cz/) | — | — | active |
+| `kupi.cz` | [policy](https://napoveda.seznam.cz/cz/smluvni-podminky/podminky-kupi-cz/) | — | — | retired |
 | `kvaltex.cz` | — | — | — | active |
 | `laskakit.cz` | — | — | — | active |
 | `letakomat.cz` | — | — | — | active |
@@ -209,7 +209,7 @@
 | `modio.cz` | — | — | — | active |
 | `mojedatovaschranka.cz` | [policy](https://www.datovka.gov.cz/.well-known/security-policy.txt) | — | — | retired |
 | `mojeid.cz` | — | — | — | active |
-| `moneta.cz` | [policy](https://www.moneta.cz/bug-bounty) | monetary | yes | active |
+| `moneta.cz` | [policy](https://www.moneta.cz/bug-bounty) | monetary | yes | retired |
 | `mozilla.cz` | — | — | — | active |
 | `mp.cz` | — | — | — | active |
 | `msmt.cz` | — | — | — | retired |
@@ -347,7 +347,6 @@
 | `vesmir.cz` | — | — | — | active |
 | `vetkom.cz` | — | — | — | active |
 | `vinci-construction.cz` | — | — | — | expired |
-| `vinted.cz` | — | — | — | active |
 | `vitalia.cz` | — | — | — | active |
 | `volnamista.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `vse.cz` | — | — | — | expired |

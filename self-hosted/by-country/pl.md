@@ -1,6 +1,6 @@
 # Self-hosted programs — PL
 
-189 programs.
+188 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -176,7 +176,6 @@
 | `urbanity.pl` | — | — | — | active |
 | `verseo.pl` | — | — | — | active |
 | `vichy.pl` | — | recognition | — | active |
-| `vinted.pl` | — | — | — | active |
 | `virtualo.pl` | — | — | — | active |
 | `viva.pl` | [policy](https://www.immediate.co.uk/security-disclosure-policy/) | — | — | retired |
 | `wakacje.pl` | — | — | — | active |

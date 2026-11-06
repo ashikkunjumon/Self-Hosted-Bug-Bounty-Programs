@@ -1,6 +1,6 @@
 # Platform-hosted programs — NL
 
-37 programs.
+38 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -38,6 +38,7 @@
 | `tubantia.nl` | — | monetary | — | active |
 | `unibet.nl` | — | monetary | — | active |
 | `vattenfall.nl` | [policy](https://group.vattenfall.com/site-assets/privacy-policy---general#reporting_security) | — | — | expired |
+| `vinted.nl` | — | — | — | active |
 | `volkskrant.nl` | — | monetary | — | active |
 | `vtwonen.nl` | — | monetary | — | active |
 | `webnode.nl` | [policy](https://www.webnode.com/.well-known/security-policy.html) | — | yes | active |

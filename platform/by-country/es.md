@@ -1,6 +1,6 @@
 # Platform-hosted programs — ES
 
-27 programs.
+28 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -25,6 +25,7 @@
 | `sixt.es` | [policy](https://bugcrowd.com/a22b9798-491e-4d3a-87f3-a69484e02a2f/external/report) | — | — | active |
 | `spartoo.es` | — | — | — | active |
 | `toyota.es` | — | monetary | — | expired |
+| `vinted.es` | — | — | — | active |
 | `webnode.es` | [policy](https://www.webnode.com/.well-known/security-policy.html) | — | yes | active |
 | `xnxx.es` | — | — | — | active |
 | `xvideos.es` | — | — | — | active |
