@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-633 programs.
+634 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -32,6 +32,7 @@
 | `allegion.com` | [policy](https://trust.allegion.com/) | — | — | active |
 | `alllaw.com` | — | — | — | active |
 | `allrecipes.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
+| `alltheweb.com` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | expired |
 | `alphabet.com` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
 | `amazon.com` | [policy](https://hackerone.com/amazonvrp) | — | — | active |
 | `amazonaws.com` | [policy](https://vdp.aws.security/) | — | — | active |

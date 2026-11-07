@@ -1,10 +1,11 @@
 # Self-hosted programs — GR
 
-27 programs.
+29 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `aboutyou.gr` | — | monetary | — | active |
+| `animasyros.gr` | — | — | — | active |
 | `athexgroup.gr` | — | — | — | active |
 | `bestprice.gr` | — | — | — | active |
 | `businessvoice.gr` | — | — | — | active |
@@ -19,6 +20,7 @@
 | `howto.gov.gr` | [policy](https://moodledev.io/general/development/process/security) | monetary | — | expired |
 | `larocheposay.gr` | — | recognition | — | active |
 | `lidl-hellas.gr` | — | — | — | active |
+| `lidl.gr` | — | — | — | active |
 | `masoutis.gr` | — | — | — | expired |
 | `metakomiseis24.gr` | — | — | — | active |
 | `notino.gr` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |

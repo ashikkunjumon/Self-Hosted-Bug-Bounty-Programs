@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-493 programs.
+494 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -249,6 +249,7 @@
 | `kkh.de` | — | — | — | active |
 | `kleinanzeigen.de` | [policy](https://adevinta.com/security-vulnerability/) | recognition | yes | active |
 | `klett.de` | — | — | — | active |
+| `kn-online.de` | — | — | — | active |
 | `koblenz.de` | — | — | — | active |
 | `koeln.de` | — | — | — | active |
 | `komoot.de` | [policy](https://www.komoot.com/security/bug-bounty) | — | — | active |

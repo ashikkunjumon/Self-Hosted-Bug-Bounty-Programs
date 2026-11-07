@@ -7,7 +7,7 @@
 | `32rosu.ro` | — | monetary | — | active |
 | `auto-bild.ro` | — | — | — | expired |
 | `autoscout24.ro` | [policy](https://app.intigriti.com/programs/autoscout/autoscout24-vdp/detail) | monetary | — | expired |
-| `avantaje.ro` | — | — | — | expired |
+| `avantaje.ro` | — | — | — | retired |
 | `bmw.ro` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
 | `elle.ro` | — | — | — | retired |
 | `libertatea.ro` | — | — | — | retired |

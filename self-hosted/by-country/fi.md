@@ -65,7 +65,7 @@
 | `kela.fi` | — | — | — | active |
 | `kesko.fi` | — | — | — | expired |
 | `kiinteistolehti.fi` | [policy](https://handbook.dude.fi/security-policy) | monetary | — | active |
-| `kiln.fi` | [policy](https://www.kiln.fi/vulnerability-disclosure-policy) | monetary | — | active |
+| `kiln.fi` | [policy](https://www.kiln.fi/vulnerability-disclosure-policy) | monetary | — | retired |
 | `kodinkuvalehti.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | active |
 | `koneviesti.fi` | — | — | — | active |
 | `kuntarekry.fi` | — | — | — | active |

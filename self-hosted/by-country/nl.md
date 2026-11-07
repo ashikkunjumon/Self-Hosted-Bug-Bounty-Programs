@@ -1,6 +1,6 @@
 # Self-hosted programs — NL
 
-439 programs.
+443 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -78,6 +78,7 @@
 | `cbs.nl` | [policy](https://www.cbs.nl/nl-nl/over-ons/website/responsible-disclosure) | — | — | active |
 | `cda.nl` | — | — | — | active |
 | `centraalbeheer.nl` | [policy](https://achmea.nl/en/responsible-disclosure) | swag | — | active |
+| `cito.nl` | [policy](https://cito.nl/over-cito/contact/responsible-disclosure/) | recognition | yes | expired |
 | `closure.nl` | [policy](https://closure.nl/responsible-disclosure/) | monetary | yes | active |
 | `cloudwise.nl` | [policy](https://www.cloudwise.nl/security-policy) | recognition | — | active |
 | `coa.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
@@ -117,7 +118,7 @@
 | `eenvandaag.nl` | [policy](https://www.avrotros.nl/responsible-disclosure~44/) | — | yes | expired |
 | `eerstekamer.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `eindhoven.nl` | — | — | — | active |
-| `emmen.nl` | [policy](https://gemeente.emmen.nl/coordinated-vulnerability-disclosure) | recognition | — | expired |
+| `emmen.nl` | [policy](https://gemeente.emmen.nl/coordinated-vulnerability-disclosure) | recognition | — | active |
 | `encyclo.nl` | — | — | — | active |
 | `eneco.nl` | [policy](https://www.eneco.com/responsible-disclosure/) | — | — | active |
 | `enexis.nl` | — | — | — | active |
@@ -135,6 +136,7 @@
 | `fietsersbond.nl` | [policy](https://level-level.com/responsible-disclosure/) | — | — | expired |
 | `filmfestival.nl` | — | — | — | active |
 | `filmkrant.nl` | — | — | — | active |
+| `fletcher.nl` | — | — | — | active |
 | `flevoland.nl` | [policy](https://www.flevoland.nl/loket/doorgeven/zwakke-plek-informatiesystemen) | — | yes | active |
 | `fmo.nl` | — | — | — | active |
 | `fok.nl` | — | — | — | active |
@@ -204,6 +206,7 @@
 | `kadaster.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `kanker.nl` | — | — | — | retired |
 | `kansspelautoriteit.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
+| `kenniscentrumsportenbewegen.nl` | — | — | — | expired |
 | `kennisnet.nl` | — | — | — | active |
 | `kiesraad.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `kit.nl` | [policy](https://level-level.com/responsible-disclosure/) | — | — | active |
@@ -279,6 +282,7 @@
 | `notaris.nl` | [policy](https://www.notaris.nl/page/beveiliging-niet-in-orde-meld-het-ons) | recognition | yes | active |
 | `npo.nl` | — | recognition | — | active |
 | `nporadio1.nl` | — | recognition | — | active |
+| `nporadio4.nl` | — | recognition | — | active |
 | `nporadio5.nl` | — | recognition | — | active |
 | `ns.nl` | [policy](https://ocp.ns.nl/caas/v1/media/stable/24134/data/statement-responsible-disclosure-engels.pdf) | monetary | — | active |
 | `nsinternational.nl` | [policy](https://www.ns.nl/binaries/_ht_1462869713821/content/assets/ns-en/about-ns/2016/statement-responsible-disclosure-engels-20160428.pdf) | monetary | — | active |
@@ -328,7 +332,7 @@
 | `radboudumc.nl` | [policy](https://www.radboudumc.nl/security/responsible-disclosure) | monetary | yes | active |
 | `radio1.nl` | — | recognition | — | active |
 | `rd.nl` | [policy](https://service.erdee.nl/security/responsible-disclosure-policy) | — | yes | active |
-| `rdw.nl` | [policy](https://www.rdw.nl/over-rdw/kwaliteits--en-servicenormen/security-operations-center-soc) | monetary | — | expired |
+| `rdw.nl` | [policy](https://www.rdw.nl/over-rdw/privacy-en-security/security-operations-center) | — | yes | active |
 | `rechtspraak.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `refdag.nl` | [policy](https://service.erdee.nl/security/responsible-disclosure-policy) | — | yes | active |
 | `regelhulp.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
@@ -380,7 +384,7 @@
 | `tilburg.nl` | [policy](https://www.tilburg.nl/proclaimer/responsible-disclosure/) | — | — | active |
 | `toeslagen.nl` | [policy](https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/standaard_functies/individuals/contact/data-leak-vulnerability-abuse-computer-systems/coordinated-vulnerability-disclosure) | recognition | — | expired |
 | `topicus.nl` | [policy](https://topicus.nl/disclosure) | — | yes | expired |
-| `transip.nl` | [policy](https://www.transip.nl/legal-and-security/security/) | monetary | yes | active |
+| `transip.nl` | [policy](https://www.transip.nl/legal-and-security/security/) | — | yes | active |
 | `treatwell.nl` | — | — | — | active |
 | `trimbos.nl` | [policy](https://www.trimbos.nl/over-deze-website/responsible-disclosure/) | — | yes | active |
 | `triodos.nl` | — | — | — | active |

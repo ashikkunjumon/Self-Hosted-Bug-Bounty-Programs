@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-372 programs.
+375 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -85,6 +85,7 @@
 | `dobryandel.cz` | — | — | — | active |
 | `donio.cz` | — | — | — | active |
 | `dotaceeu.cz` | — | — | — | active |
+| `doubleshot.cz` | — | — | — | active |
 | `dox.cz` | — | — | — | expired |
 | `drakkaria.cz` | — | — | — | active |
 | `drogy-info.cz` | — | — | — | retired |
@@ -158,6 +159,7 @@
 | `karlovylazne.cz` | — | — | — | expired |
 | `karlovyvary.cz` | — | — | — | active |
 | `karolinum.cz` | [policy](https://csirt.cuni.cz/en/incident_reporting) | recognition | — | retired |
+| `kasarnakarlin.cz` | — | recognition | — | active |
 | `kb.cz` | — | — | — | active |
 | `ketodiet.cz` | — | — | — | expired |
 | `klaus.cz` | — | — | — | expired |
@@ -175,7 +177,7 @@
 | `kraj-lbc.cz` | — | — | — | active |
 | `kraloveskoly.cz` | — | — | — | active |
 | `krimi-plzen.cz` | — | — | — | active |
-| `kupi.cz` | [policy](https://napoveda.seznam.cz/cz/smluvni-podminky/podminky-kupi-cz/) | — | — | retired |
+| `kupi.cz` | [policy](https://napoveda.seznam.cz/cz/smluvni-podminky/podminky-kupi-cz/) | — | — | active |
 | `kvaltex.cz` | — | — | — | active |
 | `laskakit.cz` | — | — | — | active |
 | `letakomat.cz` | — | — | — | active |
@@ -294,6 +296,7 @@
 | `sazka.cz` | [policy](https://www.allwyn.cz/.well-known/responsible_disclosure_policy.pdf) | monetary | — | active |
 | `sbazar.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `sblog.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
+| `scorespin.cz` | — | — | — | active |
 | `search.seznam.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `seduo.cz` | [policy](https://www.almacareer.com/vulnerability-disclosure) | — | yes | active |
 | `seznam.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — UA
 
-56 programs.
+58 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -33,6 +33,7 @@
 | `jetsetter.ua` | — | — | — | retired |
 | `kg.ua` | [policy](https://kg.ua/sc_txt/security-policy.html) | — | — | active |
 | `kontramarka.ua` | — | — | — | active |
+| `land.gov.ua` | — | — | — | active |
 | `lifecell.ua` | — | monetary | — | retired |
 | `loreal-paris.ua` | — | recognition | — | active |
 | `medoc.ua` | — | — | — | active |
@@ -60,3 +61,4 @@
 | `vkksu.gov.ua` | [policy](https://www.vkksu.gov.ua/userfiles/doc/sec/secpolicy.txt) | recognition | — | active |
 | `vntu.edu.ua` | [policy](https://vntu.edu.ua/files/security.html) | monetary | — | active |
 | `vodiy.ua` | — | — | — | active |
+| `zp.edu.ua` | — | — | — | active |

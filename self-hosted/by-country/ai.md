@@ -36,7 +36,7 @@
 | `hackzero.ai` | [policy](https://complianceeverywhere.com/legal/security) | recognition | yes | active |
 | `incidentfox.ai` | [policy](https://www.incidentfox.ai/vulnerability.html) | — | yes | retired |
 | `indykite.ai` | [policy](https://indykite.com/responsible-disclosure-policy/) | swag | yes | active |
-| `inqura.ai` | [policy](https://inqura.ai/security) | recognition | yes | retired |
+| `inqura.ai` | [policy](https://inqura.ai/security) | recognition | yes | active |
 | `insighthealth.ai` | [policy](https://insighthealth.ai/security) | recognition | — | active |
 | `iudexnc.ai` | [policy](https://iudexnc.ai/security/vulnerability-disclosure) | — | yes | active |
 | `juicebox.ai` | [policy](https://juicebox.ai/responsible-disclosure) | — | — | active |

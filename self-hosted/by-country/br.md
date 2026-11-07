@@ -1,6 +1,6 @@
 # Self-hosted programs — BR
 
-103 programs.
+105 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -35,6 +35,7 @@
 | `fabricadeaplicativos.com.br` | — | — | — | active |
 | `fiepr.org.br` | — | — | — | active |
 | `flashscore.com.br` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
+| `fnpeti.org.br` | — | — | — | active |
 | `forumseguranca.org.br` | [policy](https://icc.gg/polvuln) | monetary | yes | active |
 | `freefiremania.com.br` | [policy](https://www.freefiremania.com.br/politica-de-privacidade.html) | — | — | retired |
 | `fundacaodorina.org.br` | — | — | — | active |
@@ -46,6 +47,7 @@
 | `grancursosonline.com.br` | — | — | — | active |
 | `guiadopc.com.br` | — | — | — | active |
 | `hallbook.com.br` | [policy](https://hallbook.com.br/static/terms) | — | — | active |
+| `hilab.com.br` | — | — | — | expired |
 | `hubsoft.com.br` | [policy](https://hubsoft.io/politica-de-privacidade/) | — | — | active |
 | `idinheiro.com.br` | [policy](https://www.idinheiro.com.br/politica-de-privacidade/) | — | — | active |
 | `inmet.gov.br` | [policy](https://www.gov.br/agricultura/pt-br/acesso-a-informacao/tecnologia-da-informacao/seguranca-da-informacao/politica-de-seguranca-da-informacao-e-comunicacao-posic) | — | — | active |

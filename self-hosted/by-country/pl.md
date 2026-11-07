@@ -26,7 +26,7 @@
 | `cdrinfo.pl` | — | — | — | active |
 | `ceneo.pl` | — | — | — | expired |
 | `ceo.com.pl` | — | — | — | active |
-| `cert.pl` | — | — | — | active |
+| `cert.pl` | [policy](https://hack.cert.pl/) | monetary | — | active |
 | `certum.pl` | [policy](https://www.certum.pl/.well-known/vdp.pdf) | monetary | — | active |
 | `chatazagadek.pl` | — | — | — | active |
 | `decathlon.pl` | [policy](https://vdp.decathlon.net) | — | — | retired |

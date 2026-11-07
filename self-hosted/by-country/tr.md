@@ -1,6 +1,6 @@
 # Self-hosted programs — TR
 
-32 programs.
+33 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -24,6 +24,7 @@
 | `investaz.com.tr` | — | — | — | retired |
 | `kamilkoc.com.tr` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |
 | `lorealparis.com.tr` | — | recognition | — | active |
+| `markastudio.com.tr` | [policy](https://markastudio.com.tr/tr/guvenlik/) | monetary | — | active |
 | `michelin.com.tr` | — | — | — | active |
 | `pistar.com.tr` | [policy](https://pistar.com.tr/gizlilik) | — | — | active |
 | `pluxee.com.tr` | [policy](https://vdp.pluxee.app/p/Policy) | — | — | active |

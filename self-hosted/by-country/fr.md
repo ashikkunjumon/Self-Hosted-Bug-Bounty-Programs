@@ -1,6 +1,6 @@
 # Self-hosted programs — FR
 
-175 programs.
+176 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -144,6 +144,7 @@
 | `sengager.fr` | — | — | — | expired |
 | `service-public.fr` | — | — | — | active |
 | `sfr.fr` | — | — | — | active |
+| `silae.fr` | — | — | — | active |
 | `skeptikon.fr` | — | — | — | expired |
 | `societedugrandparis.fr` | — | — | — | expired |
 | `somfy.fr` | [policy](https://vdp.somfy-group.com/) | — | — | active |

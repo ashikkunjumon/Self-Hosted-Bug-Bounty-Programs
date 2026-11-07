@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-540 programs.
+541 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -194,7 +194,7 @@
 | `icagruppen.se` | — | — | — | active |
 | `imy.se` | — | — | — | expired |
 | `indie-ver.se` | — | — | — | active |
-| `inet.se` | — | — | — | retired |
+| `inet.se` | — | — | — | active |
 | `informationsverige.se` | — | — | — | active |
 | `internetkunskap.se` | [policy](https://internetstiftelsen.se/en/about-this-website/responsible-disclosure/) | — | — | retired |
 | `internetmedicin.se` | — | — | — | active |
@@ -532,6 +532,7 @@
 | `vision.se` | — | — | — | active |
 | `visita.se` | — | — | — | active |
 | `visitlinkoping.se` | — | — | — | expired |
+| `visitostersund.se` | — | — | — | active |
 | `visitstockholm.se` | — | — | — | active |
 | `vlt.se` | — | — | — | active |
 | `vn.se` | — | — | — | active |

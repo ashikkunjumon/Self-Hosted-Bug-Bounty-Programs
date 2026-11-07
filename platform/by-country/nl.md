@@ -1,6 +1,6 @@
 # Platform-hosted programs — NL
 
-38 programs.
+39 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -34,6 +34,7 @@
 | `snsbank.nl` | [policy](https://hackerone.com/asnbank) | — | — | active |
 | `sportnieuws.nl` | — | monetary | — | active |
 | `toto.nl` | [policy](https://www.nederlandseloterij.nl/responsible-disclosure) | — | yes | active |
+| `toyota.nl` | — | monetary | — | expired |
 | `trouw.nl` | — | monetary | — | active |
 | `tubantia.nl` | — | monetary | — | active |
 | `unibet.nl` | — | monetary | — | active |

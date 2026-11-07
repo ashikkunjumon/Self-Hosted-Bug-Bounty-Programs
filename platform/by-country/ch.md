@@ -1,6 +1,6 @@
 # Platform-hosted programs — CH
 
-69 programs.
+68 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -10,7 +10,6 @@
 | `admin.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | recognition | yes | active |
 | `ag.ch` | — | — | — | active |
 | `airbnb.ch` | [policy](https://hackerone.com/airbnb#overview) | — | — | active |
-| `asa.ch` | [policy](https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden/scope-and-rules.html) | recognition | yes | active |
 | `baloise.ch` | [policy](https://app.bugbounty.ch/public/engagement/details/568e2d99-380c-433b-86fd-8ee6063fc141) | — | — | active |
 | `baz.ch` | [policy](https://bugcrowd.com/tamedia) | monetary | — | expired |
 | `bazonline.ch` | [policy](https://bugcrowd.com/tamedia) | monetary | — | expired |
@@ -41,7 +40,7 @@
 | `laredoute.ch` | [policy](https://www.laredoute.com/vulnerability_disclosure_program.aspx) | — | — | expired |
 | `lebendige-traditionen.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | recognition | yes | active |
 | `lematin.ch` | [policy](https://bugcrowd.com/twentyminuten) | monetary | — | expired |
-| `lyss.ch` | [policy](https://www.talus.ch/de/datenschutz/bug-bounty.php) | — | — | active |
+| `lyss.ch` | [policy](https://www.talus.ch/de/datenschutz/bug-bounty.php) | monetary | — | active |
 | `mobiliar.ch` | — | — | — | active |
 | `mobiliare.ch` | — | — | — | active |
 | `mobiliere.ch` | — | — | — | active |
