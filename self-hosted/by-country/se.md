@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-541 programs.
+543 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -322,6 +322,7 @@
 | `nibe.se` | [policy](https://vdp.nibegroup.com) | recognition | — | active |
 | `nlt.se` | — | — | — | active |
 | `nok.se` | — | recognition | — | active |
+| `nora.se` | — | — | — | active |
 | `nordicchoicehotels.se` | — | — | — | expired |
 | `nordiskamuseet.se` | — | — | — | expired |
 | `nordnet.se` | [policy](https://www.nordnet.se/security-disclosure) | monetary | — | active |
@@ -356,6 +357,7 @@
 | `pensionsmyndigheten.se` | — | — | — | active |
 | `pliktverket.se` | — | — | — | active |
 | `polisen.se` | — | — | — | active |
+| `popularhistoria.se` | — | — | — | active |
 | `privataaffarer.se` | — | — | — | active |
 | `pro.se` | — | — | — | active |
 | `psykologforbundet.se` | — | — | — | active |

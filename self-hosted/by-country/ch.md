@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-413 programs.
+415 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -266,6 +266,7 @@
 | `postauto.ch` | [policy](https://vdp.post.ch/p/Information-Security) | — | — | active |
 | `poste.ch` | [policy](https://vdp.post.ch/p/Information-Security) | — | — | active |
 | `postfinance.ch` | — | — | — | active |
+| `powerpay.ch` | [policy](https://riverty.com/security-policy/) | monetary | — | active |
 | `primeo-energie.ch` | — | — | — | active |
 | `promentesana.ch` | [policy](https://promentesana.ch/security-policy) | recognition | — | active |
 | `publiceye.ch` | — | — | — | active |
@@ -369,6 +370,7 @@
 | `ti.ch` | — | — | — | active |
 | `ticketcorner.ch` | — | — | — | active |
 | `tissot.ch` | — | — | — | active |
+| `toogoodtogo.ch` | — | — | — | active |
 | `tpc.ch` | — | — | — | active |
 | `treatwell.ch` | — | — | — | active |
 | `trustedshops.ch` | [policy](https://www.trustedshops.de/.well-known/responsible-disclosure.txt) | — | yes | active |

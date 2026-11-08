@@ -258,7 +258,7 @@
 | `korrektur.de` | — | — | — | active |
 | `krautreporter.de` | — | — | — | active |
 | `kuketz-blog.de` | — | — | — | active |
-| `kulturkaufhaus.de` | — | — | — | expired |
+| `kulturkaufhaus.de` | — | — | — | retired |
 | `kulturstaatsminister.de` | — | — | — | active |
 | `kulturstaatsministerin.de` | — | — | — | active |
 | `kvb.de` | — | — | — | active |

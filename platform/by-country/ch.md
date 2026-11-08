@@ -13,7 +13,7 @@
 | `baloise.ch` | [policy](https://app.bugbounty.ch/public/engagement/details/568e2d99-380c-433b-86fd-8ee6063fc141) | — | — | active |
 | `baz.ch` | [policy](https://bugcrowd.com/tamedia) | monetary | — | expired |
 | `bazonline.ch` | [policy](https://bugcrowd.com/tamedia) | monetary | — | expired |
-| `bcn.ch` | [policy](https://gobugfree.com/programs/bcn-vdp) | — | — | active |
+| `bcn.ch` | [policy](https://gobugfree.com/programs/bcn-vdp) | — | yes | active |
 | `bernerzeitung.ch` | [policy](https://bugcrowd.com/tamedia) | monetary | — | expired |
 | `berufsbildung-schweiz.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | recognition | yes | active |
 | `bilan.ch` | [policy](https://bugcrowd.com/tamedia) | monetary | — | expired |
@@ -68,7 +68,7 @@
 | `toyota.ch` | — | monetary | — | expired |
 | `uek.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | recognition | yes | active |
 | `usz.ch` | [policy](https://kb.intigriti.com/en/articles/5466165-researcher-terms-conditions) | monetary | — | expired |
-| `wetzikon.ch` | [policy](https://www.talus.ch/de/datenschutz/bug-bounty.php) | — | — | active |
+| `wetzikon.ch` | [policy](https://www.talus.ch/de/datenschutz/bug-bounty.php) | monetary | — | active |
 | `xpertcenter.ch` | [policy](https://www.xpertcenter.ch/it/vdp-it/) | — | yes | retired |
 | `yelp.ch` | [policy](https://hackerone.com/yelp?view_policy=true) | — | — | active |
 | `zh.ch` | [policy](https://app.bugbounty.ch/public/engagement/details/43f98579-7afc-400e-a5fa-f64c15e2bb90) | — | — | active |

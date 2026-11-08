@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-375 programs.
+376 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -179,6 +179,7 @@
 | `krimi-plzen.cz` | — | — | — | active |
 | `kupi.cz` | [policy](https://napoveda.seznam.cz/cz/smluvni-podminky/podminky-kupi-cz/) | — | — | active |
 | `kvaltex.cz` | — | — | — | active |
+| `lacollezione.cz` | — | — | — | expired |
 | `laskakit.cz` | — | — | — | active |
 | `letakomat.cz` | — | — | — | active |
 | `letuska.cz` | [policy](https://asiana.cz/policy_en.html) | — | — | active |

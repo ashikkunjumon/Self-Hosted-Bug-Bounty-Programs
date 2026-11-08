@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-271 programs.
+272 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@
 | `beveren.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `bijloke.be` | — | — | — | active |
 | `bilzen.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
-| `bloom.be` | [policy](https://www.bloom.be/security-policy) | recognition | — | active |
+| `bloom.be` | [policy](https://www.bloom.be/security-policy) | recognition | — | retired |
 | `bocholt.be` | — | — | — | active |
 | `bornem.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `brabantwallon.be` | — | — | — | active |
@@ -154,6 +154,7 @@
 | `maldegem.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `malmedy.be` | — | — | — | active |
 | `merelbeke-melle.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
+| `merelbeke.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `mgslotenmaker.be` | — | — | — | active |
 | `michaelpage.be` | — | — | — | expired |
 | `michelin.be` | — | — | — | active |
