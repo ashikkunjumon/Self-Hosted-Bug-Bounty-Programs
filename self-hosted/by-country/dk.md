@@ -1,6 +1,6 @@
 # Self-hosted programs — DK
 
-160 programs.
+161 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -41,6 +41,7 @@
 | `dknyt.dk` | — | — | — | active |
 | `dmi.dk` | — | — | — | active |
 | `dpu.dk` | — | — | — | active |
+| `drkoncerthuset.dk` | — | — | — | active |
 | `dsb.dk` | [policy](https://www.dsb.dk/disclosure-policy.html) | — | — | active |
 | `dustin.dk` | — | — | — | active |
 | `dustinhome.dk` | — | — | — | active |

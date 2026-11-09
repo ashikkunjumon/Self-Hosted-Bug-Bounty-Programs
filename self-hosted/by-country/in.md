@@ -1,10 +1,11 @@
 # Self-hosted programs — IN
 
-43 programs.
+44 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `abhieo.in` | [policy](https://www.abhieo.in/bug-bounty) | monetary | yes | retired |
+| `arattai.in` | [policy](https://bugbounty.zohocorp.com/bb/info) | monetary | — | active |
 | `bbc.in` | — | — | — | active |
 | `bosch.in` | [policy](https://psirt.bosch.com/bosch-responsible-disclosure-policy/) | recognition | — | active |
 | `brainly.in` | [policy](https://brainly.com/responsible-disclosure-program) | — | — | active |

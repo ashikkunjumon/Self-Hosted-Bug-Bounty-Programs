@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-272 programs.
+273 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -15,6 +15,7 @@
 | `advocaat-zedenfeiten.be` | — | — | — | active |
 | `alken.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `altaplana.be` | — | — | — | active |
+| `amacademy.be` | — | — | — | active |
 | `amay.be` | — | — | — | active |
 | `antp.be` | — | recognition | — | active |
 | `antwerpsymphonyorchestra.be` | — | — | — | active |

@@ -312,7 +312,7 @@
 | `slunecnice.cz` | — | — | — | active |
 | `spa.cz` | — | — | — | active |
 | `sport.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
-| `spravazeleznic.cz` | — | — | — | active |
+| `spravazeleznic.cz` | — | — | — | retired |
 | `sreality.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `srovnejto.cz` | [policy](https://www.srovnejto.cz/security-policy.txt) | — | — | active |
 | `staropramen.cz` | — | — | — | active |
@@ -326,7 +326,7 @@
 | `svet-her.cz` | — | — | — | active |
 | `sweb.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `synottip.cz` | [policy](https://www.synotinteractive.com/well-known/SYNOT_INTERACTIVE_Responsible_Disclosure_Policy.pdf) | monetary | — | active |
-| `szdc.cz` | — | — | — | active |
+| `szdc.cz` | — | — | — | retired |
 | `t-mobile.cz` | [policy](https://www.t-mobile.cz/bug-bounty) | monetary | — | active |
 | `tatramuseum.cz` | — | — | — | active |
 | `tchibo.cz` | — | — | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — HU
 
-48 programs.
+49 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -37,6 +37,7 @@
 | `media1.hu` | — | — | — | active |
 | `metro.hu` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | expired |
 | `mountex.hu` | [policy](https://www.mountex.hu/security-policy) | — | — | active |
+| `mozibp.hu` | — | — | — | active |
 | `mszp.hu` | — | — | — | active |
 | `naih.hu` | — | — | — | active |
 | `notino.hu` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |

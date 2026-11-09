@@ -1,6 +1,6 @@
 # Self-hosted programs — FI
 
-131 programs.
+134 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -14,6 +14,7 @@
 | `balticyachts.fi` | — | recognition | — | active |
 | `bbl.fi` | — | — | — | active |
 | `bittiraha.fi` | — | — | — | active |
+| `brie.fi` | — | — | — | active |
 | `caravan-lehti.fi` | [policy](https://handbook.dude.fi/security-policy) | monetary | — | active |
 | `cert.fi` | — | — | — | active |
 | `cmore.fi` | [policy](https://responsible-disclosure.tv4.se/01-policy.html) | recognition | yes | active |
@@ -56,6 +57,7 @@
 | `joutsenmerkki.fi` | — | — | — | active |
 | `jylkkari.fi` | [policy](https://handbook.dude.fi/security-policy) | monetary | — | active |
 | `k-auto.fi` | — | — | — | expired |
+| `k-citymarket.fi` | — | — | — | active |
 | `k-rauta.fi` | — | — | — | expired |
 | `k-ruoka.fi` | — | — | — | active |
 | `kankaanpaanseutu.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | expired |
@@ -85,6 +87,7 @@
 | `musiikkitalo.fi` | [policy](https://handbook.dude.fi/security-policy) | monetary | — | active |
 | `nordnet.fi` | [policy](https://www.nordnet.se/security-disclosure) | monetary | — | active |
 | `notino.fi` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
+| `oikotie.fi` | [policy](https://www.lego.com/legal/notices-and-policies/responsible-disclosure-policy/) | — | — | active |
 | `omalaina.fi` | [policy](https://samblagroup.com/responsible-disclosure) | — | yes | retired |
 | `omasp.fi` | — | — | — | active |
 | `onninen.fi` | — | — | — | expired |

@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-543 programs.
+544 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -391,6 +391,7 @@
 | `rvn.se` | — | — | — | active |
 | `saffle.se` | — | — | — | active |
 | `sahlgrenska.se` | — | — | — | active |
+| `salem.se` | — | — | — | active |
 | `sandviken.se` | — | — | — | active |
 | `sas.se` | [policy](https://www.sasgroup.net/contact/vulnerability-disclosure-policy/) | recognition | yes | active |
 | `sbab.se` | [policy](https://sbab.se/1/sidfotsmeny_2/sakerhet/responsible_disclosure.html) | monetary | — | active |

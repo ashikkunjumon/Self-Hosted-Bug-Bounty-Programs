@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-494 programs.
+495 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -463,6 +463,7 @@
 | `uol.de` | — | — | — | active |
 | `uos.de` | — | — | — | active |
 | `upb.de` | [policy](https://www.uni-paderborn.de/universitaet/informationssicherheit/informationssicherheitsvorfall) | — | — | active |
+| `usd.de` | [policy](https://www.usd.de/meldung-bug-oder-schwachstelle/) | — | — | active |
 | `utb.de` | — | — | — | active |
 | `utopia.de` | — | — | — | expired |
 | `verbraucherzentrale-energieberatung.de` | — | — | — | expired |

@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-415 programs.
+416 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -389,6 +389,7 @@
 | `uster.ch` | — | — | — | active |
 | `valdebagnes.ch` | — | — | — | active |
 | `valiant.ch` | [policy](https://www.valiant.ch/vdp) | monetary | yes | active |
+| `varun.ch` | — | — | — | active |
 | `vaud.ch` | — | — | — | active |
 | `vbz.ch` | — | — | — | active |
 | `vd.ch` | — | — | — | active |

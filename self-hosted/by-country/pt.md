@@ -1,6 +1,6 @@
 # Self-hosted programs — PT
 
-45 programs.
+46 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -20,6 +20,7 @@
 | `ibet.pt` | — | — | — | active |
 | `infraestruturasdeportugal.pt` | — | recognition | — | active |
 | `iniav.pt` | — | — | — | active |
+| `interc.pt` | — | — | — | active |
 | `ipb.pt` | — | monetary | — | expired |
 | `ipleiria.pt` | [policy](https://csirt.ipleiria.pt/politica-divulgacao) | recognition | — | active |
 | `ips.pt` | — | — | — | active |

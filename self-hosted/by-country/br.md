@@ -108,4 +108,4 @@
 | `viva.com.br` | — | — | — | active |
 | `vlibras.gov.br` | — | — | — | active |
 | `w3c.br` | — | — | — | active |
-| `yampi.com.br` | — | recognition | — | active |
+| `yampi.com.br` | — | recognition | — | retired |
