@@ -1,6 +1,6 @@
 # Self-hosted programs — GLOBAL
 
-3,278 programs.
+3,282 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@
 | `aircrack-ng.org` | [policy](https://aircrack-ng.org/security.html) | recognition | — | active |
 | `airdroid.com` | — | — | — | active |
 | `airnewzealand.com` | [policy](https://www.airnewzealand.co.nz/cyber-security-vulnerability-disclosure-policy) | monetary | yes | active |
-| `airship.com` | [policy](https://www.airship.com/legal/full-disclosure-security-policy/) | — | — | active |
+| `airship.com` | [policy](https://www.airship.com/legal/full-disclosure-security-policy/) | recognition | — | active |
 | `airstrip.com` | [policy](https://www.airstrip.com/about-us/product-security-cybersecurity) | recognition | — | retired |
 | `airtahitinui.com` | — | — | — | active |
 | `airtasker.com` | — | — | — | expired |
@@ -244,7 +244,8 @@
 | `b3ta.com` | — | — | — | active |
 | `b5secure.com` | [policy](https://b5secure.com/bug-bounty/) | monetary | yes | active |
 | `backmarket.com` | — | — | — | active |
-| `bahn.com` | — | — | — | retired |
+| `baen.com` | — | — | — | active |
+| `bahn.com` | — | — | — | active |
 | `bakerdonelson.com` | [policy](https://www.bakerdonelson.com/responsibledisclosure) | monetary | — | retired |
 | `balluff.com` | [policy](https://www.balluff.com/assets/pdf/balluff_doc_cra-customer-information_202511_en-1.pdf) | monetary | — | active |
 | `bandicam.com` | — | recognition | — | active |
@@ -297,6 +298,7 @@
 | `bit2me.com` | [policy](https://support.bit2me.com/en/support/solutions/articles/35000170366) | monetary | — | retired |
 | `bitbucket.io` | [policy](https://www.atlassian.com/trust/security/report-a-vulnerability) | monetary | yes | active |
 | `bitbucket.org` | [policy](https://www.atlassian.com/trust/security/report-a-vulnerability) | monetary | yes | active |
+| `bitcointreasuries.net` | — | — | — | active |
 | `bitcoinvn.io` | [policy](https://support.bitcoinvn.io/help/en-us/3-general/6-responsible-vulnerability-disclosure-policy) | — | — | active |
 | `bitdegree.org` | — | monetary | — | active |
 | `bitkom.org` | — | — | — | active |
@@ -477,6 +479,7 @@
 | `clean.email` | [policy](https://clean.email/vdp) | monetary | yes | retired |
 | `cleanfox.io` | [policy](https://cleanfox.io/en-gb/privacy.html) | monetary | — | active |
 | `cleanshot.com` | [policy](https://cleanshot.com/disclosure) | monetary | yes | active |
+| `clearme.com` | — | — | — | active |
 | `clerk.com` | [policy](https://clerk.com/docs/guides/how-clerk-works/security/vulnerability-disclosure-policy) | — | — | active |
 | `clerk.dev` | [policy](https://clerk.com/docs/guides/how-clerk-works/security/vulnerability-disclosure-policy) | — | — | active |
 | `cleva.com` | [policy](https://eu.cleva.com/pages/vulnerability-disclosure-policy?srsltid=AfmBOopLcLVgCIMBTI3TIdBM_Y_YM-QnGfuXln3Ho3ZQyykK6BhgAFoN) | monetary | — | retired |
@@ -494,7 +497,7 @@
 | `cloudconvert.com` | — | — | — | active |
 | `cloudera.com` | [policy](https://www.cloudera.com/contact-sales/security.html) | — | — | retired |
 | `cloudflarestatus.com` | [policy](https://www.atlassian.com/trust/security/report-a-vulnerability) | monetary | yes | retired |
-| `cloudlinux.com` | [policy](https://www.cloudlinux.com/vulnerability-reporting/) | — | — | active |
+| `cloudlinux.com` | [policy](https://www.cloudlinux.com/vulnerability-reporting/) | — | yes | active |
 | `cloudron.io` | — | swag | — | active |
 | `cloudsecurityalliance.org` | [policy](https://cloudsecurityalliance.org/security) | recognition | — | active |
 | `clubcollect.com` | [policy](https://www.clubcollect.com/en/responsible-disclosure/) | monetary | — | retired |
@@ -579,7 +582,7 @@
 | `courier-journal.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
 | `courierpostonline.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
 | `courierpress.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
-| `covestro.com` | [policy](https://www.covestro.com/vulnerability-disclosure) | — | — | active |
+| `covestro.com` | [policy](https://www.covestro.com/vulnerability-disclosure) | — | — | retired |
 | `coviqo.com` | [policy](https://coviqo.com/security) | swag | yes | active |
 | `covivio.eu` | — | — | — | active |
 | `cox.com` | [policy](https://www.cox.com/aboutus/policies/cox-security-responsible-disclosure-policy.html) | — | — | expired |
@@ -821,7 +824,7 @@
 | `ejfoundation.org` | [policy](https://ejfoundation.org/security-policy) | recognition | — | active |
 | `ekonty.com` | — | — | — | active |
 | `eksisozluk.com` | — | — | — | active |
-| `electroneek.com` | [policy](https://electroneek.com/security/) | — | — | active |
+| `electroneek.com` | [policy](https://electroneek.com/security/) | — | yes | active |
 | `electronicintifada.net` | — | — | — | expired |
 | `element.io` | [policy](https://element.io/security/security-disclosure-policy/) | recognition | — | expired |
 | `elevatedataexperts.com` | [policy](https://www.elevatedataexperts.com/legal/security) | — | — | retired |
@@ -1009,7 +1012,7 @@
 | `foreignpolicy.com` | — | — | — | active |
 | `forex.com` | — | — | — | active |
 | `forexfactory.com` | [policy](https://www.forexfactory.com/bug-bounty) | monetary | — | active |
-| `forgejo.org` | [policy](https://codeberg.org/forgejo/governance/src/commit/5c07b3801537212ed6be1edfec298d7b004ce92d/SECURITY-POLICY.md) | — | — | active |
+| `forgejo.org` | [policy](https://codeberg.org/forgejo/governance/src/branch/main/SECURITY-POLICY.md) | — | — | active |
 | `forjalibre.eu` | [policy](https://codeberg.org/forgejo/governance/src/branch/main/SECURITY-POLICY.md) | — | — | active |
 | `forsightfinance.com` | [policy](https://forsightfinance.com/security) | — | — | active |
 | `fortinet.com` | [policy](https://www.fortiguard.com/psirt_policy) | — | yes | expired |
@@ -1522,7 +1525,7 @@
 | `kahoot.com` | [policy](https://kahoot.com/disclosure-policy.txt) | — | yes | active |
 | `kali.org` | [policy](https://www.offsec.com/blog/bug-bounty-program-insights/) | monetary | — | retired |
 | `kamalaharris.com` | — | — | — | expired |
-| `karbonhq.com` | [policy](https://karbonhq.com/security/vulnerability-disclosure/) | monetary | — | expired |
+| `karbonhq.com` | [policy](https://karbonhq.com/security/vulnerability-disclosure/) | — | — | expired |
 | `kashmirlife.net` | — | — | — | retired |
 | `katiethe.dev` | — | — | — | expired |
 | `kde.org` | [policy](https://community.kde.org/Policies/Security_Policy) | — | — | active |
@@ -1564,6 +1567,7 @@
 | `knoxnews.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
 | `knx.org` | — | — | — | active |
 | `kolaente.dev` | [policy](https://github.com/go-gitea/gitea/blob/main/SECURITY.md) | recognition | — | active |
+| `kombo.dev` | — | — | — | active |
 | `komoot.com` | [policy](https://www.komoot.com/security/bug-bounty) | — | — | active |
 | `kone.com` | — | — | — | active |
 | `konecranes.com` | [policy](https://www.konecranes.com/about/cybersecurity/vulnerability-disclosure-procedure) | — | — | active |
@@ -1610,7 +1614,7 @@
 | `lecturio.com` | [policy](https://www.lecturio.com/vulnerability-disclosure) | monetary | yes | active |
 | `legacy.com` | — | — | — | active |
 | `legalweb.io` | — | — | — | active |
-| `lego.com` | [policy](https://www.lego.com/legal/notices-and-policies/responsible-disclosure-policy/) | — | — | active |
+| `lego.com` | [policy](https://www.lego.com/legal/notices-and-policies/responsible-disclosure-policy/) | monetary | — | active |
 | `legrand.com` | [policy](https://www.legrand.com/cybersecurity/en/cvd-policy) | — | — | active |
 | `leicabiosystems.com` | [policy](https://www.leicabiosystems.com/about/product-security/) | — | — | retired |
 | `lely.com` | [policy](https://www.lely.com/legal-notice/cvd-policy/) | — | yes | active |
@@ -1639,7 +1643,7 @@
 | `linustechtips.com` | — | — | — | active |
 | `linuxblog.io` | — | — | — | active |
 | `linuxserver.io` | [policy](https://github.com/linuxserver/.github/blob/main/SECURITY.md) | — | yes | active |
-| `lioness.io` | [policy](https://lioness.io/pages/security) | swag | — | active |
+| `lioness.io` | [policy](https://lioness.io/pages/security) | — | — | active |
 | `liora.io` | — | — | — | active |
 | `liquidweb.com` | [policy](https://www.liquidweb.com/policies/bug-bounty-program/) | monetary | — | retired |
 | `lisk.io` | [policy](https://lisk.com/legal/privacy/) | monetary | yes | active |
@@ -2420,7 +2424,7 @@
 | `retailnext.net` | — | — | — | active |
 | `retool.com` | [policy](https://retool.com/vulnerability-reporting) | — | — | active |
 | `revenuehunt.com` | [policy](https://revenuehunt.com/security/) | — | yes | active |
-| `reverb.com` | [policy](https://reverb.com/.well-known/reporting-policy.txt) | monetary | — | retired |
+| `reverb.com` | [policy](https://reverb.com/.well-known/reporting-policy.txt) | monetary | — | active |
 | `revolut.com` | — | — | — | active |
 | `rewind.com` | [policy](https://rewind.com/legal/vulnerability-disclosure-policy/) | — | — | active |
 | `rgj.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
@@ -2493,7 +2497,7 @@
 | `savee.com` | — | — | — | active |
 | `sbgi.net` | — | — | — | active |
 | `scadable.com` | [policy](https://scadable.com/security) | — | — | active |
-| `scaleway.com` | [policy](https://www.scaleway.com/en/privacy-policy/) | monetary | — | retired |
+| `scaleway.com` | [policy](https://www.scaleway.com/en/privacy-policy/) | monetary | — | active |
 | `scamadviser.com` | [policy](https://www.scamadviser.com/privacy-policy) | monetary | — | active |
 | `scania.com` | — | — | — | active |
 | `scanii.com` | [policy](https://docs.scanii.com/article/131-does-scanii-have-a-security-vulnerability-disclosure-program) | monetary | — | retired |
@@ -2825,7 +2829,7 @@
 | `thalesgroup.com` | [policy](https://www.thalesgroup.com/en/global/group/psirt) | — | — | active |
 | `the-afc.com` | — | — | — | expired |
 | `the-guild.dev` | — | — | — | retired |
-| `the-independent.com` | — | — | — | retired |
+| `the-independent.com` | — | — | — | active |
 | `theadvertiser.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
 | `theatlantic.com` | [policy](https://www.theatlantic.com/responsible-disclosure-policy/) | recognition | — | retired |
 | `thebci.org` | [policy](https://pixl8.com/en/vulnerability-disclosure-policy.html) | — | — | active |
@@ -2972,7 +2976,7 @@
 | `turo.com` | [policy](https://turo.com/.well-known/responsible_vulnerability_disclosure_policy.txt) | monetary | yes | expired |
 | `tuscaloosanews.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
 | `tutsplus.com` | [policy](https://www.envato.com/lp/vulnerability-disclosure/) | — | — | active |
-| `tuturuuu.com` | [policy](https://tuturuuu.com/security) | monetary | — | retired |
+| `tuturuuu.com` | [policy](https://tuturuuu.com/security) | — | — | active |
 | `tuxedocomputers.com` | — | — | — | active |
 | `tvprofil.com` | [policy](https://tvprofil.com/privacy/) | — | — | active |
 | `tweaktown.com` | — | — | — | active |

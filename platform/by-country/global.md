@@ -110,7 +110,6 @@
 | `classdojo.com` | [policy](https://bugcrowd.com/engagements/classdojo) | monetary | — | expired |
 | `claude.com` | [policy](https://support.claude.com/en/articles/12119250-model-safety-bug-bounty-program) | monetary | — | retired |
 | `claudeusercontent.com` | [policy](https://www.anthropic.com/responsible-disclosure-policy) | monetary | yes | active |
-| `clearme.com` | — | — | — | active |
 | `cloudflare.com` | [policy](https://www.cloudflare.com/disclosure/) | — | — | active |
 | `cloudsek.com` | [policy](https://www.cloudsek.com/knowledge-base/best-bug-bounty-platforms) | monetary | yes | retired |
 | `cloudways.com` | [policy](https://app.intigriti.com/programs/digitalocean/cloudways) | monetary | — | retired |
@@ -480,6 +479,7 @@
 | `shape.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `shapesecurity.com` | [policy](https://www.f5.com/support/report-a-vulnerability) | — | — | retired |
 | `shopify.com` | [policy](https://hackerone.com/shopify) | — | — | active |
+| `sibreal.org` | [policy](https://www.usagm.gov/vulnerability-disclosure-policy/) | — | — | active |
 | `sidefx.com` | [policy](https://hackerone.com/sidefx?type=team&view_policy=true) | — | — | active |
 | `signup.com` | [policy](https://signup.com/responsible-disclosure-policy) | recognition | — | retired |
 | `simplisafe.com` | [policy](https://support.simplisafe.com/articles/alarm-events-monitoring/how-do-i-report-a-possible-security-issue-in-the-system/6344792c8e3e4c348d43ebde?lang=en_US) | monetary | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-416 programs.
+418 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@
 | `bekb.ch` | — | — | — | active |
 | `bern.ch` | — | — | — | active |
 | `bernmobil.ch` | — | — | — | active |
-| `bfh.ch` | [policy](https://www.bfh.ch/de/rechtliches/rechtliche-hinweise/vulnerability-disclosure-management/) | — | — | expired |
+| `bfh.ch` | [policy](https://www.bfh.ch/de/rechtliches/rechtliche-hinweise/vulnerability-disclosure-management/) | — | — | active |
 | `biel-bienne.ch` | — | — | — | active |
 | `bissone.ch` | — | — | — | retired |
 | `bitflux.ch` | [policy](https://liip.to/security) | — | yes | active |
@@ -118,6 +118,7 @@
 | `freiburger-nachrichten.ch` | — | — | — | active |
 | `fust.ch` | [policy](https://www.coop.ch/de/unternehmen/vdp.html) | monetary | — | active |
 | `galaxus.ch` | [policy](https://www.galaxus.ch/security) | monetary | yes | active |
+| `galaxyweb.ch` | — | — | — | active |
 | `gameswelt.ch` | — | — | — | active |
 | `gastrojournal.ch` | — | — | — | expired |
 | `gemeindedavos.ch` | — | — | — | active |
@@ -255,6 +256,7 @@
 | `ow.ch` | — | — | — | active |
 | `parking-luzern.ch` | — | recognition | — | active |
 | `parship.ch` | — | — | — | active |
+| `pdgr.ch` | — | — | — | active |
 | `perfactive.ch` | — | — | — | active |
 | `pewrsr.ch` | — | — | — | active |
 | `piratenpartei.ch` | — | — | — | active |

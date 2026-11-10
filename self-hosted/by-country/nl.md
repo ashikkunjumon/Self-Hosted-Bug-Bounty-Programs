@@ -1,6 +1,6 @@
 # Self-hosted programs — NL
 
-446 programs.
+450 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -8,6 +8,7 @@
 | `113.nl` | — | — | — | active |
 | `123inkt.nl` | [policy](https://www.123inkt.nl/page/responsible_disclosure.html) | monetary | — | active |
 | `1limburg.nl` | [policy](https://www.regiogroei.nl/responsible-disclosure) | — | — | active |
+| `3fm.nl` | — | recognition | — | active |
 | `achmea.nl` | [policy](https://achmea.nl/en/responsible-disclosure) | swag | — | active |
 | `acm.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `active24.nl` | [policy](https://faq.active24.com/cz/933388-Hl%C3%A1%C5%A1en%C3%AD-bezpe%C4%8Dnostn%C3%ADch-zranitelnost%C3%AD) | — | — | active |
@@ -130,6 +131,7 @@
 | `essent.nl` | [policy](https://www.essent.nl/digitale-veiligheid) | — | — | active |
 | `eur.nl` | [policy](https://www.eur.nl/campus/locaties/campus-woudestein/beveiliging-veiligheid/informatiebeveiliging/responsible-disclosure) | recognition | yes | active |
 | `europarcs.nl` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | active |
+| `eventim.nl` | — | — | — | active |
 | `expedia.nl` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `fbto.nl` | [policy](https://achmea.nl/en/responsible-disclosure) | swag | — | active |
 | `fd.nl` | [policy](https://fdmg.nl/content/uploads/2021/06/Responsible_Disclosure.pdf) | — | — | expired |
@@ -252,6 +254,7 @@
 | `molendatabase.nl` | — | — | — | active |
 | `mooiedomeinnaam.nl` | — | — | — | expired |
 | `movisie.nl` | — | — | — | active |
+| `mr-online.nl` | — | — | — | active |
 | `mumc.nl` | — | — | — | active |
 | `muziekgebouw.nl` | — | — | — | active |
 | `muziekschatten.nl` | — | — | — | active |
@@ -367,6 +370,7 @@
 | `sheerenloo.nl` | [policy](https://www.sheerenloo.nl/over-de-website/coordinated-vulnerability-disclosure) | recognition | — | active |
 | `sidn.nl` | [policy](https://www.sidn.nl/cybersecurity/beveiligingslek-melden) | — | — | active |
 | `sitearchief.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
+| `skal.nl` | [policy](https://umbraco.skal.nl/.well-known/Policy) | — | — | active |
 | `slachtofferhulp.nl` | — | — | — | active |
 | `slo.nl` | — | — | — | active |
 | `socialevraagstukken.nl` | — | — | — | active |

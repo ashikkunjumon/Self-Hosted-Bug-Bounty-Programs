@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-273 programs.
+276 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -72,6 +72,7 @@
 | `dvo.be` | [policy](https://www.dvo.be/security-policy) | recognition | — | active |
 | `dynamate.be` | [policy](https://www.dynamate.be/responsible-disclosure) | monetary | yes | active |
 | `e-gezondheid.be` | — | — | — | expired |
+| `eaae.be` | [policy](https://www.statik.be/en/responsible-disclosure) | — | yes | active |
 | `easytoys.be` | [policy](https://support.easytoys.nl/hc/nl/articles/11277611881117-Hoe-worden-mijn-persoonsgegevens-beschermd) | — | — | active |
 | `ecataleg.be` | [policy](https://www.legrand.com/cybersecurity/en/cvd-policy) | — | — | active |
 | `edegem.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
@@ -80,6 +81,7 @@
 | `elexis.be` | — | — | — | expired |
 | `eneco.be` | [policy](https://www.eneco.com/responsible-disclosure/) | — | — | active |
 | `equans.be` | — | recognition | — | active |
+| `erpe-mere.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `eventail.be` | — | — | — | active |
 | `expedia.be` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `facts.be` | — | — | — | active |
@@ -207,6 +209,7 @@
 | `rtbf.be` | [policy](https://security.rtbf.be/cvdp.txt) | — | — | active |
 | `samsonite.be` | — | — | — | active |
 | `secudoc.be` | [policy](https://www.secudoc.nl/security-policy-for-secudoc) | recognition | — | active |
+| `sidem.be` | — | — | — | expired |
 | `sint-laureins.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `sint-truiden.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `siteffect.be` | — | — | — | active |

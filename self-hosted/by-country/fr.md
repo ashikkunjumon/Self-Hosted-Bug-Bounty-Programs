@@ -1,6 +1,6 @@
 # Self-hosted programs — FR
 
-176 programs.
+177 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -143,6 +143,7 @@
 | `secourspopulaire.fr` | — | — | — | active |
 | `sengager.fr` | — | — | — | expired |
 | `service-public.fr` | — | — | — | active |
+| `service-public.gouv.fr` | — | — | — | active |
 | `sfr.fr` | — | — | — | active |
 | `silae.fr` | — | — | — | active |
 | `skeptikon.fr` | — | — | — | expired |

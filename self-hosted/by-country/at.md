@@ -70,7 +70,7 @@
 | `idm-energie.at` | [policy](https://www.idm-energie.at/sicherheit-melden/) | — | — | active |
 | `iem.at` | — | — | — | active |
 | `inos.at` | — | — | — | expired |
-| `ionos.at` | [policy](https://www.ionos.com/it-security) | — | — | active |
+| `ionos.at` | [policy](https://www.ionos.com/it-security) | — | — | expired |
 | `iqoqi.at` | — | — | — | active |
 | `jobs.at` | — | — | — | active |
 | `jochen-schweizer.at` | [policy](https://public-jsmd.s3.eu-central-1.amazonaws.com/Bug-Bounty-Policy-1.3.pdf) | monetary | — | active |

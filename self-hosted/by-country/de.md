@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-495 programs.
+496 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@
 | `baden-baden.de` | — | — | — | active |
 | `badische-zeitung.de` | — | — | — | active |
 | `bagso.de` | — | — | — | active |
-| `bahn.de` | — | — | — | retired |
+| `bahn.de` | — | — | — | active |
 | `bamf.de` | — | — | — | active |
 | `barmenia.de` | — | — | — | active |
 | `barmeniagothaer.de` | — | — | — | active |
@@ -231,7 +231,7 @@
 | `immowelt.de` | — | — | — | active |
 | `in-berlin.de` | — | — | — | active |
 | `ingolstadt.de` | [policy](https://www.ingolstadt.de/Schwachstelle-melden) | monetary | yes | active |
-| `ionos.de` | [policy](https://www.ionos.com/it-security) | — | — | active |
+| `ionos.de` | [policy](https://www.ionos.com/it-security) | — | — | expired |
 | `iserv.de` | — | — | — | active |
 | `it-business.de` | — | — | — | expired |
 | `it-recht-kanzlei.de` | — | recognition | — | active |
@@ -327,6 +327,7 @@
 | `personalausweisportal.de` | — | — | — | active |
 | `ph-freiburg.de` | — | — | — | active |
 | `phoenix.de` | — | — | — | active |
+| `phpmyfaq.de` | [policy](https://github.com/thorsten/phpMyFAQ/blob/main/SECURITY.md) | — | yes | active |
 | `phpunit.de` | [policy](https://github.com/sebastianbergmann/phpunit-website/blob/main/SECURITY.md) | — | — | active |
 | `pixum.de` | — | — | — | active |
 | `planet-schule.de` | — | — | — | active |

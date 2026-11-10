@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-376 programs.
+377 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -56,6 +56,7 @@
 | `cesnet.cz` | [policy](https://csirt.cesnet.cz/en/vulnerability_report) | — | — | active |
 | `cestolino.cz` | — | — | — | active |
 | `cewe.cz` | — | — | — | active |
+| `chance-promo.cz` | — | — | — | active |
 | `chateaumcely.cz` | — | — | — | expired |
 | `chlorito.cz` | — | — | — | active |
 | `cistedrevo.cz` | — | — | — | active |

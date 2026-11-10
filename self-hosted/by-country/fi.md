@@ -99,7 +99,7 @@
 | `ptt.fi` | — | recognition | — | active |
 | `rakennuslehti.fi` | — | recognition | — | active |
 | `rakennustieto.fi` | — | — | — | active |
-| `rakentaja.fi` | — | — | — | retired |
+| `rakentaja.fi` | — | — | — | active |
 | `risingshadow.fi` | — | — | — | active |
 | `sanoma.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | expired |
 | `satakunnankansa.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | expired |

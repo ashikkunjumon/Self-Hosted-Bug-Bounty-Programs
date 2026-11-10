@@ -1,6 +1,6 @@
 # Self-hosted programs — DK
 
-161 programs.
+163 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -41,6 +41,7 @@
 | `dknyt.dk` | — | — | — | active |
 | `dmi.dk` | — | — | — | active |
 | `dpu.dk` | — | — | — | active |
+| `dr.dk` | — | — | — | active |
 | `drkoncerthuset.dk` | — | — | — | active |
 | `dsb.dk` | [policy](https://www.dsb.dk/disclosure-policy.html) | — | — | active |
 | `dustin.dk` | — | — | — | active |
@@ -96,6 +97,7 @@
 | `lex.dk` | — | — | — | expired |
 | `lidl.dk` | — | — | — | active |
 | `lolland.dk` | — | — | — | active |
+| `mensa.dk` | — | — | — | active |
 | `mitsdu.dk` | — | — | — | active |
 | `mobilepay.dk` | [policy](https://vdp.vippsmobilepay.com) | — | — | active |
 | `netsite.dk` | — | — | — | active |
@@ -124,7 +126,7 @@
 | `regionsyddanmark.dk` | — | — | — | active |
 | `rema1000.dk` | — | — | — | active |
 | `rlb.dk` | — | — | — | active |
-| `royalcasino.dk` | [policy](https://www.royalcasino.dk/ansvarlighed) | — | — | active |
+| `royalcasino.dk` | [policy](https://www.royalcasino.dk/ansvarlighed) | monetary | — | active |
 | `rsyd.dk` | — | — | — | active |
 | `saint-gobain.dk` | — | — | — | active |
 | `samsik.dk` | — | — | — | active |

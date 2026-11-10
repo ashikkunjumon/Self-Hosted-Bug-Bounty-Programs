@@ -1,6 +1,6 @@
 # Self-hosted programs — EE
 
-33 programs.
+34 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -9,6 +9,7 @@
 | `cooppank.ee` | — | — | — | active |
 | `crypt.ee` | [policy](https://github.com/cryptee/web-client/blob/v3/security.md) | recognition | yes | active |
 | `eans.ee` | — | recognition | — | active |
+| `ekspress.ee` | — | — | — | active |
 | `elering.ee` | — | — | — | retired |
 | `enefit.ee` | — | — | — | active |
 | `energia.ee` | — | — | — | active |

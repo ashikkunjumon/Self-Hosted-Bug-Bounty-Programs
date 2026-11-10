@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-544 programs.
+545 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -545,6 +545,7 @@
 | `vy.se` | [policy](https://www.vy.no/vilkar-og-personvern/vulnerability-disclosure-policy) | — | yes | active |
 | `websupport.se` | [policy](https://www.websupport.sk/support/kb/nahlasenie-zranitelnosti/) | — | — | active |
 | `xenit.se` | [policy](https://xenit.se/vdp) | — | — | active |
+| `xn--ob-eka.se` | — | — | — | active |
 | `yrkeshogskolan.se` | — | — | — | active |
 | `ystad.se` | — | — | — | active |
 | `ystadsallehanda.se` | — | — | — | active |

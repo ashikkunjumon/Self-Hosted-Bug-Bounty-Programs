@@ -1,6 +1,6 @@
 # Platform-hosted programs — ES
 
-28 programs.
+29 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -9,6 +9,7 @@
 | `blablacar.es` | — | monetary | — | active |
 | `bmw-motorrad.es` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
 | `bmw.es` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
+| `digimobil.es` | [policy](https://www.digimobil.es/responsible-disclosure) | — | — | active |
 | `factorial.es` | [policy](https://hackerone.com/factorial) | — | — | retired |
 | `factorialhr.es` | [policy](https://hackerone.com/factorial) | — | — | retired |
 | `getyourguide.es` | [policy](https://www.getyourguide.com/security) | monetary | — | retired |
