@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-635 programs.
+637 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -231,6 +231,7 @@
 | `glean.com` | [policy](https://bugcrowd.com/engagements/glean-technologies-public) | monetary | — | retired |
 | `global.com` | [policy](https://global.com/bug-bounty-policy/) | monetary | yes | retired |
 | `globalsign.com` | — | — | — | expired |
+| `globalstar.com` | — | — | — | active |
 | `gocardless.com` | [policy](https://gocardless.com/faq/merchants/security/) | monetary | — | active |
 | `goodnotes.com` | [policy](https://hackerone.com/goodnotes) | — | — | active |
 | `grab.com` | [policy](https://hackerone.com/grab?view_policy=true) | — | — | active |
@@ -306,6 +307,7 @@
 | `kiwi.com` | [policy](https://www.kiwi.com/us/pages/security) | monetary | — | active |
 | `kkr.com` | [policy](https://hackerone.com/kkr_vdp) | — | — | expired |
 | `kroger.com` | — | — | — | active |
+| `krymr.com` | [policy](https://www.usagm.gov/vulnerability-disclosure-policy/) | — | — | active |
 | `langfuse.com` | [policy](https://langfuse.com/security/responsible-disclosure) | monetary | — | retired |
 | `larksuite.com` | [policy](https://www.larksuite.com/bugbounty) | monetary | — | retired |
 | `lastpass.com` | [policy](https://www.lastpass.com/trust-center/security/responsible-disclosure) | monetary | — | retired |
@@ -395,7 +397,7 @@
 | `okta.com` | [policy](https://www.okta.com/vulnerability-reporting-policy/) | — | — | active |
 | `omarchy.org` | [policy](https://omarchy.org/security) | swag | — | active |
 | `ondeck.com` | [policy](https://www.ondeck.com/security-policy) | monetary | — | retired |
-| `oohcams.com` | [policy](https://hackerone.com/chaturbate?type=team&view_policy=true) | — | — | retired |
+| `oohcams.com` | [policy](https://hackerone.com/chaturbate?type=team&view_policy=true) | — | — | active |
 | `ookla.com` | [policy](https://security.ookla.com) | — | — | active |
 | `openai.com` | [policy](https://openai.com/policies/coordinated-vulnerability-disclosure-policy) | recognition | — | active |
 | `opensea.io` | [policy](https://bugcrowd.com/opensea) | monetary | — | active |
@@ -579,7 +581,7 @@
 | `usitc.gov` | [policy](https://www.usitc.gov/vulnerability-disclosure-policy) | monetary | — | retired |
 | `uspharmacist.com` | — | — | — | active |
 | `va.gov` | [policy](https://www.va.gov/vulnerability-disclosure-policy/) | — | — | expired |
-| `vanguard.com` | [policy](https://investor.vanguard.com/trust-security/vulnerability-disclosure-program) | — | — | active |
+| `vanguard.com` | [policy](https://investor.vanguard.com/trust-security/vulnerability-disclosure-program) | — | — | retired |
 | `veeam.com` | [policy](https://hackerone.com/veeam?type=team) | — | — | expired |
 | `vercel.com` | [policy](https://security.vercel.com/) | — | — | active |
 | `veriff.com` | [policy](https://www.veriff.com/bug-bounty) | monetary | — | retired |

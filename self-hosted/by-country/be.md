@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-276 programs.
+277 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -166,6 +166,7 @@
 | `multipharma.be` | — | — | — | active |
 | `myfamily.be` | — | — | — | active |
 | `namur.be` | — | — | — | active |
+| `nassogne.be` | — | — | — | active |
 | `nav.be` | [policy](https://www.nav.be/security-policy) | recognition | — | active |
 | `nieuwpoort.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `ninove.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |

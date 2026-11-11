@@ -1,10 +1,10 @@
 # Self-hosted programs — AT
 
-159 programs.
+160 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
-| `a-trust.at` | — | — | — | active |
+| `a-trust.at` | — | — | — | expired |
 | `aboutyou.at` | — | monetary | — | active |
 | `adsimple.at` | — | — | — | active |
 | `aekktn.at` | [policy](https://www.aekktn.at/security-policy/) | recognition | — | active |
@@ -111,6 +111,7 @@
 | `parship.at` | — | — | — | active |
 | `pearle.at` | [policy](https://essilorluxottica.vulnerability-disclosure.com/) | — | — | active |
 | `pensionsversicherung.at` | — | — | — | active |
+| `phst.at` | — | — | — | active |
 | `pixum.at` | — | — | — | active |
 | `playlists.at` | — | — | — | active |
 | `plus.ac.at` | — | — | — | expired |

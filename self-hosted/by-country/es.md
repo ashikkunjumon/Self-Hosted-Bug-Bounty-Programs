@@ -4,7 +4,7 @@
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
-| `1and1.es` | [policy](https://www.ionos.com/it-security) | — | — | active |
+| `1and1.es` | [policy](https://www.ionos.com/it-security) | — | — | expired |
 | `2kgam.es` | — | — | — | active |
 | `99designs.es` | — | — | — | active |
 | `active24.es` | [policy](https://faq.active24.com/cz/933388-Hl%C3%A1%C5%A1en%C3%AD-bezpe%C4%8Dnostn%C3%ADch-zranitelnost%C3%AD) | — | — | active |
@@ -57,7 +57,7 @@
 | `immedicohospitalario.es` | [policy](https://www.publimasdigital.com/proteccion-de-datos) | — | — | active |
 | `incibe-cert.es` | [policy](https://www.incibe.es/en/incibe-cert/about-us/vulnerability-disclosure-policy) | recognition | — | retired |
 | `inpost.es` | [policy](https://vdp.inpost.pl/p/Policy?lang=en-gb) | — | — | active |
-| `ionos.es` | [policy](https://www.ionos.com/it-security) | — | — | active |
+| `ionos.es` | [policy](https://www.ionos.com/it-security) | — | — | expired |
 | `juntadeandalucia.es` | — | — | — | active |
 | `kiehls.es` | — | recognition | — | active |
 | `laliga.es` | [policy](https://www.laliga.com/informacion-legal/laliga-cvd) | — | — | active |

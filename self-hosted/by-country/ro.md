@@ -1,11 +1,12 @@
 # Self-hosted programs — RO
 
-62 programs.
+63 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `aboutyou.ro` | — | monetary | — | active |
 | `aeroportcraiova.ro` | — | recognition | — | active |
+| `ahkrumaenien.ro` | — | — | — | active |
 | `alistmagazine.ro` | — | — | — | active |
 | `antena3.ro` | — | recognition | — | active |
 | `antipa.ro` | — | — | — | active |
@@ -56,7 +57,7 @@
 | `senat.ro` | — | recognition | — | expired |
 | `sezamo.ro` | — | — | — | active |
 | `stiridiaspora.ro` | — | recognition | — | active |
-| `stratosfera.ro` | — | — | — | active |
+| `stratosfera.ro` | — | — | — | retired |
 | `tonica.ro` | — | — | — | active |
 | `tradeville.ro` | — | — | — | active |
 | `travelminit.ro` | — | — | — | active |

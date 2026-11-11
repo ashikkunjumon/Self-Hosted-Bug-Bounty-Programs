@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-545 programs.
+547 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -43,6 +43,7 @@
 | `barometern.se` | — | — | — | active |
 | `bauhaus.se` | — | — | — | active |
 | `bblat.se` | — | — | — | active |
+| `bengtsfors.se` | — | — | — | active |
 | `berg.se` | — | — | — | active |
 | `bergianska.se` | — | — | — | active |
 | `bettingkollen.se` | [policy](https://bettingkollen.se/security-policy) | recognition | — | active |
@@ -93,6 +94,7 @@
 | `dnb.se` | — | — | — | active |
 | `domstol.se` | — | — | — | active |
 | `ds.se` | — | — | — | active |
+| `dunkerskulturhus.se` | — | — | — | active |
 | `dustin.se` | — | — | — | active |
 | `dustinhome.se` | — | — | — | active |
 | `ei.se` | — | — | — | active |
@@ -317,7 +319,7 @@
 | `nacka.se` | — | — | — | active |
 | `nassjo.se` | — | — | — | expired |
 | `ncsc.se` | — | — | — | active |
-| `new-work.se` | [policy](https://www.new-work.se/.well-known/rfc-2350.txt) | — | — | expired |
+| `new-work.se` | [policy](https://www.xing.com/.well-known/rfc-2350.txt) | — | — | active |
 | `newsmill.se` | — | — | — | active |
 | `nibe.se` | [policy](https://vdp.nibegroup.com) | recognition | — | active |
 | `nlt.se` | — | — | — | active |

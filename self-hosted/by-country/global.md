@@ -1,6 +1,6 @@
 # Self-hosted programs — GLOBAL
 
-3,282 programs.
+3,288 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@
 | `aircrack-ng.org` | [policy](https://aircrack-ng.org/security.html) | recognition | — | active |
 | `airdroid.com` | — | — | — | active |
 | `airnewzealand.com` | [policy](https://www.airnewzealand.co.nz/cyber-security-vulnerability-disclosure-policy) | monetary | yes | active |
-| `airship.com` | [policy](https://www.airship.com/legal/full-disclosure-security-policy/) | recognition | — | active |
+| `airship.com` | [policy](https://www.airship.com/legal/full-disclosure-security-policy/) | — | — | active |
 | `airstrip.com` | [policy](https://www.airstrip.com/about-us/product-security-cybersecurity) | recognition | — | retired |
 | `airtahitinui.com` | — | — | — | active |
 | `airtasker.com` | — | — | — | expired |
@@ -95,6 +95,7 @@
 | `ajog.org` | — | — | — | active |
 | `ajpmonline.org` | — | — | — | active |
 | `ajronline.org` | — | — | — | active |
+| `akeneo.com` | — | — | — | expired |
 | `akkoma.dev` | [policy](https://codeberg.org/forgejo/governance/src/branch/main/SECURITY-POLICY.md) | — | — | active |
 | `akwaaba.app` | [policy](https://akwaaba.app/security) | monetary | yes | retired |
 | `al-enterprise.com` | [policy](https://www.al-enterprise.com/en/support/security-advisories) | — | — | retired |
@@ -212,8 +213,8 @@
 | `athencia.com` | [policy](https://athencia.com/security) | — | yes | active |
 | `athleticscholar.net` | [policy](https://athleticscholar.net/legal/security) | recognition | yes | active |
 | `atlan.com` | [policy](https://atlan.com/responsible-disclosure-program/) | swag | yes | active |
-| `atlassian.com` | [policy](https://www.atlassian.com/trust/security/report-a-vulnerability) | monetary | yes | active |
-| `atlassian.net` | [policy](https://www.atlassian.com/trust/security/report-a-vulnerability) | monetary | yes | active |
+| `atlassian.com` | [policy](https://www.atlassian.com/trust/security/report-a-vulnerability) | — | — | active |
+| `atlassian.net` | [policy](https://www.atlassian.com/trust/security/report-a-vulnerability) | — | — | active |
 | `atlasvpn.com` | — | — | — | retired |
 | `atmail.com` | [policy](https://www.atmail.com/bug-bounty-terms/) | monetary | yes | retired |
 | `atomic.com` | — | — | — | retired |
@@ -230,7 +231,7 @@
 | `austrian.com` | — | — | — | active |
 | `authjs.dev` | — | recognition | — | active |
 | `authorea.com` | — | — | — | active |
-| `automox.com` | [policy](https://www.automox.com/platform/security) | — | — | active |
+| `automox.com` | [policy](https://www.automox.com/platform/security) | monetary | — | active |
 | `autostoresystem.com` | [policy](https://www.autostoresystem.com/legal/vulnerability-disclosure-policy-responsible-research-guidelines) | — | yes | retired |
 | `avast.com` | — | recognition | — | active |
 | `avature.net` | [policy](https://docs.avature.net/policies/Vulnerability_Disclosure_Policy_1.2.pdf) | monetary | — | active |
@@ -296,8 +297,8 @@
 | `bisecthosting.com` | [policy](https://www.bisecthosting.com/bug-bounty) | monetary | — | retired |
 | `bishopfox.com` | [policy](https://bishopfox.com/privacy-statement) | — | — | active |
 | `bit2me.com` | [policy](https://support.bit2me.com/en/support/solutions/articles/35000170366) | monetary | — | retired |
-| `bitbucket.io` | [policy](https://www.atlassian.com/trust/security/report-a-vulnerability) | monetary | yes | active |
-| `bitbucket.org` | [policy](https://www.atlassian.com/trust/security/report-a-vulnerability) | monetary | yes | active |
+| `bitbucket.io` | [policy](https://www.atlassian.com/trust/security/report-a-vulnerability) | — | — | active |
+| `bitbucket.org` | [policy](https://www.atlassian.com/trust/security/report-a-vulnerability) | — | — | active |
 | `bitcointreasuries.net` | — | — | — | active |
 | `bitcoinvn.io` | [policy](https://support.bitcoinvn.io/help/en-us/3-general/6-responsible-vulnerability-disclosure-policy) | — | — | active |
 | `bitdegree.org` | — | monetary | — | active |
@@ -949,6 +950,7 @@
 | `fansly.com` | — | — | — | active |
 | `fark.com` | [policy](https://www.fark.com/farq/faq/#How_do_I_report_a_bug_or_a_security_issue?) | — | — | active |
 | `fasebj.org` | — | — | — | active |
+| `fast.io` | [policy](https://fast.io/responsible-disclosure/) | — | — | active |
 | `fastmail.com` | [policy](https://www.fastmail.com/bug-bounty/) | monetary | — | active |
 | `fau.eu` | — | — | — | active |
 | `favordelivery.com` | [policy](https://favordelivery.com/security) | — | yes | active |
@@ -1020,6 +1022,7 @@
 | `fortran.io` | — | — | — | active |
 | `fortum.com` | — | recognition | — | active |
 | `forwardemail.net` | [policy](https://github.com/forwardemail/.github/blob/main/SECURITY.md) | monetary | — | active |
+| `forwomeninscience.com` | — | recognition | — | active |
 | `fossil.com` | — | — | — | active |
 | `fosters.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
 | `fotmob.com` | — | — | — | active |
@@ -1398,7 +1401,7 @@
 | `init7.net` | — | — | — | expired |
 | `innomobians.com` | [policy](https://www.innomobians.com/security-policy.html) | recognition | yes | expired |
 | `innovationflow.app` | [policy](https://innovationflow.app/security-policy) | recognition | yes | active |
-| `insanejournal.com` | — | — | — | active |
+| `insanejournal.com` | — | — | — | retired |
 | `insforge.dev` | — | — | — | active |
 | `insightly.com` | — | — | — | active |
 | `instant-gaming.com` | [policy](https://www.instant-gaming.com/en/docs/bugbounty/) | monetary | yes | retired |
@@ -1661,7 +1664,7 @@
 | `logo.com` | — | — | — | active |
 | `lohud.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
 | `long-mcquade.com` | — | — | — | active |
-| `loom.com` | [policy](https://www.atlassian.com/trust/security/report-a-vulnerability) | monetary | yes | active |
+| `loom.com` | [policy](https://www.atlassian.com/trust/security/report-a-vulnerability) | — | — | active |
 | `loreal.com` | — | recognition | — | active |
 | `lorealparisusa.com` | — | recognition | — | active |
 | `lovable.dev` | [policy](https://lovable.dev/security-issues) | — | — | active |
@@ -1951,7 +1954,7 @@
 | `nl.trustpilot.com` | — | — | — | active |
 | `nmb.gov` | [policy](https://nmb.gov/NMB_Application/index.php/vdp/) | — | — | retired |
 | `nmrk.com` | — | — | — | active |
-| `nn-group.com` | [policy](https://www.nn-group.com/ethical-hacking-nn-groups-responsible-disclosure-policy.htm) | monetary | — | active |
+| `nn-group.com` | [policy](https://www.nn-group.com/ethical-hacking-nn-groups-responsible-disclosure-policy.htm) | — | — | active |
 | `no8.io` | [policy](https://no8.io/zh-tw/privacy-policy) | — | — | active |
 | `noctaracorp.com` | [policy](https://noctaracorp.com/security) | monetary | yes | active |
 | `noctula.org` | [policy](https://www.noctula.org/en/security/disclosure) | — | yes | active |
@@ -2375,7 +2378,7 @@
 | `raspberrypi.com` | [policy](https://www.raspberrypi.com/security/) | recognition | — | active |
 | `raspberrypi.org` | [policy](https://www.raspberrypi.org/contact/security/) | monetary | — | active |
 | `ravelin.com` | — | — | — | active |
-| `raycast.com` | — | — | — | expired |
+| `raycast.com` | — | — | — | active |
 | `rayspec.dev` | [policy](https://rayspec.dev/docs/security-policy) | — | — | active |
 | `razorpay.com` | [policy](https://razorpay.com/responsible-disclosure/) | monetary | — | expired |
 | `rcpath.org` | [policy](https://pixl8.com/en/vulnerability-disclosure-policy.html) | — | — | active |
@@ -2653,7 +2656,7 @@
 | `soti.net` | [policy](https://soti.net/resources/security-compliance/) | monetary | — | active |
 | `soundcloud.com` | [policy](https://soundcloud.com/security/responsible-disclosure-policy) | — | — | active |
 | `sourcefinch.com` | [policy](https://sourcefinch.com/security) | — | yes | active |
-| `sourcetreeapp.com` | [policy](https://www.atlassian.com/trust/security/report-a-vulnerability) | monetary | yes | active |
+| `sourcetreeapp.com` | [policy](https://www.atlassian.com/trust/security/report-a-vulnerability) | — | — | active |
 | `southaustralia.com` | [policy](https://www.security.sa.gov.au/cyber-security/report-a-security-vulnerability) | — | — | expired |
 | `southbendtribune.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
 | `southcoasttoday.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
@@ -2708,7 +2711,7 @@
 | `starnewsonline.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
 | `starryai.com` | — | — | — | active |
 | `statesmanjournal.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
-| `statuspage.io` | [policy](https://www.atlassian.com/trust/security/report-a-vulnerability) | monetary | yes | active |
+| `statuspage.io` | [policy](https://www.atlassian.com/trust/security/report-a-vulnerability) | — | — | active |
 | `staugustine.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
 | `stay22.com` | [policy](https://stay22.com/bugbounty) | monetary | yes | active |
 | `steadyhq.com` | [policy](https://steady.page/en/security) | — | yes | active |
@@ -2770,7 +2773,7 @@
 | `swtimes.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
 | `sybase.com` | — | — | — | expired |
 | `symbaloo.com` | — | — | — | active |
-| `symfony.com` | [policy](https://symfony.com/doc/current/contributing/code/security.html) | — | — | expired |
+| `symfony.com` | [policy](https://symfony.com/doc/current/contributing/code/security.html) | — | — | active |
 | `syncfusion.com` | [policy](https://www.syncfusion.com/legal/security-policy/) | monetary | — | active |
 | `syncthing.net` | [policy](https://syncthing.net/security/) | — | — | active |
 | `syrax.global` | [policy](https://www.syrax.global/security.html) | monetary | — | active |
@@ -2907,6 +2910,7 @@
 | `tomba.io` | [policy](https://tomba.io/security-policy) | — | — | active |
 | `tomra.com` | — | — | — | retired |
 | `ton.eu` | — | — | — | active |
+| `tonies.com` | — | monetary | — | active |
 | `toogoodtogo.com` | — | — | — | active |
 | `toolglade.com` | [policy](https://toolglade.com/security-policy) | monetary | yes | retired |
 | `toolslib.net` | — | recognition | — | active |
@@ -2938,7 +2942,7 @@
 | `travelocity.com` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `trbonet.com` | [policy](https://trbonet.com/security) | — | yes | active |
 | `trekbikes.com` | — | — | — | active |
-| `trello.com` | [policy](https://www.atlassian.com/trust/security/report-a-vulnerability) | monetary | yes | active |
+| `trello.com` | [policy](https://www.atlassian.com/trust/security/report-a-vulnerability) | — | — | active |
 | `trendmicro.com` | [policy](https://www.trendmicro.com/vulnerability) | — | — | active |
 | `tresorit.com` | — | recognition | — | active |
 | `trezor.io` | [policy](https://trezor.io/support/a/how-to-report-a-security-issue) | monetary | — | active |
@@ -3058,6 +3062,7 @@
 | `vector.com` | — | — | — | active |
 | `veganuary.com` | — | — | — | active |
 | `velaminds.com` | [policy](https://www.velaminds.com/responsible-disclosure.html) | monetary | yes | retired |
+| `vend.com` | [policy](https://www.vend.com/responsible-disclosure-policy.txt) | swag | yes | active |
 | `vendrisk360.com` | [policy](https://www.vendrisk360.com/terms/) | monetary | — | retired |
 | `vention.io` | [policy](https://vention.com/security) | — | — | active |
 | `veracode.com` | [policy](https://www.veracode.com/legal-privacy/responsible-disclosure-policy) | — | — | retired |
@@ -3229,7 +3234,7 @@
 | `xeno-canto.org` | [policy](https://www.naturalis.nl/en/responsible-disclosure) | — | — | active |
 | `xenproject.org` | [policy](https://xenproject.org/about/security-policy/) | — | — | retired |
 | `xiglute.com` | — | — | — | active |
-| `xing.com` | [policy](https://www.new-work.se/.well-known/rfc-2350.txt) | — | — | expired |
+| `xing.com` | [policy](https://www.xing.com/.well-known/rfc-2350.txt) | — | — | active |
 | `xrite.com` | [policy](https://www.xrite.com/policies/product-security) | — | — | retired |
 | `xsisec.com` | [policy](https://www.xsisec.com/security) | monetary | yes | active |
 | `xtb.com` | — | — | — | active |
@@ -3239,6 +3244,7 @@
 | `yandex.com` | [policy](https://ya.cc/t/1cSZixjB3gkSva) | monetary | — | active |
 | `yandex.eu` | [policy](https://ya.cc/t/1cSZixjB3gkSva) | monetary | — | active |
 | `yandex.net` | [policy](https://ya.cc/t/1cSZixjB3gkSva) | monetary | — | active |
+| `yarnspinner.dev` | [policy](https://yarnspinner.dev/terms/) | monetary | — | active |
 | `ydr.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
 | `yeahhub.com` | [policy](https://www.yeahhub.com/privacy-policy/) | — | — | active |
 | `yesware.com` | [policy](https://www.yesware.com/security/) | monetary | — | retired |

@@ -495,7 +495,7 @@
 | `wr.de` | — | — | — | active |
 | `wuerzburg.de` | — | — | — | active |
 | `wuppertal.de` | [policy](https://digital.wuppertal.de/medien_digitalisierung/10_ISMS_Stadt_Wuppertal_Richtlinie_zur_Offenlegung_von_Sicherheitsluecken_V2.0.pdf) | monetary | — | active |
-| `xing.de` | [policy](https://www.new-work.se/.well-known/rfc-2350.txt) | — | — | expired |
+| `xing.de` | [policy](https://www.xing.com/.well-known/rfc-2350.txt) | — | — | active |
 | `zdf.de` | — | — | — | active |
 | `zdfheute.de` | — | — | — | active |
 | `zdh.de` | — | — | — | active |

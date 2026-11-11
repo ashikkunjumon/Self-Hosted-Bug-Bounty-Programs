@@ -4,7 +4,7 @@
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
-| `1and1.fr` | [policy](https://www.ionos.com/it-security) | — | — | active |
+| `1and1.fr` | [policy](https://www.ionos.com/it-security) | — | — | expired |
 | `6play.fr` | — | — | — | active |
 | `99designs.fr` | — | — | — | active |
 | `abritel.fr` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
@@ -86,7 +86,7 @@
 | `icp.fr` | — | recognition | — | active |
 | `idele.fr` | — | — | — | active |
 | `infonie.fr` | — | — | — | active |
-| `ionos.fr` | [policy](https://www.ionos.com/it-security) | — | — | active |
+| `ionos.fr` | [policy](https://www.ionos.com/it-security) | — | — | expired |
 | `isover.fr` | — | — | — | active |
 | `kiloutou.fr` | — | — | — | active |
 | `laas.fr` | — | — | — | active |

@@ -1,13 +1,13 @@
 # Self-hosted programs — NL
 
-450 programs.
+452 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `013.nl` | — | — | — | active |
 | `113.nl` | — | — | — | active |
 | `123inkt.nl` | [policy](https://www.123inkt.nl/page/responsible_disclosure.html) | monetary | — | active |
-| `1limburg.nl` | [policy](https://www.regiogroei.nl/responsible-disclosure) | — | — | active |
+| `1limburg.nl` | [policy](https://www.regiogroei.nl/responsible-disclosure) | — | yes | active |
 | `3fm.nl` | — | recognition | — | active |
 | `achmea.nl` | [policy](https://achmea.nl/en/responsible-disclosure) | swag | — | active |
 | `acm.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
@@ -36,7 +36,7 @@
 | `antagonist.nl` | [policy](https://www.antagonist.nl/security/) | — | yes | active |
 | `antenna.nl` | — | — | — | active |
 | `anthura.nl` | [policy](https://www.anthura.nl/en/cybersecurity/reporting-a-security-breach) | — | — | expired |
-| `anwb.nl` | [policy](https://www.anwb.nl/meldpunt-kwetsbaarheden) | — | — | active |
+| `anwb.nl` | [policy](https://www.anwb.nl/meldpunt-kwetsbaarheden) | monetary | — | active |
 | `anwbcamping.nl` | — | — | — | active |
 | `apeldoorn.nl` | [policy](https://www.apeldoorn.nl/coordinated-vulnerability-disclosure-cvd) | monetary | yes | active |
 | `apotheek.nl` | — | — | — | active |
@@ -49,6 +49,7 @@
 | `asr.nl` | [policy](https://www.asrnederland.nl/meldpunt-digitale-kwetsbaarheden) | — | yes | retired |
 | `asterict.nl` | — | — | — | active |
 | `at5.nl` | [policy](https://at5.nl/responsible-disclosure) | — | — | active |
+| `autisme.nl` | — | — | — | active |
 | `autorai.nl` | — | — | — | active |
 | `autoriteitpersoonsgegevens.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `avans.nl` | [policy](https://www.avans.nl/over-avans/responsible-disclosure) | — | yes | active |
@@ -58,7 +59,7 @@
 | `beeldengeluid.nl` | — | — | — | active |
 | `belastingdienst.nl` | [policy](https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/standaard_functies/individuals/contact/data-leak-vulnerability-abuse-computer-systems/coordinated-vulnerability-disclosure) | recognition | — | active |
 | `belsimpel.nl` | [policy](https://www.belsimpel.nl/klantenservice/overbelsimpel/veiligheidenprivacy) | monetary | — | active |
-| `bertstevensorthesebouw.nl` | [policy](https://kerstenhulpmiddelen.nl/coordinated-vulnerability-disclosure/) | — | — | active |
+| `bertstevensorthesebouw.nl` | [policy](https://kerstenhulpmiddelen.nl/coordinated-vulnerability-disclosure/) | — | yes | active |
 | `betaalvereniging.nl` | [policy](https://level-level.com/responsible-disclosure/) | — | — | active |
 | `bevolkingsonderzoeknederland.nl` | [policy](https://www.bevolkingsonderzoeknederland.nl/responsible-disclosure/) | — | yes | retired |
 | `bibliotheek.nl` | — | — | — | expired |
@@ -103,7 +104,7 @@
 | `delft.nl` | — | — | — | active |
 | `deltares.nl` | [policy](https://www.deltares.nl/en/conditions-and-certifications) | — | — | active |
 | `denhaag.nl` | [policy](https://www.denhaag.nl/en/safety/reporting-a-vulnerability-cvd/) | — | — | active |
-| `denhaagfm.nl` | [policy](https://www.regiogroei.nl/responsible-disclosure) | — | — | active |
+| `denhaagfm.nl` | [policy](https://www.regiogroei.nl/responsible-disclosure) | — | yes | active |
 | `deonlinedrogist.nl` | [policy](https://www.deonlinedrogist.nl/responsible-disclosure-policy) | swag | — | active |
 | `deventer.nl` | [policy](https://www.deventer.nl/responsible-disclosure) | — | yes | active |
 | `diabetesfonds.nl` | — | — | — | active |
@@ -154,7 +155,7 @@
 | `genealogieonline.nl` | [policy](https://genealogie.coret.org/en/beleid/responsible_disclosure.php) | recognition | — | active |
 | `gettyimages.nl` | — | — | — | retired |
 | `gezondheidsraad.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
-| `gld.nl` | [policy](https://www.regiogroei.nl/responsible-disclosure) | — | — | active |
+| `gld.nl` | [policy](https://www.regiogroei.nl/responsible-disclosure) | — | yes | active |
 | `goda.nl` | — | — | — | active |
 | `government.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `groningen.nl` | [policy](https://www.slash2.nl/responsible-disclosure-policy) | recognition | yes | active |
@@ -223,8 +224,8 @@
 | `kpn.nl` | — | monetary | — | active |
 | `kro-ncrv.nl` | [policy](https://kro-ncrv.nl/kwetsbaarheid-website-melden) | recognition | yes | active |
 | `kvk.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
-| `l1.nl` | [policy](https://www.regiogroei.nl/responsible-disclosure) | — | — | active |
-| `l1nieuws.nl` | [policy](https://www.regiogroei.nl/responsible-disclosure) | — | — | active |
+| `l1.nl` | [policy](https://www.regiogroei.nl/responsible-disclosure) | — | yes | active |
+| `l1nieuws.nl` | [policy](https://www.regiogroei.nl/responsible-disclosure) | — | yes | active |
 | `landelijkregisterkinderopvang.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `leeuwarden.nl` | [policy](https://www.leeuwarden.nl/nl/responsible-disclosure) | monetary | — | active |
 | `leiden.nl` | [policy](https://gemeente.leiden.nl/formulieren/melding-van-een-beveiligingslek-of-ict-probleem/) | — | — | active |
@@ -280,12 +281,13 @@
 | `nlnetlabs.nl` | [policy](https://www.nlnetlabs.nl/security-report/) | — | — | active |
 | `nltimes.nl` | [policy](https://nltimes.nl/vulnerability-disclosure-policy) | monetary | — | expired |
 | `nluug.nl` | [policy](https://nluug.nl/security/) | monetary | — | active |
-| `nn.nl` | [policy](https://www.nn-group.com/ethical-hacking-nn-groups-responsible-disclosure-policy.htm) | monetary | — | active |
+| `nn.nl` | [policy](https://www.nn-group.com/ethical-hacking-nn-groups-responsible-disclosure-policy.htm) | — | — | active |
 | `noord-holland.nl` | [policy](https://www.noord-holland.nl/Home/Beheer/Meta/Responsible_Disclosure) | — | yes | active |
 | `noordhoff.nl` | [policy](https://www.infinitaslearning.com/privacy-policy/) | — | — | active |
 | `nos.nl` | [policy](https://over.nos.nl/wp-content/uploads/2026/06/260615_NOS-Responsible-disclosure-beleid_NE_EN.pdf) | monetary | — | active |
 | `notaris.nl` | [policy](https://www.notaris.nl/page/beveiliging-niet-in-orde-meld-het-ons) | recognition | yes | active |
 | `npo.nl` | — | recognition | — | active |
+| `npo3fm.nl` | — | recognition | — | active |
 | `nporadio1.nl` | — | recognition | — | active |
 | `nporadio4.nl` | — | recognition | — | active |
 | `nporadio5.nl` | — | recognition | — | active |
@@ -300,14 +302,14 @@
 | `nza.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `odido.nl` | [policy](https://assets.odido.nl/x/70e0c93ba2/responsible_disclosure.pdf) | monetary | — | active |
 | `officielebekendmakingen.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
-| `ohra.nl` | [policy](https://www.nn-group.com/ethical-hacking-nn-groups-responsible-disclosure-policy.htm) | monetary | — | active |
+| `ohra.nl` | [policy](https://www.nn-group.com/ethical-hacking-nn-groups-responsible-disclosure-policy.htm) | — | — | active |
 | `om.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `omroep.nl` | — | recognition | — | active |
 | `omroepbrabant.nl` | — | — | — | active |
-| `omroepgelderland.nl` | [policy](https://www.regiogroei.nl/responsible-disclosure) | — | — | active |
+| `omroepgelderland.nl` | [policy](https://www.regiogroei.nl/responsible-disclosure) | — | yes | active |
 | `omroepmax.nl` | [policy](https://www.omroepmax.nl/kwetsbaarheid-melden/) | recognition | yes | active |
-| `omroepwest.nl` | [policy](https://www.regiogroei.nl/responsible-disclosure) | — | — | active |
-| `omroepzeeland.nl` | [policy](https://www.regiogroei.nl/responsible-disclosure) | — | — | active |
+| `omroepwest.nl` | [policy](https://www.regiogroei.nl/responsible-disclosure) | — | yes | active |
+| `omroepzeeland.nl` | [policy](https://www.regiogroei.nl/responsible-disclosure) | — | yes | active |
 | `omropfryslan.nl` | [policy](https://www.regiogroei.nl/responsible-disclosure) | — | — | active |
 | `onderwijsinspectie.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `onderzoeksraad.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
@@ -350,10 +352,10 @@
 | `rivm.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `rocva.nl` | [policy](https://www.rocva.nl/responsible-disclosure) | — | — | active |
 | `rotterdam.nl` | [policy](https://www.rotterdam.nl/responsible-disclosure) | — | — | active |
-| `rtvdrenthe.nl` | [policy](https://www.regiogroei.nl/responsible-disclosure) | — | — | active |
-| `rtvnoord.nl` | [policy](https://www.regiogroei.nl/responsible-disclosure) | — | — | active |
+| `rtvdrenthe.nl` | [policy](https://www.regiogroei.nl/responsible-disclosure) | — | yes | active |
+| `rtvnoord.nl` | [policy](https://www.regiogroei.nl/responsible-disclosure) | — | yes | active |
 | `rtvoost.nl` | — | — | — | active |
-| `rtvutrecht.nl` | [policy](https://www.regiogroei.nl/responsible-disclosure) | — | — | active |
+| `rtvutrecht.nl` | [policy](https://www.regiogroei.nl/responsible-disclosure) | — | yes | active |
 | `ru.nl` | [policy](https://www.ru.nl/cert/rfc-2350) | recognition | yes | active |
 | `rug.nl` | [policy](https://www.rug.nl/about-ug/policy-and-strategy/privacy-and-security-at-the-ug/responsible-disclosure) | recognition | yes | active |
 | `ruimtelijkeplannen.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |

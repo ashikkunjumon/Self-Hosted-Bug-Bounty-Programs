@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-377 programs.
+380 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -115,6 +115,8 @@
 | `footshop.cz` | — | — | — | active |
 | `forendors.cz` | — | — | — | active |
 | `forrest.cz` | — | — | — | active |
+| `fortuna-hra.cz` | — | — | — | active |
+| `fortuna-vstup.cz` | — | — | — | active |
 | `forum2000.cz` | — | — | — | expired |
 | `fraus.cz` | — | — | — | active |
 | `freelo.cz` | — | — | — | active |
@@ -136,6 +138,7 @@
 | `hotely.cz` | — | — | — | active |
 | `hrad.cz` | — | — | — | active |
 | `hras.cz` | — | — | — | active |
+| `hudy.cz` | — | — | — | active |
 | `hwkitchen.cz` | — | — | — | active |
 | `hypotecnibanka.cz` | — | — | — | active |
 | `ifortuna.cz` | — | monetary | — | active |
@@ -178,7 +181,7 @@
 | `kraj-lbc.cz` | — | — | — | active |
 | `kraloveskoly.cz` | — | — | — | active |
 | `krimi-plzen.cz` | — | — | — | active |
-| `kupi.cz` | [policy](https://napoveda.seznam.cz/cz/smluvni-podminky/podminky-kupi-cz/) | — | — | active |
+| `kupi.cz` | [policy](https://napoveda.seznam.cz/cz/smluvni-podminky/podminky-kupi-cz/) | — | — | retired |
 | `kvaltex.cz` | — | — | — | active |
 | `lacollezione.cz` | — | — | — | expired |
 | `laskakit.cz` | — | — | — | active |
