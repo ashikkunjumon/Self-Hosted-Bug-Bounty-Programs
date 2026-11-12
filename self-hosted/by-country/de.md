@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-496 programs.
+499 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -172,7 +172,7 @@
 | `fuerth.de` | — | — | — | active |
 | `funkemedien.de` | — | — | — | retired |
 | `g7germany.de` | — | — | — | active |
-| `galaxus.de` | [policy](https://www.galaxus.ch/security) | monetary | yes | active |
+| `galaxus.de` | [policy](https://www.galaxus.ch/security) | — | yes | active |
 | `gambio.de` | — | — | — | retired |
 | `gamestar.de` | — | — | — | retired |
 | `gameswelt.de` | — | — | — | active |
@@ -305,10 +305,12 @@
 | `neoshare.de` | [policy](https://www.neoshare.com/responsible-disclosure-program) | recognition | — | active |
 | `netto-online.de` | — | — | — | active |
 | `neuepresse.de` | — | — | — | active |
+| `neurocheck.de` | [policy](https://www.neurocheck.de/unternehmen/product-security/vdp/) | — | yes | active |
 | `nius.de` | — | — | — | active |
 | `nivea.de` | [policy](https://soc.beiersdorf.com/disclosurepolicy.html) | — | yes | active |
 | `nospamproxy.de` | — | recognition | — | active |
 | `notebooksbilliger.de` | [policy](https://service.notebooksbilliger.de/help/de-de/36-datenschutz-schutz/385-vulnerability-disclosure-policy) | — | — | active |
+| `novotechnik.de` | [policy](https://www.novotechnik.de/en/service/psirt/) | — | — | active |
 | `nrwbank.de` | — | — | — | retired |
 | `nrz.de` | — | — | — | active |
 | `nuernberger.de` | — | — | — | active |
@@ -355,6 +357,7 @@
 | `rlp.de` | — | — | — | active |
 | `rmv.de` | — | — | — | active |
 | `rnd.de` | — | — | — | active |
+| `rootsektor.de` | [policy](https://www.rootsektor.de/en/report-a-vulnerability/) | recognition | yes | active |
 | `rossmann.de` | — | — | — | active |
 | `rub.de` | — | — | — | active |
 | `ruhr-uni-bochum.de` | — | — | — | active |
@@ -380,7 +383,7 @@
 | `slub-dresden.de` | — | — | — | active |
 | `sma.de` | [policy](https://www.sma.de/en/cybersecurity/responsible-disclosure) | — | — | active |
 | `snafu.de` | — | — | — | active |
-| `soscisurvey.de` | [policy](https://www.soscisurvey.de/en/security) | monetary | — | active |
+| `soscisurvey.de` | [policy](https://www.soscisurvey.de/en/security) | recognition | yes | active |
 | `sparkasse.de` | [policy](https://www.s-communication.de/BugBounty.html) | monetary | — | active |
 | `spdfraktion.de` | — | — | — | retired |
 | `speyer.de` | — | — | — | active |

@@ -17,7 +17,7 @@
 | `bmw.de` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
 | `clark.de` | [policy](https://app.yogosha.com/cvd_policies_yogosha_en.pdf) | monetary | — | expired |
 | `cornelsen.de` | — | — | — | active |
-| `dhl.de` | [policy](https://www.dpdhl.com/en/sustainability/governance/cyber-security/vulnerability-disclosure-policy.html) | — | yes | active |
+| `dhl.de` | [policy](https://www.dpdhl.com/en/sustainability/governance/cyber-security/vulnerability-disclosure-policy.html) | — | — | active |
 | `doctolib.de` | [policy](https://yeswehack.com/programs/doctolib-public-bug-bounty-program) | monetary | — | active |
 | `duden.de` | — | — | — | active |
 | `dzbank.de` | [policy](https://www.dzbank.com/content/dzbank/en/home/footernavigation/guidelines-and-information/bug-bounty-program.html) | monetary | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-547 programs.
+551 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -24,6 +24,7 @@
 | `alvkarleby.se` | — | — | — | active |
 | `amal.se` | — | — | — | active |
 | `amelia.se` | — | — | — | active |
+| `amnesty.se` | — | — | — | active |
 | `ancestry.se` | [policy](https://www.ancestry.com/c/legal/security) | — | — | active |
 | `ange.se` | — | — | — | active |
 | `antagning.se` | — | — | — | active |
@@ -47,6 +48,7 @@
 | `berg.se` | — | — | — | active |
 | `bergianska.se` | — | — | — | active |
 | `bettingkollen.se` | [policy](https://bettingkollen.se/security-policy) | recognition | — | active |
+| `bettingstugan.se` | [policy](https://bettingstugan.se/security-policy) | recognition | — | active |
 | `billerud.se` | — | — | — | active |
 | `bilprovningen.se` | — | — | — | active |
 | `bio-link.se` | [policy](https://bio-link.se/page/security) | recognition | — | expired |
@@ -66,6 +68,7 @@
 | `bring.se` | — | — | — | retired |
 | `bt.se` | — | — | — | active |
 | `bth.se` | — | — | — | active |
+| `burlov.se` | — | — | — | active |
 | `businessregiongoteborg.se` | — | — | — | expired |
 | `byggindustrin.se` | — | — | — | active |
 | `byggnads.se` | — | — | — | active |
@@ -102,6 +105,7 @@
 | `eksjo.se` | — | — | — | expired |
 | `ellevio.se` | — | — | — | expired |
 | `elon.se` | — | — | — | active |
+| `energiochklimatradgivningen.se` | — | — | — | active |
 | `enkoping.se` | — | — | — | active |
 | `eon.se` | — | — | — | active |
 | `epassi.se` | — | — | — | active |
@@ -492,7 +496,7 @@
 | `tomelilla.se` | — | — | — | active |
 | `torsby.se` | — | — | — | active |
 | `trafa.se` | — | — | — | expired |
-| `trafikverket.se` | — | — | — | retired |
+| `trafikverket.se` | — | — | — | active |
 | `tranastidning.se` | — | — | — | active |
 | `transportforetagen.se` | — | — | — | active |
 | `transportstyrelsen.se` | — | — | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — RO
 
-63 programs.
+64 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -52,6 +52,7 @@
 | `omv.ro` | — | — | — | active |
 | `payu.ro` | [policy](https://corporate.payu.com/responsible-disclosure-policy/) | monetary | — | retired |
 | `peles.ro` | — | — | — | active |
+| `petrom.ro` | — | — | — | active |
 | `pluxee.ro` | [policy](https://vdp.pluxee.app/p/Policy) | — | — | active |
 | `rompetrol.ro` | — | — | — | active |
 | `senat.ro` | — | recognition | — | expired |

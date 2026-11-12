@@ -52,7 +52,7 @@
 | `flixbus.at` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |
 | `futureweb.at` | — | — | — | active |
 | `gaijin.at` | [policy](https://www.gaijin.at/en/vulnerability-disclosure-policy) | — | yes | active |
-| `galaxus.at` | [policy](https://www.galaxus.ch/security) | monetary | yes | active |
+| `galaxus.at` | [policy](https://www.galaxus.ch/security) | — | yes | active |
 | `gameswelt.at` | — | — | — | active |
 | `gesundheitskasse.at` | — | — | — | active |
 | `gesundheitsverbund.at` | — | — | — | active |

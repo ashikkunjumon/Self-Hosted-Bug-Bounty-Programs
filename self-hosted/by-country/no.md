@@ -1,6 +1,6 @@
 # Self-hosted programs — NO
 
-238 programs.
+240 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -55,6 +55,7 @@
 | `elvia.no` | — | — | — | expired |
 | `enova.no` | — | recognition | — | expired |
 | `entur.no` | — | — | — | active |
+| `environment.no` | — | — | — | active |
 | `eventim.no` | — | — | — | active |
 | `expedia.no` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `ez.no` | [policy](https://www.ibexa.co/software-information/security) | recognition | — | active |
@@ -111,6 +112,7 @@
 | `kode24.no` | — | — | — | expired |
 | `kolumbus.no` | — | — | — | active |
 | `komplett.no` | — | — | — | expired |
+| `kondomeriet.no` | — | — | — | active |
 | `kreativtforum.no` | [policy](https://www.kreativtforum.no/security-policy) | recognition | — | active |
 | `kreftforeningen.no` | — | — | — | active |
 | `kristiania.no` | [policy](https://www.kristiania.no/responsible-disclosure-policy/) | swag | yes | expired |

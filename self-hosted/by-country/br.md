@@ -1,6 +1,6 @@
 # Self-hosted programs — BR
 
-106 programs.
+107 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -52,6 +52,7 @@
 | `idinheiro.com.br` | [policy](https://www.idinheiro.com.br/politica-de-privacidade/) | — | — | active |
 | `inmet.gov.br` | [policy](https://www.gov.br/agricultura/pt-br/acesso-a-informacao/tecnologia-da-informacao/seguranca-da-informacao/politica-de-seguranca-da-informacao-e-comunicacao-posic) | — | — | active |
 | `investidorpetrobras.com.br` | — | — | — | retired |
+| `iob.com.br` | [policy](https://iob.com.br/aviso-de-privacidade/) | — | — | active |
 | `itaipuparquetec.org.br` | — | — | — | retired |
 | `jcconcursos.com.br` | — | — | — | expired |
 | `jusbrasil.com.br` | — | — | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-277 programs.
+280 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -23,6 +23,7 @@
 | `arlon.be` | — | — | — | active |
 | `aspeditions.be` | — | — | — | expired |
 | `ath.be` | — | — | — | active |
+| `aubel.be` | — | — | — | active |
 | `baarle-hertog.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `backmarket.be` | — | — | — | active |
 | `baloise.be` | [policy](https://www.baloise.be/Security/vulnerability-disclose-policy.html) | recognition | — | active |
@@ -97,7 +98,7 @@
 | `folderbode.be` | — | — | — | active |
 | `fomu.be` | [policy](https://fomu.be/security-policy) | recognition | — | active |
 | `fotomuseum.be` | [policy](https://fomu.be/security-policy) | recognition | — | active |
-| `galaxus.be` | [policy](https://www.galaxus.ch/security) | monetary | yes | active |
+| `galaxus.be` | [policy](https://www.galaxus.ch/security) | — | yes | active |
 | `geluksdriehoek.be` | [policy](https://geluksdriehoek.be/security-policy) | recognition | — | active |
 | `gembloux.be` | — | — | — | active |
 | `gemeentebkz.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
@@ -109,6 +110,7 @@
 | `goed.be` | [policy](https://www.goed.be/nl/algemene-voorwaarden/security) | — | yes | active |
 | `gratoramacasino.be` | — | — | — | active |
 | `grimbergen.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
+| `grobbendonk.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `groups.be` | [policy](https://www.groups.be/en/responsible-disclosure-policy) | — | — | active |
 | `haaltert.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `hamme.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
@@ -274,6 +276,7 @@
 | `weblounge.be` | [policy](https://www.weblounge.be/privacy/) | — | — | active |
 | `west-vlaanderen.be` | — | — | — | active |
 | `wetteren.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
+| `wichelen.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `wingene.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `wintersport.be` | — | — | — | active |
 | `xerius.be` | — | — | — | active |

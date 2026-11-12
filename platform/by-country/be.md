@@ -39,8 +39,8 @@
 | `tempo-team.be` | [policy](https://www.randstad.com/report-a-security-problem/) | — | — | retired |
 | `toyota.be` | — | monetary | — | expired |
 | `unibet.be` | — | monetary | — | active |
-| `unibetcasino.be` | — | monetary | — | retired |
-| `unibetsports.be` | — | monetary | — | retired |
+| `unibetcasino.be` | — | monetary | — | active |
+| `unibetsports.be` | — | monetary | — | active |
 | `uzleuven.be` | — | recognition | — | expired |
 | `vinted.be` | — | — | — | active |
 | `vlaanderen.be` | [policy](https://yeswehack.com/programs/digital-flanders-vulnerability-disclosure-program) | recognition | — | retired |

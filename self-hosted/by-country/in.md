@@ -1,6 +1,6 @@
 # Self-hosted programs — IN
 
-45 programs.
+46 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -47,5 +47,6 @@
 | `timesinternet.in` | [policy](https://timesinternet.in/responsible-disclosure/policy.html) | — | yes | active |
 | `twinkl.co.in` | — | — | — | retired |
 | `vistaprint.in` | — | — | — | active |
+| `xfence.in` | [policy](https://xfence.in/security-policy) | monetary | yes | active |
 | `zangler.in` | [policy](https://zangler.in/security) | monetary | — | retired |
 | `zoho.in` | [policy](https://bugbounty.zohocorp.com/bb/info) | monetary | — | active |

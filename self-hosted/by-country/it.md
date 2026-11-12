@@ -1,6 +1,6 @@
 # Self-hosted programs — IT
 
-79 programs.
+80 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@
 | `notino.it` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
 | `openfiber.it` | [policy](https://openfiber.it/responsible-disclosure/) | — | — | active |
 | `pagopa.gov.it` | [policy](https://www.pagopa.gov.it/security.html) | recognition | — | active |
-| `peacelink.it` | [policy](https://www.peacelink.it/peacelink/sicurezza) | recognition | yes | expired |
+| `peacelink.it` | [policy](https://www.peacelink.it/peacelink/sicurezza) | recognition | yes | active |
 | `pixartprinting.it` | — | — | — | active |
 | `privacylab.it` | — | — | — | active |
 | `radioradicale.it` | — | — | — | active |
@@ -71,6 +71,7 @@
 | `subito.it` | [policy](https://adevinta.com/security-vulnerability/) | recognition | yes | active |
 | `ticketone.it` | — | — | — | active |
 | `tim.it` | [policy](https://www.gruppotim.it/en/footer/responsible-disclosure.html) | — | — | active |
+| `to.it` | [policy](https://www.item.to.it/en/cybersecurity/) | — | yes | active |
 | `treatwell.it` | — | — | — | active |
 | `truemetal.it` | — | — | — | retired |
 | `unibocconi.it` | [policy](https://unibocconi.it/security/vulnerability-disclosure) | monetary | — | active |

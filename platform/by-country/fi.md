@@ -1,6 +1,6 @@
 # Platform-hosted programs — FI
 
-11 programs.
+12 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -11,6 +11,7 @@
 | `prisma.fi` | — | — | — | expired |
 | `s-kaupat.fi` | — | — | — | retired |
 | `s-pankki.fi` | — | — | — | active |
+| `ston.fi` | [policy](https://docs.ston.fi/getting-started/security) | monetary | — | active |
 | `toyota.fi` | — | monetary | — | expired |
 | `webnode.fi` | [policy](https://www.webnode.com/.well-known/security-policy.html) | — | yes | active |
 | `yearn.fi` | [policy](https://github.com/yearn/yearn-security/blob/master/SECURITY.md) | monetary | — | active |

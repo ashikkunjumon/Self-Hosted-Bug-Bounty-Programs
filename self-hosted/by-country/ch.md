@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-418 programs.
+419 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -74,9 +74,10 @@
 | `dietikon.ch` | — | — | — | active |
 | `digicomp.ch` | — | — | — | active |
 | `digitale-gesellschaft.ch` | — | — | — | active |
-| `digitec.ch` | [policy](https://www.digitec.ch/security) | monetary | yes | active |
+| `digitec.ch` | [policy](https://www.digitec.ch/security) | — | yes | active |
 | `digithek.ch` | [policy](https://developer.joomla.org/security.html) | monetary | — | active |
 | `doitgarden.ch` | — | — | — | active |
+| `dq-solutions.ch` | — | — | — | active |
 | `drs.ch` | — | — | — | active |
 | `duebendorf.ch` | — | — | — | active |
 | `ebas.ch` | — | — | — | active |
@@ -117,7 +118,7 @@
 | `frauenfeld.ch` | — | — | — | active |
 | `freiburger-nachrichten.ch` | — | — | — | active |
 | `fust.ch` | [policy](https://www.coop.ch/de/unternehmen/vdp.html) | monetary | — | active |
-| `galaxus.ch` | [policy](https://www.galaxus.ch/security) | monetary | yes | active |
+| `galaxus.ch` | [policy](https://www.galaxus.ch/security) | — | yes | active |
 | `galaxyweb.ch` | — | — | — | active |
 | `gameswelt.ch` | — | — | — | active |
 | `gastrojournal.ch` | — | — | — | expired |

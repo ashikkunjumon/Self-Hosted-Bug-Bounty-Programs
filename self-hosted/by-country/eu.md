@@ -1,6 +1,6 @@
 # Self-hosted programs — EU
 
-14 programs.
+17 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -11,10 +11,13 @@
 | `europa.eu` | [policy](https://www.enisa.europa.eu/topics/product-security/vulnerability-services/eu-incident-response-and-cyber-crisis-management/single-reporting-platform-srp/frequently-asked-questions) | — | — | retired |
 | `forculus.eu` | [policy](https://www.forculus.eu/responsible-disclosure) | monetary | yes | retired |
 | `foxiot.eu` | [policy](https://www.foxiot.eu/legal/security.html) | — | yes | active |
+| `ginkgo-leaf.eu` | [policy](https://ginkgo-leaf.eu/en/responsible-disclosure/) | monetary | yes | active |
 | `idura.eu` | [policy](https://idura.eu/legal/vulnerability-disclosure-policy) | monetary | — | active |
 | `jd-services.eu` | [policy](https://jd-services.eu/vdp/) | monetary | yes | active |
 | `medcite.eu` | [policy](https://medcite.eu/us/responsible-disclosure) | monetary | yes | retired |
+| `noveu.eu` | [policy](https://noveu.eu/en/legal/vulnerability-disclosure) | monetary | yes | active |
 | `remoteengineer.eu` | [policy](https://www.remoteengineer.eu/en/solutions/safety-and-security/report-a-vulnerability/) | — | yes | retired |
+| `rootzero.eu` | [policy](https://rootzero.eu/en/security/) | monetary | yes | active |
 | `secupilot.eu` | [policy](https://www.secupilot.eu/security/) | monetary | yes | active |
 | `sumzero.eu` | [policy](https://www.sumzero.eu/responsible-disclosure-policy) | — | — | retired |
 | `wandercraft.eu` | [policy](https://en.wandercraft.eu/de/mentions-legales) | monetary | — | retired |

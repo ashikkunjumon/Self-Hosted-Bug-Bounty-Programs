@@ -1,6 +1,6 @@
 # Self-hosted programs — NL
 
-452 programs.
+458 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -81,6 +81,7 @@
 | `cda.nl` | — | — | — | active |
 | `centraalbeheer.nl` | [policy](https://achmea.nl/en/responsible-disclosure) | swag | — | active |
 | `cito.nl` | [policy](https://cito.nl/over-cito/contact/responsible-disclosure/) | recognition | yes | expired |
+| `ciz.nl` | — | — | — | active |
 | `closure.nl` | [policy](https://closure.nl/responsible-disclosure/) | monetary | yes | active |
 | `cloudwise.nl` | [policy](https://www.cloudwise.nl/security-policy) | recognition | — | active |
 | `coa.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
@@ -90,6 +91,7 @@
 | `consuwijzer.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `coolblue.nl` | — | monetary | — | active |
 | `corendon.nl` | [policy](https://www.corendon.nl/privacy-verklaring) | monetary | — | active |
+| `creds.nl` | [policy](https://creds.nl/en/responsible-disclosure/) | monetary | — | active |
 | `cultureelerfgoed.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `cz.nl` | [policy](https://www.cz.nl/over-cz/beveiligingsprobleem-melden) | monetary | yes | active |
 | `d66.nl` | [policy](https://www.d66.nl/responsible-disclosure/) | monetary | yes | expired |
@@ -191,6 +193,7 @@
 | `infomil.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `informatiebeveiliging.nl` | — | — | — | active |
 | `inholland.nl` | [policy](https://www.inholland.nl/inhollandcom/responsible-disclosure) | recognition | — | active |
+| `inschrijven.nl` | — | — | — | active |
 | `internet.nl` | [policy](https://internet.nl/disclosure/) | swag | — | active |
 | `internetconsultatie.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `interpolis.nl` | [policy](https://achmea.nl/en/responsible-disclosure) | swag | — | active |
@@ -277,8 +280,10 @@
 | `nji.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `nki.nl` | [policy](https://www.nki.nl/about-us/organization/disclaimer/coordinated-vulnerability-disclosure) | recognition | — | retired |
 | `nlarbeidsinspectie.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
+| `nldigitalgovernment.nl` | [policy](https://www.nldigitalgovernment.nl/overview/nis2-directive-cyberbeveiligingswet-cbw/faqs-about-csirt-services-for-municipalities-and-intergovernmental-arrangements/) | — | — | active |
 | `nlnet.nl` | — | — | — | active |
 | `nlnetlabs.nl` | [policy](https://www.nlnetlabs.nl/security-report/) | — | — | active |
+| `nlsa.nl` | [policy](https://www.nlsa.nl/en/vulnerability-on-website/) | — | — | active |
 | `nltimes.nl` | [policy](https://nltimes.nl/vulnerability-disclosure-policy) | monetary | — | expired |
 | `nluug.nl` | [policy](https://nluug.nl/security/) | monetary | — | active |
 | `nn.nl` | [policy](https://www.nn-group.com/ethical-hacking-nn-groups-responsible-disclosure-policy.htm) | — | — | active |
@@ -310,7 +315,7 @@
 | `omroepmax.nl` | [policy](https://www.omroepmax.nl/kwetsbaarheid-melden/) | recognition | yes | active |
 | `omroepwest.nl` | [policy](https://www.regiogroei.nl/responsible-disclosure) | — | yes | active |
 | `omroepzeeland.nl` | [policy](https://www.regiogroei.nl/responsible-disclosure) | — | yes | active |
-| `omropfryslan.nl` | [policy](https://www.regiogroei.nl/responsible-disclosure) | — | — | active |
+| `omropfryslan.nl` | [policy](https://www.regiogroei.nl/responsible-disclosure) | — | — | retired |
 | `onderwijsinspectie.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `onderzoeksraad.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `oneworld.nl` | — | — | — | active |
@@ -414,6 +419,7 @@
 | `veiligheid.nl` | — | — | — | active |
 | `veiliginternetten.nl` | — | — | — | active |
 | `vicompany.nl` | [policy](https://www.vicompany.nl/legal/responsible-disclosure) | monetary | yes | retired |
+| `vitens.nl` | [policy](https://vitens.nl/Privacy) | — | — | active |
 | `vng.nl` | [policy](https://www.informatiebeveiligingsdienst.nl/responsible-disclosure-english/) | — | — | expired |
 | `vno-ncw.nl` | — | — | — | active |
 | `vodafone.nl` | [policy](https://www.vodafone.nl/over-deze-website/privacy-en-disclaimer/report-security-leak.shtml) | — | — | active |

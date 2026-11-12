@@ -1,6 +1,6 @@
 # Self-hosted programs — SI
 
-18 programs.
+19 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -19,6 +19,7 @@
 | `metropolitan.si` | — | — | — | active |
 | `notino.si` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
 | `podjetniskisklad.si` | — | — | — | active |
+| `rechazo.si` | [policy](https://rechazo.si/legal/security) | monetary | yes | active |
 | `register.si` | [policy](https://www.register.si/en/responsible-disclosure-policy/) | monetary | — | active |
 | `tax-fin-lex.si` | [policy](https://www.tax-fin-lex.si/Home/Vsebina?id=PogojUporabe) | — | — | active |
 | `varninainternetu.si` | — | — | — | expired |

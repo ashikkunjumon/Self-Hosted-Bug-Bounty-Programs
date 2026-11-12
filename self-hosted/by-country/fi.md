@@ -1,6 +1,6 @@
 # Self-hosted programs — FI
 
-134 programs.
+135 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -81,6 +81,7 @@
 | `lyyti.fi` | — | — | — | active |
 | `maajakotitalousnaiset.fi` | [policy](https://www.maajakotitalousnaiset.fi/security-policy) | recognition | — | active |
 | `maaseuduntulevaisuus.fi` | — | — | — | active |
+| `mnx.fi` | [policy](https://docs.mnx.fi/security/bug-bounty) | monetary | — | active |
 | `mobilepay.fi` | [policy](https://vdp.vippsmobilepay.com) | — | — | active |
 | `motonet.fi` | — | — | — | expired |
 | `mtv.fi` | [policy](https://responsible-disclosure.tv4.se/01-policy.html) | recognition | yes | active |

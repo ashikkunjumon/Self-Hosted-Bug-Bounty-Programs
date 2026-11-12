@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-637 programs.
+639 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -61,6 +61,7 @@
 | `awscloud.com` | [policy](https://vdp.aws.security/) | — | — | active |
 | `axelspringer.com` | — | monetary | — | active |
 | `axis.com` | [policy](https://help.axis.com/axis-vulnerability-management-policy) | monetary | — | active |
+| `azattyqasia.org` | [policy](https://www.usagm.gov/vulnerability-disclosure-policy/) | — | — | active |
 | `backblaze.com` | [policy](https://www.backblaze.com/cloud-storage/security) | monetary | — | retired |
 | `badoo.com` | [policy](https://hackerone.com/bumble?view_policy) | — | — | active |
 | `basecamp.com` | [policy](https://37signals.com/policies/security/response) | monetary | — | retired |
@@ -151,7 +152,7 @@
 | `devo.com` | [policy](https://www.devo.com/responsible-vulnerability-disclosure-program/) | monetary | yes | retired |
 | `devolutions.net` | [policy](https://devolutions.net/security/report-issue/) | monetary | — | active |
 | `dfc.gov` | [policy](https://www.dfc.gov/vulnerability-disclosure-policy) | monetary | yes | retired |
-| `dhl.com` | [policy](https://group.dhl.com/en/sustainability/governance/cyber-security/vulnerability-disclosure-policy.html) | — | yes | active |
+| `dhl.com` | [policy](https://group.dhl.com/en/sustainability/governance/cyber-security/vulnerability-disclosure-policy.html) | — | — | active |
 | `digitalocean.com` | [policy](https://app.intigriti.com/programs/digitalocean/digitalocean) | monetary | — | active |
 | `discover.com` | [policy](https://www.discover.com/responsible-disclosure/) | monetary | — | retired |
 | `docs.ens.domains` | [policy](https://docs.ens.domains/bugs/) | monetary | — | retired |
@@ -276,6 +277,7 @@
 | `igraal.com` | [policy](https://atolls.com/disclosure-policy) | — | — | active |
 | `iherb.com` | [policy](https://hackerone.com/iherb) | monetary | — | retired |
 | `imperva.com` | [policy](https://www.imperva.com/trust-center/responsible-disclosure-policy/) | monetary | yes | retired |
+| `impulsehosting.com` | [policy](https://www.impulsehosting.com/security/) | recognition | yes | active |
 | `infisical.com` | [policy](https://infisical.com/vulnerability-disclosure) | recognition | yes | active |
 | `infomaniak.com` | [policy](https://infomaniak.vulnerability-disclosure.com) | — | — | active |
 | `informatica.com` | [policy](https://www.informatica.com/trust-center/responsible-disclosure-program.html) | recognition | — | retired |
@@ -294,7 +296,6 @@
 | `intigriti.com` | [policy](https://app.intigriti.com/programs/intigriti/intigriti) | monetary | — | active |
 | `investopedia.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `irccloud.com` | [policy](https://www.irccloud.com/whitehat) | monetary | yes | active |
-| `isc.org` | [policy](https://www.isc.org/blogs/2026-04-16-How-to-report-a-vulnerability/) | swag | yes | retired |
 | `ja.wordpress.org` | [policy](https://make.wordpress.org/core/handbook/testing/reporting-security-vulnerabilities/) | monetary | — | active |
 | `jamieweb.net` | [policy](https://hackerone.com/jamieweb) | — | — | active |
 | `johnlewis.com` | [policy](https://hackerone.com/john_lewis) | — | — | active |
@@ -431,6 +432,7 @@
 | `postmarkapp.com` | [policy](https://postmarkapp.com/support/article/779-responsible-disclosure-policy) | monetary | yes | retired |
 | `powerdns.com` | [policy](https://vdp.open-xchange.com/) | — | — | active |
 | `pprune.org` | — | — | — | active |
+| `prividium.com` | [policy](https://prividium.com/security-policy) | monetary | yes | active |
 | `public.com` | [policy](https://hackerone.com/public, you need to be part of our bounty our program to see details) | monetary | — | active |
 | `pusher.com` | — | — | — | active |
 | `qantas.com` | — | — | — | active |

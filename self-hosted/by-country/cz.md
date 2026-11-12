@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-380 programs.
+382 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -31,6 +31,7 @@
 | `bellarose.cz` | — | — | — | active |
 | `bernard.cz` | — | — | — | active |
 | `betano-bonus-cz.cz` | — | — | — | active |
+| `betano-kasino.cz` | — | — | — | active |
 | `betano-recenze.cz` | — | — | — | active |
 | `bezpecnyinternet.cz` | — | — | — | active |
 | `biano.cz` | — | — | — | retired |
@@ -116,6 +117,7 @@
 | `forendors.cz` | — | — | — | active |
 | `forrest.cz` | — | — | — | active |
 | `fortuna-hra.cz` | — | — | — | active |
+| `fortuna-promo.cz` | — | — | — | active |
 | `fortuna-vstup.cz` | — | — | — | active |
 | `forum2000.cz` | — | — | — | expired |
 | `fraus.cz` | — | — | — | active |
