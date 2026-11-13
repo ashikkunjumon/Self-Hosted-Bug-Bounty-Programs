@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-419 programs.
+420 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -206,6 +206,7 @@
 | `lidl.ch` | — | — | — | active |
 | `liestal.ch` | — | — | — | active |
 | `liip.ch` | [policy](https://liip.to/security) | — | yes | active |
+| `lindenhofgruppe.ch` | — | — | — | active |
 | `local.ch` | — | monetary | — | active |
 | `localsearch.ch` | — | monetary | — | active |
 | `locarnofestival.ch` | — | — | — | active |

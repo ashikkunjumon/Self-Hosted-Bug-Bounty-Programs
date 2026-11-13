@@ -63,7 +63,7 @@
 | `flashscore.dk` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `flixbus.dk` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |
 | `folkebladetlemvig.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
-| `frdb.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
+| `frdb.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | retired |
 | `frederiksbergliv.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
 | `fyens.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | retired |
 | `get2net.dk` | — | — | — | active |
@@ -103,7 +103,7 @@
 | `netsite.dk` | — | — | — | active |
 | `nhl-data.dk` | — | — | — | active |
 | `nordjyskebank.dk` | — | — | — | active |
-| `nordnet.dk` | [policy](https://www.nordnet.se/security-disclosure) | monetary | — | active |
+| `nordnet.dk` | [policy](https://www.nordnet.se/security-disclosure) | recognition | — | active |
 | `norlys.dk` | — | — | — | active |
 | `northside.dk` | — | — | — | active |
 | `nota.dk` | — | recognition | — | active |

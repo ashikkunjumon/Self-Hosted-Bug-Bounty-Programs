@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-382 programs.
+385 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -99,6 +99,7 @@
 | `elfetex.cz` | [policy](https://magento.com/security) | monetary | — | expired |
 | `emaespressobar.cz` | — | — | — | expired |
 | `emkei.cz` | — | — | — | active |
+| `energozrouti.cz` | — | — | — | active |
 | `eon.cz` | — | — | — | expired |
 | `epojisteni.cz` | [policy](https://www.epojisteni.cz/security-policy.txt) | — | — | active |
 | `eshop-rychle.cz` | — | — | — | active |
@@ -339,6 +340,8 @@
 | `techlib.cz` | — | — | — | retired |
 | `techmania.cz` | — | — | — | active |
 | `televizeseznam.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
+| `tipsport-hra.cz` | — | — | — | active |
+| `tipsport-promo.cz` | — | — | — | active |
 | `top-pojisteni.cz` | — | — | — | retired |
 | `toprecepty.cz` | — | — | — | active |
 | `tribune.cz` | — | — | — | active |

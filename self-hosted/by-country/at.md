@@ -1,6 +1,6 @@
 # Self-hosted programs — AT
 
-160 programs.
+161 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -95,6 +95,7 @@
 | `meindm.at` | — | — | — | active |
 | `metro.at` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | expired |
 | `mydays.at` | [policy](https://public-jsmd.s3.eu-central-1.amazonaws.com/Bug-Bounty-Policy-1.3.pdf) | monetary | — | active |
+| `nesslerhof.at` | — | — | — | active |
 | `nessus.at` | — | — | — | active |
 | `netzwerk-bgf.at` | — | — | — | active |
 | `newsflix.at` | — | — | — | expired |
@@ -121,7 +122,7 @@
 | `postbus.at` | — | — | — | active |
 | `promomasters.at` | — | — | — | active |
 | `pv.at` | — | — | — | active |
-| `redbullsalzburg.at` | — | — | — | active |
+| `redbullsalzburg.at` | — | — | — | retired |
 | `sagedpw.at` | [policy](https://www.sage.com/en-gb/trust-security/) | recognition | — | active |
 | `sbausparkasse.at` | [policy](https://www.sparkasse.at/sicherheitscenter-en/report-potential-security-vulnerability) | — | yes | expired |
 | `sevdesk.at` | — | — | — | active |

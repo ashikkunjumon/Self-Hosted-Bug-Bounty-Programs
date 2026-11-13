@@ -18,7 +18,7 @@
 | `deltahost.ua` | — | — | — | active |
 | `denovo.ua` | — | — | — | expired |
 | `diia.gov.ua` | — | — | — | active |
-| `dpsu.gov.ua` | — | — | — | active |
+| `dpsu.gov.ua` | — | — | — | retired |
 | `drv.gov.ua` | — | — | — | active |
 | `eridon.ua` | — | — | — | active |
 | `fg.gov.ua` | — | — | — | expired |

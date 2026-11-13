@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-639 programs.
+636 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -255,7 +255,7 @@
 | `heroku.com` | [policy](https://www.heroku.com/policy/security-hall-of-fame/) | recognition | — | retired |
 | `hexagon.com` | [policy](https://hexagon.com/legal/vulnerability) | — | yes | retired |
 | `hiddenlayer.com` | [policy](https://www.hiddenlayer.com/vulnerability-disclosure-policy) | — | yes | retired |
-| `highdefdigest.com` | — | — | — | active |
+| `highdefdigest.com` | — | — | — | retired |
 | `hiringlab.org` | [policy](https://www.indeed.com/legal?hl=en&from=gnav-homepage#ivrp) | monetary | — | expired |
 | `hivehome.com` | [policy](https://www.hivehome.com/security) | monetary | — | retired |
 | `hostinger.com` | [policy](https://www.hostinger.com/legal/responsible-disclosure-policy) | — | — | active |
@@ -277,7 +277,6 @@
 | `igraal.com` | [policy](https://atolls.com/disclosure-policy) | — | — | active |
 | `iherb.com` | [policy](https://hackerone.com/iherb) | monetary | — | retired |
 | `imperva.com` | [policy](https://www.imperva.com/trust-center/responsible-disclosure-policy/) | monetary | yes | retired |
-| `impulsehosting.com` | [policy](https://www.impulsehosting.com/security/) | recognition | yes | active |
 | `infisical.com` | [policy](https://infisical.com/vulnerability-disclosure) | recognition | yes | active |
 | `infomaniak.com` | [policy](https://infomaniak.vulnerability-disclosure.com) | — | — | active |
 | `informatica.com` | [policy](https://www.informatica.com/trust-center/responsible-disclosure-program.html) | recognition | — | retired |
@@ -344,7 +343,6 @@
 | `medscape.org` | — | — | — | active |
 | `medterms.com` | — | — | — | active |
 | `midwestliving.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
-| `mimecast.com` | [policy](https://www.mimecast.com/responsible-disclosure/) | — | yes | active |
 | `mixpanel.com` | [policy](https://hackerone.com/mixpanel) | recognition | — | active |
 | `mnn.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `modelmayhem.com` | — | — | — | active |
@@ -356,7 +354,7 @@
 | `mongodb.org` | — | recognition | — | retired |
 | `monzo.com` | [policy](https://app.intigriti.com/company/programs/monzobank/monzopublicbugbountyprogram/detail) | monetary | — | active |
 | `moonpay.com` | — | — | — | active |
-| `mortons.com` | [policy](https://hackerone.com/fertitta_entertainment/__;!!P9vvK-4S!k4OXa2Y5beJxlkD0SgPSR9q2bUGYARLffhrZlhNZRhTus-7yk61IeDxnRaufmK0V8GQVvqvI09Tr4dxWeHU$) | recognition | — | active |
+| `mortons.com` | [policy](https://hackerone.com/fertitta_entertainment/__;!!P9vvK-4S!k4OXa2Y5beJxlkD0SgPSR9q2bUGYARLffhrZlhNZRhTus-7yk61IeDxnRaufmK0V8GQVvqvI09Tr4dxWeHU$) | recognition | — | expired |
 | `motorauthority.com` | — | — | — | active |
 | `mtpelerin.com` | [policy](https://www.mtpelerin.com/responsible-disclosure-policy) | monetary | — | retired |
 | `murena.io` | [policy](https://hackerone.com/nextcloud) | — | — | active |
@@ -411,7 +409,7 @@
 | `overture.com` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | active |
 | `ovh.com` | [policy](https://yeswehack.com/programs/ovh) | monetary | — | active |
 | `ovhcloud.com` | [policy](https://yeswehack.com/programs/ovh) | monetary | — | active |
-| `paddle.com` | [policy](https://www.paddle.com/vulnerability-disclosure-policy) | — | — | active |
+| `paddle.com` | [policy](https://www.paddle.com/vulnerability-disclosure-policy) | recognition | — | active |
 | `pagerduty.com` | [policy](https://www.pagerduty.com/security/disclosure/) | monetary | yes | retired |
 | `parents.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `paylocity.com` | [policy](https://www.paylocity.com/vulnerabilitydisclosure/) | — | — | active |
@@ -432,7 +430,6 @@
 | `postmarkapp.com` | [policy](https://postmarkapp.com/support/article/779-responsible-disclosure-policy) | monetary | yes | retired |
 | `powerdns.com` | [policy](https://vdp.open-xchange.com/) | — | — | active |
 | `pprune.org` | — | — | — | active |
-| `prividium.com` | [policy](https://prividium.com/security-policy) | monetary | yes | active |
 | `public.com` | [policy](https://hackerone.com/public, you need to be part of our bounty our program to see details) | monetary | — | active |
 | `pusher.com` | — | — | — | active |
 | `qantas.com` | — | — | — | active |

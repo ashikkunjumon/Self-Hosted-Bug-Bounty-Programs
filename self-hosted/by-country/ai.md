@@ -50,7 +50,7 @@
 | `kindo.ai` | [policy](https://kindo.ai/vulnerability-disclosure-program) | monetary | yes | active |
 | `kontent.ai` | [policy](https://kontent.ai/vulnerability-disclosure-policy) | monetary | yes | active |
 | `l4is.ai` | [policy](https://l4is.ai/security) | monetary | yes | active |
-| `layerv.ai` | [policy](https://layerv.ai/terms/) | monetary | yes | active |
+| `layerv.ai` | [policy](https://layerv.ai/security/) | recognition | — | active |
 | `lvrg.ai` | [policy](https://tryleverage.ai/vdp) | — | yes | retired |
 | `morasel.ai` | [policy](https://morasel.ai/security) | — | — | retired |
 | `naitra.ai` | [policy](https://naitra.ai/security) | — | — | retired |

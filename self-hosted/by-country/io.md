@@ -1,6 +1,6 @@
 # Self-hosted programs — IO
 
-69 programs.
+70 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -9,6 +9,7 @@
 | `appfarm.io` | [policy](https://policies.appfarm.io/security/responsible-disclosure-policy) | swag | — | retired |
 | `authress.io` | [policy](https://authress.io/app/#/disclosure) | — | — | active |
 | `axoniq.io` | [policy](https://www.axoniq.io/legal/responsible-disclosure-disclaimer) | recognition | yes | retired |
+| `beyondmemory.io` | [policy](https://beyondmemory.io/security) | monetary | — | active |
 | `bluecanvas.io` | [policy](https://bluecanvas.io/report-vulnerability) | recognition | yes | retired |
 | `brakepoint.io` | [policy](https://www.brakepoint.io/en/security/) | swag | yes | active |
 | `brimble.io` | [policy](https://www.brimble.io/legal/security) | monetary | yes | retired |
@@ -40,7 +41,7 @@
 | `kpa.io` | [policy](https://hs.kpa.io/responsible-disclosure-policy) | monetary | yes | retired |
 | `leantime.io` | [policy](https://leantime.io/responsible-disclosure-policy/) | — | — | retired |
 | `ledgerguard.io` | [policy](https://ledgerguard.io/security/responsible-disclosure) | recognition | — | active |
-| `mediaura.io` | [policy](https://mediaura.io/security/disclosure/) | recognition | yes | active |
+| `mediaura.io` | [policy](https://mediaura.io/security/disclosure) | recognition | yes | active |
 | `mlaify.io` | [policy](https://mlaify.io/security/) | recognition | yes | active |
 | `multihub.io` | [policy](https://www.multihub.io/security) | monetary | — | retired |
 | `mydukaan.io` | [policy](https://mydukaan.io/bugbounty/) | monetary | — | retired |

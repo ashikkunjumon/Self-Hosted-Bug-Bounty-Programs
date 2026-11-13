@@ -9,7 +9,7 @@
 | `autoscout24.ro` | [policy](https://app.intigriti.com/programs/autoscout/autoscout24-vdp/detail) | monetary | — | expired |
 | `avantaje.ro` | — | — | — | expired |
 | `bmw.ro` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
-| `elle.ro` | — | — | — | expired |
+| `elle.ro` | — | — | — | retired |
 | `libertatea.ro` | — | — | — | retired |
 | `libertateapentrufemei.ro` | — | — | — | expired |
 | `momondo.ro` | [policy](https://www.kayak.com/security/) | monetary | — | active |

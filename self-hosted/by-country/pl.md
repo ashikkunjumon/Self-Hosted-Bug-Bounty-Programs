@@ -1,6 +1,6 @@
 # Self-hosted programs — PL
 
-188 programs.
+189 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -129,6 +129,7 @@
 | `parenting.pl` | — | — | — | active |
 | `payu.pl` | [policy](https://corporate.payu.com/responsible-disclosure-policy/) | monetary | — | retired |
 | `pcpm.org.pl` | — | — | — | expired |
+| `pesa.pl` | [policy](https://pesa.pl/en/pesa-vulnerability-disclosure-programme/) | recognition | yes | expired |
 | `plejada.pl` | — | — | — | active |
 | `plk-sa.pl` | — | — | — | active |
 | `polygamia.pl` | — | — | — | active |

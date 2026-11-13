@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-499 programs.
+500 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -211,6 +211,7 @@
 | `hhv.de` | — | — | — | retired |
 | `hkw.de` | — | — | — | active |
 | `hmrv.de` | — | — | — | active |
+| `hochschule-trier.de` | — | — | — | active |
 | `hochschulkompass.de` | — | — | — | active |
 | `hochschulstart.de` | — | — | — | active |
 | `hpi.de` | — | — | — | expired |
@@ -305,12 +306,12 @@
 | `neoshare.de` | [policy](https://www.neoshare.com/responsible-disclosure-program) | recognition | — | active |
 | `netto-online.de` | — | — | — | active |
 | `neuepresse.de` | — | — | — | active |
-| `neurocheck.de` | [policy](https://www.neurocheck.de/unternehmen/product-security/vdp/) | — | yes | active |
+| `neurocheck.de` | [policy](https://www.neurocheck.com/company/product-security/vdp/) | — | yes | active |
 | `nius.de` | — | — | — | active |
 | `nivea.de` | [policy](https://soc.beiersdorf.com/disclosurepolicy.html) | — | yes | active |
 | `nospamproxy.de` | — | recognition | — | active |
 | `notebooksbilliger.de` | [policy](https://service.notebooksbilliger.de/help/de-de/36-datenschutz-schutz/385-vulnerability-disclosure-policy) | — | — | active |
-| `novotechnik.de` | [policy](https://www.novotechnik.de/en/service/psirt/) | — | — | active |
+| `novotechnik.de` | [policy](https://www.novotechnik.de/wp-content/uploads/Novotechnik_Vulnerability_Handling_and_Disclosure_Process_EN.pdf) | monetary | — | active |
 | `nrwbank.de` | — | — | — | retired |
 | `nrz.de` | — | — | — | active |
 | `nuernberger.de` | — | — | — | active |
@@ -357,7 +358,7 @@
 | `rlp.de` | — | — | — | active |
 | `rmv.de` | — | — | — | active |
 | `rnd.de` | — | — | — | active |
-| `rootsektor.de` | [policy](https://www.rootsektor.de/en/report-a-vulnerability/) | recognition | yes | active |
+| `rootsektor.de` | [policy](https://www.rootsektor.de/schwachstelle-melden/) | recognition | yes | active |
 | `rossmann.de` | — | — | — | active |
 | `rub.de` | — | — | — | active |
 | `ruhr-uni-bochum.de` | — | — | — | active |

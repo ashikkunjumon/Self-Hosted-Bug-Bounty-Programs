@@ -8,7 +8,7 @@
 | `acheisudoeste.com.br` | — | — | — | retired |
 | `ademicon.com.br` | — | — | — | active |
 | `aegro.com.br` | [policy](https://aegro.com.br/security-policy) | recognition | — | expired |
-| `agricultura.gov.br` | [policy](https://www.gov.br/agricultura/pt-br/acesso-a-informacao/tecnologia-da-informacao/seguranca-da-informacao/politica-de-seguranca-da-informacao-e-comunicacao-posic) | — | — | active |
+| `agricultura.gov.br` | [policy](https://www.gov.br/agricultura/pt-br/acesso-a-informacao/tecnologia-da-informacao/seguranca-da-informacao/politica-de-seguranca-da-informacao-e-comunicacao-posic) | — | — | expired |
 | `b3.com.br` | — | — | — | active |
 | `bancobs2.com.br` | — | — | — | active |
 | `bcb.gov.br` | — | recognition | — | active |
@@ -50,7 +50,7 @@
 | `hilab.com.br` | — | — | — | expired |
 | `hubsoft.com.br` | [policy](https://hubsoft.io/politica-de-privacidade/) | — | — | active |
 | `idinheiro.com.br` | [policy](https://www.idinheiro.com.br/politica-de-privacidade/) | — | — | active |
-| `inmet.gov.br` | [policy](https://www.gov.br/agricultura/pt-br/acesso-a-informacao/tecnologia-da-informacao/seguranca-da-informacao/politica-de-seguranca-da-informacao-e-comunicacao-posic) | — | — | active |
+| `inmet.gov.br` | [policy](https://www.gov.br/agricultura/pt-br/acesso-a-informacao/tecnologia-da-informacao/seguranca-da-informacao/politica-de-seguranca-da-informacao-e-comunicacao-posic) | — | — | expired |
 | `investidorpetrobras.com.br` | — | — | — | retired |
 | `iob.com.br` | [policy](https://iob.com.br/aviso-de-privacidade/) | — | — | active |
 | `itaipuparquetec.org.br` | — | — | — | retired |
@@ -63,7 +63,7 @@
 | `loreal-paris.com.br` | — | recognition | — | active |
 | `maringapost.com.br` | — | — | — | active |
 | `marinha.mil.br` | — | — | — | active |
-| `mda.gov.br` | [policy](https://www.gov.br/agricultura/pt-br/acesso-a-informacao/tecnologia-da-informacao/seguranca-da-informacao/politica-de-seguranca-da-informacao-e-comunicacao-posic) | — | — | active |
+| `mda.gov.br` | [policy](https://www.gov.br/agricultura/pt-br/acesso-a-informacao/tecnologia-da-informacao/seguranca-da-informacao/politica-de-seguranca-da-informacao-e-comunicacao-posic) | — | — | expired |
 | `meutimao.com.br` | [policy](https://www.meutimao.com.br/politica-de-privacidade) | — | — | active |
 | `michaelpage.com.br` | — | — | — | expired |
 | `msnoticias.com.br` | — | — | — | expired |

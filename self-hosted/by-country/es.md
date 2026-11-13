@@ -103,7 +103,7 @@
 | `uva.es` | — | recognition | — | active |
 | `vilaviniteca.es` | — | — | — | active |
 | `vistaprint.es` | — | — | — | active |
-| `volkswagen.es` | — | — | — | retired |
+| `volkswagen.es` | — | — | — | active |
 | `webador.es` | — | — | — | active |
 | `werstreamt.es` | — | — | — | active |
 | `worten.es` | — | recognition | — | active |

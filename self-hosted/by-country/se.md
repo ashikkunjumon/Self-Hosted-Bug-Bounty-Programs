@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-551 programs.
+553 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -286,6 +286,7 @@
 | `ludvika.se` | — | — | — | active |
 | `lulea.se` | — | — | — | expired |
 | `lund.se` | — | — | — | active |
+| `lysekil.se` | — | — | — | active |
 | `malmo.se` | — | — | — | expired |
 | `malmoopera.se` | — | — | — | expired |
 | `marginalen.se` | [policy](https://www.marginalen.se/about-marginalen/responsible-disclosure) | — | — | active |
@@ -329,9 +330,10 @@
 | `nlt.se` | — | — | — | active |
 | `nok.se` | — | recognition | — | active |
 | `nora.se` | — | — | — | active |
+| `nordanstig.se` | — | — | — | active |
 | `nordicchoicehotels.se` | — | — | — | expired |
 | `nordiskamuseet.se` | — | — | — | expired |
-| `nordnet.se` | [policy](https://www.nordnet.se/security-disclosure) | monetary | — | active |
+| `nordnet.se` | [policy](https://www.nordnet.se/security-disclosure) | recognition | — | active |
 | `norrkoping.se` | — | — | — | active |
 | `norrtalje.se` | — | — | — | expired |
 | `norrteljetidning.se` | — | — | — | active |
