@@ -21,7 +21,7 @@
 | `bmw.ch` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
 | `bundesanwaltschaft.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | recognition | yes | active |
 | `cadastre.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | recognition | yes | active |
-| `chgemeinden.ch` | [policy](https://www.talus.ch/de/datenschutz/bug-bounty.php) | monetary | — | active |
+| `chgemeinden.ch` | [policy](https://www.talus.ch/de/datenschutz/bug-bounty.php) | — | — | active |
 | `derbund.ch` | [policy](https://bugcrowd.com/tamedia) | monetary | — | expired |
 | `ebill.ch` | — | monetary | — | expired |
 | `energieschweiz.ch` | [policy](https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden/scope-and-rules.html) | recognition | yes | active |
@@ -40,7 +40,7 @@
 | `laredoute.ch` | [policy](https://www.laredoute.com/vulnerability_disclosure_program.aspx) | — | — | expired |
 | `lebendige-traditionen.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | recognition | yes | active |
 | `lematin.ch` | [policy](https://bugcrowd.com/twentyminuten) | monetary | — | expired |
-| `lyss.ch` | [policy](https://www.talus.ch/de/datenschutz/bug-bounty.php) | — | — | active |
+| `lyss.ch` | [policy](https://www.talus.ch/de/datenschutz/bug-bounty.php) | monetary | — | active |
 | `mobiliar.ch` | — | — | — | active |
 | `mobiliare.ch` | — | — | — | active |
 | `mobiliere.ch` | — | — | — | active |
@@ -68,7 +68,7 @@
 | `toyota.ch` | — | monetary | — | expired |
 | `uek.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | recognition | yes | active |
 | `usz.ch` | [policy](https://kb.intigriti.com/en/articles/5466165-researcher-terms-conditions) | monetary | — | expired |
-| `wetzikon.ch` | [policy](https://www.talus.ch/de/datenschutz/bug-bounty.php) | monetary | — | active |
+| `wetzikon.ch` | [policy](https://www.talus.ch/de/datenschutz/bug-bounty.php) | — | — | active |
 | `xpertcenter.ch` | [policy](https://www.xpertcenter.ch/it/vdp-it/) | — | yes | retired |
 | `yelp.ch` | [policy](https://hackerone.com/yelp?view_policy=true) | — | — | active |
 | `zh.ch` | [policy](https://app.bugbounty.ch/public/engagement/details/43f98579-7afc-400e-a5fa-f64c15e2bb90) | — | — | active |

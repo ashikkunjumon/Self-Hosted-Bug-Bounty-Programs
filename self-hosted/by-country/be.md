@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-280 programs.
+282 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -214,6 +214,7 @@
 | `secudoc.be` | [policy](https://www.secudoc.nl/security-policy-for-secudoc) | recognition | — | active |
 | `sidem.be` | — | — | — | expired |
 | `sint-laureins.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
+| `sint-lievens-houtem.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `sint-truiden.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `siteffect.be` | — | — | — | active |
 | `slotenexpert.be` | — | — | — | active |
@@ -236,6 +237,7 @@
 | `taaltelefoon.be` | — | — | — | active |
 | `tervuren.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `thomasmore.be` | [policy](https://security.thomasmore.be) | — | yes | active |
+| `thuin.be` | — | — | — | active |
 | `ticketswap.be` | [policy](https://www.ticketswap.com/content/responsible-disclosure) | — | — | active |
 | `toerismeieper.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `tongeren-borgloon.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |

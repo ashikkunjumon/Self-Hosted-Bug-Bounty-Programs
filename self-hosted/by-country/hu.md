@@ -1,6 +1,6 @@
 # Self-hosted programs — HU
 
-49 programs.
+50 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -29,6 +29,7 @@
 | `kanizsamediahaz.hu` | — | — | — | active |
 | `kanizsaujsag.hu` | — | — | — | active |
 | `kifli.hu` | — | — | — | active |
+| `konyvesmagazin.hu` | — | — | — | active |
 | `lfze.hu` | — | recognition | — | active |
 | `lidl.hu` | — | — | — | active |
 | `lisztacademy.hu` | — | recognition | — | active |

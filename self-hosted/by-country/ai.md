@@ -61,7 +61,7 @@
 | `occludra.ai` | [policy](https://occludra.ai/security) | monetary | — | active |
 | `odin.ai` | [policy](https://0din.ai/policy) | monetary | — | active |
 | `orbitforms.ai` | [policy](https://useorbitcrm.ai/security) | recognition | yes | active |
-| `overtheroad.ai` | [policy](https://overtheroad.ai/security) | monetary | yes | active |
+| `overtheroad.ai` | [policy](https://overtheroad.ai/security) | — | — | active |
 | `persistentcompute.ai` | [policy](https://persistentcompute.ai/security/vulnerability-disclosure) | monetary | yes | active |
 | `pokee.ai` | [policy](https://pokee.ai/bug-bounty) | monetary | yes | active |
 | `portal26.ai` | [policy](https://portal26.ai/vulnerability-disclosure) | — | yes | active |

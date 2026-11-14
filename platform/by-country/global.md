@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-636 programs.
+638 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -111,6 +111,7 @@
 | `classdojo.com` | [policy](https://bugcrowd.com/engagements/classdojo) | monetary | — | expired |
 | `claude.com` | [policy](https://support.claude.com/en/articles/12119250-model-safety-bug-bounty-program) | monetary | — | retired |
 | `claudeusercontent.com` | [policy](https://www.anthropic.com/responsible-disclosure-policy) | monetary | yes | active |
+| `clearme.com` | — | — | — | active |
 | `cloudflare.com` | [policy](https://www.cloudflare.com/disclosure/) | — | — | active |
 | `cloudsek.com` | [policy](https://www.cloudsek.com/knowledge-base/best-bug-bounty-platforms) | monetary | yes | retired |
 | `cloudways.com` | [policy](https://app.intigriti.com/programs/digitalocean/cloudways) | monetary | — | retired |
@@ -236,6 +237,7 @@
 | `gocardless.com` | [policy](https://gocardless.com/faq/merchants/security/) | monetary | — | active |
 | `goodnotes.com` | [policy](https://hackerone.com/goodnotes) | — | — | active |
 | `grab.com` | [policy](https://hackerone.com/grab?view_policy=true) | — | — | active |
+| `grafana.net` | [policy](https://grafana.com/legal/report-a-security-issue/) | monetary | — | active |
 | `grammarly.com` | [policy](https://hackerone.com/grammarly) | — | — | active |
 | `greencarreports.com` | — | — | — | active |
 | `greenhouse.com` | [policy](https://hackerone.com/greenhouse?type=team) | — | — | expired |
@@ -405,7 +407,6 @@
 | `ory.com` | [policy](https://www.ory.com/docs/ecosystem/security) | — | — | active |
 | `oshrc.gov` | [policy](https://www.oshrc.gov/vulnerability-disclosure-policy/) | — | — | retired |
 | `ourfabriq.com` | [policy](https://ourfabriq.com/responsible-disclosure-policy) | monetary | yes | retired |
-| `outbrain.com` | [policy](https://www.outbrain.com/security/bug-bounty/) | monetary | yes | active |
 | `overture.com` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | active |
 | `ovh.com` | [policy](https://yeswehack.com/programs/ovh) | monetary | — | active |
 | `ovhcloud.com` | [policy](https://yeswehack.com/programs/ovh) | monetary | — | active |
@@ -493,6 +494,7 @@
 | `skybet.com` | [policy](https://hackerone.com/flutteruki) | — | — | active |
 | `slack.com` | [policy](https://hackerone.com/slack/) | — | — | active |
 | `slack.dev` | [policy](https://hackerone.com/slack/) | — | — | active |
+| `slimdevices.com` | [policy](https://hackerone.com/logitech) | — | — | active |
 | `snapchat.com` | [policy](https://hackerone.com/snapchat) | — | — | active |
 | `snapfish.com` | [policy](https://hackerone.com/shutterfly_vdp) | — | — | active |
 | `snowflake.com` | [policy](https://hackerone.com/snowflake) | — | — | active |

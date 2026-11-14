@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-500 programs.
+503 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -80,6 +80,7 @@
 | `bundeswehrkarriere.de` | — | — | — | active |
 | `capterra.com.de` | — | — | — | active |
 | `caritas-international.de` | [policy](https://www2.carinet.de/security-policy) | — | — | active |
+| `caritas.de` | [policy](https://www2.carinet.de/security-policy) | — | — | active |
 | `ccc.de` | — | — | — | active |
 | `cewe.de` | — | — | — | active |
 | `chaospott.de` | — | — | — | retired |
@@ -126,6 +127,7 @@
 | `do.de` | [policy](https://www.do.de/bug-bounty/) | monetary | — | active |
 | `docmorris.de` | [policy](https://www.docmorris.de/ueber-uns/cyber-security) | — | yes | active |
 | `donaukurier.de` | — | — | — | active |
+| `dpa.de` | — | — | — | active |
 | `dreamplacesai.de` | [policy](https://github.com/go-gitea/gitea/blob/main/SECURITY.md) | recognition | — | active |
 | `drk-blutspende.de` | — | — | — | active |
 | `dstgb.de` | — | — | — | active |
@@ -239,6 +241,7 @@
 | `iu.de` | — | — | — | active |
 | `izzysoft.de` | — | — | — | active |
 | `jameda.de` | — | — | — | active |
+| `jena.de` | [policy](https://www.jena.de/security-policy.html) | — | yes | active |
 | `jochen-schweizer.de` | [policy](https://public-jsmd.s3.eu-central-1.amazonaws.com/Bug-Bounty-Policy-1.3.pdf) | monetary | — | active |
 | `jpberlin.de` | — | — | — | active |
 | `jtl-url.de` | — | — | — | active |
@@ -464,7 +467,7 @@
 | `uni-wuppertal.de` | — | recognition | — | active |
 | `unibw.de` | — | — | — | active |
 | `united-domains.de` | — | — | — | active |
-| `unternehmertum.de` | [policy](https://www.unternehmertum.de/security-policy) | recognition | — | active |
+| `unternehmertum.de` | [policy](https://www.unternehmertum.de/security-policy) | recognition | — | retired |
 | `uol.de` | — | — | — | active |
 | `uos.de` | — | — | — | active |
 | `upb.de` | [policy](https://www.uni-paderborn.de/universitaet/informationssicherheit/informationssicherheitsvorfall) | — | — | active |

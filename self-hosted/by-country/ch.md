@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-420 programs.
+421 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -213,6 +213,7 @@
 | `lqj.ch` | — | — | — | active |
 | `luks.ch` | — | recognition | — | active |
 | `lups.ch` | — | — | — | expired |
+| `mahmah.ch` | — | — | — | active |
 | `martigny.ch` | — | — | — | retired |
 | `maschinenmarkt.ch` | — | — | — | expired |
 | `medespoir.ch` | [policy](https://www.medespoir.ch/mentions-legales.php) | — | — | active |

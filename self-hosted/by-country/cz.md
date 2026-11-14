@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-385 programs.
+387 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -43,6 +43,7 @@
 | `brno-airport.cz` | — | — | — | active |
 | `brno.cz` | — | — | — | expired |
 | `byznysweb.cz` | — | — | — | active |
+| `c-store.cz` | — | — | — | active |
 | `cafelouvre.cz` | — | — | — | expired |
 | `casd.cz` | — | — | — | active |
 | `casopisstavebnictvi.cz` | — | — | — | active |
@@ -144,6 +145,7 @@
 | `hudy.cz` | — | — | — | active |
 | `hwkitchen.cz` | — | — | — | active |
 | `hypotecnibanka.cz` | — | — | — | active |
+| `i4wifi.cz` | — | — | — | active |
 | `ifortuna.cz` | — | monetary | — | active |
 | `iir.cz` | — | — | — | active |
 | `imago.cz` | [policy](http://www.imago.cz/kontakt) | swag | — | active |
@@ -184,7 +186,7 @@
 | `kraj-lbc.cz` | — | — | — | active |
 | `kraloveskoly.cz` | — | — | — | active |
 | `krimi-plzen.cz` | — | — | — | active |
-| `kupi.cz` | [policy](https://napoveda.seznam.cz/cz/smluvni-podminky/podminky-kupi-cz/) | — | — | retired |
+| `kupi.cz` | [policy](https://napoveda.seznam.cz/cz/smluvni-podminky/podminky-kupi-cz/) | — | — | active |
 | `kvaltex.cz` | — | — | — | active |
 | `lacollezione.cz` | — | — | — | expired |
 | `laskakit.cz` | — | — | — | active |

@@ -227,7 +227,7 @@
 | `tryg.no` | [policy](https://tryg.com/en/responsible-disclosure) | — | — | retired |
 | `tv2.no` | [policy](https://info.tv2.no/info/artikkel/responsible-disclosure-policy) | swag | yes | active |
 | `udi.no` | — | — | — | active |
-| `uio.no` | [policy](https://cert.uio.no/vulnerability-disclosure-policy.html) | monetary | — | active |
+| `uio.no` | [policy](https://cert.uio.no/vulnerability-disclosure-policy.html) | monetary | — | retired |
 | `uninett.no` | [policy](https://www.sikt.no/security-policy) | recognition | yes | active |
 | `unit.no` | [policy](https://www.sikt.no/security-policy) | recognition | yes | active |
 | `unn.no` | — | — | — | active |

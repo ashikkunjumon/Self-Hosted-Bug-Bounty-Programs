@@ -1,6 +1,6 @@
 # Self-hosted programs — BR
 
-107 programs.
+108 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -50,6 +50,7 @@
 | `hilab.com.br` | — | — | — | expired |
 | `hubsoft.com.br` | [policy](https://hubsoft.io/politica-de-privacidade/) | — | — | active |
 | `idinheiro.com.br` | [policy](https://www.idinheiro.com.br/politica-de-privacidade/) | — | — | active |
+| `igesdf.org.br` | — | — | — | expired |
 | `inmet.gov.br` | [policy](https://www.gov.br/agricultura/pt-br/acesso-a-informacao/tecnologia-da-informacao/seguranca-da-informacao/politica-de-seguranca-da-informacao-e-comunicacao-posic) | — | — | expired |
 | `investidorpetrobras.com.br` | — | — | — | retired |
 | `iob.com.br` | [policy](https://iob.com.br/aviso-de-privacidade/) | — | — | active |

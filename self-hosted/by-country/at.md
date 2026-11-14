@@ -1,10 +1,10 @@
 # Self-hosted programs — AT
 
-161 programs.
+162 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
-| `a-trust.at` | — | — | — | expired |
+| `a-trust.at` | — | — | — | active |
 | `aboutyou.at` | — | monetary | — | active |
 | `adsimple.at` | — | — | — | active |
 | `aekktn.at` | [policy](https://www.aekktn.at/security-policy/) | recognition | — | active |
@@ -123,6 +123,7 @@
 | `promomasters.at` | — | — | — | active |
 | `pv.at` | — | — | — | active |
 | `redbullsalzburg.at` | — | — | — | retired |
+| `renault.at` | [policy](https://www.renaultgroup.com/en/vulnerability-disclosure-policy/) | — | — | active |
 | `sagedpw.at` | [policy](https://www.sage.com/en-gb/trust-security/) | recognition | — | active |
 | `sbausparkasse.at` | [policy](https://www.sparkasse.at/sicherheitscenter-en/report-potential-security-vulnerability) | — | yes | expired |
 | `sevdesk.at` | — | — | — | active |

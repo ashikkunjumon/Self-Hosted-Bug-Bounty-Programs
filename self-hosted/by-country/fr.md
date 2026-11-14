@@ -1,6 +1,6 @@
 # Self-hosted programs — FR
 
-177 programs.
+178 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -52,6 +52,7 @@
 | `dpd.fr` | — | monetary | — | active |
 | `ebookers.fr` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `ec-nantes.fr` | — | recognition | — | active |
+| `effinity.fr` | — | — | — | active |
 | `ekomi.fr` | — | — | — | active |
 | `ekwateur.fr` | — | recognition | — | active |
 | `emse.fr` | — | — | — | active |
