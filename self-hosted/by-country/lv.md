@@ -20,7 +20,7 @@
 | `lnso.lv` | — | — | — | active |
 | `lvm.lv` | — | — | — | active |
 | `mammadaba.lv` | — | — | — | active |
-| `naudasskola.lv` | [policy](https://www.naudasskola.lv/par-mums/ievainojamibu-atklasanas-politika) | monetary | — | expired |
+| `naudasskola.lv` | [policy](https://www.naudasskola.lv/par-mums/ievainojamibu-atklasanas-politika) | monetary | — | retired |
 | `nic.lv` | [policy](https://www.nic.lv/en/nic-vulnerability-reporting-procedure) | — | — | active |
 | `slots.lv` | [policy](https://slots.lv/bug-bounty) | monetary | — | active |
 | `swedbank.lv` | [policy](https://www.swedbank.se/om-oss/sakerhet/report-a-security-flaw.html) | — | — | active |

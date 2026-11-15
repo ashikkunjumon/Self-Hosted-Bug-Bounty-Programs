@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 | `admiralty.co.uk` | [policy](https://www.admiralty.co.uk/vulnerability-reporting) | — | yes | expired |
 | `arclegal.co.uk` | [policy](https://legalassistanceportal.arclegal.co.uk/Home/VulnerabilityDisclosurePolicy) | recognition | — | retired |
-| `calproof.co.uk` | [policy](https://calproof.co.uk/legal/security/) | monetary | yes | active |
+| `calproof.co.uk` | [policy](https://calproof.co.uk/legal/security/) | monetary | yes | retired |
 | `gamechanger360.co.uk` | [policy](https://gamechanger360.co.uk/legal/vulnerability-disclosure) | — | yes | active |
 | `hedgehogsecurity.co.uk` | [policy](https://www.hedgehogsecurity.co.uk/responsible-disclosure) | swag | yes | active |
 | `iottechnologies.co.uk` | [policy](https://iottechnologies.co.uk/vulnerability-disclosure-policy) | recognition | yes | active |

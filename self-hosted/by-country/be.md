@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-282 programs.
+284 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -205,6 +205,7 @@
 | `proxis.be` | — | — | — | expired |
 | `quantix.be` | — | — | — | expired |
 | `raversyde.be` | — | — | — | active |
+| `riemst.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `rixensart.be` | — | — | — | active |
 | `rochefort.be` | — | — | — | active |
 | `rootshell.be` | — | — | — | active |
@@ -273,6 +274,7 @@
 | `volero.be` | [policy](https://www.registrarhub.net/.well-known/responsible_disclosure.txt) | — | — | retired |
 | `vrt.be` | [policy](https://www.vrt.be/en/responsible-disclosure-policy-english-version/) | recognition | — | active |
 | `warande.be` | — | — | — | active |
+| `waremme.be` | — | — | — | active |
 | `wavre.be` | — | — | — | active |
 | `webador.be` | — | — | — | active |
 | `weblounge.be` | [policy](https://www.weblounge.be/privacy/) | — | — | active |

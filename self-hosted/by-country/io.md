@@ -1,6 +1,6 @@
 # Self-hosted programs — IO
 
-70 programs.
+71 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -42,10 +42,11 @@
 | `leantime.io` | [policy](https://leantime.io/responsible-disclosure-policy/) | — | — | retired |
 | `ledgerguard.io` | [policy](https://ledgerguard.io/security/responsible-disclosure) | recognition | — | active |
 | `mediaura.io` | [policy](https://mediaura.io/security/disclosure) | recognition | yes | active |
-| `mlaify.io` | [policy](https://mlaify.io/security/) | recognition | yes | active |
+| `mishmar.io` | [policy](https://mishmar.io/security) | monetary | yes | active |
+| `mlaify.io` | [policy](https://mlaify.io/security/) | swag | — | active |
 | `multihub.io` | [policy](https://www.multihub.io/security) | monetary | — | retired |
 | `mydukaan.io` | [policy](https://mydukaan.io/bugbounty/) | monetary | — | retired |
-| `netrisk.io` | [policy](https://www.netrisk.io/responsible-disclosure) | — | — | active |
+| `netrisk.io` | [policy](https://www.netrisk.io/responsible-disclosure) | — | — | retired |
 | `onpay.io` | [policy](https://onpay.io/responsible-disclosure) | monetary | yes | active |
 | `overblock.io` | [policy](https://overblock.io/security) | recognition | — | expired |
 | `parity.io` | [policy](https://www.parity.io/bug-bounty) | monetary | — | retired |
@@ -53,7 +54,7 @@
 | `pingram.io` | [policy](https://www.pingram.io/vulnerability-disclosure-policy) | — | yes | active |
 | `primer.io` | [policy](https://primer.io/responsible-disclosure) | monetary | yes | retired |
 | `pwnedlabs.io` | [policy](https://pwnedlabs.io/security-policy) | swag | yes | active |
-| `ranktide.io` | [policy](https://ranktide.io/security) | monetary | yes | active |
+| `ranktide.io` | [policy](https://ranktide.io/security) | monetary | yes | retired |
 | `recruitcrm.io` | [policy](https://recruitcrm.io/legal/rcrm-vulnerability-disclosure-program/) | — | yes | retired |
 | `regwatch.io` | [policy](https://www.regwatch.io/security) | — | — | active |
 | `rekaz.io` | [policy](https://rekaz.io/home/en/vulnerability-disclosure/) | — | — | retired |
@@ -71,6 +72,6 @@
 | `unloq.io` | [policy](https://unloq.io/security) | — | — | retired |
 | `vakilat.io` | [policy](https://www.vakilat.io/security) | recognition | — | active |
 | `validateemail.io` | [policy](https://validateemail.io/security) | monetary | yes | active |
-| `vikingqa.io` | [policy](https://vikingqa.io/security/responsible-disclosure) | recognition | yes | active |
+| `vikingqa.io` | [policy](https://vikingqa.io/security/responsible-disclosure) | recognition | yes | retired |
 | `webdisk.io` | [policy](https://webdisk.io/vdp) | recognition | yes | active |
 | `whalebone.io` | [policy](https://www.whalebone.io/vulnerability-disclosure-policy) | — | yes | retired |

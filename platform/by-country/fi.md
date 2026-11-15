@@ -11,7 +11,7 @@
 | `prisma.fi` | — | — | — | expired |
 | `s-kaupat.fi` | — | — | — | retired |
 | `s-pankki.fi` | — | — | — | active |
-| `ston.fi` | [policy](https://docs.ston.fi/getting-started/security) | monetary | — | active |
+| `ston.fi` | [policy](https://docs.ston.fi/getting-started/security) | monetary | — | retired |
 | `toyota.fi` | — | monetary | — | expired |
 | `webnode.fi` | [policy](https://www.webnode.com/.well-known/security-policy.html) | — | yes | active |
 | `yearn.fi` | [policy](https://github.com/yearn/yearn-security/blob/master/SECURITY.md) | monetary | — | active |

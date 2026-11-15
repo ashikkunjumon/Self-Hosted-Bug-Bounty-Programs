@@ -364,7 +364,7 @@
 | `tchibo.ch` | — | — | — | active |
 | `tcs.ch` | — | — | — | active |
 | `tele1.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/compass-bug-bounty) | monetary | — | active |
-| `teleboy.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/teleboy-bug-bounty) | monetary | — | retired |
+| `teleboy.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/teleboy-bug-bounty) | monetary | — | active |
 | `telem1.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/compass-bug-bounty) | monetary | — | active |
 | `telezueri.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/compass-bug-bounty) | monetary | — | active |
 | `theaterspektakel.ch` | — | — | — | active |
@@ -384,7 +384,7 @@
 | `umb.ch` | — | — | — | active |
 | `uncoded.ch` | — | — | — | active |
 | `unibe.ch` | — | — | — | expired |
-| `unicef.ch` | — | — | — | retired |
+| `unicef.ch` | — | — | — | active |
 | `unil.ch` | — | — | — | active |
 | `unisante.ch` | — | — | — | active |
 | `unisg.ch` | — | — | — | active |

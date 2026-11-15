@@ -1,9 +1,10 @@
 # Self-hosted programs — TR
 
-33 programs.
+34 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
+| `a101.com.tr` | — | — | — | active |
 | `akyatirim.com.tr` | — | — | — | active |
 | `bahcesehir.edu.tr` | [policy](https://bidb.bau.edu.tr/privacy-policy/) | — | — | active |
 | `bau.edu.tr` | [policy](https://bidb.bau.edu.tr/privacy-policy/) | — | — | retired |

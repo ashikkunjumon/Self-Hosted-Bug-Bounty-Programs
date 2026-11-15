@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-638 programs.
+639 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@
 | `awscloud.com` | [policy](https://vdp.aws.security/) | — | — | active |
 | `axelspringer.com` | — | monetary | — | active |
 | `axis.com` | [policy](https://help.axis.com/axis-vulnerability-management-policy) | monetary | — | active |
-| `azattyqasia.org` | [policy](https://www.usagm.gov/vulnerability-disclosure-policy/) | — | — | active |
+| `azattyqasia.org` | [policy](https://www.usagm.gov/vulnerability-disclosure-policy/) | — | — | retired |
 | `backblaze.com` | [policy](https://www.backblaze.com/cloud-storage/security) | monetary | — | retired |
 | `badoo.com` | [policy](https://hackerone.com/bumble?view_policy) | — | — | active |
 | `basecamp.com` | [policy](https://37signals.com/policies/security/response) | monetary | — | retired |
@@ -130,7 +130,7 @@
 | `continuum.io` | — | — | — | expired |
 | `cookinglight.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `costco.com` | [policy](https://hackerone.com/costco) | — | — | active |
-| `coveo.com` | — | — | — | retired |
+| `coveo.com` | — | — | — | expired |
 | `covermymeds.com` | [policy](https://www.mckesson.com/cybersecurity/coordinated-vulnerability-disclosure/) | monetary | — | active |
 | `cpanel.com` | — | — | — | active |
 | `cpanel.net` | — | — | — | active |
@@ -167,7 +167,7 @@
 | `dow.com` | [policy](https://www.synack.com/vdp/dow/) | recognition | yes | active |
 | `drivinglaws.org` | — | — | — | active |
 | `dropbox.tech` | [policy](https://dropbox.tech/security/updates-on-the-dropbox-bug-bounty-program) | monetary | — | retired |
-| `dvdtalk.com` | — | — | — | retired |
+| `dvdtalk.com` | — | — | — | active |
 | `dvidshub.net` | — | — | — | active |
 | `earlywarning.com` | [policy](https://www.earlywarning.com/security) | — | — | retired |
 | `eatingwell.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
@@ -257,7 +257,7 @@
 | `heroku.com` | [policy](https://www.heroku.com/policy/security-hall-of-fame/) | recognition | — | retired |
 | `hexagon.com` | [policy](https://hexagon.com/legal/vulnerability) | — | yes | retired |
 | `hiddenlayer.com` | [policy](https://www.hiddenlayer.com/vulnerability-disclosure-policy) | — | yes | retired |
-| `highdefdigest.com` | — | — | — | retired |
+| `highdefdigest.com` | — | — | — | active |
 | `hiringlab.org` | [policy](https://www.indeed.com/legal?hl=en&from=gnav-homepage#ivrp) | monetary | — | expired |
 | `hivehome.com` | [policy](https://www.hivehome.com/security) | monetary | — | retired |
 | `hostinger.com` | [policy](https://www.hostinger.com/legal/responsible-disclosure-policy) | — | — | active |
@@ -306,10 +306,11 @@
 | `keepersecurity.com` | [policy](https://keepersecurity.com/security.html) | monetary | yes | active |
 | `kick.com` | — | — | — | expired |
 | `kiwa.com` | [policy](https://www.kiwa.com/en/responsible-disclosure-policy/) | monetary | — | retired |
-| `kiwi.com` | [policy](https://www.kiwi.com/us/pages/security) | monetary | — | active |
+| `kiwi.com` | [policy](https://www.kiwi.com/us/pages/security) | — | — | active |
 | `kkr.com` | [policy](https://hackerone.com/kkr_vdp) | — | — | expired |
+| `klarna.com` | [policy](https://www.klarna.com/international/responsible-disclosure/) | — | — | active |
 | `kroger.com` | — | — | — | active |
-| `krymr.com` | [policy](https://www.usagm.gov/vulnerability-disclosure-policy/) | — | — | active |
+| `krymr.com` | [policy](https://www.usagm.gov/vulnerability-disclosure-policy/) | — | — | retired |
 | `langfuse.com` | [policy](https://langfuse.com/security/responsible-disclosure) | monetary | — | retired |
 | `larksuite.com` | [policy](https://www.larksuite.com/bugbounty) | monetary | — | retired |
 | `lastpass.com` | [policy](https://www.lastpass.com/trust-center/security/responsible-disclosure) | monetary | — | retired |
@@ -385,7 +386,7 @@
 | `nightwatchcybersecurity.com` | [policy](https://wwws.nightwatchcybersecurity.com/tag/bugcrowd/) | monetary | — | retired |
 | `nodejs.dev` | [policy](https://github.com/nodejs/node/security/policy#security) | monetary | — | active |
 | `nodejs.org` | [policy](https://github.com/nodejs/node/security/policy#security) | monetary | — | active |
-| `nolo.com` | — | — | — | retired |
+| `nolo.com` | — | — | — | active |
 | `nordantech.com` | [policy](https://www.nordantech.com/bounty) | monetary | yes | active |
 | `northwesternmutual.com` | [policy](https://bugcrowd.com/engagements/northwestern-mutual-mbb-og) | monetary | — | active |
 | `norwegian.com` | — | — | — | expired |
@@ -438,13 +439,13 @@
 | `quidco.com` | [policy](https://bugcrowd.com/engagement_teasers/small-brook-9707) | — | — | active |
 | `qwant.com` | — | — | — | active |
 | `r3.com` | [policy](https://hackerone.com/r3) | — | — | active |
-| `racingjunk.com` | — | — | — | retired |
+| `racingjunk.com` | — | — | — | active |
 | `rakuten.net` | — | — | — | active |
 | `ralphs.com` | — | — | — | active |
 | `randstad.com` | [policy](https://www.randstad.com/report-a-security-problem/) | — | — | active |
 | `randstadusa.com` | [policy](https://www.randstad.com/report-a-security-problem/) | — | — | active |
 | `rapgenius.com` | [policy](https://bugcrowd.com/engagements/Genius-VDP) | — | — | retired |
-| `rctech.net` | — | — | — | retired |
+| `rctech.net` | — | — | — | active |
 | `rcuniverse.com` | — | — | — | active |
 | `rea-group.com` | [policy](https://www.rea-group.com/security) | recognition | — | active |
 | `realpage.com` | [policy](https://www.realpage.com/support/security/responsible-disclosure/) | monetary | — | retired |
@@ -481,7 +482,7 @@
 | `shape.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `shapesecurity.com` | [policy](https://www.f5.com/support/report-a-vulnerability) | — | — | retired |
 | `shopify.com` | [policy](https://hackerone.com/shopify) | — | — | active |
-| `sibreal.org` | [policy](https://www.usagm.gov/vulnerability-disclosure-policy/) | — | — | active |
+| `sibreal.org` | [policy](https://www.usagm.gov/vulnerability-disclosure-policy/) | — | — | retired |
 | `sidefx.com` | [policy](https://hackerone.com/sidefx?type=team&view_policy=true) | — | — | active |
 | `signup.com` | [policy](https://signup.com/responsible-disclosure-policy) | recognition | — | retired |
 | `simplisafe.com` | [policy](https://support.simplisafe.com/articles/alarm-events-monitoring/how-do-i-report-a-possible-security-issue-in-the-system/6344792c8e3e4c348d43ebde?lang=en_US) | monetary | — | active |
@@ -561,7 +562,7 @@
 | `trustwave.com` | [policy](https://www.levelblue.com/legal/privacy-policy) | — | — | active |
 | `tumblr.com` | [policy](https://hackerone.com/automattic) | — | — | active |
 | `turborepo.dev` | [policy](https://security.vercel.com/) | — | — | active |
-| `tuv.com` | — | monetary | — | active |
+| `tuv.com` | — | monetary | — | retired |
 | `tw.bid.yahoo.com` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | active |
 | `tweakers.net` | [policy](https://tweakers.net/info/responsible-disclosure/) | monetary | — | active |
 | `twitter.com` | — | — | — | expired |
@@ -611,7 +612,7 @@
 | `weddingbee.com` | — | — | — | retired |
 | `wellsfargo.com` | [policy](https://www.wellsfargo.com/privacy-security/fraud/responsible-disclosure-program/) | — | yes | retired |
 | `wetransfer.com` | [policy](https://wetransfer.com/help-center/security-privacy/reporting-a-security-vulnerability) | — | — | retired |
-| `whattoexpect.com` | [policy](https://www.whattoexpect.com/privacy-policy) | — | — | retired |
+| `whattoexpect.com` | [policy](https://www.whattoexpect.com/privacy-policy) | monetary | — | active |
 | `whmcs.com` | — | — | — | active |
 | `wikitravel.org` | — | — | — | retired |
 | `wilmingtontrust.com` | [policy](https://www.wilmingtontrust.com/privacy-security/responsible-disclosure-program) | monetary | yes | retired |

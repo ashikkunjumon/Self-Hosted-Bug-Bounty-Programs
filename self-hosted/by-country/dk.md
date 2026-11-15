@@ -1,6 +1,6 @@
 # Self-hosted programs — DK
 
-163 programs.
+164 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@
 | `pegani.dk` | — | — | — | active |
 | `permin.dk` | — | — | — | active |
 | `piefed.dk` | — | — | — | active |
-| `pixelfed.dk` | — | — | — | active |
+| `pixelfed.dk` | — | — | — | retired |
 | `pka.dk` | — | — | — | active |
 | `polarportal.dk` | — | — | — | active |
 | `powerhosting.dk` | — | — | — | active |
@@ -128,6 +128,7 @@
 | `rlb.dk` | — | — | — | active |
 | `royalcasino.dk` | [policy](https://www.royalcasino.dk/ansvarlighed) | monetary | — | active |
 | `rsyd.dk` | — | — | — | active |
+| `rtx.dk` | [policy](https://www.rtx.dk/support/non-disclosure-reporting/#PolicyScope) | — | yes | active |
 | `saint-gobain.dk` | — | — | — | active |
 | `samsik.dk` | — | — | — | active |
 | `sas.dk` | [policy](https://www.sasgroup.net/contact/vulnerability-disclosure-policy/) | recognition | yes | active |

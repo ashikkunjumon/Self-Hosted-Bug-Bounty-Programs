@@ -1,6 +1,6 @@
 # Self-hosted programs — HU
 
-50 programs.
+51 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -22,6 +22,7 @@
 | `expressz.hu` | — | — | — | active |
 | `galco.hu` | — | — | — | active |
 | `glami.hu` | — | monetary | — | active |
+| `heimpalkorhaz.hu` | [policy](https://heimpalkorhaz.hu/adatvedelem) | — | — | active |
 | `hetkoznapi.hu` | — | — | — | active |
 | `hup.hu` | — | — | — | active |
 | `jatekokxl.hu` | — | — | — | active |

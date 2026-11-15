@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-387 programs.
+388 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@
 | `agel.cz` | — | — | — | expired |
 | `aiken.cz` | — | — | — | active |
 | `airbank.cz` | — | — | — | active |
-| `aktin.cz` | — | — | — | retired |
+| `aktin.cz` | — | — | — | active |
 | `allwyn.cz` | [policy](https://www.allwyn.cz/.well-known/responsible_disclosure_policy.pdf) | monetary | — | active |
 | `ambis.cz` | — | — | — | expired |
 | `amo.cz` | — | — | — | active |
@@ -33,6 +33,7 @@
 | `betano-bonus-cz.cz` | — | — | — | active |
 | `betano-kasino.cz` | — | — | — | active |
 | `betano-recenze.cz` | — | — | — | active |
+| `betano-vstup.cz` | — | — | — | active |
 | `bezpecnyinternet.cz` | — | — | — | active |
 | `biano.cz` | — | — | — | retired |
 | `billboard.cz` | — | — | — | active |
@@ -249,7 +250,7 @@
 | `novinky.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `npi.cz` | — | — | — | active |
 | `nppodyji.cz` | — | — | — | active |
-| `nrb.cz` | — | — | — | active |
+| `nrb.cz` | — | — | — | retired |
 | `ntm.cz` | — | — | — | active |
 | `nuov.cz` | — | — | — | active |
 | `nzm.cz` | — | — | — | active |
@@ -354,7 +355,7 @@
 | `ujv.cz` | — | — | — | active |
 | `ulekare.cz` | — | — | — | active |
 | `umprum.cz` | — | — | — | active |
-| `usetreno.cz` | — | — | — | retired |
+| `usetreno.cz` | — | — | — | active |
 | `varnsdorf.cz` | — | — | — | active |
 | `vas-hosting.cz` | — | — | — | active |
 | `vedos.cz` | [policy](https://vedos.cz/security-policy) | — | — | active |

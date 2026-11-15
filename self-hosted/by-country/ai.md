@@ -8,7 +8,7 @@
 | `abundera.ai` | [policy](https://abundera.ai/security) | recognition | yes | active |
 | `alcova.ai` | [policy](https://alcova.ai/vulnerability-disclosure) | recognition | yes | active |
 | `amber.ai` | [policy](https://www.amber.ai/legal/security) | — | — | retired |
-| `aprovex.ai` | [policy](https://www.aprovex.ai/responsible-disclosure/) | monetary | — | active |
+| `aprovex.ai` | [policy](https://www.aprovex.ai/responsible-disclosure/) | monetary | — | retired |
 | `audienceconnect.ai` | [policy](https://audienceconnect.ai/security/) | — | — | retired |
 | `aurasell.ai` | [policy](https://www.aurasell.ai/bug-bounty) | monetary | — | retired |
 | `aurexara.ai` | [policy](https://www.aurexara.ai/security) | — | — | retired |
@@ -34,7 +34,7 @@
 | `foresight.ai` | [policy](https://www.foresight.ai/policy/disclosure-policy) | recognition | yes | retired |
 | `fyxer.ai` | [policy](https://www.fyxer.com/vulnerability-disclosure-policy) | monetary | yes | retired |
 | `galileo.ai` | [policy](https://galileo.ai/responsible-disclosure-program) | — | yes | retired |
-| `getdot.ai` | [policy](https://docs.getdot.ai/security-and-support/security-and-privacy) | monetary | — | active |
+| `getdot.ai` | [policy](https://docs.getdot.ai/security-and-support/security-and-privacy) | monetary | — | retired |
 | `global.ai` | [policy](https://global.ai/de/sicherheit/) | — | — | retired |
 | `groupize.ai` | [policy](https://groupize.ai/bug-bounty-program/) | monetary | — | retired |
 | `hackzero.ai` | [policy](https://complianceeverywhere.com/legal/security) | recognition | yes | active |

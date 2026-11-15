@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-553 programs.
+554 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -263,6 +263,7 @@
 | `lakareutangranser.se` | — | — | — | active |
 | `lakemedelsboken.se` | [policy](https://www.lakemedelsverket.se/en/security/responsible-disclosure) | — | — | active |
 | `lakemedelsverket.se` | [policy](https://www.lakemedelsverket.se/en/security/responsible-disclosure) | — | — | active |
+| `landskrona.se` | — | — | — | expired |
 | `lansstyrelsen.se` | — | — | — | active |
 | `ledarna.se` | — | — | — | active |
 | `ledningskollen.se` | — | — | — | expired |

@@ -1,6 +1,6 @@
 # Self-hosted programs — FI
 
-135 programs.
+136 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@
 | `coronaria.fi` | — | — | — | active |
 | `csc.fi` | [policy](https://csc.fi/en/security-privacy-data-policy-and-open-source-policy/) | — | — | active |
 | `curve.fi` | — | — | — | active |
-| `dna.fi` | — | — | — | retired |
+| `dna.fi` | — | — | — | active |
 | `dustin.fi` | — | — | — | active |
 | `ebookers.fi` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `elenia.fi` | — | — | — | expired |
@@ -31,6 +31,7 @@
 | `euromaster.fi` | — | recognition | — | active |
 | `expedia.fi` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `fennia.fi` | — | — | — | active |
+| `figbc.fi` | [policy](https://handbook.dude.fi/security-policy) | monetary | — | active |
 | `finavia.fi` | — | — | — | active |
 | `finhockey.fi` | — | — | — | active |
 | `finnkino.fi` | [policy](https://www.vista.co/responsible-disclosure-policy) | recognition | — | active |
@@ -53,7 +54,7 @@
 | `hyvaterveys.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | active |
 | `inet.fi` | — | — | — | active |
 | `intersport.fi` | — | — | — | expired |
-| `is.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | active |
+| `is.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | expired |
 | `joutsenmerkki.fi` | — | — | — | active |
 | `jylkkari.fi` | [policy](https://handbook.dude.fi/security-policy) | monetary | — | active |
 | `k-auto.fi` | — | — | — | expired |

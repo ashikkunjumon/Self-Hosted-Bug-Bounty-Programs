@@ -345,7 +345,7 @@
 | `queer.de` | — | — | — | active |
 | `ragsuite.de` | [policy](https://ragsuite.de/sicherheitsluecke-melden/) | monetary | yes | active |
 | `ravensburg.de` | [policy](https://www.ravensburg.de/rv/security-policy.php) | monetary | yes | active |
-| `rebaze.de` | [policy](https://www.rebaze.de/security-policy/) | recognition | yes | active |
+| `rebaze.de` | [policy](https://www.rebaze.de/security-policy/) | recognition | — | active |
 | `rebuy.de` | — | — | — | active |
 | `reddotmedia.de` | [policy](https://g.co/vrp) | — | — | active |
 | `redensarten-index.de` | — | — | — | retired |
@@ -403,6 +403,7 @@
 | `study-in-germany.de` | — | — | — | active |
 | `stuttgart.de` | — | — | — | active |
 | `stylight.de` | — | recognition | — | retired |
+| `suchhelden.de` | — | — | — | active |
 | `suse.de` | — | — | — | active |
 | `swm.de` | — | — | — | active |
 | `swr.de` | — | — | — | active |
@@ -411,7 +412,6 @@
 | `tagesspiegel.de` | — | — | — | active |
 | `taskcards.de` | — | — | — | active |
 | `tchibo.de` | — | — | — | active |
-| `telekom.de` | [policy](https://www.telekom.com/bugbounty) | monetary | — | retired |
 | `telepolis.de` | [policy](https://heise.de/-7513540) | monetary | — | active |
 | `tengen.de` | — | — | — | active |
 | `testberichte.de` | — | — | — | active |
