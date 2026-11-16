@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-639 programs.
+640 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -237,7 +237,6 @@
 | `gocardless.com` | [policy](https://gocardless.com/faq/merchants/security/) | monetary | — | active |
 | `goodnotes.com` | [policy](https://hackerone.com/goodnotes) | — | — | active |
 | `grab.com` | [policy](https://hackerone.com/grab?view_policy=true) | — | — | active |
-| `grafana.net` | [policy](https://grafana.com/legal/report-a-security-issue/) | monetary | — | active |
 | `grammarly.com` | [policy](https://hackerone.com/grammarly) | — | — | active |
 | `greencarreports.com` | — | — | — | active |
 | `greenhouse.com` | [policy](https://hackerone.com/greenhouse?type=team) | — | — | expired |
@@ -306,7 +305,7 @@
 | `keepersecurity.com` | [policy](https://keepersecurity.com/security.html) | monetary | yes | active |
 | `kick.com` | — | — | — | expired |
 | `kiwa.com` | [policy](https://www.kiwa.com/en/responsible-disclosure-policy/) | monetary | — | retired |
-| `kiwi.com` | [policy](https://www.kiwi.com/us/pages/security) | — | — | active |
+| `kiwi.com` | [policy](https://www.kiwi.com/us/pages/security) | monetary | — | active |
 | `kkr.com` | [policy](https://hackerone.com/kkr_vdp) | — | — | expired |
 | `klarna.com` | [policy](https://www.klarna.com/international/responsible-disclosure/) | — | — | active |
 | `kroger.com` | — | — | — | active |
@@ -408,6 +407,7 @@
 | `ory.com` | [policy](https://www.ory.com/docs/ecosystem/security) | — | — | active |
 | `oshrc.gov` | [policy](https://www.oshrc.gov/vulnerability-disclosure-policy/) | — | — | retired |
 | `ourfabriq.com` | [policy](https://ourfabriq.com/responsible-disclosure-policy) | monetary | yes | retired |
+| `outbrain.com` | [policy](https://www.outbrain.com/security/bug-bounty/) | monetary | yes | active |
 | `overture.com` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | active |
 | `ovh.com` | [policy](https://yeswehack.com/programs/ovh) | monetary | — | active |
 | `ovhcloud.com` | [policy](https://yeswehack.com/programs/ovh) | monetary | — | active |
@@ -432,6 +432,7 @@
 | `postmarkapp.com` | [policy](https://postmarkapp.com/support/article/779-responsible-disclosure-policy) | monetary | yes | retired |
 | `powerdns.com` | [policy](https://vdp.open-xchange.com/) | — | — | active |
 | `pprune.org` | — | — | — | active |
+| `profitwell.com` | [policy](https://www.paddle.com/vulnerability-disclosure-policy) | recognition | — | active |
 | `public.com` | [policy](https://hackerone.com/public, you need to be part of our bounty our program to see details) | monetary | — | active |
 | `pusher.com` | — | — | — | active |
 | `qantas.com` | — | — | — | active |

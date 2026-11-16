@@ -1,6 +1,6 @@
 # Self-hosted programs — BR
 
-108 programs.
+109 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -67,6 +67,7 @@
 | `mda.gov.br` | [policy](https://www.gov.br/agricultura/pt-br/acesso-a-informacao/tecnologia-da-informacao/seguranca-da-informacao/politica-de-seguranca-da-informacao-e-comunicacao-posic) | — | — | expired |
 | `meutimao.com.br` | [policy](https://www.meutimao.com.br/politica-de-privacidade) | — | — | active |
 | `michaelpage.com.br` | — | — | — | expired |
+| `michelin.com.br` | — | — | — | active |
 | `msnoticias.com.br` | — | — | — | expired |
 | `mst.org.br` | — | — | — | expired |
 | `neon.com.br` | — | — | — | expired |

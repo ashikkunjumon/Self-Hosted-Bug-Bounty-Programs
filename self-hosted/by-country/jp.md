@@ -13,7 +13,7 @@
 | `jps.jp` | — | — | — | active |
 | `konami.jp` | — | — | — | active |
 | `kuruma-news.jp` | — | — | — | expired |
-| `line.naver.jp` | [policy](https://bugbounty.linecorp.com/en) | — | yes | active |
+| `line.naver.jp` | [policy](https://www.lycorp.co.jp/en/privacy-security/security/vulnerability-report/) | — | yes | active |
 | `locondo.jp` | — | monetary | — | active |
 | `lolipop.jp` | [policy](https://pepabo.com/contact/vulnerability-reporting/) | monetary | yes | active |
 | `michelin.co.jp` | — | — | — | active |

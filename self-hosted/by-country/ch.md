@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-421 programs.
+426 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -44,6 +44,7 @@
 | `blkb.ch` | — | — | — | active |
 | `blt.ch` | — | — | — | active |
 | `bluewin.ch` | [policy](https://github.com/swisscom/bugbounty) | monetary | — | expired |
+| `bonheur.ch` | — | — | — | active |
 | `bremgarten.ch` | — | — | — | active |
 | `bs.ch` | — | — | — | expired |
 | `buelach.ch` | — | — | — | active |
@@ -111,6 +112,7 @@
 | `finma.ch` | — | — | — | active |
 | `fiz-info.ch` | — | recognition | — | active |
 | `flatfox.ch` | — | — | — | active |
+| `flumroc.ch` | — | — | — | active |
 | `fnac.ch` | — | — | — | active |
 | `fondation-barry.ch` | — | — | — | active |
 | `fondationbeyeler.ch` | — | — | — | active |
@@ -123,6 +125,7 @@
 | `gameswelt.ch` | — | — | — | active |
 | `gastrojournal.ch` | — | — | — | expired |
 | `gemeindedavos.ch` | — | — | — | active |
+| `geneve.ch` | — | — | — | active |
 | `gettyimages.ch` | — | — | — | retired |
 | `ghisler.ch` | — | recognition | — | active |
 | `gkb.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/gkb-bug-bounty) | monetary | — | active |
@@ -213,6 +216,7 @@
 | `lqj.ch` | — | — | — | active |
 | `luks.ch` | — | recognition | — | active |
 | `lups.ch` | — | — | — | expired |
+| `m4music.ch` | — | — | — | active |
 | `mahmah.ch` | — | — | — | active |
 | `martigny.ch` | — | — | — | retired |
 | `maschinenmarkt.ch` | — | — | — | expired |
@@ -230,6 +234,7 @@
 | `migrosbank.ch` | — | — | — | expired |
 | `migrosmagazin.ch` | — | — | — | active |
 | `migrosmagazine.ch` | — | — | — | active |
+| `migrosmuseum.ch` | — | — | — | active |
 | `mobilesport.ch` | — | — | — | active |
 | `moltrust.ch` | — | — | — | active |
 | `motoscout24.ch` | — | — | — | active |

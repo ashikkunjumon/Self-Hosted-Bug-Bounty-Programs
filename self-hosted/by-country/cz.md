@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-388 programs.
+389 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@
 | `airbank.cz` | — | — | — | active |
 | `aktin.cz` | — | — | — | active |
 | `allwyn.cz` | [policy](https://www.allwyn.cz/.well-known/responsible_disclosure_policy.pdf) | monetary | — | active |
-| `ambis.cz` | — | — | — | expired |
+| `ambis.cz` | — | — | — | active |
 | `amo.cz` | — | — | — | active |
-| `anifilm.cz` | — | — | — | expired |
+| `anifilm.cz` | — | — | — | active |
 | `annonce.cz` | — | — | — | retired |
 | `anobudelip.cz` | — | — | — | active |
 | `arriva.cz` | — | — | — | active |
@@ -45,7 +45,7 @@
 | `brno.cz` | — | — | — | expired |
 | `byznysweb.cz` | — | — | — | active |
 | `c-store.cz` | — | — | — | active |
-| `cafelouvre.cz` | — | — | — | expired |
+| `cafelouvre.cz` | — | — | — | active |
 | `casd.cz` | — | — | — | active |
 | `casopisstavebnictvi.cz` | — | — | — | active |
 | `cdv.cz` | — | — | — | active |
@@ -60,7 +60,7 @@
 | `cestolino.cz` | — | — | — | active |
 | `cewe.cz` | — | — | — | active |
 | `chance-promo.cz` | — | — | — | active |
-| `chateaumcely.cz` | — | — | — | expired |
+| `chateaumcely.cz` | — | — | — | active |
 | `chlorito.cz` | — | — | — | active |
 | `cistedrevo.cz` | — | — | — | active |
 | `citybee.cz` | — | — | — | active |
@@ -90,7 +90,7 @@
 | `donio.cz` | — | — | — | active |
 | `dotaceeu.cz` | — | — | — | active |
 | `doubleshot.cz` | — | — | — | active |
-| `dox.cz` | — | — | — | expired |
+| `dox.cz` | — | — | — | active |
 | `drakkaria.cz` | — | — | — | active |
 | `drogy-info.cz` | — | — | — | retired |
 | `dudlu.cz` | — | — | — | active |
@@ -99,7 +99,7 @@
 | `ecn.cz` | — | — | — | active |
 | `efotbal.cz` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `elfetex.cz` | [policy](https://magento.com/security) | monetary | — | expired |
-| `emaespressobar.cz` | — | — | — | expired |
+| `emaespressobar.cz` | — | — | — | active |
 | `emkei.cz` | — | — | — | active |
 | `energozrouti.cz` | — | — | — | active |
 | `eon.cz` | — | — | — | expired |
@@ -122,10 +122,10 @@
 | `fortuna-hra.cz` | — | — | — | active |
 | `fortuna-promo.cz` | — | — | — | active |
 | `fortuna-vstup.cz` | — | — | — | active |
-| `forum2000.cz` | — | — | — | expired |
+| `forum2000.cz` | — | — | — | active |
 | `fraus.cz` | — | — | — | active |
 | `freelo.cz` | — | — | — | active |
-| `freeride.cz` | — | — | — | expired |
+| `freeride.cz` | — | — | — | active |
 | `fyft.cz` | — | — | — | active |
 | `garaz.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `glami.cz` | — | monetary | — | active |
@@ -151,7 +151,7 @@
 | `iir.cz` | — | — | — | active |
 | `imago.cz` | [policy](http://www.imago.cz/kontakt) | swag | — | active |
 | `indian-tv.cz` | [policy](https://indian-tv.cz/zasady) | — | — | active |
-| `infinit.cz` | — | — | — | expired |
+| `infinit.cz` | — | — | — | active |
 | `info-praha.cz` | — | — | — | expired |
 | `innogy.cz` | [policy](https://innogy.cz/nahlaseni-zranitelnosti/) | — | — | active |
 | `inpage.cz` | — | — | — | expired |
@@ -166,7 +166,7 @@
 | `jobs.cz` | [policy](https://www.almacareer.com/vulnerability-disclosure) | — | yes | expired |
 | `jumpsport.cz` | — | — | — | active |
 | `kanzelsberger.cz` | — | — | — | active |
-| `karlovylazne.cz` | — | — | — | expired |
+| `karlovylazne.cz` | — | — | — | active |
 | `karlovyvary.cz` | — | — | — | active |
 | `karolinum.cz` | [policy](https://csirt.cuni.cz/en/incident_reporting) | recognition | — | retired |
 | `kasarnakarlin.cz` | — | recognition | — | active |
@@ -189,14 +189,14 @@
 | `krimi-plzen.cz` | — | — | — | active |
 | `kupi.cz` | [policy](https://napoveda.seznam.cz/cz/smluvni-podminky/podminky-kupi-cz/) | — | — | active |
 | `kvaltex.cz` | — | — | — | active |
-| `lacollezione.cz` | — | — | — | expired |
+| `lacollezione.cz` | — | — | — | active |
 | `laskakit.cz` | — | — | — | active |
 | `letakomat.cz` | — | — | — | active |
 | `letuska.cz` | [policy](https://asiana.cz/policy_en.html) | — | — | active |
 | `lide.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `lidl.cz` | — | — | — | active |
 | `livesport.cz` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
-| `loono.cz` | — | — | — | expired |
+| `loono.cz` | — | — | — | active |
 | `lupa.cz` | — | — | — | active |
 | `luxor.cz` | — | — | — | active |
 | `luxusnipradlo.cz` | — | — | — | active |
@@ -230,9 +230,9 @@
 | `mssf.cz` | — | — | — | active |
 | `mujrozhlas.cz` | — | — | — | active |
 | `muni.cz` | [policy](https://security.muni.cz/en/responsible_disclosure) | recognition | — | active |
-| `mvso.cz` | — | — | — | expired |
+| `mvso.cz` | — | — | — | active |
 | `mydreams.cz` | — | — | — | active |
-| `najbrt.cz` | — | — | — | expired |
+| `najbrt.cz` | — | — | — | active |
 | `najdireality.cz` | — | — | — | active |
 | `nakliceno.cz` | — | — | — | active |
 | `nakluky.cz` | — | — | — | active |
@@ -242,7 +242,7 @@
 | `nethost.cz` | [policy](https://www.nethost.cz/en/security/) | — | — | active |
 | `nhr.cz` | — | — | — | active |
 | `nic.cz` | — | — | — | active |
-| `nidv.cz` | — | — | — | active |
+| `nidv.cz` | — | — | — | retired |
 | `nkp.cz` | — | — | — | active |
 | `nm.cz` | — | — | — | active |
 | `nntb.cz` | — | — | — | expired |
@@ -286,7 +286,7 @@
 | `prolekare.cz` | — | — | — | active |
 | `prozeny.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `pse.cz` | — | — | — | active |
-| `pupp.cz` | — | — | — | expired |
+| `pupp.cz` | — | — | — | active |
 | `puravia.cz` | — | — | — | active |
 | `queens.cz` | — | — | — | active |
 | `rako.cz` | — | — | — | active |
@@ -347,6 +347,7 @@
 | `tipsport-promo.cz` | — | — | — | active |
 | `top-pojisteni.cz` | — | — | — | retired |
 | `toprecepty.cz` | — | — | — | active |
+| `trhypraha.cz` | — | — | — | active |
 | `tribune.cz` | — | — | — | active |
 | `tul.cz` | — | — | — | active |
 | `turistik.cz` | — | — | — | active |
@@ -362,7 +363,7 @@
 | `velkemezirici.cz` | — | — | — | active |
 | `vesmir.cz` | — | — | — | active |
 | `vetkom.cz` | — | — | — | active |
-| `vinci-construction.cz` | — | — | — | expired |
+| `vinci-construction.cz` | — | — | — | active |
 | `vitalia.cz` | — | — | — | active |
 | `volnamista.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `vse.cz` | — | — | — | expired |
@@ -389,6 +390,6 @@
 | `zlataky.cz` | — | — | — | active |
 | `znamost.cz` | — | — | — | active |
 | `znamylekar.cz` | — | — | — | active |
-| `znesnaze21.cz` | — | — | — | expired |
+| `znesnaze21.cz` | — | — | — | active |
 | `zonercloud.cz` | — | — | — | expired |
 | `zooplzen.cz` | — | — | — | active |

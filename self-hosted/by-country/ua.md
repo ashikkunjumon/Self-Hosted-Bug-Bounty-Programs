@@ -1,6 +1,6 @@
 # Self-hosted programs — UA
 
-58 programs.
+59 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -8,7 +8,7 @@
 | `arma.gov.ua` | — | — | — | active |
 | `autolux.ua` | — | — | — | retired |
 | `avrora.ua` | [policy](https://avrora.ua/vulnerability-disclosure-policy.html) | — | — | active |
-| `biotus.ua` | [policy](https://biotus.ua/security-policy) | — | yes | active |
+| `biotus.ua` | [policy](https://biotus.ua/security-policy) | — | — | active |
 | `cert.gov.ua` | — | — | — | active |
 | `cityhost.ua` | — | — | — | active |
 | `comfy.ua` | — | — | — | active |
@@ -48,6 +48,7 @@
 | `pulse.gov.ua` | — | — | — | active |
 | `redo.ua` | — | — | — | active |
 | `renault.ua` | [policy](https://www.renaultgroup.com/en/vulnerability-disclosure-policy/) | — | — | active |
+| `rivnerada.gov.ua` | — | — | — | active |
 | `sendpulse.ua` | — | — | — | active |
 | `silpovoyage.ua` | — | — | — | active |
 | `slotor777.com.ua` | — | — | — | retired |
@@ -60,5 +61,5 @@
 | `viyar.ua` | — | — | — | retired |
 | `vkksu.gov.ua` | [policy](https://www.vkksu.gov.ua/userfiles/doc/sec/secpolicy.txt) | recognition | — | active |
 | `vntu.edu.ua` | [policy](https://vntu.edu.ua/files/security.html) | monetary | — | active |
-| `vodiy.ua` | — | — | — | active |
+| `vodiy.ua` | — | — | — | retired |
 | `zp.edu.ua` | — | — | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-284 programs.
+285 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -191,6 +191,7 @@
 | `parship.be` | — | — | — | active |
 | `pearle.be` | [policy](https://essilorluxottica.vulnerability-disclosure.com/) | — | — | active |
 | `peer.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
+| `peruwelz.be` | — | — | — | active |
 | `petitesuisse.be` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | active |
 | `plantentuinmeise.be` | — | — | — | active |
 | `plopsa.be` | [policy](https://www.plopsa.com/en/responsible-disclosure-policy) | — | — | active |

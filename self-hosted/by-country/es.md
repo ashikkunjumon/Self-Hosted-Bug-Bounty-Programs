@@ -1,6 +1,6 @@
 # Self-hosted programs — ES
 
-104 programs.
+105 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -25,6 +25,7 @@
 | `coface.es` | — | — | — | active |
 | `computing.es` | — | recognition | — | active |
 | `crazytime.es` | — | — | — | active |
+| `dacia.es` | [policy](https://www.renaultgroup.com/en/vulnerability-disclosure-policy/) | — | — | active |
 | `datacentermarket.es` | — | recognition | — | active |
 | `decathlon.es` | [policy](https://vdp.decathlon.net) | — | — | active |
 | `degiro.es` | [policy](https://www.flatexdegiro.com/security) | — | — | active |
@@ -103,7 +104,7 @@
 | `uva.es` | — | recognition | — | active |
 | `vilaviniteca.es` | — | — | — | active |
 | `vistaprint.es` | — | — | — | active |
-| `volkswagen.es` | — | — | — | active |
+| `volkswagen.es` | — | — | — | retired |
 | `webador.es` | — | — | — | active |
 | `werstreamt.es` | — | — | — | active |
 | `worten.es` | — | recognition | — | active |

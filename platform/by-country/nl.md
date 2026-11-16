@@ -1,6 +1,6 @@
 # Platform-hosted programs — NL
 
-39 programs.
+40 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -13,6 +13,7 @@
 | `bd.nl` | — | monetary | — | active |
 | `bmw.nl` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
 | `bndestem.nl` | — | monetary | — | active |
+| `brabantsdagblad.nl` | — | monetary | — | active |
 | `deondernemer.nl` | — | monetary | — | active |
 | `destentor.nl` | — | monetary | — | active |
 | `devolksbank.nl` | [policy](https://hackerone.com/asnbank) | — | — | active |

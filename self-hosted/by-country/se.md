@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-554 programs.
+556 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@
 | `amal.se` | — | — | — | active |
 | `amelia.se` | — | — | — | active |
 | `amnesty.se` | — | — | — | active |
-| `ancestry.se` | [policy](https://www.ancestry.com/c/legal/security) | — | — | active |
+| `ancestry.se` | [policy](https://www.ancestry.com/c/legal/security) | — | — | retired |
 | `ange.se` | — | — | — | active |
 | `antagning.se` | — | — | — | active |
 | `arbetarbladet.se` | — | — | — | active |
@@ -163,6 +163,7 @@
 | `guldfynd.se` | [policy](https://www.viskan.com/en-eu/responsible-disclosure/) | — | yes | active |
 | `gymnastik.se` | — | — | — | active |
 | `habo.se` | — | — | — | active |
+| `habokommun.se` | — | — | — | active |
 | `hagfors.se` | — | — | — | active |
 | `hallakonsument.se` | — | — | — | expired |
 | `hallsberg.se` | — | — | — | active |
@@ -288,6 +289,7 @@
 | `lulea.se` | — | — | — | expired |
 | `lund.se` | — | — | — | active |
 | `lysekil.se` | — | — | — | active |
+| `malarenergi.se` | [policy](https://www.malarenergi.se/om-webbplatsen/digital-security/) | monetary | — | active |
 | `malmo.se` | — | — | — | expired |
 | `malmoopera.se` | — | — | — | expired |
 | `marginalen.se` | [policy](https://www.marginalen.se/about-marginalen/responsible-disclosure) | — | — | active |
@@ -349,7 +351,7 @@
 | `oddsbonusar.se` | [policy](https://oddsbonusar.se/security-policy) | recognition | — | active |
 | `olandsbladet.se` | — | — | — | active |
 | `op.se` | — | — | — | active |
-| `openaid.se` | — | — | — | active |
+| `openaid.se` | — | — | — | retired |
 | `optimera.se` | — | — | — | active |
 | `orebro.se` | — | — | — | active |
 | `oringen.se` | — | — | — | active |
