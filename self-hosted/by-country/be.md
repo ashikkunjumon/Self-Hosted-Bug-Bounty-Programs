@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-285 programs.
+288 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -24,11 +24,13 @@
 | `aspeditions.be` | — | — | — | expired |
 | `ath.be` | — | — | — | active |
 | `aubel.be` | — | — | — | active |
+| `azgroeninge.be` | [policy](https://www.azgroeninge.be/nl/patient/responsible-disclosure) | — | yes | active |
 | `baarle-hertog.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `backmarket.be` | — | — | — | active |
 | `baloise.be` | [policy](https://www.baloise.be/Security/vulnerability-disclose-policy.html) | recognition | — | active |
 | `bastogne.be` | — | — | — | active |
 | `becommerce.be` | — | — | — | active |
+| `beersel.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `belgacom.be` | — | — | — | active |
 | `belgie-vakantiehuis.be` | — | — | — | active |
 | `beringen.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
@@ -217,6 +219,7 @@
 | `sidem.be` | — | — | — | expired |
 | `sint-laureins.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `sint-lievens-houtem.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
+| `sint-pieters-leeuw.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `sint-truiden.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `siteffect.be` | — | — | — | active |
 | `slotenexpert.be` | — | — | — | active |

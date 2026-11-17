@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-503 programs.
+504 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -222,7 +222,7 @@
 | `hs-coburg.de` | — | — | — | active |
 | `hs-fulda.de` | [policy](https://it-sicherheit.hs-fulda.de/vorfall_melden/schwachstelle/index.html) | recognition | — | active |
 | `hs-furtwangen.de` | — | — | — | active |
-| `hs-heilbronn.de` | — | — | — | active |
+| `hs-heilbronn.de` | — | — | — | retired |
 | `hs-koblenz.de` | — | — | — | active |
 | `hs-niederrhein.de` | — | — | — | active |
 | `hu-berlin.de` | [policy](https://informationssicherheit.hu-berlin.de/de/schwachstellenmeldung) | — | — | active |
@@ -268,6 +268,7 @@
 | `kvb.de` | — | — | — | active |
 | `lancom-systems.de` | — | — | — | active |
 | `landesrecht-bw.de` | — | — | — | active |
+| `landeszeitung.de` | — | — | — | active |
 | `landwirtschaft-bw.de` | — | — | — | expired |
 | `lebensmittelklarheit.de` | — | — | — | active |
 | `leipzig.de` | [policy](https://www.leipzig.de/datenschutzerklaerung) | — | — | expired |
@@ -339,7 +340,7 @@
 | `planet-schule.de` | — | — | — | active |
 | `pnn.de` | — | — | — | active |
 | `pnp.de` | — | — | — | active |
-| `poppen.de` | — | — | — | retired |
+| `poppen.de` | — | — | — | active |
 | `porsche.de` | [policy](https://www.porsche.com/international/information-security/) | — | — | active |
 | `postbank.de` | — | — | — | active |
 | `queer.de` | — | — | — | active |

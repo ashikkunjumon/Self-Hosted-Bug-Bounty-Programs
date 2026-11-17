@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-556 programs.
+560 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -179,6 +179,7 @@
 | `heby.se` | — | — | — | active |
 | `hedemora.se` | — | — | — | active |
 | `heidelbergmaterials.se` | — | — | — | active |
+| `hellefors.se` | — | — | — | active |
 | `helsingborg.se` | — | — | — | active |
 | `hemnet.se` | [policy](https://www.hemnet.se/responsible-disclosure) | — | — | active |
 | `hemtex.se` | — | — | — | expired |
@@ -349,6 +350,7 @@
 | `nynashamnsposten.se` | — | — | — | active |
 | `ockero.se` | — | — | — | active |
 | `oddsbonusar.se` | [policy](https://oddsbonusar.se/security-policy) | recognition | — | active |
+| `odeshog.se` | — | — | — | active |
 | `olandsbladet.se` | — | — | — | active |
 | `op.se` | — | — | — | active |
 | `openaid.se` | — | — | — | retired |
@@ -373,6 +375,7 @@
 | `pro.se` | — | — | — | active |
 | `psykologforbundet.se` | — | — | — | active |
 | `pts.se` | — | — | — | active |
+| `quicknet.se` | — | — | — | active |
 | `qx.se` | — | — | — | expired |
 | `radioplay.se` | [policy](https://radioplay.se/security-policy.txt) | monetary | — | retired |
 | `rattvik.se` | — | — | — | active |
@@ -436,6 +439,7 @@
 | `slu.se` | — | — | — | active |
 | `smalandsdagblad.se` | — | — | — | active |
 | `smalanningen.se` | — | — | — | active |
+| `smedjebacken.se` | — | — | — | active |
 | `smp.se` | — | — | — | active |
 | `smt.se` | — | — | — | active |
 | `socialdemokraterna.se` | — | — | — | active |

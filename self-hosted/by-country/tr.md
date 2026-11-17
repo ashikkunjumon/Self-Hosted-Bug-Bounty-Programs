@@ -1,6 +1,6 @@
 # Self-hosted programs — TR
 
-34 programs.
+35 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -18,6 +18,7 @@
 | `filmfestankara.org.tr` | — | — | — | active |
 | `flashscore.com.tr` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `flixbus.com.tr` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |
+| `gazeteport.com.tr` | — | — | — | active |
 | `global.com.tr` | — | — | — | active |
 | `hopi.com.tr` | — | monetary | — | active |
 | `ifade.org.tr` | — | — | — | active |

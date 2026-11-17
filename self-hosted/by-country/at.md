@@ -1,6 +1,6 @@
 # Self-hosted programs — AT
 
-162 programs.
+164 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -25,6 +25,7 @@
 | `bruckneruni.ac.at` | — | — | — | active |
 | `bruckneruni.at` | — | — | — | active |
 | `bundeskanzleramt.at` | [policy](https://www.bundeskanzleramt.gv.at/themen/cybersicherheit/ansprechstellen.html) | — | — | active |
+| `bundeskriminalamt.at` | [policy](https://www.bmi.gv.at/security-policy/) | monetary | yes | active |
 | `bvaeb.at` | — | — | — | active |
 | `cal-group.at` | [policy](https://www.glueckimjob.cal-group.at/responsible-disclosure?utm_source=karriere.at&utm_medium=Iventa&utm_campaign=Stellenanzeige) | — | — | active |
 | `capterra.at` | — | — | — | active |
@@ -142,6 +143,7 @@
 | `thomann.at` | — | — | — | active |
 | `time2win.at` | [policy](https://bbtiming.com/page/vulnerability-policy) | — | yes | active |
 | `tipp3.at` | [policy](https://www.lotterien.at/responsible-disclosure) | — | — | active |
+| `toogoodtogo.at` | — | — | — | active |
 | `treatsoft.at` | — | — | — | active |
 | `treatwell.at` | — | — | — | active |
 | `trustedshops.at` | [policy](https://www.trustedshops.de/.well-known/responsible-disclosure.txt) | — | yes | active |

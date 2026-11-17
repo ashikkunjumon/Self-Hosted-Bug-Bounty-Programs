@@ -1,6 +1,6 @@
 # Platform-hosted programs — FR
 
-30 programs.
+31 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -19,6 +19,7 @@
 | `jim.fr` | — | — | — | active |
 | `kayak.fr` | [policy](https://www.kayak.com/security/) | monetary | — | active |
 | `laredoute.fr` | [policy](https://www.laredoute.com/vulnerability_disclosure_program.aspx) | — | — | expired |
+| `lucca.fr` | — | monetary | — | active |
 | `momondo.fr` | [policy](https://www.kayak.com/security/) | monetary | — | active |
 | `netim.fr` | — | — | — | expired |
 | `norauto.fr` | — | — | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — FI
 
-136 programs.
+137 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@
 | `kela.fi` | — | — | — | active |
 | `kesko.fi` | — | — | — | expired |
 | `kiinteistolehti.fi` | [policy](https://handbook.dude.fi/security-policy) | monetary | — | active |
-| `kiln.fi` | [policy](https://www.kiln.fi/vulnerability-disclosure-policy) | monetary | — | retired |
+| `kiln.fi` | [policy](https://www.kiln.fi/vulnerability-disclosure-policy) | monetary | — | active |
 | `kodinkuvalehti.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | active |
 | `koneviesti.fi` | — | — | — | active |
 | `kuntarekry.fi` | — | — | — | active |
@@ -78,6 +78,7 @@
 | `lidl.fi` | — | — | — | active |
 | `linnanmaki.fi` | — | — | — | active |
 | `lippu.fi` | — | — | — | active |
+| `liquidium.fi` | — | — | — | active |
 | `lynex.fi` | — | — | — | active |
 | `lyyti.fi` | — | — | — | active |
 | `maajakotitalousnaiset.fi` | [policy](https://www.maajakotitalousnaiset.fi/security-policy) | recognition | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-389 programs.
+392 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -206,6 +206,7 @@
 | `makro.cz` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | expired |
 | `maminka.cz` | — | — | — | active |
 | `manboxeo.cz` | — | — | — | active |
+| `marketbet.cz` | — | — | — | active |
 | `martinus.cz` | — | — | — | active |
 | `mastersofrock.cz` | — | — | — | retired |
 | `mediaguru.cz` | — | — | — | active |
@@ -291,7 +292,7 @@
 | `queens.cz` | — | — | — | active |
 | `rako.cz` | — | — | — | active |
 | `raynet.cz` | — | — | — | active |
-| `rb.cz` | [policy](https://www.rb.cz/.well-known/cvd-policy) | monetary | — | active |
+| `rb.cz` | [policy](https://www.rb.cz/cvd-policy) | — | yes | active |
 | `recenzer.cz` | — | — | — | active |
 | `regzone.cz` | — | — | — | expired |
 | `reichard.cz` | — | — | — | active |
@@ -303,6 +304,7 @@
 | `rozhlas.cz` | — | — | — | active |
 | `rsts.cz` | — | — | — | active |
 | `sauto.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
+| `sazka-promo.cz` | — | — | — | active |
 | `sazka-recenze.cz` | — | — | — | active |
 | `sazka.cz` | [policy](https://www.allwyn.cz/.well-known/responsible_disclosure_policy.pdf) | monetary | — | active |
 | `sbazar.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
@@ -345,6 +347,7 @@
 | `televizeseznam.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `tipsport-hra.cz` | — | — | — | active |
 | `tipsport-promo.cz` | — | — | — | active |
+| `tipsport-vstup.cz` | — | — | — | active |
 | `top-pojisteni.cz` | — | — | — | retired |
 | `toprecepty.cz` | — | — | — | active |
 | `trhypraha.cz` | — | — | — | active |

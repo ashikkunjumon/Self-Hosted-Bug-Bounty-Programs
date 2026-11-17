@@ -1,6 +1,6 @@
 # Self-hosted programs — FR
 
-178 programs.
+179 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -44,6 +44,7 @@
 | `courroie-distribution.fr` | — | — | — | active |
 | `cryptoast.fr` | — | — | — | expired |
 | `cuisineactuelle.fr` | — | — | — | active |
+| `dacia.fr` | [policy](https://www.renaultgroup.com/en/vulnerability-disclosure-policy/) | — | — | active |
 | `dcode.fr` | [policy](https://www.dcode.fr/about) | — | — | active |
 | `decathlon.fr` | [policy](https://vdp.decathlon.net) | — | — | active |
 | `deco.fr` | — | — | — | active |

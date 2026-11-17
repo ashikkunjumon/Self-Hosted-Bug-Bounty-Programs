@@ -1,6 +1,6 @@
 # Self-hosted programs — PT
 
-46 programs.
+47 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -27,6 +27,7 @@
 | `ipv.pt` | [policy](https://ipv.pt/csirt-ipv/) | — | — | active |
 | `iservices.pt` | [policy](https://institucional.worten.pt/divulgacao-responsavel-de-vulnerabilidades/) | recognition | — | active |
 | `lidl.pt` | — | — | — | active |
+| `lip.pt` | — | — | — | active |
 | `lnec.pt` | — | — | — | expired |
 | `makro.pt` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | expired |
 | `michaelpage.pt` | — | — | — | expired |
