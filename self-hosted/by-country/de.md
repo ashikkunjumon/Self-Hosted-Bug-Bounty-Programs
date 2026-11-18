@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-504 programs.
+506 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -216,13 +216,14 @@
 | `hochschule-trier.de` | — | — | — | active |
 | `hochschulkompass.de` | — | — | — | active |
 | `hochschulstart.de` | — | — | — | active |
+| `hornbach.de` | — | — | — | active |
 | `hpi.de` | — | — | — | expired |
 | `hs-augsburg.de` | — | — | — | active |
 | `hs-bremen.de` | [policy](https://www.hs-bremen.de/en/security/disclosure-policy) | swag | — | active |
 | `hs-coburg.de` | — | — | — | active |
 | `hs-fulda.de` | [policy](https://it-sicherheit.hs-fulda.de/vorfall_melden/schwachstelle/index.html) | recognition | — | active |
 | `hs-furtwangen.de` | — | — | — | active |
-| `hs-heilbronn.de` | — | — | — | retired |
+| `hs-heilbronn.de` | — | — | — | active |
 | `hs-koblenz.de` | — | — | — | active |
 | `hs-niederrhein.de` | — | — | — | active |
 | `hu-berlin.de` | [policy](https://informationssicherheit.hu-berlin.de/de/schwachstellenmeldung) | — | — | active |
@@ -504,6 +505,7 @@
 | `wuerzburg.de` | — | — | — | active |
 | `wuppertal.de` | [policy](https://digital.wuppertal.de/medien_digitalisierung/10_ISMS_Stadt_Wuppertal_Richtlinie_zur_Offenlegung_von_Sicherheitsluecken_V2.0.pdf) | monetary | — | active |
 | `xing.de` | [policy](https://www.xing.com/.well-known/rfc-2350.txt) | — | — | active |
+| `z0r.de` | — | — | — | active |
 | `zdf.de` | — | — | — | active |
 | `zdfheute.de` | — | — | — | active |
 | `zdh.de` | — | — | — | active |

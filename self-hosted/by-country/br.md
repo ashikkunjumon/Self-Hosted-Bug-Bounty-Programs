@@ -1,6 +1,6 @@
 # Self-hosted programs — BR
 
-109 programs.
+110 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -8,6 +8,7 @@
 | `acheisudoeste.com.br` | — | — | — | retired |
 | `ademicon.com.br` | — | — | — | active |
 | `aegro.com.br` | [policy](https://aegro.com.br/security-policy) | recognition | — | expired |
+| `agenciafiep.com.br` | — | — | — | active |
 | `agricultura.gov.br` | [policy](https://www.gov.br/agricultura/pt-br/acesso-a-informacao/tecnologia-da-informacao/seguranca-da-informacao/politica-de-seguranca-da-informacao-e-comunicacao-posic) | — | — | expired |
 | `b3.com.br` | — | — | — | active |
 | `bancobs2.com.br` | — | — | — | active |

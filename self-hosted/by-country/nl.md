@@ -1,6 +1,6 @@
 # Self-hosted programs — NL
 
-475 programs.
+477 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -104,6 +104,7 @@
 | `debalie.nl` | — | — | — | active |
 | `decathlon.nl` | [policy](https://vdp.decathlon.net) | — | — | active |
 | `decorrespondent.nl` | — | — | — | active |
+| `dedoelen.nl` | — | — | — | active |
 | `defensie.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `degiro.nl` | [policy](https://www.flatexdegiro.com/security) | — | — | active |
 | `delft.nl` | — | — | — | active |
@@ -188,6 +189,7 @@
 | `huurcommissie.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `hypotheker.nl` | — | recognition | — | active |
 | `hz.nl` | [policy](https://hz.nl/uploads/documents/1.4-Over-de-HZ/1.4.3.-Regelingen-en-documenten/NL/6.-Overige-regelingen/Overig/rfc2350-hz-csirt-20160610.txt) | — | — | active |
+| `icscards.nl` | — | — | — | active |
 | `iculture.nl` | — | — | — | active |
 | `ideal.nl` | [policy](https://www.ideal.nl/en/coordinated-vulnerability-disclosure) | monetary | yes | active |
 | `idfa.nl` | — | — | — | active |
@@ -405,7 +407,7 @@
 | `stagemarkt.nl` | [policy](https://www.s-bb.nl/contact/responsible-disclosure-policy/) | monetary | — | retired |
 | `stimuleringsfonds.nl` | — | — | — | active |
 | `studiekeuze123.nl` | — | — | — | expired |
-| `studyinholland.nl` | [policy](https://www.nuffic.nl/onderwerpen/over-ons/kwetsbaarheid-melden) | — | yes | expired |
+| `studyinholland.nl` | [policy](https://www.nuffic.nl/onderwerpen/over-ons/kwetsbaarheid-melden) | — | yes | active |
 | `surf.nl` | [policy](https://www.surf.nl/en/responsible-disclosure) | recognition | yes | active |
 | `surfnet.nl` | [policy](https://www.surf.nl/en/responsible-disclosure) | recognition | yes | active |
 | `tele2.nl` | [policy](https://assets.odido.nl/x/70e0c93ba2/responsible_disclosure.pdf) | monetary | — | retired |
@@ -447,7 +449,7 @@
 | `vzinfo.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `wandelnet.nl` | — | — | — | active |
 | `waternet.nl` | [policy](https://www.waternet.nl/service-en-contact/help-ons-verbeteren/meld-een-beveiligingsprobleem/) | — | — | active |
-| `webcambabes.nl` | [policy](https://webcambabes.nl/security-policy.html) | recognition | — | expired |
+| `webcambabes.nl` | [policy](https://webcambabes.nl/security-policy.html) | recognition | — | retired |
 | `webklik.nl` | — | — | — | expired |
 | `webmethod.nl` | [policy](https://github.com/webmethod/coordinated-vulnerability-disclosure) | — | — | retired |
 | `websec.nl` | [policy](https://websec.nl/responsible-disclosure) | — | — | active |

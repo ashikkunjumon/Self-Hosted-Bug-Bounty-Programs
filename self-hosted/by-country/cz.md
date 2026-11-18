@@ -1,10 +1,11 @@
 # Self-hosted programs — CZ
 
-392 programs.
+395 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `1001hry.cz` | — | — | — | active |
+| `100mega.cz` | — | — | — | active |
 | `1url.cz` | — | — | — | active |
 | `aboutyou.cz` | — | monetary | — | active |
 | `active24.cz` | [policy](https://faq.active24.com/cz/933388-Hl%C3%A1%C5%A1en%C3%AD-bezpe%C4%8Dnostn%C3%ADch-zranitelnost%C3%AD) | — | — | active |
@@ -135,6 +136,7 @@
 | `grisoft.cz` | — | — | — | expired |
 | `hatefree.cz` | — | — | — | active |
 | `hecht.cz` | — | — | — | active |
+| `helfstyn.cz` | — | — | — | active |
 | `helveti.cz` | — | — | — | active |
 | `herni-kupony.cz` | — | — | — | active |
 | `holocaust.cz` | — | — | — | active |
@@ -347,6 +349,7 @@
 | `televizeseznam.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `tipsport-hra.cz` | — | — | — | active |
 | `tipsport-promo.cz` | — | — | — | active |
+| `tipsport-recenze.cz` | — | — | — | active |
 | `tipsport-vstup.cz` | — | — | — | active |
 | `top-pojisteni.cz` | — | — | — | retired |
 | `toprecepty.cz` | — | — | — | active |

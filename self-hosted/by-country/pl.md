@@ -143,7 +143,7 @@
 | `radioram.pl` | — | — | — | active |
 | `radiowroclaw.pl` | — | — | — | active |
 | `rankomat.pl` | — | — | — | active |
-| `ratujemyzwierzaki.pl` | — | — | — | active |
+| `ratujemyzwierzaki.pl` | [policy](https://fundigic.com/#polityka-komunikacji) | — | — | active |
 | `regiodom.pl` | — | — | — | expired |
 | `renault.pl` | [policy](https://www.renaultgroup.com/en/vulnerability-disclosure-policy/) | — | — | active |
 | `ringieraxelspringer.pl` | — | — | — | active |
@@ -153,7 +153,7 @@
 | `rossmann.pl` | — | — | — | active |
 | `rybnik.com.pl` | — | — | — | active |
 | `sensus.pl` | — | — | — | active |
-| `siepomaga.pl` | — | — | — | active |
+| `siepomaga.pl` | [policy](https://fundigic.com/#polityka-komunikacji) | — | — | active |
 | `skapiec.pl` | — | — | — | active |
 | `skupszop.pl` | — | — | — | active |
 | `somfy.pl` | [policy](https://vdp.somfy-group.com/) | — | — | active |

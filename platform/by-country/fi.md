@@ -9,7 +9,7 @@
 | `lido.fi` | [policy](https://immunefi.com/bug-bounty/lido/information/) | monetary | yes | active |
 | `momondo.fi` | [policy](https://www.kayak.com/security/) | monetary | — | active |
 | `prisma.fi` | — | — | — | expired |
-| `s-kaupat.fi` | — | — | — | retired |
+| `s-kaupat.fi` | — | — | — | expired |
 | `s-pankki.fi` | — | — | — | active |
 | `ston.fi` | [policy](https://docs.ston.fi/getting-started/security) | monetary | — | retired |
 | `toyota.fi` | — | monetary | — | expired |

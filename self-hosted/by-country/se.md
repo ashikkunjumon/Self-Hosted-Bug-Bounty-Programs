@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-560 programs.
+562 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@
 | `akademiska.se` | — | — | — | active |
 | `aktuellhallbarhet.se` | — | — | — | active |
 | `albanova.se` | — | — | — | active |
-| `alde.se` | [policy](https://www.truma.com/responsible-disclosure-policy/) | monetary | — | active |
+| `alde.se` | [policy](https://www.truma.com/responsible-disclosure-policy/) | — | — | active |
 | `ale.se` | — | — | — | active |
 | `alingsas.se` | — | — | — | expired |
 | `allehanda.se` | — | — | — | active |
@@ -22,6 +22,7 @@
 | `almhult.se` | — | — | — | active |
 | `alvdalen.se` | — | — | — | active |
 | `alvkarleby.se` | — | — | — | active |
+| `alvsbyn.se` | — | — | — | expired |
 | `amal.se` | — | — | — | active |
 | `amelia.se` | — | — | — | active |
 | `amnesty.se` | — | — | — | active |
@@ -497,6 +498,7 @@
 | `telenor.se` | — | recognition | — | active |
 | `teoricentralen.se` | — | — | — | active |
 | `teracom.se` | — | — | — | active |
+| `tidaholm.se` | — | — | — | active |
 | `tidningencurie.se` | — | — | — | active |
 | `tierp.se` | — | — | — | active |
 | `tillvaxtverket.se` | — | — | — | active |

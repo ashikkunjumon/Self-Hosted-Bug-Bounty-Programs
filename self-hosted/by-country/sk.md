@@ -15,7 +15,7 @@
 | `bart.sk` | — | — | — | active |
 | `biano.sk` | — | — | — | retired |
 | `biznisweb.sk` | — | — | — | active |
-| `bux.sk` | — | — | — | retired |
+| `bux.sk` | — | — | — | active |
 | `csfd.sk` | [policy](https://www.csfd.cz/vyvojari/) | — | — | active |
 | `dennikn.sk` | — | monetary | — | retired |
 | `donio.sk` | — | — | — | active |

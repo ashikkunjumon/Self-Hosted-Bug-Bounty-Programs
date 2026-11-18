@@ -1,10 +1,11 @@
 # Self-hosted programs — SI
 
-19 programs.
+20 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `acros.si` | — | monetary | — | active |
+| `aeroprint.si` | — | — | — | active |
 | `alter.si` | — | — | — | active |
 | `bauhaus.si` | — | — | — | active |
 | `borzen.si` | — | — | — | active |

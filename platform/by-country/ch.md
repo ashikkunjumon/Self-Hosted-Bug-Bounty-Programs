@@ -54,7 +54,7 @@
 | `sak.ch` | — | — | — | expired |
 | `sixt.ch` | [policy](https://bugcrowd.com/a22b9798-491e-4d3a-87f3-a69484e02a2f/external/report) | — | — | active |
 | `sozialesicherheit.ch` | [policy](https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden/scope-and-rules.html) | monetary | — | active |
-| `spiez.ch` | [policy](https://www.talus.ch/de/datenschutz/bug-bounty.php) | — | — | active |
+| `spiez.ch` | [policy](https://www.talus.ch/de/datenschutz/bug-bounty.php) | monetary | — | active |
 | `suisseenergie.ch` | [policy](https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden/scope-and-rules.html) | recognition | yes | active |
 | `svizzeraenergia.ch` | [policy](https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden/scope-and-rules.html) | recognition | yes | active |
 | `swissbankers.ch` | — | monetary | — | active |

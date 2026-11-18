@@ -1,6 +1,6 @@
 # Self-hosted programs — GR
 
-30 programs.
+31 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -31,6 +31,7 @@
 | `secnews.gr` | [policy](https://report.secnews.gr) | — | — | active |
 | `skywalker.gr` | — | — | — | active |
 | `startupper.gr` | — | — | — | active |
+| `sunen.gr` | — | — | — | active |
 | `ticketservices.gr` | — | — | — | expired |
 | `vita4you.gr` | [policy](https://www.vita4you.gr/el/politiki-periehomenou) | — | — | retired |
 | `xiaomi-miui.gr` | [policy](https://xiaomi-miui.gr/politiki-aporitou/) | — | — | expired |

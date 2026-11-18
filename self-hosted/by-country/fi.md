@@ -1,6 +1,6 @@
 # Self-hosted programs — FI
 
-137 programs.
+138 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -47,6 +47,7 @@
 | `helmet.fi` | — | — | — | active |
 | `helsinginsanomat.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | active |
 | `helsinki.fi` | — | — | — | active |
+| `helsinkikanava.fi` | — | — | — | active |
 | `hintaopas.fi` | — | — | — | expired |
 | `hs.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | active |
 | `huoltovarmuuskeskus.fi` | — | — | — | expired |

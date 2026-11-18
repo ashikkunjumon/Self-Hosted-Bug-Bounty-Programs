@@ -1,6 +1,6 @@
 # Self-hosted programs — DK
 
-164 programs.
+165 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -85,6 +85,7 @@
 | `ing.dk` | — | — | — | active |
 | `ioi.dk` | — | — | — | active |
 | `isabellas.dk` | — | — | — | expired |
+| `jobnet.dk` | — | — | — | active |
 | `jppol.dk` | — | — | — | active |
 | `jubii.dk` | — | — | — | active |
 | `justitsministeriet.dk` | — | — | — | active |

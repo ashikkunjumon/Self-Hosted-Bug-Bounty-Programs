@@ -76,7 +76,7 @@
 | `digicomp.ch` | — | — | — | active |
 | `digitale-gesellschaft.ch` | — | — | — | active |
 | `digitec.ch` | [policy](https://www.digitec.ch/security) | — | yes | active |
-| `digithek.ch` | [policy](https://developer.joomla.org/security.html) | monetary | — | active |
+| `digithek.ch` | [policy](https://developer.joomla.org/security.html) | — | — | active |
 | `doitgarden.ch` | — | — | — | active |
 | `dq-solutions.ch` | — | — | — | active |
 | `drs.ch` | — | — | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-288 programs.
+289 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -279,6 +279,7 @@
 | `vrt.be` | [policy](https://www.vrt.be/en/responsible-disclosure-policy-english-version/) | recognition | — | active |
 | `warande.be` | — | — | — | active |
 | `waremme.be` | — | — | — | active |
+| `watchfaces.be` | — | — | — | active |
 | `wavre.be` | — | — | — | active |
 | `webador.be` | — | — | — | active |
 | `weblounge.be` | [policy](https://www.weblounge.be/privacy/) | — | — | active |

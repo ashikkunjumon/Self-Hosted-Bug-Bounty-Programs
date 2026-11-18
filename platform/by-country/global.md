@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-641 programs.
+639 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -106,6 +106,7 @@
 | `cfpb.gov` | [policy](https://www.consumerfinance.gov/vulnerability-disclosure-policy/) | — | — | expired |
 | `chat.openai.com` | [policy](https://openai.com/policies/coordinated-vulnerability-disclosure-policy) | recognition | — | active |
 | `chatgpt.com` | [policy](https://openai.com/policies/coordinated-vulnerability-disclosure-policy) | recognition | — | active |
+| `chaturbate.com` | [policy](https://hackerone.com/chaturbate?type=team&view_policy=true) | — | — | active |
 | `cheapflights.com` | [policy](https://www.kayak.com/security/) | monetary | — | active |
 | `christianriesen.com` | [policy](https://hackerone.com/automattic) | — | — | retired |
 | `classdojo.com` | [policy](https://bugcrowd.com/engagements/classdojo) | monetary | — | expired |
@@ -237,7 +238,6 @@
 | `gocardless.com` | [policy](https://gocardless.com/faq/merchants/security/) | monetary | — | active |
 | `goodnotes.com` | [policy](https://hackerone.com/goodnotes) | — | — | active |
 | `grab.com` | [policy](https://hackerone.com/grab?view_policy=true) | — | — | active |
-| `grafana.net` | [policy](https://grafana.com/legal/report-a-security-issue/) | monetary | — | active |
 | `grammarly.com` | [policy](https://hackerone.com/grammarly) | — | — | active |
 | `greencarreports.com` | — | — | — | active |
 | `greenhouse.com` | [policy](https://hackerone.com/greenhouse?type=team) | — | — | expired |
@@ -306,9 +306,9 @@
 | `keepersecurity.com` | [policy](https://keepersecurity.com/security.html) | monetary | yes | active |
 | `kick.com` | — | — | — | expired |
 | `kiwa.com` | [policy](https://www.kiwa.com/en/responsible-disclosure-policy/) | monetary | — | retired |
-| `kiwi.com` | [policy](https://www.kiwi.com/us/pages/security) | monetary | — | active |
+| `kiwi.com` | [policy](https://www.kiwi.com/us/pages/security) | — | — | active |
 | `kkr.com` | [policy](https://hackerone.com/kkr_vdp) | — | — | expired |
-| `klarna.com` | [policy](https://www.klarna.com/international/responsible-disclosure/) | — | — | active |
+| `klarna.com` | [policy](https://www.klarna.com/international/responsible-disclosure/) | — | — | retired |
 | `kroger.com` | — | — | — | active |
 | `krymr.com` | [policy](https://www.usagm.gov/vulnerability-disclosure-policy/) | — | — | retired |
 | `langfuse.com` | [policy](https://langfuse.com/security/responsible-disclosure) | monetary | — | retired |
@@ -408,7 +408,6 @@
 | `ory.com` | [policy](https://www.ory.com/docs/ecosystem/security) | — | — | active |
 | `oshrc.gov` | [policy](https://www.oshrc.gov/vulnerability-disclosure-policy/) | — | — | retired |
 | `ourfabriq.com` | [policy](https://ourfabriq.com/responsible-disclosure-policy) | monetary | yes | retired |
-| `outbrain.com` | [policy](https://www.outbrain.com/security/bug-bounty/) | monetary | yes | active |
 | `overture.com` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | active |
 | `ovh.com` | [policy](https://yeswehack.com/programs/ovh) | monetary | — | active |
 | `ovhcloud.com` | [policy](https://yeswehack.com/programs/ovh) | monetary | — | active |
@@ -640,7 +639,6 @@
 | `yahooinc.com` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | active |
 | `yelp.com` | [policy](https://hackerone.com/yelp?view_policy=true) | — | — | active |
 | `yeswehack.com` | [policy](https://vdp.yeswehack.com) | — | — | active |
-| `zapier.com` | [policy](https://zapier.com/l/bug-bounty-program) | monetary | — | retired |
 | `zendesk.com` | [policy](https://www.zendesk.com/company/policies-and-guidelines/responsible-disclosure-policy/) | — | — | active |
 | `zerodisclo.com` | [policy](https://vdp.yeswehack.com) | — | — | active |
 | `zopa.com` | — | — | — | retired |
