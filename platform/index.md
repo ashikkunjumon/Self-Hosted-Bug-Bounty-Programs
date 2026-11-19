@@ -4,7 +4,7 @@
 
 | Country | Programs |
 |---|---|
-| [GLOBAL](by-country/global.md) | 639 |
+| [GLOBAL](by-country/global.md) | 640 |
 | [CH](by-country/ch.md) | 70 |
 | [BE](by-country/be.md) | 48 |
 | [NL](by-country/nl.md) | 40 |
@@ -18,7 +18,7 @@
 | [PL](by-country/pl.md) | 14 |
 | [AT](by-country/at.md) | 13 |
 | [PT](by-country/pt.md) | 13 |
-| [FI](by-country/fi.md) | 12 |
+| [FI](by-country/fi.md) | 11 |
 | [IO](by-country/io.md) | 11 |
 | [NO](by-country/no.md) | 11 |
 | [DK](by-country/dk.md) | 10 |

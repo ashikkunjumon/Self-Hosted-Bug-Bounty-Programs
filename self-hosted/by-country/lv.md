@@ -1,6 +1,6 @@
 # Self-hosted programs — LV
 
-22 programs.
+23 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -15,6 +15,7 @@
 | `cafecasino.lv` | [policy](https://cafecasino.lv/bug-bounty) | monetary | — | active |
 | `cloudhosting.lv` | — | — | — | active |
 | `cvk.lv` | [policy](https://www.cvk.lv/drosibas-politika) | — | — | active |
+| `delfi.lv` | — | — | — | active |
 | `failiem.lv` | [policy](https://files.fm/nis2-compliance) | — | — | active |
 | `kalkulatori.lv` | [policy](https://kalkulatori.lv/security-policy) | — | — | active |
 | `lnso.lv` | — | — | — | active |

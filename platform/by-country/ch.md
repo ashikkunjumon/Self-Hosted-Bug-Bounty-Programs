@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 | `20min.ch` | [policy](https://bugcrowd.com/twentyminuten) | monetary | — | expired |
 | `24heures.ch` | [policy](https://bugcrowd.com/tamedia) | monetary | — | expired |
-| `abacus.ch` | [policy](https://www.abacus.ch/security) | — | — | active |
+| `abacus.ch` | [policy](https://www.abacus.ch/security) | monetary | — | active |
 | `admin.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | recognition | yes | active |
 | `ag.ch` | — | — | — | active |
 | `airbnb.ch` | [policy](https://hackerone.com/airbnb#overview) | — | — | active |
@@ -22,7 +22,7 @@
 | `bundesanwaltschaft.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | recognition | yes | active |
 | `cadastre.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | recognition | yes | active |
 | `cdn.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | recognition | yes | active |
-| `chgemeinden.ch` | [policy](https://www.talus.ch/de/datenschutz/bug-bounty.php) | monetary | — | active |
+| `chgemeinden.ch` | [policy](https://www.talus.ch/de/datenschutz/bug-bounty.php) | — | — | active |
 | `derbund.ch` | [policy](https://bugcrowd.com/tamedia) | monetary | — | expired |
 | `ebill.ch` | — | monetary | — | expired |
 | `energieschweiz.ch` | [policy](https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden/scope-and-rules.html) | recognition | yes | active |
@@ -54,7 +54,7 @@
 | `sak.ch` | — | — | — | expired |
 | `sixt.ch` | [policy](https://bugcrowd.com/a22b9798-491e-4d3a-87f3-a69484e02a2f/external/report) | — | — | active |
 | `sozialesicherheit.ch` | [policy](https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden/scope-and-rules.html) | monetary | — | active |
-| `spiez.ch` | [policy](https://www.talus.ch/de/datenschutz/bug-bounty.php) | monetary | — | active |
+| `spiez.ch` | [policy](https://www.talus.ch/de/datenschutz/bug-bounty.php) | — | — | active |
 | `suisseenergie.ch` | [policy](https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden/scope-and-rules.html) | recognition | yes | active |
 | `svizzeraenergia.ch` | [policy](https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden/scope-and-rules.html) | recognition | yes | active |
 | `swissbankers.ch` | — | monetary | — | active |

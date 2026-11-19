@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-639 programs.
+640 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -306,7 +306,7 @@
 | `keepersecurity.com` | [policy](https://keepersecurity.com/security.html) | monetary | yes | active |
 | `kick.com` | — | — | — | expired |
 | `kiwa.com` | [policy](https://www.kiwa.com/en/responsible-disclosure-policy/) | monetary | — | retired |
-| `kiwi.com` | [policy](https://www.kiwi.com/us/pages/security) | — | — | active |
+| `kiwi.com` | [policy](https://www.kiwi.com/us/pages/security) | monetary | — | active |
 | `kkr.com` | [policy](https://hackerone.com/kkr_vdp) | — | — | expired |
 | `klarna.com` | [policy](https://www.klarna.com/international/responsible-disclosure/) | — | — | retired |
 | `kroger.com` | — | — | — | active |
@@ -408,6 +408,7 @@
 | `ory.com` | [policy](https://www.ory.com/docs/ecosystem/security) | — | — | active |
 | `oshrc.gov` | [policy](https://www.oshrc.gov/vulnerability-disclosure-policy/) | — | — | retired |
 | `ourfabriq.com` | [policy](https://ourfabriq.com/responsible-disclosure-policy) | monetary | yes | retired |
+| `outbrain.com` | [policy](https://www.outbrain.com/security/bug-bounty/) | monetary | yes | active |
 | `overture.com` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | active |
 | `ovh.com` | [policy](https://yeswehack.com/programs/ovh) | monetary | — | active |
 | `ovhcloud.com` | [policy](https://yeswehack.com/programs/ovh) | monetary | — | active |

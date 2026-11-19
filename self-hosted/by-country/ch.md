@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-426 programs.
+427 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@
 | `bremgarten.ch` | — | — | — | active |
 | `bs.ch` | — | — | — | expired |
 | `buelach.ch` | — | — | — | active |
-| `burgdorf.ch` | [policy](https://www.talus.ch/de/datenschutz/bug-bounty.php) | — | — | expired |
+| `burgdorf.ch` | [policy](https://www.talus.ch/de/datenschutz/bug-bounty.php) | monetary | — | expired |
 | `bvger.ch` | — | — | — | active |
 | `caravan24.ch` | — | — | — | active |
 | `caritas-regio.ch` | [policy](https://caritas-regio.ch/security-policy) | recognition | — | active |
@@ -76,7 +76,7 @@
 | `digicomp.ch` | — | — | — | active |
 | `digitale-gesellschaft.ch` | — | — | — | active |
 | `digitec.ch` | [policy](https://www.digitec.ch/security) | — | yes | active |
-| `digithek.ch` | [policy](https://developer.joomla.org/security.html) | — | — | active |
+| `digithek.ch` | [policy](https://developer.joomla.org/security.html) | monetary | — | active |
 | `doitgarden.ch` | — | — | — | active |
 | `dq-solutions.ch` | — | — | — | active |
 | `drs.ch` | — | — | — | active |
@@ -264,6 +264,7 @@
 | `ow.ch` | — | — | — | active |
 | `parking-luzern.ch` | — | recognition | — | active |
 | `parship.ch` | — | — | — | active |
+| `pax.ch` | — | — | — | active |
 | `pdgr.ch` | — | — | — | active |
 | `perfactive.ch` | — | — | — | active |
 | `pewrsr.ch` | — | — | — | active |

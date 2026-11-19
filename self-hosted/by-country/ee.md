@@ -1,6 +1,6 @@
 # Self-hosted programs — EE
 
-34 programs.
+35 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -8,6 +8,7 @@
 | `bigbank.ee` | [policy](https://ca.bigbank.eu/security) | — | — | active |
 | `cooppank.ee` | — | — | — | active |
 | `crypt.ee` | [policy](https://github.com/cryptee/web-client/blob/v3/security.md) | recognition | yes | active |
+| `delfi.ee` | — | — | — | active |
 | `eans.ee` | — | recognition | — | active |
 | `ekspress.ee` | — | — | — | active |
 | `elering.ee` | — | — | — | retired |

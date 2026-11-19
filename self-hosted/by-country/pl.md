@@ -1,6 +1,6 @@
 # Self-hosted programs — PL
 
-189 programs.
+190 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -30,6 +30,7 @@
 | `certum.pl` | [policy](https://www.certum.pl/.well-known/vdp.pdf) | monetary | — | active |
 | `chatazagadek.pl` | — | — | — | active |
 | `decathlon.pl` | [policy](https://vdp.decathlon.net) | — | — | retired |
+| `denley.pl` | — | — | — | active |
 | `dns.pl` | — | — | — | active |
 | `dobreprogramy.pl` | — | — | — | active |
 | `domodi.pl` | — | — | — | active |

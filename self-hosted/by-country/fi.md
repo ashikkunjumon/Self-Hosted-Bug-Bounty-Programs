@@ -1,6 +1,6 @@
 # Self-hosted programs — FI
 
-138 programs.
+139 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -138,6 +138,7 @@
 | `vero.fi` | — | — | — | active |
 | `visitpori.fi` | — | — | — | active |
 | `vr.fi` | — | — | — | active |
+| `yearn.fi` | [policy](https://github.com/yearn/yearn-security/blob/master/SECURITY.md) | monetary | — | active |
 | `yle.fi` | — | — | — | active |
 | `yleradio1.fi` | — | — | — | active |
 | `zef.fi` | — | — | — | active |

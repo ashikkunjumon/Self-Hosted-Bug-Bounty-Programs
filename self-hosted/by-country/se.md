@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-562 programs.
+564 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@
 | `akademiska.se` | — | — | — | active |
 | `aktuellhallbarhet.se` | — | — | — | active |
 | `albanova.se` | — | — | — | active |
-| `alde.se` | [policy](https://www.truma.com/responsible-disclosure-policy/) | — | — | active |
+| `alde.se` | [policy](https://www.truma.com/responsible-disclosure-policy/) | monetary | — | active |
 | `ale.se` | — | — | — | active |
 | `alingsas.se` | — | — | — | expired |
 | `allehanda.se` | — | — | — | active |
@@ -40,6 +40,7 @@
 | `arvsfonden.se` | — | — | — | active |
 | `askersund.se` | — | — | — | active |
 | `astorp.se` | — | — | — | active |
+| `atvidaberg.se` | — | — | — | active |
 | `avanza.se` | [policy](https://www.avanza.se/sakerhet-villkor/sakerhet.html) | — | — | active |
 | `b3.se` | — | — | — | active |
 | `barometern.se` | — | — | — | active |
@@ -476,6 +477,7 @@
 | `suntarbetsliv.se` | — | — | — | active |
 | `svalov.se` | — | — | — | active |
 | `svanen.se` | — | — | — | active |
+| `svenljunga.se` | — | — | — | active |
 | `svenskarnaochinternet.se` | [policy](https://internetstiftelsen.se/en/about-this-website/responsible-disclosure/) | — | — | expired |
 | `svenskaspel.se` | — | — | — | active |
 | `svenskfotboll.se` | — | — | — | active |

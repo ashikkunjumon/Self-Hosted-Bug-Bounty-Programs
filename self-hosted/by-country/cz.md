@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-395 programs.
+396 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -98,6 +98,7 @@
 | `dvojklik.cz` | [policy](https://www.eset.com/int/security-vulnerability-reporting/) | — | — | active |
 | `eberry.cz` | — | — | — | retired |
 | `ecn.cz` | — | — | — | active |
+| `eduroam.cz` | [policy](https://csirt.cesnet.cz/en/vulnerability_report) | — | — | active |
 | `efotbal.cz` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `elfetex.cz` | [policy](https://magento.com/security) | monetary | — | expired |
 | `emaespressobar.cz` | — | — | — | active |
@@ -151,7 +152,7 @@
 | `i4wifi.cz` | — | — | — | active |
 | `ifortuna.cz` | — | monetary | — | active |
 | `iir.cz` | — | — | — | active |
-| `imago.cz` | [policy](http://www.imago.cz/kontakt) | swag | — | active |
+| `imago.cz` | [policy](http://www.imago.cz/kontakt) | — | — | active |
 | `indian-tv.cz` | [policy](https://indian-tv.cz/zasady) | — | — | active |
 | `infinit.cz` | — | — | — | active |
 | `info-praha.cz` | — | — | — | expired |

@@ -1,6 +1,6 @@
 # Self-hosted programs — NL
 
-477 programs.
+481 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -197,6 +197,7 @@
 | `iknl.nl` | [policy](https://iknl.nl/responsible-disclosure) | — | — | active |
 | `ikstopnu.nl` | [policy](https://www.trimbos.nl/over-deze-website/responsible-disclosure/) | — | yes | active |
 | `ilent.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
+| `immaterieelerfgoed.nl` | — | — | — | active |
 | `ind.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `independer.nl` | [policy](https://www.independer.nl/algemeen/info/responsible-disclosure.aspx?networkId=68ef56a9-e505-4572-95e0-f7da91bb1dcc) | monetary | yes | retired |
 | `infomil.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
@@ -365,13 +366,14 @@
 | `refdag.nl` | [policy](https://service.erdee.nl/security/responsible-disclosure-policy) | — | yes | active |
 | `regelhulp.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `rekenkamer.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
+| `rendement.nl` | — | — | — | expired |
 | `ret.nl` | — | — | — | active |
 | `retailtrends.nl` | — | — | — | active |
 | `rietveldacademie.nl` | — | — | — | active |
 | `rijksoverheid.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `rijkswaterstaat.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `rivm.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
-| `rocva.nl` | [policy](https://www.rocva.nl/responsible-disclosure) | — | — | active |
+| `rocva.nl` | [policy](https://www.rocva.nl/responsible-disclosure) | — | — | expired |
 | `rotterdam.nl` | [policy](https://www.rotterdam.nl/responsible-disclosure) | — | — | active |
 | `rtvdrenthe.nl` | [policy](https://www.regiogroei.nl/responsible-disclosure) | — | yes | active |
 | `rtvnoord.nl` | [policy](https://www.regiogroei.nl/responsible-disclosure) | — | yes | active |
@@ -431,14 +433,15 @@
 | `universiteitleiden.nl` | [policy](https://www.staff.universiteitleiden.nl/binaries/content/assets/ul2staff/ict/responsible-disclosure-eng.pdf) | monetary | — | expired |
 | `utwente.nl` | [policy](https://www.utwente.nl/en/cyber-safety/responsible/) | monetary | — | active |
 | `uu.nl` | [policy](https://www.uu.nl/en/node/1599/responsible-disclosure) | recognition | — | active |
-| `uva.nl` | — | monetary | — | expired |
+| `uva.nl` | — | monetary | — | retired |
 | `uwv.nl` | [policy](https://www.uwv.nl/nl/over-uwv/kwetsbaarheden-melden) | monetary | yes | active |
 | `vanabbemuseum.nl` | — | — | — | active |
+| `vastgoedjournaal.nl` | — | — | — | active |
 | `vca.nl` | — | — | — | active |
 | `veiligheid.nl` | — | — | — | active |
 | `veiliginternetten.nl` | — | — | — | active |
 | `vicompany.nl` | [policy](https://www.vicompany.nl/legal/responsible-disclosure) | monetary | yes | retired |
-| `vitens.nl` | [policy](https://vitens.nl/Privacy) | — | — | active |
+| `vitens.nl` | [policy](https://vitens.nl/Privacy) | — | — | expired |
 | `vng.nl` | [policy](https://www.informatiebeveiligingsdienst.nl/responsible-disclosure-english/) | — | — | expired |
 | `vno-ncw.nl` | — | — | — | active |
 | `vodafone.nl` | [policy](https://www.vodafone.nl/over-deze-website/privacy-en-disclaimer/report-security-leak.shtml) | — | — | active |
@@ -481,3 +484,4 @@
 | `zuid-holland.nl` | [policy](https://www.zuid-holland.nl/algemeen/coordinated-vulnerability-disclosure/) | — | — | active |
 | `zuiderzeemuseum.nl` | — | — | — | active |
 | `zuyd.nl` | [policy](https://www.zuyd.nl/en/responsible-disclosure) | recognition | — | active |
+| `zwemwater.nl` | — | — | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-289 programs.
+290 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -117,6 +117,7 @@
 | `haaltert.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `hamme.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `heist-op-den-berg.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
+| `herstal.be` | — | — | — | active |
 | `heusden-zolder.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `hgr-css.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `holidaysuites.be` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-506 programs.
+507 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -437,6 +437,7 @@
 | `tu-dresden.de` | — | recognition | — | active |
 | `tu-freiberg.de` | — | — | — | active |
 | `tu-ilmenau.de` | — | recognition | — | active |
+| `tu-muenchen.de` | — | — | — | active |
 | `tuev-nord.de` | — | — | — | active |
 | `tuhh.de` | — | — | — | active |
 | `tum.de` | — | — | — | active |

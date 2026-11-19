@@ -1,6 +1,6 @@
 # Self-hosted programs — IN
 
-46 programs.
+47 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -29,6 +29,7 @@
 | `livescore.in` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `lorealparis.co.in` | — | recognition | — | active |
 | `maybelline.co.in` | — | recognition | — | active |
+| `mayocl.in` | — | — | — | active |
 | `mdcomputers.in` | — | — | — | active |
 | `michaelpage.co.in` | — | — | — | expired |
 | `mirchi.in` | [policy](https://timesinternet.in/responsible-disclosure/policy.html) | — | yes | active |
