@@ -20,7 +20,7 @@
 | `dhl.de` | [policy](https://www.dpdhl.com/en/sustainability/governance/cyber-security/vulnerability-disclosure-policy.html) | — | — | active |
 | `doctolib.de` | [policy](https://yeswehack.com/programs/doctolib-public-bug-bounty-program) | monetary | — | active |
 | `duden.de` | — | — | — | active |
-| `dzbank.de` | [policy](https://www.dzbank.com/content/dzbank/en/home/footernavigation/guidelines-and-information/bug-bounty-program.html) | monetary | — | active |
+| `dzbank.de` | [policy](https://www.dzbank.com/content/dzbank/en/home/footernavigation/guidelines-and-information/bug-bounty-program.html) | monetary | — | retired |
 | `fitbook.de` | [policy](https://app.intigriti.com/programs/axelspringerse/nmt/detail) | monetary | — | expired |
 | `hubspot.de` | [policy](https://hackerone.com/hubspot) | — | — | active |
 | `kayak.de` | [policy](https://www.kayak.com/security/) | monetary | — | active |

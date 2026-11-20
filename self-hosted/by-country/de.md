@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-507 programs.
+508 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -10,7 +10,7 @@
 | `a7.de` | [policy](https://a7.de/wiki/security-txt/) | — | — | active |
 | `aachen.de` | — | — | — | active |
 | `abendblatt.de` | — | — | — | active |
-| `abgeordnetenwatch.de` | — | — | — | active |
+| `abgeordnetenwatch.de` | — | — | — | retired |
 | `aboutyou.de` | — | monetary | — | active |
 | `adesso.de` | — | — | — | active |
 | `adminforge.de` | — | — | — | active |
@@ -461,6 +461,7 @@
 | `uni-magdeburg.de` | — | monetary | — | active |
 | `uni-marburg.de` | — | — | — | active |
 | `uni-muenster.de` | [policy](https://www.uni-muenster.de/CERT/en/incidents/) | recognition | — | active |
+| `uni-oldenburg.de` | — | — | — | active |
 | `uni-osnabrueck.de` | — | — | — | active |
 | `uni-paderborn.de` | [policy](https://www.uni-paderborn.de/universitaet/informationssicherheit/informationssicherheitsvorfall) | — | — | active |
 | `uni-stuttgart.de` | — | — | — | active |

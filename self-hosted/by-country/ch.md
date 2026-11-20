@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-427 programs.
+428 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -24,6 +24,7 @@
 | `asmobil.ch` | — | — | — | active |
 | `autoscout24.ch` | — | — | — | active |
 | `axa.ch` | — | — | — | active |
+| `azione.ch` | — | — | — | active |
 | `baar.ch` | — | — | — | active |
 | `baden.ch` | — | — | — | active |
 | `badragaz.ch` | — | — | — | active |

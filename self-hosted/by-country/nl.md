@@ -1,6 +1,6 @@
 # Self-hosted programs — NL
 
-481 programs.
+483 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -120,6 +120,7 @@
 | `dirk.nl` | [policy](https://dirk.nl/algemene-informatie) | monetary | — | active |
 | `dji.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `dnb.nl` | [policy](https://www.dnb.nl/privacy-en-beveiliging/kwetsbaarheid-melden/) | — | yes | active |
+| `dordrecht.nl` | — | — | — | active |
 | `douane.nl` | [policy](https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/standaard_functies/individuals/contact/data-leak-vulnerability-abuse-computer-systems/coordinated-vulnerability-disclosure) | recognition | — | active |
 | `drentsmuseum.nl` | [policy](https://www.slash2.nl/responsible-disclosure-policy) | recognition | yes | active |
 | `drugsinfo.nl` | [policy](https://www.trimbos.nl/over-deze-website/responsible-disclosure/) | — | yes | active |
@@ -175,6 +176,7 @@
 | `hcc.nl` | — | — | — | expired |
 | `hccnet.nl` | — | — | — | expired |
 | `heerlen.nl` | [policy](https://www.heerlen.nl/coordinated-vulnerability-disclosure) | — | — | active |
+| `helmond.nl` | — | — | — | expired |
 | `hersenstichting.nl` | — | — | — | active |
 | `hetcak.nl` | [policy](https://www.hetcak.nl/kwetsbare-plek-ontdekt/) | — | yes | active |
 | `hetnatuurhistorisch.nl` | — | — | — | active |
@@ -299,7 +301,7 @@
 | `nlnetlabs.nl` | [policy](https://www.nlnetlabs.nl/security-report/) | — | — | active |
 | `nlsa.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `nltimes.nl` | [policy](https://nltimes.nl/vulnerability-disclosure-policy) | monetary | — | expired |
-| `nluug.nl` | [policy](https://nluug.nl/security/) | monetary | — | expired |
+| `nluug.nl` | [policy](https://nluug.nl/security/) | monetary | — | active |
 | `nn.nl` | [policy](https://www.nn-group.com/ethical-hacking-nn-groups-responsible-disclosure-policy.htm) | — | — | active |
 | `noord-holland.nl` | [policy](https://www.noord-holland.nl/Home/Beheer/Meta/Responsible_Disclosure) | — | yes | active |
 | `noordhoff.nl` | [policy](https://www.infinitaslearning.com/privacy-policy/) | — | — | active |

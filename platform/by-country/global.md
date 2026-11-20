@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-640 programs.
+639 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@
 | `carsdirect.com` | — | — | — | active |
 | `casepoint.com` | [policy](https://www.casepoint.com/vulnerability-disclosure-policy/) | — | — | retired |
 | `cengage.com` | — | recognition | — | expired |
-| `cfpb.gov` | [policy](https://www.consumerfinance.gov/vulnerability-disclosure-policy/) | — | — | expired |
+| `cfpb.gov` | [policy](https://www.consumerfinance.gov/vulnerability-disclosure-policy/) | — | — | active |
 | `chat.openai.com` | [policy](https://openai.com/policies/coordinated-vulnerability-disclosure-policy) | recognition | — | active |
 | `chatgpt.com` | [policy](https://openai.com/policies/coordinated-vulnerability-disclosure-policy) | recognition | — | active |
 | `chaturbate.com` | [policy](https://hackerone.com/chaturbate?type=team&view_policy=true) | — | — | active |
@@ -126,7 +126,7 @@
 | `comparethemarket.com` | — | — | — | active |
 | `conceptboard.com` | [policy](https://conceptboard.com/bug-bounty-program/) | monetary | yes | retired |
 | `conda.io` | — | — | — | expired |
-| `consumerfinance.gov` | [policy](https://www.consumerfinance.gov/vulnerability-disclosure-policy/) | — | — | expired |
+| `consumerfinance.gov` | [policy](https://www.consumerfinance.gov/vulnerability-disclosure-policy/) | — | — | active |
 | `contentsquare.com` | [policy](https://contentsquare.com/disclosure) | monetary | — | active |
 | `continuum.io` | — | — | — | expired |
 | `cookinglight.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
@@ -282,7 +282,7 @@
 | `infisical.com` | [policy](https://infisical.com/vulnerability-disclosure) | recognition | yes | active |
 | `infomaniak.com` | [policy](https://infomaniak.vulnerability-disclosure.com) | — | — | active |
 | `informatica.com` | [policy](https://www.informatica.com/trust-center/responsible-disclosure-program.html) | recognition | — | retired |
-| `inhabitat.com` | — | — | — | active |
+| `inhabitat.com` | — | — | — | retired |
 | `innovateuk.org` | [policy](https://www.gov.uk/help/report-vulnerability) | — | — | active |
 | `instacart.com` | [policy](https://hackerone.com/instacart) | — | — | active |
 | `instyle.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
@@ -305,6 +305,7 @@
 | `kayak.com` | [policy](https://www.kayak.com/security/) | monetary | — | active |
 | `keepersecurity.com` | [policy](https://keepersecurity.com/security.html) | monetary | yes | active |
 | `kick.com` | — | — | — | expired |
+| `kinto-mobility.eu` | — | monetary | — | expired |
 | `kiwa.com` | [policy](https://www.kiwa.com/en/responsible-disclosure-policy/) | monetary | — | retired |
 | `kiwi.com` | [policy](https://www.kiwi.com/us/pages/security) | monetary | — | active |
 | `kkr.com` | [policy](https://hackerone.com/kkr_vdp) | — | — | expired |
@@ -408,7 +409,6 @@
 | `ory.com` | [policy](https://www.ory.com/docs/ecosystem/security) | — | — | active |
 | `oshrc.gov` | [policy](https://www.oshrc.gov/vulnerability-disclosure-policy/) | — | — | retired |
 | `ourfabriq.com` | [policy](https://ourfabriq.com/responsible-disclosure-policy) | monetary | yes | retired |
-| `outbrain.com` | [policy](https://www.outbrain.com/security/bug-bounty/) | monetary | yes | active |
 | `overture.com` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | active |
 | `ovh.com` | [policy](https://yeswehack.com/programs/ovh) | monetary | — | active |
 | `ovhcloud.com` | [policy](https://yeswehack.com/programs/ovh) | monetary | — | active |
@@ -588,7 +588,6 @@
 | `vanguard.com` | [policy](https://investor.vanguard.com/trust-security/vulnerability-disclosure-program) | — | — | retired |
 | `veeam.com` | [policy](https://hackerone.com/veeam?type=team) | — | — | expired |
 | `vercel.com` | [policy](https://security.vercel.com/) | — | — | active |
-| `veriff.com` | [policy](https://www.veriff.com/bug-bounty) | monetary | — | retired |
 | `verizonmedia.com` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | active |
 | `verywell.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `verywellfit.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |

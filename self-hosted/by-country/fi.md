@@ -91,7 +91,7 @@
 | `musiikkitalo.fi` | [policy](https://handbook.dude.fi/security-policy) | monetary | — | active |
 | `nordnet.fi` | [policy](https://www.nordnet.se/security-disclosure) | recognition | — | active |
 | `notino.fi` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
-| `oikotie.fi` | [policy](https://www.lego.com/legal/notices-and-policies/responsible-disclosure-policy/) | monetary | — | retired |
+| `oikotie.fi` | [policy](https://vend.com/responsible-disclosure-policy.txt) | swag | yes | active |
 | `omalaina.fi` | [policy](https://samblagroup.com/responsible-disclosure) | — | yes | retired |
 | `omasp.fi` | — | — | — | active |
 | `onninen.fi` | — | — | — | expired |

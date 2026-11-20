@@ -1,6 +1,6 @@
 # Self-hosted programs — ES
 
-105 programs.
+106 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -10,6 +10,7 @@
 | `active24.es` | [policy](https://faq.active24.com/cz/933388-Hl%C3%A1%C5%A1en%C3%AD-bezpe%C4%8Dnostn%C3%ADch-zranitelnost%C3%AD) | — | — | active |
 | `adeje.es` | — | — | — | active |
 | `albastar.es` | — | — | — | active |
+| `arsys.es` | [policy](https://www.arsys.es/it-security) | monetary | — | active |
 | `backmarket.es` | — | — | — | active |
 | `bauhaus.es` | — | — | — | active |
 | `bdo.es` | — | — | — | expired |

@@ -1,6 +1,6 @@
 # Self-hosted programs — EE
 
-35 programs.
+37 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -14,12 +14,14 @@
 | `elering.ee` | — | — | — | retired |
 | `enefit.ee` | — | — | — | active |
 | `energia.ee` | — | — | — | active |
+| `epl.ee` | — | — | — | active |
 | `err.ee` | — | — | — | retired |
 | `evr.ee` | — | — | — | active |
 | `forum.ee` | — | — | — | active |
 | `hot.ee` | — | — | — | active |
 | `kaubamaja.ee` | — | — | — | expired |
 | `lhv.ee` | [policy](https://www.lhv.ee/en/security) | monetary | — | active |
+| `maaleht.ee` | — | — | — | active |
 | `maxima.ee` | — | — | — | active |
 | `mc4f.ee` | — | — | — | active |
 | `metalstorm.ee` | [policy](https://metalstorm.net/admin/security.php) | recognition | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-396 programs.
+398 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -348,6 +348,7 @@
 | `techlib.cz` | — | — | — | retired |
 | `techmania.cz` | — | — | — | active |
 | `televizeseznam.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
+| `tipsport-bonus.cz` | — | — | — | active |
 | `tipsport-hra.cz` | — | — | — | active |
 | `tipsport-promo.cz` | — | — | — | active |
 | `tipsport-recenze.cz` | — | — | — | active |
@@ -367,6 +368,7 @@
 | `varnsdorf.cz` | — | — | — | active |
 | `vas-hosting.cz` | — | — | — | active |
 | `vedos.cz` | [policy](https://vedos.cz/security-policy) | — | — | active |
+| `vegasplay.cz` | — | — | — | active |
 | `velkemezirici.cz` | — | — | — | active |
 | `vesmir.cz` | — | — | — | active |
 | `vetkom.cz` | — | — | — | active |

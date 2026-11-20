@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-290 programs.
+292 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -166,6 +166,7 @@
 | `mgslotenmaker.be` | — | — | — | active |
 | `michaelpage.be` | — | — | — | expired |
 | `michelin.be` | — | — | — | active |
+| `mondialrelay.be` | [policy](https://vdp.inpost.pl/p/Policy?lang=en-gb) | — | — | active |
 | `mortsel.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `mouscron.be` | — | — | — | active |
 | `multipharma.be` | — | — | — | active |
@@ -215,6 +216,7 @@
 | `rootshell.be` | — | — | — | active |
 | `roularta.be` | — | — | — | expired |
 | `rtbf.be` | [policy](https://security.rtbf.be/cvdp.txt) | — | — | active |
+| `rumst.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `samsonite.be` | — | — | — | active |
 | `secudoc.be` | [policy](https://www.secudoc.nl/security-policy-for-secudoc) | recognition | — | active |
 | `sidem.be` | — | — | — | expired |

@@ -1,6 +1,6 @@
 # Self-hosted programs — IN
 
-47 programs.
+48 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -12,6 +12,7 @@
 | `capterra.in` | — | — | — | active |
 | `cleartax.in` | — | — | — | active |
 | `cuh.ac.in` | [policy](https://www.cuh.ac.in/uploads/policies/Clean_ICT_POLICY%5B1%5D.pdf) | — | — | active |
+| `daad.in` | — | — | — | active |
 | `droom.in` | [policy](https://droom.in/bugbounty) | monetary | — | retired |
 | `enj.in` | [policy](https://enj.in/security) | — | — | active |
 | `expedia.co.in` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |

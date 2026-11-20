@@ -1,6 +1,6 @@
 # Self-hosted programs — NO
 
-240 programs.
+241 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -169,10 +169,11 @@
 | `ofk.no` | — | — | — | active |
 | `onninen.no` | — | — | — | expired |
 | `oslo-universitetssykehus.no` | [policy](https://www.sykehuspartner.no/siteassets/documents/sikkerhet---regionale-bruksvilkar/no-38---responsible-disclosure-policy-engelsk.pdf) | — | — | active |
+| `oslo.kommune.no` | [policy](https://www.oslo.kommune.no/security-policy/) | — | — | active |
 | `oslobors.no` | — | — | — | active |
 | `oslokonserthus.no` | [policy](https://oslokonserthus.no/security-policy) | recognition | — | active |
 | `oslomet.no` | [policy](https://nett.oslomet.no/.well-known/rfc2350.pdf) | monetary | — | active |
-| `p3.no` | [policy](https://info.nrk.no/hjem/responsible-disclosure-policy/) | swag | yes | retired |
+| `p3.no` | [policy](https://info.nrk.no/hjem/responsible-disclosure-policy/) | swag | yes | expired |
 | `paretosec.no` | — | — | — | active |
 | `pilegrimsleden.no` | [policy](https://www.pilegrimsleden.no/security-policy) | recognition | — | active |
 | `politiet.no` | — | — | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-564 programs.
+565 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -501,6 +501,7 @@
 | `teoricentralen.se` | — | — | — | active |
 | `teracom.se` | — | — | — | active |
 | `tidaholm.se` | — | — | — | active |
+| `tidningenangermanland.se` | — | — | — | active |
 | `tidningencurie.se` | — | — | — | active |
 | `tierp.se` | — | — | — | active |
 | `tillvaxtverket.se` | — | — | — | active |
