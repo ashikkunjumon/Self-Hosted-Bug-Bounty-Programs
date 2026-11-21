@@ -50,7 +50,7 @@
 | `notino.ro` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
 | `observatorulph.ro` | — | — | — | active |
 | `omv.ro` | — | — | — | active |
-| `payu.ro` | [policy](https://corporate.payu.com/responsible-disclosure-policy/) | monetary | — | active |
+| `payu.ro` | [policy](https://corporate.payu.com/responsible-disclosure-policy/) | monetary | — | retired |
 | `peles.ro` | — | — | — | active |
 | `petrom.ro` | — | — | — | active |
 | `pluxee.ro` | [policy](https://vdp.pluxee.app/p/Policy) | — | — | active |

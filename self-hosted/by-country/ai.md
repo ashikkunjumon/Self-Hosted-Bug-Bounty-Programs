@@ -29,7 +29,7 @@
 | `epistemic.ai` | [policy](https://epistemic.ai/trust.html) | — | — | retired |
 | `euredas.ai` | [policy](https://www.euredas.ai/security#disclosure) | monetary | yes | active |
 | `evolvingedge.ai` | [policy](https://www.evolvingedge.ai/security/#disclosure) | — | — | active |
-| `fetchfido.ai` | [policy](https://fetchfido.ai/security/) | — | — | retired |
+| `fetchfido.ai` | [policy](https://fetchfido.ai/security/#disclosure) | monetary | — | active |
 | `finstory.ai` | [policy](https://finstory.ai/security#report) | — | — | active |
 | `foresight.ai` | [policy](https://www.foresight.ai/policy/disclosure-policy) | recognition | yes | retired |
 | `fyxer.ai` | [policy](https://www.fyxer.com/vulnerability-disclosure-policy) | monetary | yes | retired |
@@ -60,7 +60,7 @@
 | `nullify.ai` | [policy](https://docs.nullify.ai/more-info/security) | — | yes | retired |
 | `occludra.ai` | [policy](https://occludra.ai/security) | monetary | — | active |
 | `odin.ai` | [policy](https://0din.ai/policy) | monetary | — | active |
-| `orbitforms.ai` | [policy](https://useorbitcrm.ai/security) | recognition | yes | active |
+| `orbitforms.ai` | [policy](https://useorbitcrm.ai/security) | monetary | yes | active |
 | `overtheroad.ai` | [policy](https://overtheroad.ai/security) | — | — | active |
 | `persistentcompute.ai` | [policy](https://persistentcompute.ai/security/vulnerability-disclosure) | monetary | yes | active |
 | `pokee.ai` | [policy](https://pokee.ai/bug-bounty) | monetary | yes | active |

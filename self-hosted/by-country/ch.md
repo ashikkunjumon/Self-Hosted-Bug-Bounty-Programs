@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-428 programs.
+430 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -260,6 +260,7 @@
 | `oneplus.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/compass-bug-bounty) | monetary | — | active |
 | `opfikon.ch` | — | — | — | active |
 | `orbe.ch` | — | — | — | active |
+| `ost.ch` | [policy](https://www.ost.ch/de/vulnerability-disclosure-policy) | — | — | active |
 | `outnow.ch` | — | — | — | expired |
 | `ovomaltine.ch` | — | — | — | expired |
 | `ow.ch` | — | — | — | active |
@@ -371,7 +372,7 @@
 | `tchibo.ch` | — | — | — | active |
 | `tcs.ch` | — | — | — | active |
 | `tele1.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/compass-bug-bounty) | monetary | — | active |
-| `teleboy.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/teleboy-bug-bounty) | monetary | — | active |
+| `teleboy.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/teleboy-bug-bounty) | monetary | — | retired |
 | `telem1.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/compass-bug-bounty) | monetary | — | active |
 | `telezueri.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/compass-bug-bounty) | monetary | — | active |
 | `theaterspektakel.ch` | — | — | — | active |
@@ -391,7 +392,7 @@
 | `umb.ch` | — | — | — | active |
 | `uncoded.ch` | — | — | — | active |
 | `unibe.ch` | — | — | — | expired |
-| `unicef.ch` | — | — | — | active |
+| `unicef.ch` | — | — | — | retired |
 | `unil.ch` | — | — | — | active |
 | `unisante.ch` | — | — | — | active |
 | `unisg.ch` | — | — | — | active |
@@ -408,6 +409,7 @@
 | `vellaci.ch` | [policy](https://www.vellaci.ch/security/disclosure) | recognition | yes | active |
 | `verbier4vallees.ch` | — | — | — | active |
 | `vermoegenszentrum.ch` | — | — | — | active |
+| `vernier.ch` | — | — | — | active |
 | `victorinox.ch` | — | — | — | active |
 | `visana.ch` | — | — | — | active |
 | `viseca.ch` | [policy](https://www.viseca-payment.ch/vulnerability-disclosure) | monetary | yes | active |

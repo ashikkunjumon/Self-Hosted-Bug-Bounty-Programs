@@ -1,6 +1,6 @@
 # Self-hosted programs — NL
 
-483 programs.
+487 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -96,6 +96,7 @@
 | `creds.nl` | [policy](https://creds.nl/en/responsible-disclosure/) | monetary | — | active |
 | `cultureelerfgoed.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `cz.nl` | [policy](https://www.cz.nl/over-cz/beveiligingsprobleem-melden) | monetary | yes | active |
+| `d-reizen.nl` | — | — | — | active |
 | `d66.nl` | [policy](https://www.d66.nl/responsible-disclosure/) | monetary | yes | expired |
 | `dagjeweg.nl` | — | — | — | retired |
 | `das.nl` | [policy](https://www.das.nl/kwetsbaarheid-melden) | — | yes | expired |
@@ -141,7 +142,7 @@
 | `eredivisie.nl` | [policy](https://www.onyourmarks.agency/security-policy/) | monetary | — | active |
 | `essent.nl` | [policy](https://www.essent.nl/digitale-veiligheid) | — | — | active |
 | `eur.nl` | [policy](https://www.eur.nl/campus/locaties/campus-woudestein/beveiliging-veiligheid/informatiebeveiliging/responsible-disclosure) | recognition | yes | active |
-| `europarcs.nl` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | active |
+| `europarcs.nl` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | retired |
 | `eventim.nl` | — | — | — | active |
 | `expedia.nl` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `fbto.nl` | [policy](https://achmea.nl/en/responsible-disclosure) | swag | — | active |
@@ -350,6 +351,7 @@
 | `pay.nl` | [policy](https://www.pay.nl/en/responsible-disclosure) | monetary | — | retired |
 | `pdok.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `petities.nl` | — | — | — | active |
+| `pianoo.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `pixelbar.nl` | [policy](https://pixelbar.nl/responsibledisclosure/) | — | — | retired |
 | `politie.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `pricewise.nl` | — | — | — | active |
@@ -391,6 +393,7 @@
 | `sanquin.nl` | [policy](https://www.z-cert.nl/kwetsbaarheid-melden) | — | — | expired |
 | `saxion.nl` | [policy](https://www.saxion.nl/over-saxion/organisatie/coordinated-vulnerability-disclosure) | recognition | yes | active |
 | `sc-heerenveen.nl` | — | — | — | active |
+| `schiedam.nl` | [policy](https://www.schiedam.nl/kwetsbaarheid-gemeentelijke-systemen) | swag | — | active |
 | `schiphol.nl` | [policy](https://www.schiphol.nl/en/schiphol-group/responsible-disclosure-notification/) | recognition | — | active |
 | `schooltv.nl` | — | — | — | expired |
 | `scp.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
@@ -399,6 +402,7 @@
 | `sitearchief.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `skal.nl` | [policy](https://umbraco.skal.nl/.well-known/Policy) | — | — | active |
 | `slachtofferhulp.nl` | — | — | — | active |
+| `slimster.nl` | — | — | — | expired |
 | `slo.nl` | — | — | — | active |
 | `socialevraagstukken.nl` | — | — | — | active |
 | `solcon.nl` | — | — | — | expired |

@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-639 programs.
+642 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@
 | `casepoint.com` | [policy](https://www.casepoint.com/vulnerability-disclosure-policy/) | — | — | retired |
 | `cengage.com` | — | recognition | — | expired |
 | `cfpb.gov` | [policy](https://www.consumerfinance.gov/vulnerability-disclosure-policy/) | — | — | active |
-| `chat.openai.com` | [policy](https://openai.com/policies/coordinated-vulnerability-disclosure-policy) | recognition | — | active |
-| `chatgpt.com` | [policy](https://openai.com/policies/coordinated-vulnerability-disclosure-policy) | recognition | — | active |
+| `chat.openai.com` | [policy](https://openai.com/policies/coordinated-vulnerability-disclosure-policy) | monetary | — | active |
+| `chatgpt.com` | [policy](https://openai.com/policies/coordinated-vulnerability-disclosure-policy) | monetary | — | active |
 | `chaturbate.com` | [policy](https://hackerone.com/chaturbate?type=team&view_policy=true) | — | — | active |
 | `cheapflights.com` | [policy](https://www.kayak.com/security/) | monetary | — | active |
 | `christianriesen.com` | [policy](https://hackerone.com/automattic) | — | — | retired |
@@ -131,7 +131,7 @@
 | `continuum.io` | — | — | — | expired |
 | `cookinglight.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `costco.com` | [policy](https://hackerone.com/costco) | — | — | active |
-| `coveo.com` | — | — | — | expired |
+| `coveo.com` | — | — | — | retired |
 | `covermymeds.com` | [policy](https://www.mckesson.com/cybersecurity/coordinated-vulnerability-disclosure/) | monetary | — | active |
 | `cpanel.com` | — | — | — | active |
 | `cpanel.net` | — | — | — | active |
@@ -168,7 +168,7 @@
 | `dow.com` | [policy](https://www.synack.com/vdp/dow/) | recognition | yes | active |
 | `drivinglaws.org` | — | — | — | active |
 | `dropbox.tech` | [policy](https://dropbox.tech/security/updates-on-the-dropbox-bug-bounty-program) | monetary | — | retired |
-| `dvdtalk.com` | — | — | — | active |
+| `dvdtalk.com` | — | — | — | retired |
 | `dvidshub.net` | — | — | — | active |
 | `earlywarning.com` | [policy](https://www.earlywarning.com/security) | — | — | retired |
 | `eatingwell.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
@@ -216,6 +216,7 @@
 | `flywire.com` | [policy](https://app.intigriti.com/programs/flywire/flywirevulnerabilitydiscloseprogram/) | monetary | — | active |
 | `foodandwine.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `fr.linkedin.com` | [policy](https://hackerone.com/linkedin?view_policy=true) | — | — | active |
+| `fredmeyer.com` | — | — | — | active |
 | `freshworks.com` | [policy](https://hackerone.com/freshworks) | — | — | active |
 | `front.com` | — | monetary | — | active |
 | `frtib.gov` | [policy](https://www.frtib.gov/vulnerability-disclosure-policy/) | — | — | retired |
@@ -238,6 +239,7 @@
 | `gocardless.com` | [policy](https://gocardless.com/faq/merchants/security/) | monetary | — | active |
 | `goodnotes.com` | [policy](https://hackerone.com/goodnotes) | — | — | active |
 | `grab.com` | [policy](https://hackerone.com/grab?view_policy=true) | — | — | active |
+| `grafana.net` | [policy](https://grafana.com/legal/report-a-security-issue/) | monetary | — | active |
 | `grammarly.com` | [policy](https://hackerone.com/grammarly) | — | — | active |
 | `greencarreports.com` | — | — | — | active |
 | `greenhouse.com` | [policy](https://hackerone.com/greenhouse?type=team) | — | — | expired |
@@ -257,7 +259,7 @@
 | `heroku.com` | [policy](https://www.heroku.com/policy/security-hall-of-fame/) | recognition | — | retired |
 | `hexagon.com` | [policy](https://hexagon.com/legal/vulnerability) | — | yes | retired |
 | `hiddenlayer.com` | [policy](https://www.hiddenlayer.com/vulnerability-disclosure-policy) | — | yes | retired |
-| `highdefdigest.com` | — | — | — | active |
+| `highdefdigest.com` | — | — | — | retired |
 | `hiringlab.org` | [policy](https://www.indeed.com/legal?hl=en&from=gnav-homepage#ivrp) | monetary | — | expired |
 | `hivehome.com` | [policy](https://www.hivehome.com/security) | monetary | — | retired |
 | `hostinger.com` | [policy](https://www.hostinger.com/legal/responsible-disclosure-policy) | — | — | active |
@@ -365,7 +367,7 @@
 | `my.xfinity.com` | [policy](https://www.xfinity.com/vulnerabilityreport) | monetary | — | retired |
 | `mydomaine.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `myemma.com` | [policy](https://myemma.com/trust/security) | monetary | — | expired |
-| `myetherwallet.com` | [policy](https://hackerone.com/myetherwallet) | — | — | active |
+| `myetherwallet.com` | [policy](https://hackerone.com/myetherwallet) | — | — | retired |
 | `myfitnesspal.com` | [policy](https://bugcrowd.com/engagements/myfitnesspal-mbb) | monetary | — | active |
 | `myrecipes.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `nasa.gov` | [policy](https://www.nasa.gov/vulnerability-disclosure-policy/) | — | — | retired |
@@ -387,7 +389,7 @@
 | `nightwatchcybersecurity.com` | [policy](https://wwws.nightwatchcybersecurity.com/tag/bugcrowd/) | monetary | — | retired |
 | `nodejs.dev` | [policy](https://github.com/nodejs/node/security/policy#security) | monetary | — | active |
 | `nodejs.org` | [policy](https://github.com/nodejs/node/security/policy#security) | monetary | — | active |
-| `nolo.com` | — | — | — | active |
+| `nolo.com` | — | — | — | retired |
 | `nordantech.com` | [policy](https://www.nordantech.com/bounty) | monetary | yes | active |
 | `northwesternmutual.com` | [policy](https://bugcrowd.com/engagements/northwestern-mutual-mbb-og) | monetary | — | active |
 | `norwegian.com` | — | — | — | expired |
@@ -402,13 +404,14 @@
 | `ondeck.com` | [policy](https://www.ondeck.com/security-policy) | monetary | — | retired |
 | `oohcams.com` | [policy](https://hackerone.com/chaturbate?type=team&view_policy=true) | — | — | active |
 | `ookla.com` | [policy](https://security.ookla.com) | — | — | active |
-| `openai.com` | [policy](https://openai.com/policies/coordinated-vulnerability-disclosure-policy) | recognition | — | active |
+| `openai.com` | [policy](https://openai.com/policies/coordinated-vulnerability-disclosure-policy) | monetary | — | active |
 | `opensea.io` | [policy](https://bugcrowd.com/opensea) | monetary | — | active |
 | `opera.com` | [policy](https://security.opera.com/policy/) | monetary | — | active |
 | `opm.gov` | [policy](https://www.opm.gov/vulnerability-disclosure-policy/) | monetary | yes | retired |
 | `ory.com` | [policy](https://www.ory.com/docs/ecosystem/security) | — | — | active |
 | `oshrc.gov` | [policy](https://www.oshrc.gov/vulnerability-disclosure-policy/) | — | — | retired |
 | `ourfabriq.com` | [policy](https://ourfabriq.com/responsible-disclosure-policy) | monetary | yes | retired |
+| `outbrain.com` | [policy](https://www.outbrain.com/security/bug-bounty/) | monetary | yes | active |
 | `overture.com` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | active |
 | `ovh.com` | [policy](https://yeswehack.com/programs/ovh) | monetary | — | active |
 | `ovhcloud.com` | [policy](https://yeswehack.com/programs/ovh) | monetary | — | active |
@@ -441,13 +444,13 @@
 | `quidco.com` | [policy](https://bugcrowd.com/engagement_teasers/small-brook-9707) | — | — | active |
 | `qwant.com` | — | — | — | active |
 | `r3.com` | [policy](https://hackerone.com/r3) | — | — | active |
-| `racingjunk.com` | — | — | — | active |
+| `racingjunk.com` | — | — | — | retired |
 | `rakuten.net` | — | — | — | active |
 | `ralphs.com` | — | — | — | active |
 | `randstad.com` | [policy](https://www.randstad.com/report-a-security-problem/) | — | — | active |
 | `randstadusa.com` | [policy](https://www.randstad.com/report-a-security-problem/) | — | — | active |
 | `rapgenius.com` | [policy](https://bugcrowd.com/engagements/Genius-VDP) | — | — | retired |
-| `rctech.net` | — | — | — | active |
+| `rctech.net` | — | — | — | retired |
 | `rcuniverse.com` | — | — | — | active |
 | `rea-group.com` | [policy](https://www.rea-group.com/security) | recognition | — | active |
 | `realpage.com` | [policy](https://www.realpage.com/support/security/responsible-disclosure/) | monetary | — | retired |
@@ -613,7 +616,7 @@
 | `weddingbee.com` | — | — | — | retired |
 | `wellsfargo.com` | [policy](https://www.wellsfargo.com/privacy-security/fraud/responsible-disclosure-program/) | — | yes | retired |
 | `wetransfer.com` | [policy](https://wetransfer.com/help-center/security-privacy/reporting-a-security-vulnerability) | — | — | retired |
-| `whattoexpect.com` | [policy](https://www.whattoexpect.com/privacy-policy) | monetary | — | active |
+| `whattoexpect.com` | [policy](https://www.whattoexpect.com/privacy-policy) | monetary | — | retired |
 | `whmcs.com` | — | — | — | active |
 | `wikitravel.org` | — | — | — | retired |
 | `wilmingtontrust.com` | [policy](https://www.wilmingtontrust.com/privacy-security/responsible-disclosure-program) | monetary | yes | retired |

@@ -1,9 +1,10 @@
 # Self-hosted programs — SH
 
-4 programs.
+5 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
+| `closedloop.sh` | [policy](https://closedloop.sh/vulnerability-disclosure) | — | yes | active |
 | `pentr.sh` | [policy](https://pentr.sh/docs/security/disclosure) | monetary | yes | active |
 | `platform.sh` | [policy](https://platform.sh/trust-center/security/responsible-disclosure/) | monetary | yes | active |
 | `scarf.sh` | [policy](https://about.scarf.sh/security-statement/) | monetary | — | retired |

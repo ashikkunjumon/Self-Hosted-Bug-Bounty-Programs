@@ -1,6 +1,6 @@
 # Self-hosted programs — PL
 
-190 programs.
+191 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -103,6 +103,7 @@
 | `modafinil.pl` | [policy](https://modafinil.pl/) | — | — | active |
 | `moja-ostroleka.pl` | — | — | — | retired |
 | `money.pl` | — | — | — | active |
+| `moodo.pl` | — | — | — | active |
 | `motofakty.pl` | — | — | — | expired |
 | `muza.com.pl` | — | — | — | active |
 | `muzhp.pl` | — | — | — | active |
@@ -128,7 +129,7 @@
 | `opi.org.pl` | [policy](https://opi.org.pl/czym-sie-zajmujemy/oprogramowanie/bezpieczenstwo-w-systemach/) | — | — | active |
 | `opineo.pl` | — | — | — | active |
 | `parenting.pl` | — | — | — | active |
-| `payu.pl` | [policy](https://corporate.payu.com/responsible-disclosure-policy/) | monetary | — | active |
+| `payu.pl` | [policy](https://corporate.payu.com/responsible-disclosure-policy/) | monetary | — | retired |
 | `pcpm.org.pl` | — | — | — | expired |
 | `pesa.pl` | [policy](https://pesa.pl/en/pesa-vulnerability-disclosure-programme/) | recognition | yes | expired |
 | `plejada.pl` | — | — | — | active |

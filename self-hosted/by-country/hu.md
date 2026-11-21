@@ -8,7 +8,7 @@
 | `alexanderezz.hu` | — | — | — | active |
 | `balmazujvaros.hu` | — | — | — | active |
 | `bdo.hu` | — | — | — | expired |
-| `billingo.hu` | — | — | — | expired |
+| `billingo.hu` | — | — | — | retired |
 | `bosch.hu` | [policy](https://psirt.bosch.com/bosch-responsible-disclosure-policy/) | recognition | — | active |
 | `citromail.hu` | — | — | — | active |
 | `conrad.hu` | [policy](https://www.conrad.de/de/ueber-conrad/vulnerability-disclosure-program.html) | — | — | expired |

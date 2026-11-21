@@ -1,6 +1,6 @@
 # Self-hosted programs — ES
 
-106 programs.
+107 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -82,6 +82,7 @@
 | `pressdigital.es` | — | — | — | active |
 | `rae.es` | — | — | — | active |
 | `redestelecom.es` | — | recognition | — | active |
+| `renault.es` | [policy](https://www.renaultgroup.com/en/vulnerability-disclosure-policy/) | — | — | active |
 | `sage.es` | [policy](https://www.sage.com/en-gb/trust-security/) | recognition | — | active |
 | `slid.es` | — | — | — | active |
 | `sodexo.es` | [policy](https://vdp.sodexo.com) | — | — | expired |

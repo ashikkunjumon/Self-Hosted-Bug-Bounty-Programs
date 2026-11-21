@@ -1,6 +1,6 @@
 # Self-hosted programs — AT
 
-164 programs.
+166 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -106,6 +106,7 @@
 | `oebb.at` | — | — | — | active |
 | `oegk.at` | — | — | — | active |
 | `oenb.at` | — | — | — | active |
+| `oif.ac.at` | — | — | — | active |
 | `omv.at` | — | — | — | active |
 | `opensocial.at` | [policy](https://friendi.ca/security-policy/) | monetary | — | active |
 | `orf.at` | [policy](https://der.orf.at/vdp100.html) | monetary | yes | active |
@@ -157,6 +158,7 @@
 | `unsereoebb.at` | — | — | — | active |
 | `ustp.at` | [policy](https://www.ustp.at/de/security-disclosure-policy) | swag | — | active |
 | `vegan.at` | — | — | — | active |
+| `vergabeportal.at` | — | — | — | active |
 | `viennaairportlines.at` | — | — | — | active |
 | `vobs.at` | — | — | — | active |
 | `vpnoe.at` | — | — | — | active |

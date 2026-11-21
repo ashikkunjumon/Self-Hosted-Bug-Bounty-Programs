@@ -1,11 +1,12 @@
 # Self-hosted programs — SE
 
-565 programs.
+566 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `1177.se` | — | — | — | active |
 | `abc.se` | — | — | — | retired |
+| `adda.se` | — | — | — | active |
 | `advisa.se` | [policy](https://samblagroup.com/responsible-disclosure) | — | yes | retired |
 | `afaforsakring.se` | — | — | — | active |
 | `aftonbladet.se` | [policy](https://www.schibsted.com/about/security-in-schibsted/schibsted-security-policy/) | — | — | active |
@@ -26,7 +27,7 @@
 | `amal.se` | — | — | — | active |
 | `amelia.se` | — | — | — | active |
 | `amnesty.se` | — | — | — | active |
-| `ancestry.se` | [policy](https://www.ancestry.com/c/legal/security) | — | — | retired |
+| `ancestry.se` | [policy](https://www.ancestry.com/c/legal/security) | — | — | active |
 | `ange.se` | — | — | — | active |
 | `antagning.se` | — | — | — | active |
 | `arbetarbladet.se` | — | — | — | active |
@@ -203,7 +204,7 @@
 | `icaforsakring.se` | — | — | — | active |
 | `icagruppen.se` | — | — | — | active |
 | `imy.se` | — | — | — | expired |
-| `indie-ver.se` | — | — | — | active |
+| `indie-ver.se` | — | — | — | retired |
 | `inet.se` | — | — | — | active |
 | `informationsverige.se` | — | — | — | active |
 | `internetkunskap.se` | [policy](https://internetstiftelsen.se/en/about-this-website/responsible-disclosure/) | — | — | retired |
@@ -258,7 +259,7 @@
 | `kt-kuriren.se` | — | — | — | active |
 | `kth.se` | — | — | — | active |
 | `kumla.se` | — | — | — | active |
-| `kungahuset.se` | — | — | — | expired |
+| `kungahuset.se` | — | — | — | active |
 | `kungligaslotten.se` | — | — | — | active |
 | `kungsbacka.se` | — | — | — | active |
 | `kunskapsstyrningvard.se` | — | — | — | active |
@@ -403,10 +404,10 @@
 | `riksrevisionen.se` | — | — | — | active |
 | `rmv.se` | — | — | — | active |
 | `ronneby.se` | — | — | — | active |
-| `royalcourt.se` | — | — | — | expired |
+| `royalcourt.se` | — | — | — | active |
 | `rvn.se` | — | — | — | active |
 | `saffle.se` | — | — | — | active |
-| `sahlgrenska.se` | — | — | — | active |
+| `sahlgrenska.se` | — | — | — | retired |
 | `salem.se` | — | — | — | active |
 | `sandviken.se` | — | — | — | active |
 | `sas.se` | [policy](https://www.sasgroup.net/contact/vulnerability-disclosure-policy/) | recognition | yes | active |
@@ -550,7 +551,7 @@
 | `vetlanda.se` | — | — | — | expired |
 | `vetlandaposten.se` | — | — | — | active |
 | `vf.se` | — | — | — | active |
-| `vgregion.se` | — | — | — | active |
+| `vgregion.se` | — | — | — | retired |
 | `vimmerby.se` | — | — | — | active |
 | `vision.se` | — | — | — | active |
 | `visita.se` | — | — | — | active |

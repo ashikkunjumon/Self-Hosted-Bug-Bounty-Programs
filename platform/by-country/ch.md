@@ -1,6 +1,6 @@
 # Platform-hosted programs — CH
 
-70 programs.
+71 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@
 | `laredoute.ch` | [policy](https://www.laredoute.com/vulnerability_disclosure_program.aspx) | — | — | expired |
 | `lebendige-traditionen.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | recognition | yes | active |
 | `lematin.ch` | [policy](https://bugcrowd.com/twentyminuten) | monetary | — | expired |
-| `lyss.ch` | [policy](https://www.talus.ch/de/datenschutz/bug-bounty.php) | — | — | active |
+| `lyss.ch` | [policy](https://www.talus.ch/de/datenschutz/bug-bounty.php) | monetary | — | active |
 | `mobiliar.ch` | — | — | — | active |
 | `mobiliare.ch` | — | — | — | active |
 | `mobiliere.ch` | — | — | — | active |
@@ -70,6 +70,7 @@
 | `toyota.ch` | — | monetary | — | expired |
 | `uek.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | recognition | yes | active |
 | `usz.ch` | [policy](https://kb.intigriti.com/en/articles/5466165-researcher-terms-conditions) | monetary | — | expired |
+| `waldbrandgefahr.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | recognition | yes | active |
 | `wetzikon.ch` | [policy](https://www.talus.ch/de/datenschutz/bug-bounty.php) | — | — | active |
 | `xpertcenter.ch` | [policy](https://www.xpertcenter.ch/it/vdp-it/) | — | yes | retired |
 | `yelp.ch` | [policy](https://hackerone.com/yelp?view_policy=true) | — | — | active |

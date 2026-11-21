@@ -8,7 +8,7 @@
 | `aeroprint.si` | — | — | — | active |
 | `alter.si` | — | — | — | active |
 | `bauhaus.si` | — | — | — | active |
-| `borzen.si` | — | — | — | active |
+| `borzen.si` | — | — | — | retired |
 | `cert.si` | [policy](https://cert.si/koordinirano-razkrivanje-ranljivosti/) | monetary | — | active |
 | `data.si` | — | — | — | active |
 | `dm.si` | — | — | — | active |

@@ -1,6 +1,6 @@
 # Platform-hosted programs — BR
 
-14 programs.
+15 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -10,6 +10,7 @@
 | `cade.com.br` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | expired |
 | `crazy-time-brazil.com.br` | [policy](https://legal.yahoo.com/xw/en/yahoo/coordinated-vulnerability-disclosure-program-policy/index.html) | monetary | — | active |
 | `kayak.com.br` | [policy](https://www.kayak.com/security/) | monetary | — | active |
+| `linkedin.com.br` | [policy](https://hackerone.com/linkedin?view_policy=true) | — | — | active |
 | `momondo.com.br` | [policy](https://www.kayak.com/security/) | monetary | — | active |
 | `nubank.com.br` | — | monetary | — | active |
 | `quintoandar.com.br` | [policy](https://bugcrowd.com/engagements/quintoandar) | monetary | — | active |

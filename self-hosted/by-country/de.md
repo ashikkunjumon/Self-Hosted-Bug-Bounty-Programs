@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-508 programs.
+509 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -12,6 +12,7 @@
 | `abendblatt.de` | — | — | — | active |
 | `abgeordnetenwatch.de` | — | — | — | retired |
 | `aboutyou.de` | — | monetary | — | active |
+| `activemind.de` | [policy](https://www.activemind.de/security-policy) | — | yes | active |
 | `adesso.de` | — | — | — | active |
 | `adminforge.de` | — | — | — | active |
 | `aerzte-ohne-grenzen.de` | — | — | — | active |

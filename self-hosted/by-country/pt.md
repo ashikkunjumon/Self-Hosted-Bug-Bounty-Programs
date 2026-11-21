@@ -1,6 +1,6 @@
 # Self-hosted programs — PT
 
-47 programs.
+49 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -18,6 +18,7 @@
 | `guimaraesdigital.pt` | — | — | — | active |
 | `hidrografico.pt` | [policy](https://www.hidrografico.pt/.well-known/security-policy.txt) | recognition | — | active |
 | `ibet.pt` | — | — | — | active |
+| `imaginando.pt` | — | — | — | active |
 | `infraestruturasdeportugal.pt` | — | recognition | — | active |
 | `iniav.pt` | — | — | — | active |
 | `interc.pt` | — | — | — | active |
@@ -38,10 +39,11 @@
 | `pccomponentes.pt` | — | — | — | active |
 | `rcgoncalves.pt` | — | — | — | expired |
 | `ren.pt` | [policy](https://www.ren.pt/pt-pt/csirt/rfc-2350) | — | — | active |
+| `renault.pt` | [policy](https://www.renaultgroup.com/en/vulnerability-disclosure-policy/) | — | — | active |
 | `trovit.pt` | — | recognition | — | active |
 | `tugatech.com.pt` | — | — | — | active |
 | `twinkl.pt` | — | — | — | retired |
-| `ua.pt` | — | — | — | active |
+| `ua.pt` | — | — | — | retired |
 | `uac.pt` | — | — | — | expired |
 | `ubi.pt` | — | — | — | expired |
 | `uc.pt` | [policy](https://www.uc.pt/protecao-de-dados-e-informacao-administrativa/politica-de-privacidade/) | — | — | active |

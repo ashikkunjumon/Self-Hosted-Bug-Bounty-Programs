@@ -1,6 +1,6 @@
 # Self-hosted programs — BR
 
-110 programs.
+111 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@
 | `flashscore.com.br` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `fnpeti.org.br` | — | — | — | active |
 | `forumseguranca.org.br` | [policy](https://icc.gg/polvuln) | monetary | yes | active |
-| `freefiremania.com.br` | [policy](https://www.freefiremania.com.br/politica-de-privacidade.html) | monetary | — | active |
+| `freefiremania.com.br` | [policy](https://www.freefiremania.com.br/politica-de-privacidade.html) | monetary | — | retired |
 | `fundacaodorina.org.br` | — | — | — | active |
 | `geekhunter.com.br` | — | recognition | — | active |
 | `gettyimages.com.br` | — | — | — | retired |
@@ -71,6 +71,7 @@
 | `michelin.com.br` | — | — | — | active |
 | `msnoticias.com.br` | — | — | — | expired |
 | `mst.org.br` | — | — | — | expired |
+| `natalluzdegramado.com.br` | — | — | — | active |
 | `neon.com.br` | — | — | — | expired |
 | `netmundial.br` | — | — | — | active |
 | `nivea.com.br` | [policy](https://soc.beiersdorf.com/disclosurepolicy.html) | — | yes | active |

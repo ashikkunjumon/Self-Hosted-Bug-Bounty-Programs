@@ -1,6 +1,6 @@
 # Self-hosted programs — DK
 
-165 programs.
+166 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -98,6 +98,7 @@
 | `lex.dk` | — | — | — | expired |
 | `lidl.dk` | — | — | — | active |
 | `lolland.dk` | — | — | — | active |
+| `mascot.dk` | — | — | — | active |
 | `mensa.dk` | — | — | — | active |
 | `mitsdu.dk` | — | — | — | active |
 | `mobilepay.dk` | [policy](https://vdp.vippsmobilepay.com) | — | — | active |
@@ -161,7 +162,7 @@
 | `tv2.dk` | [policy](https://omtv2.tv2.dk/media/126365/tv_2_responsible_disclosure.pdf) | — | — | active |
 | `uddannelsesstatistik.dk` | — | — | — | active |
 | `udeoghjemme.dk` | — | — | — | expired |
-| `vafo.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
+| `vafo.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | retired |
 | `version2.dk` | — | — | — | active |
 | `viborg-folkeblad.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | retired |
 | `viborg.dk` | — | — | — | active |

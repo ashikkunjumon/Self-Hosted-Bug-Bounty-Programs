@@ -1,6 +1,6 @@
 # Self-hosted programs — IT
 
-80 programs.
+81 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -54,6 +54,7 @@
 | `meteotrentino.it` | — | — | — | expired |
 | `michelin.it` | — | — | — | active |
 | `miodottore.it` | — | — | — | active |
+| `movieplayer.it` | — | — | — | active |
 | `notino.it` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
 | `openfiber.it` | [policy](https://openfiber.it/responsible-disclosure/) | — | — | active |
 | `pagopa.gov.it` | [policy](https://www.pagopa.gov.it/security.html) | recognition | — | active |
@@ -62,7 +63,7 @@
 | `privacylab.it` | — | — | — | active |
 | `radioradicale.it` | — | — | — | active |
 | `rhoss.it` | [policy](https://www.rhoss.it/cyber-resilience-act/) | — | — | retired |
-| `richslots.it` | — | — | — | active |
+| `richslots.it` | — | — | — | retired |
 | `riello-solartech.it` | [policy](https://www.riello-solartech.com/insight/vulnerability-and-incident-disclosure) | monetary | — | active |
 | `sandenvendo.it` | [policy](https://www.sandenvendo.it/pt/cra-security/) | — | — | retired |
 | `savee.it` | — | — | — | active |
