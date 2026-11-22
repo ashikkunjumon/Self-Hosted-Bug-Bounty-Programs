@@ -1,6 +1,6 @@
 # Self-hosted programs — PL
 
-191 programs.
+192 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -146,6 +146,7 @@
 | `radiowroclaw.pl` | — | — | — | active |
 | `rankomat.pl` | — | — | — | active |
 | `ratujemyzwierzaki.pl` | [policy](https://fundigic.com/#polityka-komunikacji) | — | — | active |
+| `rebis.com.pl` | — | — | — | active |
 | `regiodom.pl` | — | — | — | expired |
 | `renault.pl` | [policy](https://www.renaultgroup.com/en/vulnerability-disclosure-policy/) | — | — | active |
 | `ringieraxelspringer.pl` | — | — | — | active |

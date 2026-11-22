@@ -1,6 +1,6 @@
 # Self-hosted programs — FR
 
-179 programs.
+180 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -138,6 +138,7 @@
 | `red-by-sfr.fr` | — | — | — | active |
 | `regafi.fr` | — | — | — | active |
 | `registre-numerique.fr` | — | — | — | active |
+| `renault.fr` | [policy](https://www.renaultgroup.com/en/vulnerability-disclosure-policy/) | — | — | active |
 | `rtl.fr` | — | — | — | active |
 | `rtl2.fr` | — | — | — | active |
 | `samsonite.fr` | — | — | — | active |

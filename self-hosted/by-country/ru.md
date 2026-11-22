@@ -38,7 +38,7 @@
 | `rus-buket.ru` | — | — | — | active |
 | `saby.ru` | — | monetary | — | active |
 | `sbis.ru` | — | monetary | — | active |
-| `sravni.ru` | — | — | — | active |
+| `sravni.ru` | — | — | — | retired |
 | `tbank.ru` | — | — | — | active |
 | `tutu.ru` | — | — | — | active |
 | `vl.ru` | — | — | — | active |

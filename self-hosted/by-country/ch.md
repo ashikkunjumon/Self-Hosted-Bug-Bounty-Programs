@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-430 programs.
+432 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -10,6 +10,7 @@
 | `abraxas.ch` | [policy](https://www.abraxas.ch/de/vdp) | recognition | yes | active |
 | `abuse.ch` | — | — | — | active |
 | `adfinis-sygroup.ch` | — | — | — | retired |
+| `adliswil.ch` | — | — | — | active |
 | `ajour.ch` | — | — | — | active |
 | `allianceswisspass.ch` | — | recognition | — | active |
 | `alltron.ch` | — | — | — | active |
@@ -176,6 +177,7 @@
 | `interdiscount.ch` | — | monetary | — | active |
 | `ipng.ch` | — | — | — | active |
 | `isb-sib.ch` | — | — | — | expired |
+| `isn.ch` | — | — | — | expired |
 | `isolutions.ch` | — | — | — | active |
 | `iway.ch` | — | — | — | active |
 | `iwb.ch` | — | — | — | expired |

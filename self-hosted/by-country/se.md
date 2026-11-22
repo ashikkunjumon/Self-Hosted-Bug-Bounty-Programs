@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-566 programs.
+569 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -214,6 +214,7 @@
 | `irf.se` | — | — | — | active |
 | `isof.se` | — | — | — | active |
 | `ivl.se` | — | — | — | active |
+| `jagareforbundet.se` | — | — | — | active |
 | `jamtkraft.se` | — | — | — | active |
 | `janusinfo.se` | — | — | — | active |
 | `jarfalla.se` | — | — | — | active |
@@ -262,6 +263,7 @@
 | `kungahuset.se` | — | — | — | active |
 | `kungligaslotten.se` | — | — | — | active |
 | `kungsbacka.se` | — | — | — | active |
+| `kungsor.se` | — | — | — | active |
 | `kunskapsstyrningvard.se` | — | — | — | active |
 | `kustbevakningen.se` | — | — | — | expired |
 | `laholm.se` | — | — | — | active |
@@ -513,6 +515,7 @@
 | `trafa.se` | — | — | — | expired |
 | `trafikverket.se` | — | — | — | active |
 | `tranastidning.se` | — | — | — | active |
+| `tranemo.se` | — | — | — | active |
 | `transportforetagen.se` | — | — | — | active |
 | `transportstyrelsen.se` | — | — | — | active |
 | `travstugan.se` | [policy](https://travstugan.se/security-policy) | recognition | — | active |

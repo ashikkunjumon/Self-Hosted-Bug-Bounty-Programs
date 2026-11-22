@@ -1,6 +1,6 @@
 # Self-hosted programs — GLOBAL
 
-3,461 programs.
+3,469 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@
 | `abmc.gov` | [policy](https://www.abmc.gov/about-us/reports-policy/vulnerability-disclosure-policy/) | monetary | — | retired |
 | `abra.eu` | — | — | — | active |
 | `academicpedsjnl.net` | — | — | — | active |
-| `acast.com` | [policy](https://security.acast.com) | — | — | active |
+| `acast.com` | [policy](https://security.acast.com) | monetary | — | active |
 | `accaglobal.com` | — | — | — | active |
 | `access-board.gov` | [policy](https://www.access-board.gov/about/vulnerability-disclosure-policy/) | — | — | active |
 | `accessnow.org` | — | — | — | expired |
@@ -210,6 +210,7 @@
 | `asml.com` | — | — | — | active |
 | `asos.com` | [policy](https://www.asos.com/security-issues/policy) | — | — | active |
 | `aspetjournals.org` | — | — | — | active |
+| `asrock.com` | [policy](https://www.asrock.com/support/Security.asp) | — | — | active |
 | `assembled.com` | [policy](https://support.assembled.com/hc/en-us/articles/4414677346829-How-do-I-report-a-security-issue) | monetary | — | retired |
 | `assemblic.com` | [policy](https://www.assemblic.com/legals/vulnerability-disclosure) | — | yes | active |
 | `assetnote.io` | — | — | — | expired |
@@ -273,6 +274,7 @@
 | `bauhaus.info` | — | — | — | active |
 | `bavida.com` | — | — | — | retired |
 | `bazaarvoice.com` | [policy](https://www.bazaarvoice.com/legal/vulnerability-disclosure-policy/) | monetary | — | retired |
+| `bbb.org` | — | — | — | active |
 | `bbc.com` | [policy](https://www.bbc.com/backstage/security-disclosure-policy/) | — | — | active |
 | `bbcgoodfood.com` | [policy](https://www.immediate.co.uk/security-disclosure-policy/) | — | — | expired |
 | `bbrown.com` | — | — | — | active |
@@ -340,6 +342,7 @@
 | `blinkforhome.com` | [policy](https://blinkforhome.com/responsible-disclosure-policy) | recognition | — | retired |
 | `blinklab.org` | [policy](https://www.blinklab.org/security/vulnerability-disclosure-statement) | recognition | yes | retired |
 | `blockchain-council.org` | [policy](https://www.blockchain-council.org/privacy-policy/) | monetary | — | active |
+| `blockstream.info` | — | — | — | active |
 | `blog.aragon.org` | [policy](https://blog.aragon.org/aragon-network-bug-bounty/) | monetary | — | retired |
 | `bloomberg.com` | [policy](https://www.bloomberg.com/responsible-disclosure) | — | — | active |
 | `bloomreach.com` | — | — | — | active |
@@ -576,6 +579,7 @@
 | `commonridge.com` | [policy](https://commonridge.com/trust/vulnerability-disclosure) | recognition | yes | active |
 | `commonroom.io` | — | — | — | active |
 | `commons.wikimedia.org` | [policy](https://www.mediawiki.org/wiki/Reporting_security_bugs) | recognition | — | active |
+| `commonsensemedia.org` | — | — | — | active |
 | `commonspirit.org` | [policy](https://www.commonspirit.org/legal-and-privacy-notices/responsible-disclosure-program-policy) | — | — | active |
 | `commonsware.com` | [policy](https://commonsware.com/bounty.html) | monetary | — | retired |
 | `community.sonarsource.com` | [policy](https://community.sonarsource.com/t/responsible-vulnerability-disclosure/9317) | monetary | — | retired |
@@ -672,7 +676,7 @@
 | `cybersprint.com` | [policy](https://www.darktrace.com/en/legal/vulnerability-disclosure-policy) | — | — | active |
 | `cyble.com` | [policy](https://cyble.com/security-disclosure-policy) | — | — | active |
 | `cyclonedx.org` | — | — | — | active |
-| `cyncsoftware.com` | [policy](https://www.cyncsoftware.com/responsible-disclosure-policy.php) | — | — | active |
+| `cyncsoftware.com` | [policy](https://www.cyncsoftware.com/responsible-disclosure-policy.php) | — | — | retired |
 | `czechia.com` | — | — | — | expired |
 | `dailymotion.com` | [policy](https://faq.dailymotion.com/hc/en-us/p/vulnerability-disclosure) | — | — | active |
 | `dailyorange.com` | — | — | — | active |
@@ -830,6 +834,7 @@
 | `dwservice.net` | — | — | — | retired |
 | `dynatrace.com` | [policy](https://docs.dynatrace.com/docs/manage/data-privacy-and-security/data-security/report-a-security-related-concern) | monetary | — | active |
 | `dynocortex.com` | [policy](https://www.dynocortex.com/trust/vulnerability-disclosure/) | — | — | active |
+| `dyspatch.io` | — | — | — | active |
 | `e-fellows.net` | — | — | — | active |
 | `e-unwto.org` | — | — | — | active |
 | `e2b.dev` | — | — | — | retired |
@@ -925,6 +930,7 @@
 | `eqs.com` | [policy](https://www.eqs.com/security/public-vulnerability-disclosure-policy/) | — | — | expired |
 | `equinor.com` | — | — | — | active |
 | `eralytics.com` | [policy](https://eralytics.com/security) | recognition | yes | active |
+| `erasmusapp.eu` | — | — | — | active |
 | `eredivisie.eu` | [policy](https://www.onyourmarks.agency/security-policy/) | monetary | — | active |
 | `erlang.org` | [policy](https://github.com/erlang/otp/blob/master/SECURITY.md) | — | — | expired |
 | `ernieball.com` | — | — | — | active |
@@ -1258,6 +1264,7 @@
 | `graceland.com` | — | — | — | active |
 | `gradle.org` | [policy](https://github.com/gradle/.github/blob/master/SECURITY.md) | swag | yes | active |
 | `graf.info` | — | — | — | active |
+| `grafana.net` | [policy](https://grafana.com/legal/report-a-security-issue/) | recognition | — | active |
 | `grahamcluley.com` | — | — | — | expired |
 | `grailed.com` | [policy](https://support.grailed.com/hc/en-us/articles/30283214576013-Grailed-s-Bug-Bounty-Program) | monetary | — | retired |
 | `grandlyon.com` | — | — | — | active |
@@ -1921,7 +1928,7 @@
 | `montferland.info` | — | — | — | expired |
 | `montgomeryadvertiser.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
 | `moodle.org` | [policy](https://moodledev.io/general/development/process/security) | monetary | — | active |
-| `morningstarsecurity.com` | [policy](https://morningstarsecurity.com/security) | monetary | yes | active |
+| `morningstarsecurity.com` | [policy](https://morningstarsecurity.com/security) | recognition | yes | active |
 | `motorcyclesports.net` | — | — | — | active |
 | `mountainwarehouse.com` | — | — | — | active |
 | `movabletype.com` | — | — | — | expired |
@@ -2324,6 +2331,7 @@
 | `pitch.com` | [policy](https://pitch.com/security-disclosure-policy) | — | — | active |
 | `pitchero.com` | [policy](https://www.pitchero.com/security-policy) | — | — | active |
 | `pitchstone.com` | [policy](https://www.pitchstone.com/legal/responsible-disclosure) | monetary | yes | retired |
+| `pix4d.com` | — | — | — | expired |
 | `pixmania.com` | — | — | — | active |
 | `pjm.com` | [policy](https://www.pjm.com/VDP/securityVDP-policy.pdf) | monetary | — | active |
 | `pjstar.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |

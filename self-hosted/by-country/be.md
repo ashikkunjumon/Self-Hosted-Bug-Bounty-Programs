@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-296 programs.
+299 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -52,6 +52,7 @@
 | `century21.be` | — | — | — | active |
 | `ciney.be` | — | — | — | active |
 | `clickx.be` | — | — | — | active |
+| `const-court.be` | [policy](https://nl.const-court.be/security) | — | — | active |
 | `coolblue.be` | — | monetary | — | active |
 | `corendon.be` | [policy](https://www.corendon.be/privacy-verklaring) | monetary | — | active |
 | `couvin.be` | — | — | — | active |
@@ -147,9 +148,11 @@
 | `lahulpe.be` | — | — | — | active |
 | `lanaken.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `langemark-poelkapelle.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
+| `lasne.be` | — | — | — | active |
 | `lcp.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `lecot.be` | [policy](https://magento.com/security) | monetary | — | retired |
 | `legrand.be` | [policy](https://www.legrand.com/cybersecurity/en/cvd-policy) | — | — | active |
+| `leopoldsburg.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `liantis.be` | [policy](https://www.liantis.be/disclosure) | — | — | expired |
 | `lidl-shop.be` | — | — | — | active |
 | `lidl.be` | — | — | — | active |

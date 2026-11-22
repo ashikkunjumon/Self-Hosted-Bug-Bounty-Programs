@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-398 programs.
+399 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -135,6 +135,7 @@
 | `gme.cz` | — | — | — | active |
 | `greenidea.cz` | — | — | — | active |
 | `grisoft.cz` | — | — | — | expired |
+| `grizly.cz` | — | — | — | active |
 | `hatefree.cz` | — | — | — | active |
 | `hecht.cz` | — | — | — | active |
 | `helfstyn.cz` | — | — | — | active |

@@ -63,7 +63,7 @@
 | `flashscore.dk` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `flixbus.dk` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |
 | `folkebladetlemvig.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
-| `frdb.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | retired |
+| `frdb.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
 | `frederiksbergliv.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
 | `fyens.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | retired |
 | `get2net.dk` | — | — | — | active |

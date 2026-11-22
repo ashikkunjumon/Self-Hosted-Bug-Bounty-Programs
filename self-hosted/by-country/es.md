@@ -14,7 +14,7 @@
 | `backmarket.es` | — | — | — | active |
 | `bauhaus.es` | — | — | — | active |
 | `bdo.es` | — | — | — | expired |
-| `betbrothers.es` | — | — | — | active |
+| `betbrothers.es` | — | — | — | retired |
 | `betway.es` | — | — | — | expired |
 | `bigmat.es` | — | — | — | active |
 | `bitrix24.es` | — | — | — | active |

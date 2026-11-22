@@ -1,6 +1,6 @@
 # Self-hosted programs — NO
 
-241 programs.
+242 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -182,6 +182,7 @@
 | `prisjakt.no` | — | — | — | expired |
 | `ra.no` | — | — | — | expired |
 | `riksantikvaren.no` | — | — | — | expired |
+| `riksteatret.no` | — | — | — | active |
 | `ruter.no` | — | — | — | active |
 | `sagat.no` | — | — | — | expired |
 | `samforsk.no` | [policy](https://samforsk.no/security-policy) | recognition | — | active |

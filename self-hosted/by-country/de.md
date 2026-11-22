@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-509 programs.
+510 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -101,6 +101,7 @@
 | `datawrapper.de` | — | — | — | active |
 | `datenschutz-bayern.de` | — | — | — | active |
 | `datenschutz-berlin.de` | — | recognition | — | active |
+| `datenschutz-hamburg.de` | — | — | — | active |
 | `datenschutzzentrum.de` | — | — | — | active |
 | `datev.de` | [policy](https://serviceformulare.datev.de/link/ShowDoForm?FormID=7110) | — | — | active |
 | `decathlon.de` | [policy](https://vdp.decathlon.net) | — | — | active |
