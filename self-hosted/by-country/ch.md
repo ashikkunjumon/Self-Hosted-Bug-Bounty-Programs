@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-432 programs.
+434 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@
 | `financescout24.ch` | — | — | — | active |
 | `finanzen.ch` | [policy](https://www.finanzen.net/.well-known/bugbounty.txt) | monetary | yes | retired |
 | `finma.ch` | — | — | — | active |
-| `fiz-info.ch` | — | recognition | — | active |
+| `fiz-info.ch` | — | recognition | — | retired |
 | `flatfox.ch` | — | — | — | active |
 | `flumroc.ch` | — | — | — | active |
 | `fnac.ch` | — | — | — | active |
@@ -182,6 +182,7 @@
 | `iway.ch` | — | — | — | active |
 | `iwb.ch` | — | — | — | expired |
 | `jackpots.ch` | — | — | — | active |
+| `jardinbotaniquegeneve.ch` | — | — | — | active |
 | `jobcloud.ch` | — | — | — | active |
 | `jobs.ch` | — | — | — | active |
 | `jobup.ch` | — | — | — | active |
@@ -285,6 +286,7 @@
 | `primeo-energie.ch` | — | — | — | active |
 | `promentesana.ch` | [policy](https://promentesana.ch/security-policy) | recognition | — | active |
 | `publiceye.ch` | — | — | — | active |
+| `qoqa.ch` | — | — | — | active |
 | `radio24.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/compass-bug-bounty) | monetary | — | active |
 | `radio32.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/compass-bug-bounty) | monetary | — | active |
 | `radiocentral.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/compass-bug-bounty) | monetary | — | active |
@@ -394,7 +396,7 @@
 | `umb.ch` | — | — | — | active |
 | `uncoded.ch` | — | — | — | active |
 | `unibe.ch` | — | — | — | expired |
-| `unicef.ch` | — | — | — | retired |
+| `unicef.ch` | — | — | — | active |
 | `unil.ch` | — | — | — | active |
 | `unisante.ch` | — | — | — | active |
 | `unisg.ch` | — | — | — | active |

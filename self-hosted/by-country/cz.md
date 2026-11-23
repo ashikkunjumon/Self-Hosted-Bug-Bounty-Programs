@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-399 programs.
+401 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@
 | `agel.cz` | — | — | — | expired |
 | `aiken.cz` | — | — | — | active |
 | `airbank.cz` | — | — | — | active |
-| `aktin.cz` | — | — | — | retired |
+| `aktin.cz` | — | — | — | active |
 | `allwyn.cz` | [policy](https://www.allwyn.cz/.well-known/responsible_disclosure_policy.pdf) | monetary | — | active |
 | `ambis.cz` | — | — | — | active |
 | `amo.cz` | — | — | — | active |
@@ -100,6 +100,7 @@
 | `ecn.cz` | — | — | — | active |
 | `eduroam.cz` | [policy](https://csirt.cesnet.cz/en/vulnerability_report) | — | — | active |
 | `efotbal.cz` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
+| `elektrina.cz` | — | — | — | expired |
 | `elfetex.cz` | [policy](https://magento.com/security) | monetary | — | expired |
 | `emaespressobar.cz` | — | — | — | active |
 | `emkei.cz` | — | — | — | active |
@@ -153,7 +154,7 @@
 | `i4wifi.cz` | — | — | — | active |
 | `ifortuna.cz` | — | monetary | — | active |
 | `iir.cz` | — | — | — | active |
-| `imago.cz` | [policy](http://www.imago.cz/kontakt) | — | — | active |
+| `imago.cz` | [policy](http://www.imago.cz/kontakt) | swag | — | active |
 | `indian-tv.cz` | [policy](https://indian-tv.cz/zasady) | — | — | active |
 | `infinit.cz` | — | — | — | active |
 | `info-praha.cz` | — | — | — | expired |
@@ -365,7 +366,7 @@
 | `ujv.cz` | — | — | — | active |
 | `ulekare.cz` | — | — | — | active |
 | `umprum.cz` | — | — | — | active |
-| `usetreno.cz` | — | — | — | retired |
+| `usetreno.cz` | — | — | — | active |
 | `varnsdorf.cz` | — | — | — | active |
 | `vas-hosting.cz` | — | — | — | active |
 | `vedos.cz` | [policy](https://vedos.cz/security-policy) | — | — | active |
@@ -398,6 +399,7 @@
 | `zdrojak.cz` | [policy](https://www.zdrojak.cz/redakce/podminky-uzivani) | — | — | active |
 | `zelenazeme.cz` | — | — | — | active |
 | `zlataky.cz` | — | — | — | active |
+| `zlutelazne.cz` | — | — | — | active |
 | `znamost.cz` | — | — | — | active |
 | `znamylekar.cz` | — | — | — | active |
 | `znesnaze21.cz` | — | — | — | active |

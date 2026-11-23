@@ -1,6 +1,6 @@
 # Self-hosted programs — DK
 
-166 programs.
+167 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -14,6 +14,7 @@
 | `asb.dk` | — | — | — | active |
 | `au.dk` | — | — | — | active |
 | `avisendanmark.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
+| `bauhaus.dk` | — | — | — | active |
 | `bdo.dk` | — | — | — | expired |
 | `bilbasen.dk` | [policy](https://vend.com/responsible-disclosure-policy.txt) | swag | yes | active |
 | `billedbladet.dk` | — | — | — | expired |
@@ -146,7 +147,7 @@
 | `sportstiming.dk` | [policy](https://bbtiming.com/page/vulnerability-policy) | — | yes | active |
 | `spotfestival.dk` | — | — | — | retired |
 | `spreadshirt.dk` | — | — | — | retired |
-| `stiften.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
+| `stiften.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | retired |
 | `strawberry.dk` | — | — | — | expired |
 | `superheltenlegetoej.dk` | — | — | — | active |
 | `supersaas.dk` | [policy](https://www.supersaas.com/info/disclosure_policy) | — | — | active |

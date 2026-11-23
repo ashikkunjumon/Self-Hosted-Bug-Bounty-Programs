@@ -129,7 +129,7 @@
 | `opi.org.pl` | [policy](https://opi.org.pl/czym-sie-zajmujemy/oprogramowanie/bezpieczenstwo-w-systemach/) | — | — | active |
 | `opineo.pl` | — | — | — | active |
 | `parenting.pl` | — | — | — | active |
-| `payu.pl` | [policy](https://corporate.payu.com/responsible-disclosure-policy/) | monetary | — | retired |
+| `payu.pl` | [policy](https://corporate.payu.com/responsible-disclosure-policy/) | monetary | — | active |
 | `pcpm.org.pl` | — | — | — | expired |
 | `pesa.pl` | [policy](https://pesa.pl/en/pesa-vulnerability-disclosure-programme/) | recognition | yes | expired |
 | `plejada.pl` | — | — | — | active |

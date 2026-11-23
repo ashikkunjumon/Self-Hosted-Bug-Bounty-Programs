@@ -1,6 +1,6 @@
 # Self-hosted programs — RO
 
-64 programs.
+65 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -23,12 +23,13 @@
 | `comunadezna.ro` | — | — | — | active |
 | `comunadumesti.ro` | — | — | — | active |
 | `cora.ro` | [policy](https://carrefour.com/disclosure) | — | — | active |
+| `dacia.ro` | [policy](https://www.renaultgroup.com/en/vulnerability-disclosure-policy/) | — | — | active |
 | `dcbusiness.ro` | — | recognition | — | active |
 | `decathlon.ro` | [policy](https://vdp.decathlon.net) | — | — | active |
 | `defenseromania.ro` | — | recognition | — | active |
 | `dictie.ro` | — | — | — | active |
 | `dm.ro` | — | — | — | active |
-| `doctorulzilei.ro` | [policy](https://doctorulzilei.ro/security-policy) | — | — | active |
+| `doctorulzilei.ro` | [policy](https://doctorulzilei.ro/security-policy) | — | — | retired |
 | `ediconnect.ro` | [policy](https://www.ediconnect.ro/contact) | — | — | active |
 | `ejobs.ro` | — | — | — | active |
 | `eon.ro` | — | — | — | active |
@@ -50,7 +51,7 @@
 | `notino.ro` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
 | `observatorulph.ro` | — | — | — | active |
 | `omv.ro` | — | — | — | active |
-| `payu.ro` | [policy](https://corporate.payu.com/responsible-disclosure-policy/) | monetary | — | retired |
+| `payu.ro` | [policy](https://corporate.payu.com/responsible-disclosure-policy/) | monetary | — | active |
 | `peles.ro` | — | — | — | active |
 | `petrom.ro` | — | — | — | active |
 | `pluxee.ro` | [policy](https://vdp.pluxee.app/p/Policy) | — | — | active |

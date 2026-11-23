@@ -106,7 +106,7 @@
 | `cfpb.gov` | [policy](https://www.consumerfinance.gov/vulnerability-disclosure-policy/) | — | — | active |
 | `chat.openai.com` | [policy](https://openai.com/policies/coordinated-vulnerability-disclosure-policy) | monetary | — | active |
 | `chatgpt.com` | [policy](https://openai.com/policies/coordinated-vulnerability-disclosure-policy) | monetary | — | active |
-| `chaturbate.com` | [policy](https://hackerone.com/chaturbate?type=team&view_policy=true) | — | — | active |
+| `chaturbate.com` | [policy](https://hackerone.com/chaturbate?type=team&view_policy=true) | — | — | retired |
 | `cheapflights.com` | [policy](https://www.kayak.com/security/) | monetary | — | active |
 | `christianriesen.com` | [policy](https://hackerone.com/automattic) | — | — | retired |
 | `classdojo.com` | [policy](https://bugcrowd.com/engagements/classdojo) | monetary | — | expired |
@@ -131,7 +131,7 @@
 | `continuum.io` | — | — | — | expired |
 | `cookinglight.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `costco.com` | [policy](https://hackerone.com/costco) | — | — | active |
-| `coveo.com` | — | — | — | retired |
+| `coveo.com` | — | — | — | expired |
 | `covermymeds.com` | [policy](https://www.mckesson.com/cybersecurity/coordinated-vulnerability-disclosure/) | monetary | — | active |
 | `cpanel.com` | — | — | — | active |
 | `cpanel.net` | — | — | — | active |
@@ -168,7 +168,7 @@
 | `dow.com` | [policy](https://www.synack.com/vdp/dow/) | recognition | yes | active |
 | `drivinglaws.org` | — | — | — | active |
 | `dropbox.tech` | [policy](https://dropbox.tech/security/updates-on-the-dropbox-bug-bounty-program) | monetary | — | retired |
-| `dvdtalk.com` | — | — | — | retired |
+| `dvdtalk.com` | — | — | — | active |
 | `dvidshub.net` | — | — | — | active |
 | `earlywarning.com` | [policy](https://www.earlywarning.com/security) | — | — | retired |
 | `eatingwell.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
@@ -184,7 +184,7 @@
 | `epa.gov` | [policy](https://www.epa.gov/privacy/vulnerability-disclosure-policy) | monetary | — | retired |
 | `epicgames.com` | [policy](https://hackerone.com/epicgames) | — | — | active |
 | `etsy.com` | [policy](https://bugcrowd.com/etsy) | monetary | — | active |
-| `eufy.com` | [policy](https://www.eufy.com/eu-de/vulnerability-disclosure-policy) | monetary | — | active |
+| `eufy.com` | [policy](https://www.eufy.com/eu-de/vulnerability-disclosure-policy) | monetary | — | retired |
 | `evernote.com` | [policy](https://evernote.com/security/report-issue) | recognition | — | retired |
 | `ew.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `exact.com` | [policy](https://www.exact.com/information-security/responsible-disclosure) | recognition | — | retired |
@@ -258,7 +258,7 @@
 | `heroku.com` | [policy](https://www.heroku.com/policy/security-hall-of-fame/) | recognition | — | retired |
 | `hexagon.com` | [policy](https://hexagon.com/legal/vulnerability) | — | yes | retired |
 | `hiddenlayer.com` | [policy](https://www.hiddenlayer.com/vulnerability-disclosure-policy) | — | yes | retired |
-| `highdefdigest.com` | — | — | — | retired |
+| `highdefdigest.com` | — | — | — | active |
 | `hiringlab.org` | [policy](https://www.indeed.com/legal?hl=en&from=gnav-homepage#ivrp) | monetary | — | expired |
 | `hivehome.com` | [policy](https://www.hivehome.com/security) | monetary | — | retired |
 | `hostinger.com` | [policy](https://www.hostinger.com/legal/responsible-disclosure-policy) | — | — | active |
@@ -388,7 +388,7 @@
 | `nightwatchcybersecurity.com` | [policy](https://wwws.nightwatchcybersecurity.com/tag/bugcrowd/) | monetary | — | retired |
 | `nodejs.dev` | [policy](https://github.com/nodejs/node/security/policy#security) | monetary | — | active |
 | `nodejs.org` | [policy](https://github.com/nodejs/node/security/policy#security) | monetary | — | active |
-| `nolo.com` | — | — | — | retired |
+| `nolo.com` | — | — | — | active |
 | `nordantech.com` | [policy](https://www.nordantech.com/bounty) | monetary | yes | active |
 | `northwesternmutual.com` | [policy](https://bugcrowd.com/engagements/northwestern-mutual-mbb-og) | monetary | — | active |
 | `norwegian.com` | — | — | — | expired |
@@ -401,7 +401,7 @@
 | `okta.com` | [policy](https://www.okta.com/vulnerability-reporting-policy/) | — | — | active |
 | `omarchy.org` | [policy](https://omarchy.org/security) | swag | — | active |
 | `ondeck.com` | [policy](https://www.ondeck.com/security-policy) | monetary | — | retired |
-| `oohcams.com` | [policy](https://hackerone.com/chaturbate?type=team&view_policy=true) | — | — | active |
+| `oohcams.com` | [policy](https://hackerone.com/chaturbate?type=team&view_policy=true) | — | — | retired |
 | `ookla.com` | [policy](https://security.ookla.com) | — | — | active |
 | `openai.com` | [policy](https://openai.com/policies/coordinated-vulnerability-disclosure-policy) | monetary | — | active |
 | `opensea.io` | [policy](https://bugcrowd.com/opensea) | monetary | — | active |
@@ -615,7 +615,7 @@
 | `weddingbee.com` | — | — | — | retired |
 | `wellsfargo.com` | [policy](https://www.wellsfargo.com/privacy-security/fraud/responsible-disclosure-program/) | — | yes | retired |
 | `wetransfer.com` | [policy](https://wetransfer.com/help-center/security-privacy/reporting-a-security-vulnerability) | — | — | retired |
-| `whattoexpect.com` | [policy](https://www.whattoexpect.com/privacy-policy) | monetary | — | retired |
+| `whattoexpect.com` | [policy](https://www.whattoexpect.com/privacy-policy) | monetary | — | active |
 | `whmcs.com` | — | — | — | active |
 | `wikitravel.org` | — | — | — | retired |
 | `wilmingtontrust.com` | [policy](https://www.wilmingtontrust.com/privacy-security/responsible-disclosure-program) | monetary | yes | retired |
@@ -626,7 +626,7 @@
 | `wordpress.com` | [policy](https://hackerone.com/automattic) | — | — | active |
 | `wordpress.net` | [policy](https://make.wordpress.org/core/handbook/testing/reporting-security-vulnerabilities/) | monetary | — | active |
 | `wordpress.org` | [policy](https://make.wordpress.org/core/handbook/testing/reporting-security-vulnerabilities/) | monetary | — | active |
-| `workopolis.com` | [policy](https://www.indeed.com/legal?hl=en&from=gnav-homepage#ivrp) | — | — | retired |
+| `workopolis.com` | [policy](https://www.indeed.com/legal?hl=en&from=gnav-homepage#ivrp) | monetary | — | expired |
 | `world.org` | [policy](https://hackerone.com/toolsforhumanity) | — | — | active |
 | `worldcoin.org` | [policy](https://hackerone.com/toolsforhumanity) | — | — | active |
 | `wp.com` | [policy](https://hackerone.com/automattic) | — | — | active |

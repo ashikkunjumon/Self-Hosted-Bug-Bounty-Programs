@@ -28,7 +28,7 @@
 | `eightfold.ai` | [policy](https://eightfold.ai/vulnerability-disclosure-program/) | — | yes | retired |
 | `epistemic.ai` | [policy](https://epistemic.ai/trust.html) | — | — | retired |
 | `euredas.ai` | [policy](https://www.euredas.ai/security#disclosure) | monetary | yes | active |
-| `evolvingedge.ai` | [policy](https://www.evolvingedge.ai/security/#disclosure) | — | — | active |
+| `evolvingedge.ai` | [policy](https://www.evolvingedge.ai/security/#disclosure) | monetary | yes | active |
 | `fetchfido.ai` | [policy](https://fetchfido.ai/security/#disclosure) | monetary | — | active |
 | `finstory.ai` | [policy](https://finstory.ai/security#report) | — | — | active |
 | `foresight.ai` | [policy](https://www.foresight.ai/policy/disclosure-policy) | recognition | yes | retired |

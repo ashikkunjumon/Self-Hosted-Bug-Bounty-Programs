@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-569 programs.
+570 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -357,6 +357,7 @@
 | `oddsbonusar.se` | [policy](https://oddsbonusar.se/security-policy) | recognition | — | active |
 | `odeshog.se` | — | — | — | active |
 | `olandsbladet.se` | — | — | — | active |
+| `olofstrom.se` | — | — | — | active |
 | `op.se` | — | — | — | active |
 | `openaid.se` | — | — | — | retired |
 | `optimera.se` | — | — | — | active |

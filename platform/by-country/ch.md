@@ -30,7 +30,7 @@
 | `fait.ch` | [policy](https://hackerone.com/nextcloud) | — | — | active |
 | `fr.airbnb.ch` | [policy](https://hackerone.com/airbnb#overview) | — | — | active |
 | `fuw.ch` | [policy](https://bugcrowd.com/tamedia) | monetary | — | expired |
-| `indeed.ch` | [policy](https://www.indeed.com/legal?hl=en&from=gnav-homepage#ivrp) | — | — | retired |
+| `indeed.ch` | [policy](https://www.indeed.com/legal?hl=en&from=gnav-homepage#ivrp) | monetary | — | expired |
 | `infomaniak.ch` | [policy](https://infomaniak.vulnerability-disclosure.com) | — | — | active |
 | `jugendundsport.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | recognition | yes | active |
 | `jungfrau.ch` | — | — | — | active |

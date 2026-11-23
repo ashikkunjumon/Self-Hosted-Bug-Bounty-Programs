@@ -30,7 +30,7 @@
 | `kanizsamediahaz.hu` | — | — | — | active |
 | `kanizsaujsag.hu` | — | — | — | active |
 | `kifli.hu` | — | — | — | active |
-| `konyvesmagazin.hu` | — | — | — | active |
+| `konyvesmagazin.hu` | — | — | — | retired |
 | `lfze.hu` | — | recognition | — | active |
 | `lidl.hu` | — | — | — | active |
 | `lisztacademy.hu` | — | recognition | — | active |

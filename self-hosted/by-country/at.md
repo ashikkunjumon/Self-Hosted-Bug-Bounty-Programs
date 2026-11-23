@@ -1,6 +1,6 @@
 # Self-hosted programs — AT
 
-168 programs.
+169 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -52,6 +52,7 @@
 | `flashscore.at` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `flatex.at` | [policy](https://www.flatexdegiro.com/security) | — | yes | active |
 | `flixbus.at` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |
+| `funkfeuer.at` | — | — | — | active |
 | `futureweb.at` | — | — | — | active |
 | `gaijin.at` | [policy](https://www.gaijin.at/en/vulnerability-disclosure-policy) | — | yes | active |
 | `galaxus.at` | [policy](https://www.galaxus.ch/security) | — | yes | active |

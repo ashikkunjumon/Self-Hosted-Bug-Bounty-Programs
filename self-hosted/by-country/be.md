@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-299 programs.
+303 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@
 | `flandersexpo.be` | — | — | — | active |
 | `flemalle.be` | — | — | — | active |
 | `flixbus.be` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |
-| `florealgroup.be` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | retired |
+| `florealgroup.be` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | active |
 | `fluvius.be` | [policy](https://www.fluvius.be/nl/privacybeleid) | monetary | — | active |
 | `fnac.be` | — | — | — | active |
 | `folderbode.be` | — | — | — | active |
@@ -122,7 +122,7 @@
 | `herstal.be` | — | — | — | active |
 | `heusden-zolder.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `hgr-css.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
-| `holidaysuites.be` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | retired |
+| `holidaysuites.be` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | active |
 | `hollandandbarrett.be` | [policy](https://vdp.hollandandbarrett.com/) | — | — | active |
 | `hoogewijs.be` | [policy](https://www.hoogewijs.be/en/responsibledisclosure/) | — | — | retired |
 | `hoogstraten.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
@@ -142,7 +142,7 @@
 | `kaartje2go.be` | [policy](https://www.kaartje2go.be/responsible-disclosure) | monetary | yes | active |
 | `kaiserkraft.be` | — | — | — | active |
 | `kasterlee.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
-| `kompascamping.be` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | retired |
+| `kompascamping.be` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | active |
 | `kortenberg.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `kringwinkel.be` | — | — | — | expired |
 | `lahulpe.be` | — | — | — | active |
@@ -180,6 +180,7 @@
 | `nassogne.be` | — | — | — | active |
 | `nav.be` | [policy](https://www.nav.be/security-policy) | recognition | — | active |
 | `nieuwpoort.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
+| `nijlen.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `ninove.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `nivelles.be` | — | — | — | active |
 | `notaire.be` | — | — | — | active |
@@ -191,6 +192,7 @@
 | `olln.be` | — | — | — | active |
 | `oostende.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `oostkamp.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
+| `oud-turnhout.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `oudsbergen.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `oupeye.be` | — | — | — | active |
 | `overijse.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
@@ -201,7 +203,7 @@
 | `pearle.be` | [policy](https://essilorluxottica.vulnerability-disclosure.com/) | — | — | active |
 | `peer.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `peruwelz.be` | — | — | — | active |
-| `petitesuisse.be` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | retired |
+| `petitesuisse.be` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | active |
 | `plantentuinmeise.be` | — | — | — | active |
 | `plopsa.be` | [policy](https://www.plopsa.com/en/responsible-disclosure-policy) | — | — | active |
 | `plopsaqua.be` | [policy](https://www.plopsa.com/en/responsible-disclosure-policy) | — | — | active |
@@ -248,6 +250,7 @@
 | `studentjob.be` | [policy](https://www.youngcapital.nl/security) | monetary | yes | expired |
 | `synaro.be` | — | — | — | active |
 | `taaltelefoon.be` | — | — | — | active |
+| `temse.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `tervuren.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `thomasmore.be` | [policy](https://security.thomasmore.be) | — | yes | active |
 | `thuin.be` | — | — | — | active |
@@ -267,6 +270,7 @@
 | `uclouvain.be` | — | — | — | active |
 | `uitinvlaanderen.be` | [policy](https://www.publiq.be/en/projects/publiq-platform/responsible-disclosure-policy) | recognition | — | active |
 | `uitpas.be` | [policy](https://www.publiq.be/en/projects/publiq-platform/responsible-disclosure-policy) | recognition | — | active |
+| `ulb.be` | — | recognition | — | active |
 | `unix-solutions.be` | [policy](https://datacenters.unix-solutions.be/responsibledisclosure) | — | — | active |
 | `vanbreda.be` | [policy](https://www.vanbreda.be/en/legal/vulnerability-report) | monetary | — | expired |
 | `vdab.be` | [policy](https://www.vdab.be/responsible-disclosure) | recognition | yes | expired |
