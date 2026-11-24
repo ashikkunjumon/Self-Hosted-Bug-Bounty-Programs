@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-401 programs.
+402 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -134,6 +134,7 @@
 | `glami.cz` | — | monetary | — | active |
 | `global-wines.cz` | — | — | — | active |
 | `gme.cz` | — | — | — | active |
+| `gov.cz` | — | — | — | active |
 | `greenidea.cz` | — | — | — | active |
 | `grisoft.cz` | — | — | — | expired |
 | `grizly.cz` | — | — | — | active |

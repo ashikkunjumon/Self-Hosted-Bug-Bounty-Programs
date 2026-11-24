@@ -1,6 +1,6 @@
 # Self-hosted programs — RO
 
-65 programs.
+66 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -10,6 +10,7 @@
 | `alistmagazine.ro` | — | — | — | active |
 | `antena3.ro` | — | recognition | — | active |
 | `antipa.ro` | — | — | — | active |
+| `avp.ro` | — | — | — | active |
 | `bb-shop.ro` | — | recognition | — | active |
 | `bosch.ro` | [policy](https://psirt.bosch.com/bosch-responsible-disclosure-policy/) | recognition | — | active |
 | `brainly.ro` | [policy](https://brainly.com/responsible-disclosure-program) | — | — | active |
@@ -29,7 +30,7 @@
 | `defenseromania.ro` | — | recognition | — | active |
 | `dictie.ro` | — | — | — | active |
 | `dm.ro` | — | — | — | active |
-| `doctorulzilei.ro` | [policy](https://doctorulzilei.ro/security-policy) | — | — | retired |
+| `doctorulzilei.ro` | [policy](https://doctorulzilei.ro/security-policy) | — | — | active |
 | `ediconnect.ro` | [policy](https://www.ediconnect.ro/contact) | — | — | active |
 | `ejobs.ro` | — | — | — | active |
 | `eon.ro` | — | — | — | active |

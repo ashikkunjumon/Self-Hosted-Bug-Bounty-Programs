@@ -1,6 +1,6 @@
 # Self-hosted programs — FI
 
-139 programs.
+140 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -99,6 +99,7 @@
 | `oulu.fi` | — | — | — | active |
 | `palloliitto.fi` | — | — | — | active |
 | `pori.fi` | — | — | — | active |
+| `poriartmuseum.fi` | — | — | — | active |
 | `proagria.fi` | [policy](https://www.proagria.fi/security-policy) | recognition | — | active |
 | `ptt.fi` | — | recognition | — | active |
 | `rakennuslehti.fi` | — | recognition | — | active |

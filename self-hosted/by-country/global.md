@@ -1,6 +1,6 @@
 # Self-hosted programs — GLOBAL
 
-3,476 programs.
+3,481 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -27,6 +27,7 @@
 | `9gag.com` | — | — | — | active |
 | `a16z.com` | [policy](https://a16z.com/security-policy) | — | yes | active |
 | `a1si.com` | [policy](https://a1si.com/trust) | — | — | active |
+| `a2a-protocol.org` | [policy](https://github.com/a2aproject/A2A/blob/main/SECURITY.md) | — | — | active |
 | `a2gov.org` | — | — | — | active |
 | `a4teams.com` | [policy](https://a4teams.com/security) | monetary | — | active |
 | `a8core.com` | [policy](https://a8core.com/vulnerability-disclosure/) | monetary | yes | active |
@@ -361,7 +362,7 @@
 | `boon-health.com` | [policy](https://www.boon-health.com/security) | monetary | — | retired |
 | `bootlin.com` | [policy](https://bootlin.com/company/security/) | — | — | active |
 | `borduurtechniek.eu` | — | — | — | active |
-| `borealisgroup.com` | [policy](https://www.borealisgroup.com/legal/responsible-disclosure) | — | — | retired |
+| `borealisgroup.com` | [policy](https://www.borealisgroup.com/legal/responsible-disclosure) | — | — | active |
 | `bosch.com` | [policy](https://psirt.bosch.com/report-a-vulnerability/) | recognition | — | active |
 | `boschrexroth.com` | [policy](https://psirt.bosch.com/bosch-responsible-disclosure-policy/) | recognition | — | active |
 | `bostonscientific.com` | [policy](https://www.bostonscientific.com/en-US/customer-service/product-security/responsible-disclosure.html) | — | — | retired |
@@ -377,7 +378,7 @@
 | `bron.org` | [policy](https://developer.bron.org/bug-bounty/about) | monetary | — | active |
 | `brontoskylift.com` | [policy](https://brontoskylift.com/us/vulnerability-disclosure-policy-2/) | recognition | yes | retired |
 | `browserleaks.com` | — | — | — | active |
-| `bruker.com` | [policy](https://www.bruker.com/en/legal/cyber-resilience.html) | — | yes | active |
+| `bruker.com` | [policy](https://www.bruker.com/en/legal/cyber-resilience.html) | — | — | active |
 | `bsh-group.com` | [policy](https://www.bsh-group.com/us/en/privacy-policy/) | monetary | — | retired |
 | `bt.com` | [policy](https://www.bt.com/about/contact-bt/responsible-disclosure) | monetary | — | expired |
 | `btcmarkets.net` | [policy](https://www.btcmarkets.net/bug-bounty) | monetary | — | active |
@@ -594,7 +595,7 @@
 | `concur.com` | — | — | — | expired |
 | `conductstudio.com` | [policy](https://conductstudio.com/legal/security) | — | yes | active |
 | `conduktor.io` | — | — | — | active |
-| `conferencebadge.com` | [policy](https://www.conferencebadge.com/security) | — | — | active |
+| `conferencebadge.com` | [policy](https://www.conferencebadge.com/security) | monetary | — | active |
 | `conferences.center` | [policy](https://www.conferences.center/.well-known/security.txt) | — | yes | active |
 | `confluent.io` | [policy](https://www.confluent.io/trust-and-security/) | monetary | — | active |
 | `confused.com` | [policy](https://www.confused.com/privacy-and-security/security/security-disclosure-policy) | swag | — | active |
@@ -679,6 +680,7 @@
 | `cyclonedx.org` | — | — | — | active |
 | `cyncsoftware.com` | [policy](https://www.cyncsoftware.com/responsible-disclosure-policy.php) | — | — | retired |
 | `czechia.com` | — | — | — | expired |
+| `daangn.com` | — | — | — | expired |
 | `dailymotion.com` | [policy](https://faq.dailymotion.com/hc/en-us/p/vulnerability-disclosure) | — | — | active |
 | `dailyorange.com` | — | — | — | active |
 | `dailyrecord.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
@@ -793,7 +795,7 @@
 | `docs.range.org` | [policy](https://docs.range.org/resources/bug-bounty) | monetary | yes | retired |
 | `docs.rollbar.com` | [policy](https://docs.rollbar.com/docs/responsible-disclosure-policy) | monetary | — | retired |
 | `docs.sunlicense.com` | [policy](https://docs.sunlicense.com/legal/security#reporting-a-vulnerability) | recognition | yes | active |
-| `docs.ticko.xyz` | [policy](https://docs.ticko.xyz/resources/ticko-bug-bounty) | monetary | yes | active |
+| `docs.ticko.xyz` | [policy](https://docs.ticko.xyz/resources/ticko-bug-bounty) | monetary | yes | retired |
 | `docs.val.town` | [policy](https://docs.val.town/contact-us/security/) | monetary | — | retired |
 | `documentcloud.org` | — | — | — | active |
 | `documentfoundation.org` | — | monetary | — | active |
@@ -1076,11 +1078,13 @@
 | `followupboss.com` | [policy](https://www.followupboss.com/vulnerability-disclosure-policy/) | — | yes | active |
 | `fontspring.com` | — | — | — | expired |
 | `foodandtravel.com` | [policy](https://foodandtravel.com/security-policy) | recognition | — | active |
+| `foojay.io` | — | — | — | active |
 | `footshop.eu` | — | — | — | active |
 | `forcyd.com` | [policy](https://forcyd.com/responsible-disclosure/) | — | — | expired |
 | `foreignpolicy.com` | — | — | — | active |
 | `forex.com` | — | — | — | active |
 | `forexfactory.com` | [policy](https://www.forexfactory.com/bug-bounty) | monetary | — | active |
+| `forgecode.dev` | — | — | — | active |
 | `forgejo.org` | [policy](https://codeberg.org/forgejo/governance/src/branch/main/SECURITY-POLICY.md) | — | — | active |
 | `forjalibre.eu` | [policy](https://codeberg.org/forgejo/governance/src/branch/main/SECURITY-POLICY.md) | — | — | active |
 | `forsightfinance.com` | [policy](https://forsightfinance.com/security) | — | — | active |
@@ -1268,7 +1272,6 @@
 | `graceland.com` | — | — | — | active |
 | `gradle.org` | [policy](https://github.com/gradle/.github/blob/master/SECURITY.md) | swag | yes | active |
 | `graf.info` | — | — | — | active |
-| `grafana.net` | [policy](https://grafana.com/legal/report-a-security-issue/) | recognition | — | active |
 | `grahamcluley.com` | — | — | — | expired |
 | `grailed.com` | [policy](https://support.grailed.com/hc/en-us/articles/30283214576013-Grailed-s-Bug-Bounty-Program) | monetary | — | retired |
 | `grandlyon.com` | — | — | — | active |
@@ -1636,7 +1639,7 @@
 | `keycloak.org` | [policy](https://www.keycloak.org/security) | monetary | — | active |
 | `keystody.com` | [policy](https://keystody.com/security/report/) | recognition | yes | active |
 | `khronos.org` | [policy](https://www.khronos.org/about/security#bounty) | recognition | — | expired |
-| `khub.net` | [policy](https://www.placecube.com/security) | — | — | retired |
+| `khub.net` | [policy](https://www.placecube.com/security) | — | — | active |
 | `kia.com` | — | — | — | active |
 | `kicad.org` | — | — | — | active |
 | `kidney-international.org` | — | — | — | active |
@@ -1802,6 +1805,7 @@
 | `mailchimp.com` | — | — | — | active |
 | `mailerlite.com` | [policy](https://www.mailerlite.com/legal/responsible-disclosure-program) | monetary | — | retired |
 | `mailersend.com` | [policy](https://www.mailersend.com/legal/responsible-disclosure-program) | monetary | — | retired |
+| `mailinblack.com` | — | — | — | expired |
 | `mailrelay.com` | [policy](https://mailrelay.com/en/responsible-disclosure-policy/) | — | yes | active |
 | `majeure.io` | [policy](https://majeure.io/security-policy) | — | yes | retired |
 | `makertube.net` | — | — | — | active |
@@ -2361,7 +2365,7 @@
 | `plos.io` | — | — | — | active |
 | `plugchoice.com` | [policy](https://volttime.com/en/about/legal/responsible-disclosure) | — | yes | active |
 | `plzen.eu` | — | — | — | active |
-| `pmv.eu` | — | recognition | — | retired |
+| `pmv.eu` | — | recognition | — | active |
 | `pmweb.com` | [policy](https://pmweb.com/vulnerability-disclosure) | — | yes | retired |
 | `pnas.org` | — | — | — | active |
 | `pnc.com` | [policy](https://www.pnc.com/en/security-privacy/responsible-disclosure-program.html) | monetary | — | expired |
@@ -2551,7 +2555,7 @@
 | `remarkable.com` | [policy](https://support.remarkable.com/s/article/Vulnerability-Disclosure-Policy) | — | — | expired |
 | `rendex.dev` | [policy](https://rendex.dev/security) | swag | yes | active |
 | `reneweuropegroup.eu` | — | — | — | active |
-| `renishaw.com` | [policy](https://www.renishaw.com/legal/en/information-security-statement--47292) | — | — | retired |
+| `renishaw.com` | [policy](https://www.renishaw.com/legal/en/information-security-statement--47292) | — | — | active |
 | `rently.com` | [policy](https://use.rently.com/responsible-disclosure/) | recognition | — | retired |
 | `replicated.com` | [policy](https://www.replicated.com/security) | monetary | — | active |
 | `reporternews.com` | [policy](https://www.gannett.com/responsible-disclosure-program/) | — | — | active |
@@ -3160,8 +3164,8 @@
 | `tws.eu` | — | — | — | active |
 | `twu.net` | — | — | — | active |
 | `typingclub.com` | — | — | — | expired |
-| `typo3.com` | [policy](https://typo3.org/community/teams/security/incident-handling) | monetary | — | active |
-| `typo3.org` | [policy](https://typo3.org/community/teams/security/incident-handling) | monetary | — | active |
+| `typo3.com` | [policy](https://typo3.community/contribute/teams-committees/security/security-in-typo3) | monetary | — | active |
+| `typo3.org` | [policy](https://typo3.community/contribute/teams-committees/security/security-in-typo3) | monetary | — | active |
 | `ubs.com` | — | — | — | active |
 | `ubuntu-it.org` | — | recognition | — | active |
 | `ubuntu.com` | [policy](https://ubuntu.com/security/disclosure-policy) | monetary | yes | retired |
@@ -3170,7 +3174,7 @@
 | `uit.stanford.edu` | [policy](https://uit.stanford.edu/security/report-incident) | monetary | — | retired |
 | `ukcop26.org` | [policy](https://vulnerability-reporting.service.security.gov.uk) | recognition | — | active |
 | `ultimatemember.com` | [policy](https://ultimatemember.com/vulnerability-reward-program/) | monetary | — | retired |
-| `ultrahuman.com` | [policy](https://www.ultrahuman.com/security/vulnerability-disclosure-policy/) | recognition | yes | active |
+| `ultrahuman.com` | [policy](https://www.ultrahuman.com/security/vulnerability-disclosure-policy/) | monetary | yes | active |
 | `ultrakust.com` | [policy](https://www.ultrakust.com/security-policy.html) | — | — | active |
 | `umantis.com` | — | — | — | active |
 | `umbraco.com` | [policy](https://umbraco.com/trust-center/security-and-umbraco/how-to-report-a-vulnerability-in-umbraco/) | — | — | active |
@@ -3198,7 +3202,6 @@
 | `unstoppabledomains.com` | [policy](https://unstoppabledomains.com/bug-bounty) | monetary | — | active |
 | `upguard.com` | [policy](https://www.upguard.com/security#Responsible-Disclosure) | — | — | active |
 | `uploadcare.com` | [policy](https://uploadcare.com/about/bug-bounty/) | monetary | — | active |
-| `upstart.com` | — | monetary | — | expired |
 | `upsun.com` | [policy](https://upsun.com/trust-center/security/responsible-disclosure/) | monetary | yes | active |
 | `uptrends.com` | — | — | — | active |
 | `upvendo.com` | [policy](https://upvendo.com/legal/security/) | recognition | yes | retired |
@@ -3402,6 +3405,7 @@
 | `worldline.com` | [policy](https://financial-services.developer.worldline.com/responsible-disclosure-program) | recognition | yes | retired |
 | `worldskills.org` | — | — | — | active |
 | `wotif.com` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
+| `wovn.io` | [policy](https://wovn.io/security/#vulnerability) | monetary | — | active |
 | `wpcodeforge.com` | [policy](https://wpcodeforge.com/security-disclosure/) | monetary | — | retired |
 | `wpengine.com` | — | — | — | active |
 | `wpmgr.app` | [policy](https://wpmgr.app/legal/security-policy) | recognition | — | retired |
@@ -3468,6 +3472,7 @@
 | `ziprecruiter.com` | [policy](https://www.ziprecruiter.global/en/security) | — | — | active |
 | `zitadel.com` | [policy](https://trust.zitadel.com/resources?s=aw085mxrel3icmbmkphns3&name=zitadel-vulnerability-disclosure-policy) | — | — | active |
 | `zivy.app` | [policy](https://www.zivy.app/responsible-disclosure) | swag | yes | retired |
+| `zod.dev` | [policy](https://github.com/colinhacks/zod/blob/main/SECURITY.md) | — | — | active |
 | `zoho.com` | [policy](https://bugbounty.zohocorp.com/bb/info) | monetary | — | active |
 | `zoho.eu` | [policy](https://bugbounty.zohocorp.com/bb/info) | monetary | — | active |
 | `zola.com` | — | — | — | active |

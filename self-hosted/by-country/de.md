@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-510 programs.
+511 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -245,7 +245,7 @@
 | `izzysoft.de` | — | — | — | active |
 | `jameda.de` | — | — | — | active |
 | `jena.de` | [policy](https://www.jena.de/security-policy.html) | — | yes | active |
-| `jochen-schweizer.de` | [policy](https://public-jsmd.s3.eu-central-1.amazonaws.com/Bug-Bounty-Policy-1.3.pdf) | monetary | — | active |
+| `jochen-schweizer.de` | [policy](https://public-jsmd.s3.eu-central-1.amazonaws.com/Bug-Bounty-Policy-1.3.pdf) | monetary | — | expired |
 | `jpberlin.de` | — | — | — | active |
 | `jtl-url.de` | — | — | — | active |
 | `juris.de` | — | — | — | active |
@@ -322,6 +322,7 @@
 | `nrwbank.de` | — | — | — | retired |
 | `nrz.de` | — | — | — | active |
 | `nuernberger.de` | — | — | — | active |
+| `nwzonline.de` | — | — | — | active |
 | `oberhausen.de` | [policy](https://www.oberhausen.de/vdp) | — | — | active |
 | `oekolandbau.de` | — | — | — | active |
 | `op-marburg.de` | — | — | — | active |

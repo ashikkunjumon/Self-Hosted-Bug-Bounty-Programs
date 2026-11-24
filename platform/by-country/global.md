@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-641 programs.
+643 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -239,6 +239,7 @@
 | `gocardless.com` | [policy](https://gocardless.com/faq/merchants/security/) | monetary | — | active |
 | `goodnotes.com` | [policy](https://hackerone.com/goodnotes) | — | — | active |
 | `grab.com` | [policy](https://hackerone.com/grab?view_policy=true) | — | — | active |
+| `grafana.net` | [policy](https://grafana.com/legal/report-a-security-issue/) | monetary | — | active |
 | `grammarly.com` | [policy](https://hackerone.com/grammarly) | — | — | active |
 | `greencarreports.com` | — | — | — | active |
 | `greenhouse.com` | [policy](https://hackerone.com/greenhouse?type=team) | — | — | expired |
@@ -581,6 +582,7 @@
 | `unico.io` | — | — | — | active |
 | `unrealengine.com` | [policy](https://hackerone.com/epicgames) | — | — | active |
 | `uphold.com` | [policy](https://app.intigriti.com/programs/Uphold/upholdcom/detail) | monetary | — | active |
+| `upstart.com` | — | monetary | — | active |
 | `upwork.com` | [policy](https://support.upwork.com/hc/en-us/articles/211067638) | — | — | active |
 | `usa.visa.com` | [policy](https://www.visa.com/en-us/company/vulnerability-disclosure) | monetary | yes | retired |
 | `usagm.gov` | [policy](https://www.usagm.gov/vulnerability-disclosure-policy/) | — | — | retired |

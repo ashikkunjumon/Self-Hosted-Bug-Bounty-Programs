@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-303 programs.
+304 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -110,12 +110,13 @@
 | `gettyimages.be` | — | — | — | retired |
 | `gezinsbond.be` | — | — | — | active |
 | `glassdoor.be` | [policy](https://help.glassdoor.com/s/article/Bug-Bounty-Program?language=en_US) | — | — | retired |
-| `goed.be` | [policy](https://www.goed.be/nl/algemene-voorwaarden/security) | — | yes | active |
+| `goed.be` | [policy](https://www.goed.be/nl/algemene-voorwaarden/security) | swag | yes | active |
 | `gratoramacasino.be` | — | — | — | active |
 | `grez-doiceau.be` | — | — | — | active |
 | `grimbergen.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `grobbendonk.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `groups.be` | [policy](https://www.groups.be/en/responsible-disclosure-policy) | — | — | active |
+| `gyproc.be` | — | — | — | active |
 | `haaltert.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `hamme.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `heist-op-den-berg.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
@@ -272,7 +273,7 @@
 | `uitpas.be` | [policy](https://www.publiq.be/en/projects/publiq-platform/responsible-disclosure-policy) | recognition | — | active |
 | `ulb.be` | — | recognition | — | active |
 | `unix-solutions.be` | [policy](https://datacenters.unix-solutions.be/responsibledisclosure) | — | — | active |
-| `vanbreda.be` | [policy](https://www.vanbreda.be/en/legal/vulnerability-report) | monetary | — | expired |
+| `vanbreda.be` | [policy](https://www.vanbreda.be/en/legal/vulnerability-report) | monetary | — | active |
 | `vdab.be` | [policy](https://www.vdab.be/responsible-disclosure) | recognition | yes | expired |
 | `velora.be` | — | — | — | active |
 | `veloro.be` | [policy](https://www.registrarhub.net/.well-known/responsible_disclosure.txt) | — | — | active |

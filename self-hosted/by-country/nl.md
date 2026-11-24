@@ -1,6 +1,6 @@
 # Self-hosted programs — NL
 
-492 programs.
+493 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@
 | `antagonist.nl` | [policy](https://www.antagonist.nl/security/) | — | yes | active |
 | `antenna.nl` | — | — | — | active |
 | `anthura.nl` | [policy](https://www.anthura.nl/en/cybersecurity/reporting-a-security-breach) | — | — | expired |
-| `anwb.nl` | [policy](https://www.anwb.nl/meldpunt-kwetsbaarheden) | monetary | — | active |
+| `anwb.nl` | [policy](https://www.anwb.nl/meldpunt-kwetsbaarheden) | — | — | active |
 | `anwbcamping.nl` | — | — | — | active |
 | `aob.nl` | [policy](https://hamaka.nl/contact/) | — | — | active |
 | `apeldoorn.nl` | [policy](https://www.apeldoorn.nl/coordinated-vulnerability-disclosure-cvd) | monetary | yes | active |
@@ -65,6 +65,7 @@
 | `bertstevensorthesebouw.nl` | [policy](https://kerstenhulpmiddelen.nl/coordinated-vulnerability-disclosure/) | — | — | active |
 | `betaalvereniging.nl` | [policy](https://level-level.com/responsible-disclosure/) | monetary | yes | active |
 | `bevolkingsonderzoeknederland.nl` | [policy](https://www.bevolkingsonderzoeknederland.nl/responsible-disclosure/) | — | yes | retired |
+| `bhic.nl` | [policy](https://www.bhic.nl/over-ons/cookies-en-privacy) | — | — | active |
 | `bibliotheek.nl` | — | — | — | expired |
 | `bigregister.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `bit.nl` | [policy](https://www.bit.nl/en/about-bit/terms-and-policies/responsible-disclosure-en) | — | — | active |
@@ -463,7 +464,7 @@
 | `vzinfo.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `wandelnet.nl` | — | — | — | active |
 | `waternet.nl` | [policy](https://www.waternet.nl/service-en-contact/help-ons-verbeteren/meld-een-beveiligingsprobleem/) | — | — | active |
-| `webcambabes.nl` | [policy](https://webcambabes.nl/security-policy.html) | recognition | — | retired |
+| `webcambabes.nl` | [policy](https://webcambabes.nl/security-policy.html) | recognition | — | expired |
 | `webklik.nl` | — | — | — | expired |
 | `webmethod.nl` | [policy](https://github.com/webmethod/coordinated-vulnerability-disclosure) | — | — | retired |
 | `websec.nl` | [policy](https://websec.nl/responsible-disclosure) | — | — | active |
@@ -492,7 +493,7 @@
 | `zoover.nl` | — | — | — | active |
 | `zorginstituutnederland.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `zorgvoorbeter.nl` | — | — | — | active |
-| `zuid-holland.nl` | [policy](https://www.zuid-holland.nl/algemeen/coordinated-vulnerability-disclosure/) | — | — | active |
+| `zuid-holland.nl` | [policy](https://www.zuid-holland.nl/algemeen/informatieveiligheid-0/) | — | — | active |
 | `zuiderzeemuseum.nl` | — | — | — | active |
 | `zuyd.nl` | [policy](https://www.zuyd.nl/en/responsible-disclosure) | recognition | — | active |
 | `zwemwater.nl` | — | — | — | active |

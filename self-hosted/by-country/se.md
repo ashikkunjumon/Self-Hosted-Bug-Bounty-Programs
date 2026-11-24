@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-570 programs.
+573 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -279,6 +279,7 @@
 | `liber.se` | [policy](https://www.infinitaslearning.com/privacy-policy/) | — | — | active |
 | `lidkoping.se` | — | — | — | active |
 | `lidl.se` | — | — | — | active |
+| `lillaedet.se` | — | — | — | active |
 | `lindesberg.se` | — | — | — | active |
 | `linkoping.se` | — | — | — | active |
 | `liu.se` | — | — | — | active |
@@ -328,6 +329,7 @@
 | `mrjet.se` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `msb.se` | — | — | — | active |
 | `mucf.se` | — | — | — | active |
+| `mullsjo.se` | — | — | — | active |
 | `munkedal.se` | — | — | — | active |
 | `na.se` | — | — | — | active |
 | `nacka.se` | — | — | — | active |
@@ -459,6 +461,7 @@
 | `solleftea.se` | — | — | — | active |
 | `solna.se` | — | — | — | active |
 | `solvesborg.se` | — | — | — | active |
+| `sotenas.se` | — | — | — | active |
 | `sparbankenskane.se` | [policy](https://www.swedbank.se/om-oss/sakerhet/report-a-security-flaw.html) | — | — | active |
 | `spelo.se` | — | — | — | active |
 | `spelpaus.se` | — | — | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — IN
 
-48 programs.
+49 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -36,6 +36,7 @@
 | `mirchi.in` | [policy](https://timesinternet.in/responsible-disclosure/policy.html) | — | yes | active |
 | `nadiazillaparishad.in` | — | — | — | active |
 | `newaymsw.in` | [policy](https://www.agitex.africa.com/chinh-sach-bao-mat/) | — | — | retired |
+| `nixi.in` | — | — | — | active |
 | `onnetsolution.in` | — | — | — | active |
 | `renault.co.in` | [policy](https://www.renaultgroup.com/en/vulnerability-disclosure-policy/) | — | — | active |
 | `restopos.in` | [policy](https://www.restopos.in/pages/security.html) | recognition | yes | retired |

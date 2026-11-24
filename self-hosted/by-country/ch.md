@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-434 programs.
+435 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -300,6 +300,7 @@
 | `reka.ch` | — | — | — | active |
 | `renens.ch` | — | — | — | active |
 | `republik.ch` | — | — | — | expired |
+| `rhb.ch` | — | — | — | active |
 | `riffraff-houdini.ch` | — | — | — | active |
 | `risch.ch` | — | — | — | active |
 | `rosengart.ch` | — | recognition | — | active |

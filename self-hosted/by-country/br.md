@@ -1,6 +1,6 @@
 # Self-hosted programs — BR
 
-111 programs.
+113 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -26,9 +26,11 @@
 | `cesan.com.br` | — | — | — | retired |
 | `cirurgicabrasil.com.br` | — | — | — | active |
 | `confeitariacolombo.com.br` | — | — | — | expired |
+| `correiodoestado.com.br` | — | — | — | active |
 | `cuponeria.com.br` | — | — | — | active |
 | `cvcrm.com.br` | — | — | — | active |
 | `defesa.gov.br` | [policy](https://www.gov.br/defesa/pt-br/arquivos/legislacao/posin-md-2022.pdf) | — | — | retired |
+| `dermaclub.com.br` | — | recognition | — | active |
 | `digitalatibaia.com.br` | [policy](https://digitalatibaia.com.br/) | — | — | active |
 | `doctoralia.com.br` | — | — | — | active |
 | `eventim.com.br` | — | — | — | active |

@@ -174,7 +174,7 @@
 | `oslokonserthus.no` | [policy](https://oslokonserthus.no/security-policy) | recognition | — | active |
 | `oslomet.no` | [policy](https://nett.oslomet.no/.well-known/rfc2350.pdf) | monetary | — | active |
 | `osloworld.no` | [policy](https://osloworld.no/security-policy) | recognition | — | active |
-| `p3.no` | [policy](https://info.nrk.no/hjem/responsible-disclosure-policy/) | swag | yes | retired |
+| `p3.no` | [policy](https://info.nrk.no/hjem/responsible-disclosure-policy/) | swag | yes | expired |
 | `paretosec.no` | — | — | — | active |
 | `pilegrimsleden.no` | [policy](https://www.pilegrimsleden.no/security-policy) | recognition | — | active |
 | `politiet.no` | — | — | — | active |

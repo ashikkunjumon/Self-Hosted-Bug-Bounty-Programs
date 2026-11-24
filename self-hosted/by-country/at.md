@@ -1,6 +1,6 @@
 # Self-hosted programs — AT
 
-169 programs.
+170 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@
 | `ionos.at` | [policy](https://www.ionos.com/it-security) | — | — | expired |
 | `iqoqi.at` | — | — | — | active |
 | `jobs.at` | — | — | — | active |
-| `jochen-schweizer.at` | [policy](https://public-jsmd.s3.eu-central-1.amazonaws.com/Bug-Bounty-Policy-1.3.pdf) | monetary | — | active |
+| `jochen-schweizer.at` | [policy](https://public-jsmd.s3.eu-central-1.amazonaws.com/Bug-Bounty-Policy-1.3.pdf) | monetary | — | expired |
 | `karl-voit.at` | — | — | — | active |
 | `karriere.at` | — | — | — | active |
 | `kitzimmo.at` | — | — | — | active |
@@ -97,7 +97,7 @@
 | `lotterien.at` | [policy](https://www.lotterien.at/responsible-disclosure-1-1) | — | — | active |
 | `meindm.at` | — | — | — | active |
 | `metro.at` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | expired |
-| `mydays.at` | [policy](https://public-jsmd.s3.eu-central-1.amazonaws.com/Bug-Bounty-Policy-1.3.pdf) | monetary | — | active |
+| `mydays.at` | [policy](https://public-jsmd.s3.eu-central-1.amazonaws.com/Bug-Bounty-Policy-1.3.pdf) | monetary | — | expired |
 | `nesslerhof.at` | — | — | — | active |
 | `nessus.at` | — | — | — | active |
 | `netzwerk-bgf.at` | — | — | — | active |
@@ -124,6 +124,7 @@
 | `porschebank.at` | [policy](https://security-report.porscheinformatik.com/security-reporting-policy/) | — | — | active |
 | `post.at` | — | — | — | active |
 | `postbus.at` | — | — | — | active |
+| `pro-oriente.at` | [policy](https://www.pro-oriente.at/security-policy) | — | — | active |
 | `promomasters.at` | — | — | — | active |
 | `pv.at` | — | — | — | active |
 | `redbullsalzburg.at` | — | — | — | retired |
