@@ -245,7 +245,7 @@
 | `izzysoft.de` | — | — | — | active |
 | `jameda.de` | — | — | — | active |
 | `jena.de` | [policy](https://www.jena.de/security-policy.html) | — | yes | active |
-| `jochen-schweizer.de` | [policy](https://public-jsmd.s3.eu-central-1.amazonaws.com/Bug-Bounty-Policy-1.3.pdf) | monetary | — | expired |
+| `jochen-schweizer.de` | [policy](https://public-jsmd.s3.eu-central-1.amazonaws.com/Bug-Bounty-Policy-1.3.pdf) | monetary | — | active |
 | `jpberlin.de` | — | — | — | active |
 | `jtl-url.de` | — | — | — | active |
 | `juris.de` | — | — | — | active |

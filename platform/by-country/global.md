@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-643 programs.
+642 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -239,7 +239,6 @@
 | `gocardless.com` | [policy](https://gocardless.com/faq/merchants/security/) | monetary | — | active |
 | `goodnotes.com` | [policy](https://hackerone.com/goodnotes) | — | — | active |
 | `grab.com` | [policy](https://hackerone.com/grab?view_policy=true) | — | — | active |
-| `grafana.net` | [policy](https://grafana.com/legal/report-a-security-issue/) | monetary | — | active |
 | `grammarly.com` | [policy](https://hackerone.com/grammarly) | — | — | active |
 | `greencarreports.com` | — | — | — | active |
 | `greenhouse.com` | [policy](https://hackerone.com/greenhouse?type=team) | — | — | expired |

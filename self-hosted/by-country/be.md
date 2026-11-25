@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-304 programs.
+305 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -44,6 +44,7 @@
 | `brabantwallon.be` | — | — | — | active |
 | `braine-lalleud.be` | — | — | — | active |
 | `braine-le-comte.be` | — | — | — | active |
+| `brakel.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `capterra.be` | — | — | — | active |
 | `carrefour.be` | [policy](https://carrefour.com/disclosure) | — | — | active |
 | `casinoking.be` | — | — | — | active |
@@ -110,7 +111,7 @@
 | `gettyimages.be` | — | — | — | retired |
 | `gezinsbond.be` | — | — | — | active |
 | `glassdoor.be` | [policy](https://help.glassdoor.com/s/article/Bug-Bounty-Program?language=en_US) | — | — | retired |
-| `goed.be` | [policy](https://www.goed.be/nl/algemene-voorwaarden/security) | swag | yes | active |
+| `goed.be` | [policy](https://www.goed.be/nl/algemene-voorwaarden/security) | — | yes | active |
 | `gratoramacasino.be` | — | — | — | active |
 | `grez-doiceau.be` | — | — | — | active |
 | `grimbergen.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |

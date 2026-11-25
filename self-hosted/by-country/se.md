@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-573 programs.
+576 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -172,6 +172,7 @@
 | `hallsberg.se` | — | — | — | active |
 | `hallstahammar.se` | — | — | — | active |
 | `halmstad.se` | — | — | — | active |
+| `hammaro.se` | — | — | — | active |
 | `handelsbanken.se` | — | — | — | active |
 | `haninge.se` | — | — | — | active |
 | `haparanda.se` | — | — | — | active |
@@ -355,6 +356,7 @@
 | `nwt.se` | — | — | — | active |
 | `nynashamn.se` | — | — | — | active |
 | `nynashamnsposten.se` | — | — | — | active |
+| `ockelbo.se` | — | — | — | active |
 | `ockero.se` | — | — | — | active |
 | `oddsbonusar.se` | [policy](https://oddsbonusar.se/security-policy) | recognition | — | active |
 | `odeshog.se` | — | — | — | active |
@@ -563,6 +565,7 @@
 | `vision.se` | — | — | — | active |
 | `visita.se` | — | — | — | active |
 | `visitlinkoping.se` | — | — | — | expired |
+| `visitlund.se` | — | — | — | active |
 | `visitostersund.se` | — | — | — | active |
 | `visitstockholm.se` | — | — | — | active |
 | `vlt.se` | — | — | — | active |

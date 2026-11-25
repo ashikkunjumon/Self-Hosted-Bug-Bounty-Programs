@@ -1,6 +1,6 @@
 # Platform-hosted programs — SE
 
-18 programs.
+19 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -9,6 +9,7 @@
 | `bmw.se` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
 | `bokio.se` | [policy](https://www.visma.com/trust-centre/security/products-and-services/bug-bounty-and-responsible-disclosure/) | swag | yes | active |
 | `curl.se` | [policy](https://curl.se/dev/vuln-disclosure.html) | — | — | active |
+| `fortnox.se` | [policy](https://www.fortnox.se/om-fortnox/integritet-och-sakerhet/) | swag | — | active |
 | `kayak.se` | [policy](https://www.kayak.com/security/) | monetary | — | active |
 | `mariacasino.se` | — | monetary | — | active |
 | `mathem.se` | — | monetary | — | active |

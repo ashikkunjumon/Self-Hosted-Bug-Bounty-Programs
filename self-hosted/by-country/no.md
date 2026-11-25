@@ -1,6 +1,6 @@
 # Self-hosted programs — NO
 
-243 programs.
+244 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -121,6 +121,7 @@
 | `legemiddelverket.no` | — | — | — | active |
 | `lhl.no` | — | — | — | active |
 | `lokalstyre.no` | — | — | — | active |
+| `lorealparis.no` | — | recognition | — | active |
 | `lovisenbergsykehus.no` | — | — | — | active |
 | `loydssystems.no` | — | — | — | active |
 | `mattilsynet.no` | — | — | — | expired |

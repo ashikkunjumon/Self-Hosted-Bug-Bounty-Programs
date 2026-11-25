@@ -1,6 +1,6 @@
 # Self-hosted programs — NL
 
-493 programs.
+494 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@
 | `bouwendnederland.nl` | — | — | — | active |
 | `brabant.nl` | — | — | — | active |
 | `brandweer.nl` | [policy](https://www.brandweer.nl/responsible-disclosure/) | — | yes | expired |
-| `breda.nl` | — | — | — | expired |
+| `breda.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `buckaroo.nl` | [policy](https://www.buckaroo.nl/media/fwdj2uvv/responsible-disclosure-policy-eng.pdf) | monetary | — | active |
 | `business.gov.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `canonvannederland.nl` | — | — | — | active |
@@ -100,7 +100,7 @@
 | `cz.nl` | [policy](https://www.cz.nl/over-cz/beveiligingsprobleem-melden) | monetary | yes | active |
 | `d-reizen.nl` | — | — | — | active |
 | `d66.nl` | [policy](https://www.d66.nl/responsible-disclosure/) | monetary | yes | expired |
-| `dagjeweg.nl` | — | — | — | retired |
+| `dagjeweg.nl` | — | — | — | expired |
 | `das.nl` | [policy](https://www.das.nl/kwetsbaarheid-melden) | — | yes | expired |
 | `datarotonde.nl` | [policy](https://datarotonde.nl/responsible-disclosure/) | — | — | retired |
 | `dds.nl` | — | monetary | — | active |
@@ -174,6 +174,7 @@
 | `groningen.nl` | [policy](https://www.slash2.nl/responsible-disclosure-policy) | recognition | yes | active |
 | `groningermuseum.nl` | [policy](https://www.slash2.nl/responsible-disclosure-policy) | recognition | yes | retired |
 | `haarlem.nl` | [policy](https://www.informatiebeveiligingsdienst.nl/responsible-disclosure/) | recognition | — | active |
+| `haarlemmermeergemeente.nl` | [policy](https://haarlemmermeergemeente.nl/kwetsbaarheid-informatiebeveiliging-melden) | — | — | active |
 | `han.nl` | [policy](https://www.han.nl/contact/responsible-disclosure/) | recognition | yes | active |
 | `hanze.nl` | [policy](https://www.hanze.nl/en/about-hanze/organization/coordinated-vulnerability-disclosure-cvd) | recognition | — | expired |
 | `hcc.nl` | — | — | — | expired |
@@ -394,7 +395,7 @@
 | `rws.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `s-bb.nl` | [policy](https://www.s-bb.nl/contact/responsible-disclosure-policy/) | monetary | — | active |
 | `s-hertogenbosch.nl` | [policy](https://www.s-hertogenbosch.nl/coordinated-vulnerability-disclosure) | recognition | yes | active |
-| `sanquin.nl` | [policy](https://www.z-cert.nl/kwetsbaarheid-melden) | — | — | expired |
+| `sanquin.nl` | [policy](https://www.z-cert.nl/kwetsbaarheid-melden) | — | — | active |
 | `saxion.nl` | [policy](https://www.saxion.nl/over-saxion/organisatie/coordinated-vulnerability-disclosure) | recognition | yes | active |
 | `sc-heerenveen.nl` | — | — | — | active |
 | `schiedam.nl` | [policy](https://www.schiedam.nl/kwetsbaarheid-gemeentelijke-systemen) | swag | — | active |

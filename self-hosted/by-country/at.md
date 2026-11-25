@@ -1,6 +1,6 @@
 # Self-hosted programs — AT
 
-170 programs.
+172 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -20,6 +20,7 @@
 | `bauhaus.at` | — | — | — | active |
 | `bdo.at` | — | — | — | active |
 | `bellaflora.at` | — | — | — | active |
+| `bfi-ooe.at` | — | — | — | active |
 | `bks.at` | — | recognition | — | expired |
 | `bosch.at` | [policy](https://psirt.bosch.com/bosch-responsible-disclosure-policy/) | recognition | — | active |
 | `bruckneruni.ac.at` | — | — | — | active |
@@ -34,6 +35,7 @@
 | `cewe-fotoservice.at` | — | — | — | active |
 | `chipkarte.at` | — | — | — | active |
 | `cookidoo.at` | — | — | — | active |
+| `creditreform.at` | — | — | — | active |
 | `dm-drogeriemarkt.at` | — | — | — | active |
 | `dm.at` | — | — | — | active |
 | `dmaa.at` | [policy](https://www.dmaa.at/security-policy) | recognition | — | active |
@@ -76,7 +78,7 @@
 | `ionos.at` | [policy](https://www.ionos.com/it-security) | — | — | expired |
 | `iqoqi.at` | — | — | — | active |
 | `jobs.at` | — | — | — | active |
-| `jochen-schweizer.at` | [policy](https://public-jsmd.s3.eu-central-1.amazonaws.com/Bug-Bounty-Policy-1.3.pdf) | monetary | — | expired |
+| `jochen-schweizer.at` | [policy](https://public-jsmd.s3.eu-central-1.amazonaws.com/Bug-Bounty-Policy-1.3.pdf) | monetary | — | active |
 | `karl-voit.at` | — | — | — | active |
 | `karriere.at` | — | — | — | active |
 | `kitzimmo.at` | — | — | — | active |
@@ -97,7 +99,7 @@
 | `lotterien.at` | [policy](https://www.lotterien.at/responsible-disclosure-1-1) | — | — | active |
 | `meindm.at` | — | — | — | active |
 | `metro.at` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | expired |
-| `mydays.at` | [policy](https://public-jsmd.s3.eu-central-1.amazonaws.com/Bug-Bounty-Policy-1.3.pdf) | monetary | — | expired |
+| `mydays.at` | [policy](https://public-jsmd.s3.eu-central-1.amazonaws.com/Bug-Bounty-Policy-1.3.pdf) | monetary | — | active |
 | `nesslerhof.at` | — | — | — | active |
 | `nessus.at` | — | — | — | active |
 | `netzwerk-bgf.at` | — | — | — | active |

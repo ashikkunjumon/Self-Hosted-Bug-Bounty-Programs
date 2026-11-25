@@ -165,7 +165,7 @@
 | `udeoghjemme.dk` | — | — | — | expired |
 | `vafo.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | retired |
 | `version2.dk` | — | — | — | active |
-| `viborg-folkeblad.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | retired |
+| `viborg-folkeblad.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
 | `viborg.dk` | — | — | — | active |
 | `vielskerserier.dk` | — | — | — | expired |
 | `wannafind.dk` | — | — | — | active |

@@ -28,7 +28,7 @@
 | `lorealparis.com.tr` | — | recognition | — | active |
 | `markastudio.com.tr` | [policy](https://markastudio.com.tr/tr/guvenlik/) | monetary | — | active |
 | `michelin.com.tr` | — | — | — | active |
-| `pistar.com.tr` | [policy](https://pistar.com.tr/gizlilik) | — | — | active |
+| `pistar.com.tr` | [policy](https://pistar.com.tr/gizlilik) | — | — | retired |
 | `pluxee.com.tr` | [policy](https://vdp.pluxee.app/p/Policy) | — | — | active |
 | `renault.com.tr` | [policy](https://www.renaultgroup.com/en/vulnerability-disclosure-policy/) | — | — | active |
 | `rossmann.com.tr` | — | — | — | expired |

@@ -1,6 +1,6 @@
 # Platform-hosted programs — ES
 
-29 programs.
+30 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -20,6 +20,7 @@
 | `laredoute.es` | [policy](https://www.laredoute.com/vulnerability_disclosure_program.aspx) | — | — | expired |
 | `lexusauto.es` | — | monetary | — | expired |
 | `lookfantastic.es` | [policy](https://bugcrowd.com/engagements/hutgroup-public) | monetary | — | expired |
+| `manomano.es` | [policy](https://hackerone.com/manomano?type=team&view_policy=true) | — | — | active |
 | `momondo.es` | [policy](https://www.kayak.com/security/) | monetary | — | active |
 | `octopusenergy.es` | — | — | — | active |
 | `roche.es` | [policy](https://hackerone.com/roche?view_policy=true) | — | — | active |

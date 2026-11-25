@@ -121,7 +121,7 @@
 | `fr.ch` | — | — | — | active |
 | `frauenfeld.ch` | — | — | — | active |
 | `freiburger-nachrichten.ch` | — | — | — | active |
-| `fust.ch` | [policy](https://www.coop.ch/de/unternehmen/vdp.html) | monetary | — | active |
+| `fust.ch` | [policy](https://www.coop.ch/de/unternehmen/vdp.html) | — | yes | active |
 | `galaxus.ch` | [policy](https://www.galaxus.ch/security) | — | yes | active |
 | `galaxyweb.ch` | — | — | — | active |
 | `gameswelt.ch` | — | — | — | active |

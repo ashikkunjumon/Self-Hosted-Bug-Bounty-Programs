@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-402 programs.
+404 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@
 | `betano-bonus-cz.cz` | — | — | — | active |
 | `betano-kasino.cz` | — | — | — | active |
 | `betano-recenze.cz` | — | — | — | active |
-| `betano-vstup.cz` | — | — | — | active |
+| `betano-vstup.cz` | — | — | — | retired |
 | `bezpecnyinternet.cz` | — | — | — | active |
 | `biano.cz` | — | — | — | retired |
 | `billboard.cz` | — | — | — | active |
@@ -124,6 +124,7 @@
 | `forrest.cz` | — | — | — | active |
 | `fortuna-hra.cz` | — | — | — | active |
 | `fortuna-promo.cz` | — | — | — | active |
+| `fortuna-recenze.cz` | — | — | — | active |
 | `fortuna-vstup.cz` | — | — | — | active |
 | `forum2000.cz` | — | — | — | active |
 | `fraus.cz` | — | — | — | active |
@@ -316,6 +317,7 @@
 | `sbazar.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `sblog.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `scorespin.cz` | — | — | — | active |
+| `scorewin.cz` | — | — | — | active |
 | `search.seznam.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `seduo.cz` | [policy](https://www.almacareer.com/vulnerability-disclosure) | — | yes | active |
 | `seznam.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — BR
 
-113 programs.
+114 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -27,7 +27,8 @@
 | `cirurgicabrasil.com.br` | — | — | — | active |
 | `confeitariacolombo.com.br` | — | — | — | expired |
 | `correiodoestado.com.br` | — | — | — | active |
-| `cuponeria.com.br` | — | — | — | active |
+| `costanorte.com.br` | — | — | — | active |
+| `cuponeria.com.br` | — | — | — | expired |
 | `cvcrm.com.br` | — | — | — | active |
 | `defesa.gov.br` | [policy](https://www.gov.br/defesa/pt-br/arquivos/legislacao/posin-md-2022.pdf) | — | — | retired |
 | `dermaclub.com.br` | — | recognition | — | active |

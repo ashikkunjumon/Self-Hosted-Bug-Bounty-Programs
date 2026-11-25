@@ -1,6 +1,6 @@
 # Self-hosted programs — PL
 
-192 programs.
+194 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -153,6 +153,7 @@
 | `rmf24.pl` | [policy](https://www.rmf.fm/security-policy.txt) | — | — | active |
 | `rmfclassic.pl` | [policy](https://www.rmf.fm/security-policy.txt) | — | — | active |
 | `rmfmaxx.pl` | [policy](https://www.rmf.fm/security-policy.txt) | — | — | active |
+| `rmfmaxxx.pl` | [policy](https://www.rmf.fm/security-policy.txt) | — | — | active |
 | `rossmann.pl` | — | — | — | active |
 | `rybnik.com.pl` | — | — | — | active |
 | `sensus.pl` | — | — | — | active |
@@ -179,6 +180,7 @@
 | `uokik.gov.pl` | [policy](https://csirt.gov.pl/cee/cyber-security-incident-report/978,Cyber-security-incident-reporting.html) | — | — | active |
 | `urbanity.pl` | — | — | — | active |
 | `verseo.pl` | — | — | — | active |
+| `vezzi.pl` | — | — | — | active |
 | `vichy.pl` | — | recognition | — | active |
 | `virtualo.pl` | — | — | — | active |
 | `viva.pl` | [policy](https://www.immediate.co.uk/security-disclosure-policy/) | — | — | retired |
