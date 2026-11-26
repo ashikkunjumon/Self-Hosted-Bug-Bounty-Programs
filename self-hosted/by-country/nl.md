@@ -1,6 +1,6 @@
 # Self-hosted programs — NL
 
-494 programs.
+495 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -144,7 +144,7 @@
 | `eredivisie.nl` | [policy](https://www.onyourmarks.agency/security-policy/) | monetary | — | active |
 | `essent.nl` | [policy](https://www.essent.nl/digitale-veiligheid) | — | — | active |
 | `eur.nl` | [policy](https://www.eur.nl/campus/locaties/campus-woudestein/beveiliging-veiligheid/informatiebeveiliging/responsible-disclosure) | recognition | yes | active |
-| `europarcs.nl` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | active |
+| `europarcs.nl` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | retired |
 | `eventim.nl` | — | — | — | active |
 | `expedia.nl` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `fbto.nl` | [policy](https://achmea.nl/en/responsible-disclosure) | swag | — | active |
@@ -342,11 +342,12 @@
 | `onderwijsinspectie.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `onderzoeksraad.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `oneworld.nl` | — | — | — | active |
+| `onlinebibliotheek.nl` | — | — | — | expired |
 | `onlinecasinoground.nl` | — | — | — | expired |
 | `onvz.nl` | [policy](https://www.onvz.nl/veiligheid) | — | — | active |
 | `oost.nl` | — | — | — | active |
 | `openluchtmuseum.nl` | — | — | — | active |
-| `openovergokken.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | swag | — | active |
+| `openovergokken.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | swag | — | retired |
 | `oranjefonds.nl` | — | — | — | active |
 | `overheid.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `paleisamsterdam.nl` | — | — | — | expired |
@@ -482,7 +483,7 @@
 | `wrr.nl` | [policy](https://www.ncsc.nl/dienstverlening/kwetsbaarheid-melden-cvd) | monetary | — | active |
 | `wur.nl` | [policy](https://www.wur.nl/sites/default/files/2025-11/2021-WUR-Information-Security-policy.pdf) | monetary | — | active |
 | `xel.nl` | — | — | — | expired |
-| `xpos.nl` | [policy](https://www.xpos.nl/security.html) | — | yes | active |
+| `xpos.nl` | [policy](https://www.xpos.nl/security.html) | monetary | yes | active |
 | `youngcapital.nl` | [policy](https://www.youngcapital.nl/security) | monetary | yes | expired |
 | `yourhosting.nl` | — | — | — | active |
 | `zaanstad.nl` | — | — | — | active |

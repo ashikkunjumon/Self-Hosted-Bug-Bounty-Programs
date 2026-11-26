@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-642 programs.
+643 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -48,6 +48,7 @@
 | `aquasec.com` | [policy](https://www.aquasec.com/trust/security/responsible-disclosure-program/) | — | — | retired |
 | `arc.net` | [policy](https://hackerone.com/bcny) | — | — | active |
 | `asana.com` | [policy](https://bugcrowd.com/asana) | monetary | — | active |
+| `astronomer.io` | [policy](https://trust.astronomer.io/) | — | — | active |
 | `attendohr.com` | [policy](https://attendohr.com/security) | monetary | yes | retired |
 | `audemarspiguet.com` | — | — | — | active |
 | `auth0.com` | [policy](https://www.okta.com/vulnerability-reporting-policy/) | — | — | active |
@@ -131,7 +132,7 @@
 | `continuum.io` | — | — | — | expired |
 | `cookinglight.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `costco.com` | [policy](https://hackerone.com/costco) | — | — | active |
-| `coveo.com` | — | — | — | expired |
+| `coveo.com` | — | — | — | retired |
 | `covermymeds.com` | [policy](https://www.mckesson.com/cybersecurity/coordinated-vulnerability-disclosure/) | monetary | — | active |
 | `cpanel.com` | — | — | — | active |
 | `cpanel.net` | — | — | — | active |
@@ -168,7 +169,7 @@
 | `dow.com` | [policy](https://www.synack.com/vdp/dow/) | recognition | yes | active |
 | `drivinglaws.org` | — | — | — | active |
 | `dropbox.tech` | [policy](https://dropbox.tech/security/updates-on-the-dropbox-bug-bounty-program) | monetary | — | retired |
-| `dvdtalk.com` | — | — | — | active |
+| `dvdtalk.com` | — | — | — | retired |
 | `dvidshub.net` | — | — | — | active |
 | `earlywarning.com` | [policy](https://www.earlywarning.com/security) | — | — | retired |
 | `eatingwell.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
@@ -253,12 +254,12 @@
 | `hardware.info` | [policy](https://tweakers.net/info/responsible-disclosure/) | monetary | — | active |
 | `harristeeter.com` | — | — | — | active |
 | `health.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
-| `help.smartling.com` | [policy](https://www.bugcrowd.com/resource/standard-disclosure-terms/) | monetary | — | active |
+| `help.smartling.com` | [policy](https://www.bugcrowd.com/resource/standard-disclosure-terms/) | — | — | active |
 | `henkel-adhesives.com` | — | — | — | active |
 | `heroku.com` | [policy](https://www.heroku.com/policy/security-hall-of-fame/) | recognition | — | retired |
 | `hexagon.com` | [policy](https://hexagon.com/legal/vulnerability) | — | yes | retired |
 | `hiddenlayer.com` | [policy](https://www.hiddenlayer.com/vulnerability-disclosure-policy) | — | yes | retired |
-| `highdefdigest.com` | — | — | — | active |
+| `highdefdigest.com` | — | — | — | retired |
 | `hiringlab.org` | [policy](https://www.indeed.com/legal?hl=en&from=gnav-homepage#ivrp) | monetary | — | expired |
 | `hivehome.com` | [policy](https://www.hivehome.com/security) | monetary | — | retired |
 | `hostinger.com` | [policy](https://www.hostinger.com/legal/responsible-disclosure-policy) | — | — | active |
@@ -287,13 +288,13 @@
 | `innovateuk.org` | [policy](https://www.gov.uk/help/report-vulnerability) | — | — | active |
 | `instacart.com` | [policy](https://hackerone.com/instacart) | — | — | active |
 | `instyle.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
-| `intercom-attachments-1.com` | [policy](https://www.bugcrowd.com/resource/standard-disclosure-terms/) | monetary | — | active |
-| `intercom-attachments-7.com` | [policy](https://www.bugcrowd.com/resource/standard-disclosure-terms/) | monetary | — | active |
-| `intercom-help.eu` | [policy](https://www.bugcrowd.com/resource/standard-disclosure-terms/) | monetary | — | active |
-| `intercom.com` | [policy](https://www.bugcrowd.com/resource/standard-disclosure-terms/) | monetary | — | active |
-| `intercom.help` | [policy](https://www.bugcrowd.com/resource/standard-disclosure-terms/) | monetary | — | active |
-| `intercom.io` | [policy](https://www.bugcrowd.com/resource/standard-disclosure-terms/) | monetary | — | active |
-| `intercomcdn.com` | [policy](https://www.bugcrowd.com/resource/standard-disclosure-terms/) | monetary | — | active |
+| `intercom-attachments-1.com` | [policy](https://www.bugcrowd.com/resource/standard-disclosure-terms/) | — | — | active |
+| `intercom-attachments-7.com` | [policy](https://www.bugcrowd.com/resource/standard-disclosure-terms/) | — | — | active |
+| `intercom-help.eu` | [policy](https://www.bugcrowd.com/resource/standard-disclosure-terms/) | — | — | active |
+| `intercom.com` | [policy](https://www.bugcrowd.com/resource/standard-disclosure-terms/) | — | — | active |
+| `intercom.help` | [policy](https://www.bugcrowd.com/resource/standard-disclosure-terms/) | — | — | active |
+| `intercom.io` | [policy](https://www.bugcrowd.com/resource/standard-disclosure-terms/) | — | — | active |
+| `intercomcdn.com` | [policy](https://www.bugcrowd.com/resource/standard-disclosure-terms/) | — | — | active |
 | `internic.net` | [policy](https://www.icann.org/vulnerabilities) | — | — | active |
 | `intigriti.com` | [policy](https://app.intigriti.com/programs/intigriti/intigriti) | monetary | — | active |
 | `investopedia.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
@@ -388,7 +389,7 @@
 | `nightwatchcybersecurity.com` | [policy](https://wwws.nightwatchcybersecurity.com/tag/bugcrowd/) | monetary | — | retired |
 | `nodejs.dev` | [policy](https://github.com/nodejs/node/security/policy#security) | monetary | — | active |
 | `nodejs.org` | [policy](https://github.com/nodejs/node/security/policy#security) | monetary | — | active |
-| `nolo.com` | — | — | — | active |
+| `nolo.com` | — | — | — | retired |
 | `nordantech.com` | [policy](https://www.nordantech.com/bounty) | monetary | yes | active |
 | `northwesternmutual.com` | [policy](https://bugcrowd.com/engagements/northwestern-mutual-mbb-og) | monetary | — | active |
 | `norwegian.com` | — | — | — | expired |
@@ -616,7 +617,7 @@
 | `weddingbee.com` | — | — | — | retired |
 | `wellsfargo.com` | [policy](https://www.wellsfargo.com/privacy-security/fraud/responsible-disclosure-program/) | — | yes | retired |
 | `wetransfer.com` | [policy](https://wetransfer.com/help-center/security-privacy/reporting-a-security-vulnerability) | — | — | retired |
-| `whattoexpect.com` | [policy](https://www.whattoexpect.com/privacy-policy) | monetary | — | active |
+| `whattoexpect.com` | [policy](https://www.whattoexpect.com/privacy-policy) | monetary | — | retired |
 | `whmcs.com` | — | — | — | active |
 | `wikitravel.org` | — | — | — | retired |
 | `wilmingtontrust.com` | [policy](https://www.wilmingtontrust.com/privacy-security/responsible-disclosure-program) | monetary | yes | retired |
@@ -627,7 +628,7 @@
 | `wordpress.com` | [policy](https://hackerone.com/automattic) | — | — | active |
 | `wordpress.net` | [policy](https://make.wordpress.org/core/handbook/testing/reporting-security-vulnerabilities/) | monetary | — | active |
 | `wordpress.org` | [policy](https://make.wordpress.org/core/handbook/testing/reporting-security-vulnerabilities/) | monetary | — | active |
-| `workopolis.com` | [policy](https://www.indeed.com/legal?hl=en&from=gnav-homepage#ivrp) | monetary | — | expired |
+| `workopolis.com` | [policy](https://www.indeed.com/legal?hl=en&from=gnav-homepage#ivrp) | monetary | — | retired |
 | `world.org` | [policy](https://hackerone.com/toolsforhumanity) | — | — | active |
 | `worldcoin.org` | [policy](https://hackerone.com/toolsforhumanity) | — | — | active |
 | `wp.com` | [policy](https://hackerone.com/automattic) | — | — | active |

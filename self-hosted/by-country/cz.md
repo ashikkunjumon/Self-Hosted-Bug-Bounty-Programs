@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-404 programs.
+405 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@
 | `agel.cz` | — | — | — | expired |
 | `aiken.cz` | — | — | — | active |
 | `airbank.cz` | — | — | — | active |
-| `aktin.cz` | — | — | — | active |
+| `aktin.cz` | — | — | — | retired |
 | `allwyn.cz` | [policy](https://www.allwyn.cz/.well-known/responsible_disclosure_policy.pdf) | monetary | — | active |
 | `ambis.cz` | — | — | — | active |
 | `amo.cz` | — | — | — | active |
@@ -168,6 +168,7 @@
 | `irozhlas.cz` | — | — | — | active |
 | `isover.cz` | — | — | — | active |
 | `ittrade.cz` | — | — | — | active |
+| `jablotron.cz` | — | — | — | active |
 | `jenprace.cz` | — | — | — | active |
 | `jewishmuseum.cz` | — | — | — | active |
 | `jobs.cz` | [policy](https://www.almacareer.com/vulnerability-disclosure) | — | yes | expired |
@@ -369,7 +370,7 @@
 | `ujv.cz` | — | — | — | active |
 | `ulekare.cz` | — | — | — | active |
 | `umprum.cz` | — | — | — | active |
-| `usetreno.cz` | — | — | — | active |
+| `usetreno.cz` | — | — | — | retired |
 | `varnsdorf.cz` | — | — | — | active |
 | `vas-hosting.cz` | — | — | — | active |
 | `vedos.cz` | [policy](https://vedos.cz/security-policy) | — | — | active |

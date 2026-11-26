@@ -104,7 +104,7 @@
 | `upv.es` | [policy](https://www.upv.es/.well-known/policy.txt) | — | — | active |
 | `usj.es` | — | — | — | expired |
 | `uva.es` | — | recognition | — | active |
-| `veolia.es` | [policy](https://www.veolia.com/en/vulnerability-reporting-form) | — | — | active |
+| `veolia.es` | [policy](https://www.veolia.com/en/vulnerability-reporting-form) | — | — | retired |
 | `vilaviniteca.es` | — | — | — | active |
 | `vistaprint.es` | — | — | — | active |
 | `volkswagen.es` | — | — | — | active |

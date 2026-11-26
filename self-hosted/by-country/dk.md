@@ -1,6 +1,6 @@
 # Self-hosted programs — DK
 
-167 programs.
+169 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -11,6 +11,7 @@
 | `amagerliv.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
 | `amtsavisen.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
 | `ao.dk` | — | — | — | expired |
+| `apopro.dk` | [policy](https://apoteka.dk/security/vulnerability-disclosure) | — | yes | active |
 | `asb.dk` | — | — | — | active |
 | `au.dk` | — | — | — | active |
 | `avisendanmark.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
@@ -99,6 +100,7 @@
 | `lex.dk` | — | — | — | expired |
 | `lidl.dk` | — | — | — | active |
 | `lolland.dk` | — | — | — | active |
+| `luxplus.dk` | — | — | — | active |
 | `mascot.dk` | — | — | — | active |
 | `mensa.dk` | — | — | — | active |
 | `mitsdu.dk` | — | — | — | active |

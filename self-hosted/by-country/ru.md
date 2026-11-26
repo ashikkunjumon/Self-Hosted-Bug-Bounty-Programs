@@ -1,6 +1,6 @@
 # Self-hosted programs — RU
 
-43 programs.
+44 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -36,6 +36,7 @@
 | `ozon.ru` | — | monetary | — | active |
 | `photographer.ru` | — | recognition | — | active |
 | `privetmir.ru` | — | — | — | retired |
+| `rgs.ru` | — | — | — | active |
 | `rus-buket.ru` | — | — | — | active |
 | `saby.ru` | — | monetary | — | active |
 | `sbis.ru` | — | monetary | — | active |

@@ -24,6 +24,6 @@
 | `shop-pro.jp` | [policy](https://pepabo.com/contact/vulnerability-reporting/) | monetary | yes | active |
 | `sixapart.jp` | — | — | — | active |
 | `smarthr.jp` | — | recognition | — | active |
-| `stores.jp` | — | — | — | active |
+| `stores.jp` | — | — | — | retired |
 | `suzuri.jp` | [policy](https://pepabo.com/contact/vulnerability-reporting/) | monetary | yes | active |
 | `trafficnews.jp` | — | — | — | expired |

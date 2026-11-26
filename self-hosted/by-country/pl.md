@@ -1,6 +1,6 @@
 # Self-hosted programs — PL
 
-194 programs.
+195 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -111,6 +111,7 @@
 | `nask.pl` | — | — | — | active |
 | `naszemiasto.pl` | — | — | — | expired |
 | `national-geographic.pl` | [policy](https://www.immediate.co.uk/security-disclosure-policy/) | — | — | retired |
+| `neonet.pl` | — | — | — | active |
 | `newsweek.pl` | — | — | — | active |
 | `niebezpiecznik.pl` | — | — | — | active |
 | `nivea.pl` | [policy](https://soc.beiersdorf.com/disclosurepolicy.html) | — | yes | active |
@@ -129,11 +130,11 @@
 | `opi.org.pl` | [policy](https://opi.org.pl/czym-sie-zajmujemy/oprogramowanie/bezpieczenstwo-w-systemach/) | — | — | active |
 | `opineo.pl` | — | — | — | active |
 | `parenting.pl` | — | — | — | active |
-| `payu.pl` | [policy](https://corporate.payu.com/responsible-disclosure-policy/) | monetary | — | active |
+| `payu.pl` | [policy](https://corporate.payu.com/responsible-disclosure-policy/) | monetary | — | retired |
 | `pcpm.org.pl` | — | — | — | expired |
 | `pesa.pl` | [policy](https://pesa.pl/en/pesa-vulnerability-disclosure-programme/) | recognition | yes | expired |
 | `plejada.pl` | — | — | — | active |
-| `plk-sa.pl` | — | — | — | active |
+| `plk-sa.pl` | — | — | — | retired |
 | `polygamia.pl` | — | — | — | active |
 | `pomorska.pl` | — | — | — | expired |
 | `poranny.pl` | — | — | — | expired |

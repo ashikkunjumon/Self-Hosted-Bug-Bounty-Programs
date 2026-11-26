@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-435 programs.
+437 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -170,7 +170,7 @@
 | `ilo.ch` | — | — | — | active |
 | `immerda.ch` | — | — | — | active |
 | `immoscout24.ch` | — | — | — | active |
-| `impo.ch` | [policy](https://www.coop.ch/de/unternehmen/vdp.html) | — | yes | expired |
+| `impo.ch` | [policy](https://www.coop.ch/de/unternehmen/vdp.html) | — | yes | retired |
 | `infoguard.ch` | [policy](https://www.infoguard.ch/en/security-policy) | — | — | active |
 | `insel.ch` | — | — | — | expired |
 | `inselgruppe.ch` | — | — | — | expired |
@@ -394,10 +394,11 @@
 | `trustedshops.ch` | [policy](https://www.trustedshops.de/.well-known/responsible-disclosure.txt) | — | yes | active |
 | `tui.ch` | [policy](https://vdp.tui.com/p/Policy) | — | — | active |
 | `tvo-online.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/compass-bug-bounty) | monetary | — | active |
+| `ubique.ch` | — | — | — | expired |
 | `umb.ch` | — | — | — | active |
 | `uncoded.ch` | — | — | — | active |
 | `unibe.ch` | — | — | — | expired |
-| `unicef.ch` | — | — | — | active |
+| `unicef.ch` | — | — | — | retired |
 | `unil.ch` | — | — | — | active |
 | `unisante.ch` | — | — | — | active |
 | `unisg.ch` | — | — | — | active |
@@ -423,6 +424,7 @@
 | `vshn.ch` | — | — | — | active |
 | `webador.ch` | — | — | — | active |
 | `weekend4two.ch` | — | — | — | expired |
+| `wef.ch` | — | — | — | active |
 | `wettingen.ch` | — | — | — | active |
 | `wie-gehts-dir.ch` | [policy](https://www.wie-gehts-dir.ch/security-policy) | recognition | — | active |
 | `wingo.ch` | [policy](https://github.com/swisscom/bugbounty) | monetary | — | expired |

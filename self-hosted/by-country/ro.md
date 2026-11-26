@@ -1,6 +1,6 @@
 # Self-hosted programs — RO
 
-66 programs.
+68 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -46,16 +46,18 @@
 | `infomusic.ro` | — | recognition | — | active |
 | `lidl.ro` | — | — | — | active |
 | `listafirme.ro` | — | — | — | active |
+| `litoralulromanesc.ro` | — | — | — | active |
 | `mariuspavel.ro` | — | — | — | active |
 | `metro.ro` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | expired |
 | `michelin.ro` | — | — | — | active |
 | `notino.ro` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
 | `observatorulph.ro` | — | — | — | active |
 | `omv.ro` | — | — | — | active |
-| `payu.ro` | [policy](https://corporate.payu.com/responsible-disclosure-policy/) | monetary | — | active |
+| `payu.ro` | [policy](https://corporate.payu.com/responsible-disclosure-policy/) | monetary | — | retired |
 | `peles.ro` | — | — | — | active |
 | `petrom.ro` | — | — | — | active |
 | `pluxee.ro` | [policy](https://vdp.pluxee.app/p/Policy) | — | — | active |
+| `posturi.gov.ro` | — | — | — | active |
 | `rompetrol.ro` | — | — | — | active |
 | `senat.ro` | [policy](https://www.senat.ro/juridic.aspx) | — | — | active |
 | `sezamo.ro` | — | — | — | active |

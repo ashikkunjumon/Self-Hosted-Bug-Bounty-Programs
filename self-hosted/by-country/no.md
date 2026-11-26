@@ -1,6 +1,6 @@
 # Self-hosted programs — NO
 
-244 programs.
+246 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -48,6 +48,7 @@
 | `dustinhome.no` | — | — | — | active |
 | `eidsiva.no` | — | — | — | expired |
 | `eie.no` | [policy](https://eie.no/security-policy) | recognition | — | retired |
+| `eiendomsmegler1.no` | — | — | — | active |
 | `einnsyn.no` | [policy](https://www.digdir.no/digdir/responsible-disclosure-policy/6386) | recognition | yes | active |
 | `elektroimportoren.no` | — | — | — | active |
 | `eliteserien.no` | — | recognition | — | active |
@@ -127,6 +128,7 @@
 | `mattilsynet.no` | — | — | — | expired |
 | `mdg.no` | — | — | — | active |
 | `met.no` | — | — | — | active |
+| `mf.no` | — | — | — | active |
 | `miljodirektoratet.no` | — | — | — | active |
 | `miljostatus.no` | — | — | — | active |
 | `mnemonic.no` | — | — | — | active |

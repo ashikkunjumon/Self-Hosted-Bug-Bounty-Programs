@@ -63,7 +63,7 @@
 | `privacylab.it` | — | — | — | active |
 | `radioradicale.it` | — | — | — | active |
 | `rhoss.it` | [policy](https://www.rhoss.it/cyber-resilience-act/) | — | — | retired |
-| `richslots.it` | — | — | — | active |
+| `richslots.it` | — | — | — | retired |
 | `riello-solartech.it` | [policy](https://www.riello-solartech.com/insight/vulnerability-and-incident-disclosure) | monetary | — | active |
 | `sandenvendo.it` | [policy](https://www.sandenvendo.it/pt/cra-security/) | — | — | retired |
 | `savee.it` | — | — | — | active |

@@ -41,7 +41,7 @@
 | `flashscore.com.br` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `fnpeti.org.br` | — | — | — | active |
 | `forumseguranca.org.br` | [policy](https://icc.gg/polvuln) | monetary | yes | active |
-| `freefiremania.com.br` | [policy](https://www.freefiremania.com.br/politica-de-privacidade.html) | monetary | — | active |
+| `freefiremania.com.br` | [policy](https://www.freefiremania.com.br/politica-de-privacidade.html) | monetary | — | retired |
 | `fundacaodorina.org.br` | — | — | — | active |
 | `geekhunter.com.br` | — | recognition | — | active |
 | `gettyimages.com.br` | — | — | — | retired |
@@ -88,7 +88,7 @@
 | `pebmed.com.br` | [policy](https://security.afya.com.br) | — | — | active |
 | `premierpet.com.br` | [policy](https://premierpet.com.br/privacidade/) | recognition | — | active |
 | `primeirahora.com.br` | — | — | — | active |
-| `printi.com.br` | [policy](https://www.printi.com.br/politicas-de-privacidade/) | swag | — | active |
+| `printi.com.br` | [policy](https://www.printi.com.br/politicas-de-privacidade/) | monetary | — | active |
 | `profixdigital.com.br` | — | — | — | active |
 | `psol50.org.br` | — | — | — | active |
 | `reclameaqui.com.br` | [policy](https://storage.googleapis.com/whitehat-policy/reclameaqui-whitehat-policy.pdf) | monetary | — | active |

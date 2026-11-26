@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-511 programs.
+514 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -91,6 +91,7 @@
 | `comdirect.de` | [policy](https://www.commerzbank.com/security-policy.html) | recognition | — | active |
 | `commerzbank.de` | [policy](https://www.commerzbank.de/konzern/sec/security-policy.html) | recognition | — | retired |
 | `computerbase.de` | — | — | — | active |
+| `creditreform.de` | — | — | — | active |
 | `ct.de` | [policy](https://heise.de/-7513540) | monetary | — | active |
 | `cure53.de` | — | recognition | — | active |
 | `daad.de` | — | — | — | active |
@@ -190,6 +191,7 @@
 | `gitslayer.de` | [policy](https://github.com/go-gitea/gitea/blob/main/SECURITY.md) | recognition | — | active |
 | `glassdoor.de` | [policy](https://help.glassdoor.com/s/article/Bug-Bounty-Program?language=en_US) | — | — | retired |
 | `gmx.de` | [policy](https://bugbounty.gmx.net) | monetary | — | active |
+| `goethe.de` | — | — | — | active |
 | `goettingen.de` | — | — | — | active |
 | `goettinger-tageblatt.de` | — | — | — | active |
 | `golem.de` | — | — | — | active |
@@ -499,6 +501,7 @@
 | `web.de` | [policy](https://bugbounty.web.de) | monetary | — | active |
 | `webador.de` | — | — | — | active |
 | `welthungerhilfe.de` | — | — | — | active |
+| `wias-berlin.de` | — | — | — | active |
 | `wiesbaden.de` | [policy](https://www.wiesbaden.de/nutzungsbedingungen) | — | — | active |
 | `winfuture.de` | — | — | — | active |
 | `wir-machen-druck.de` | [policy](https://www.wir-machen-druck.de/datenschutzerklaerung.html) | monetary | — | active |

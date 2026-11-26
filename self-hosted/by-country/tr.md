@@ -1,6 +1,6 @@
 # Self-hosted programs — TR
 
-36 programs.
+38 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -10,6 +10,7 @@
 | `bau.edu.tr` | [policy](https://bidb.bau.edu.tr/privacy-policy/) | — | — | retired |
 | `bosch.com.tr` | [policy](https://psirt.bosch.com/bosch-responsible-disclosure-policy/) | recognition | — | active |
 | `boyner.com.tr` | — | — | — | expired |
+| `cagalogluhamami.com.tr` | — | — | — | active |
 | `decathlon.com.tr` | [policy](https://vdp.decathlon.net) | — | — | active |
 | `denktas.av.tr` | — | — | — | active |
 | `elle.com.tr` | — | — | — | active |
@@ -28,6 +29,7 @@
 | `lorealparis.com.tr` | — | recognition | — | active |
 | `markastudio.com.tr` | [policy](https://markastudio.com.tr/tr/guvenlik/) | monetary | — | active |
 | `michelin.com.tr` | — | — | — | active |
+| `olimpiyat.org.tr` | — | recognition | — | active |
 | `pistar.com.tr` | [policy](https://pistar.com.tr/gizlilik) | — | — | retired |
 | `pluxee.com.tr` | [policy](https://vdp.pluxee.app/p/Policy) | — | — | active |
 | `renault.com.tr` | [policy](https://www.renaultgroup.com/en/vulnerability-disclosure-policy/) | — | — | active |

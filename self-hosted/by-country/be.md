@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-305 programs.
+307 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@
 | `flandersexpo.be` | — | — | — | active |
 | `flemalle.be` | — | — | — | active |
 | `flixbus.be` | [policy](https://global.flixbus.com/responsible-disclosure) | — | — | active |
-| `florealgroup.be` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | active |
+| `florealgroup.be` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | retired |
 | `fluvius.be` | [policy](https://www.fluvius.be/nl/privacybeleid) | monetary | — | active |
 | `fnac.be` | — | — | — | active |
 | `folderbode.be` | — | — | — | active |
@@ -111,7 +111,7 @@
 | `gettyimages.be` | — | — | — | retired |
 | `gezinsbond.be` | — | — | — | active |
 | `glassdoor.be` | [policy](https://help.glassdoor.com/s/article/Bug-Bounty-Program?language=en_US) | — | — | retired |
-| `goed.be` | [policy](https://www.goed.be/nl/algemene-voorwaarden/security) | — | yes | active |
+| `goed.be` | [policy](https://www.goed.be/nl/algemene-voorwaarden/security) | swag | yes | active |
 | `gratoramacasino.be` | — | — | — | active |
 | `grez-doiceau.be` | — | — | — | active |
 | `grimbergen.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
@@ -124,7 +124,7 @@
 | `herstal.be` | — | — | — | active |
 | `heusden-zolder.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `hgr-css.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
-| `holidaysuites.be` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | active |
+| `holidaysuites.be` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | retired |
 | `hollandandbarrett.be` | [policy](https://vdp.hollandandbarrett.com/) | — | — | active |
 | `hoogewijs.be` | [policy](https://www.hoogewijs.be/en/responsibledisclosure/) | — | — | retired |
 | `hoogstraten.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
@@ -144,7 +144,7 @@
 | `kaartje2go.be` | [policy](https://www.kaartje2go.be/responsible-disclosure) | monetary | yes | active |
 | `kaiserkraft.be` | — | — | — | active |
 | `kasterlee.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
-| `kompascamping.be` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | active |
+| `kompascamping.be` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | retired |
 | `kortenberg.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `kringwinkel.be` | — | — | — | expired |
 | `lahulpe.be` | — | — | — | active |
@@ -205,7 +205,7 @@
 | `pearle.be` | [policy](https://essilorluxottica.vulnerability-disclosure.com/) | — | — | active |
 | `peer.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `peruwelz.be` | — | — | — | active |
-| `petitesuisse.be` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | active |
+| `petitesuisse.be` | [policy](https://www.bookingexperts.com/trust-center) | monetary | — | retired |
 | `plantentuinmeise.be` | — | — | — | active |
 | `plopsa.be` | [policy](https://www.plopsa.com/en/responsible-disclosure-policy) | — | — | active |
 | `plopsaqua.be` | [policy](https://www.plopsa.com/en/responsible-disclosure-policy) | — | — | active |
@@ -219,6 +219,7 @@
 | `proxis.be` | — | — | — | expired |
 | `quantix.be` | — | — | — | expired |
 | `raversyde.be` | — | — | — | active |
+| `renault.be` | [policy](https://www.renaultgroup.com/en/vulnerability-disclosure-policy/) | — | — | active |
 | `riemst.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `rixensart.be` | — | — | — | active |
 | `rochefort.be` | — | — | — | active |
@@ -278,7 +279,7 @@
 | `vdab.be` | [policy](https://www.vdab.be/responsible-disclosure) | recognition | yes | expired |
 | `velora.be` | — | — | — | active |
 | `veloro.be` | [policy](https://www.registrarhub.net/.well-known/responsible_disclosure.txt) | — | — | active |
-| `vib.be` | [policy](https://www.vib.be/responsible-disclosure) | recognition | yes | expired |
+| `vib.be` | [policy](https://www.vib.be/responsible-disclosure) | recognition | yes | retired |
 | `vibconferences.be` | [policy](https://www.vib.be/responsible-disclosure) | recognition | yes | expired |
 | `vielsalm.be` | — | — | — | active |
 | `villedecomines-warneton.be` | — | — | — | active |
@@ -305,6 +306,7 @@
 | `wingene.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `wintersport.be` | — | — | — | active |
 | `xerius.be` | — | — | — | active |
+| `yvoir.be` | — | — | — | active |
 | `zaventem.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `zoover.be` | — | — | — | active |
 | `zva.be` | — | — | — | active |

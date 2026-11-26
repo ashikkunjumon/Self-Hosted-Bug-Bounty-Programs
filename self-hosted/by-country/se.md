@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-576 programs.
+577 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -513,6 +513,7 @@
 | `tidningenangermanland.se` | — | — | — | active |
 | `tidningencurie.se` | — | — | — | active |
 | `tierp.se` | — | — | — | active |
+| `tillvaxtanalys.se` | — | — | — | active |
 | `tillvaxtverket.se` | — | — | — | active |
 | `tjorn.se` | — | — | — | active |
 | `tlv.se` | — | — | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — UA
 
-59 programs.
+61 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -20,6 +20,7 @@
 | `diia.gov.ua` | — | — | — | active |
 | `dpsu.gov.ua` | — | — | — | retired |
 | `drv.gov.ua` | — | — | — | active |
+| `endorphone.com.ua` | — | — | — | active |
 | `eridon.ua` | — | — | — | active |
 | `fg.gov.ua` | — | — | — | expired |
 | `flashscore.com.ua` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
@@ -62,4 +63,5 @@
 | `vkksu.gov.ua` | [policy](https://www.vkksu.gov.ua/userfiles/doc/sec/secpolicy.txt) | recognition | — | active |
 | `vntu.edu.ua` | [policy](https://vntu.edu.ua/files/security.html) | monetary | — | active |
 | `vodiy.ua` | — | — | — | retired |
+| `zntu.edu.ua` | — | — | — | active |
 | `zp.edu.ua` | — | — | — | active |
