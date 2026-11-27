@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-437 programs.
+438 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -15,6 +15,7 @@
 | `allianceswisspass.ch` | — | recognition | — | active |
 | `alltron.ch` | — | — | — | active |
 | `americanexpress.ch` | — | — | — | active |
+| `antiphishing.ch` | — | — | — | active |
 | `anzere.ch` | — | — | — | active |
 | `apfelkiste.ch` | — | — | — | active |
 | `aqua-spa-resorts.ch` | — | — | — | active |
@@ -78,7 +79,7 @@
 | `digicomp.ch` | — | — | — | active |
 | `digitale-gesellschaft.ch` | — | — | — | active |
 | `digitec.ch` | [policy](https://www.digitec.ch/security) | — | yes | active |
-| `digithek.ch` | [policy](https://developer.joomla.org/security.html) | monetary | — | active |
+| `digithek.ch` | [policy](https://developer.joomla.org/security.html) | — | — | active |
 | `doitgarden.ch` | — | — | — | active |
 | `dq-solutions.ch` | — | — | — | active |
 | `drs.ch` | — | — | — | active |
@@ -182,7 +183,7 @@
 | `iway.ch` | — | — | — | active |
 | `iwb.ch` | — | — | — | expired |
 | `jackpots.ch` | — | — | — | active |
-| `jardinbotaniquegeneve.ch` | — | — | — | active |
+| `jardinbotaniquegeneve.ch` | — | — | — | retired |
 | `jobcloud.ch` | — | — | — | active |
 | `jobs.ch` | — | — | — | active |
 | `jobup.ch` | — | — | — | active |
@@ -377,7 +378,7 @@
 | `tchibo.ch` | — | — | — | active |
 | `tcs.ch` | — | — | — | active |
 | `tele1.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/compass-bug-bounty) | monetary | — | active |
-| `teleboy.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/teleboy-bug-bounty) | monetary | — | retired |
+| `teleboy.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/teleboy-bug-bounty) | monetary | — | active |
 | `telem1.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/compass-bug-bounty) | monetary | — | active |
 | `telezueri.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/compass-bug-bounty) | monetary | — | active |
 | `theaterspektakel.ch` | — | — | — | active |
@@ -398,7 +399,7 @@
 | `umb.ch` | — | — | — | active |
 | `uncoded.ch` | — | — | — | active |
 | `unibe.ch` | — | — | — | expired |
-| `unicef.ch` | — | — | — | retired |
+| `unicef.ch` | — | — | — | active |
 | `unil.ch` | — | — | — | active |
 | `unisante.ch` | — | — | — | active |
 | `unisg.ch` | — | — | — | active |

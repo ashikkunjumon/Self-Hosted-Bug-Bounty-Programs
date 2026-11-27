@@ -9,7 +9,7 @@
 | `aamulehti.fi` | [policy](https://www.sanoma.com/en/responsible-disclosure-statement/) | — | — | active |
 | `aimopark.fi` | — | — | — | active |
 | `aktia.fi` | [policy](https://www.aktia.fi/fi/aktia-responsible-disclosure) | — | yes | active |
-| `alandsbanken.fi` | [policy](https://www.alandsbanken.fi/security-policy) | recognition | — | active |
+| `alandsbanken.fi` | [policy](https://www.alandsbanken.fi/security-policy) | recognition | — | retired |
 | `avaruus.fi` | — | — | — | active |
 | `balticyachts.fi` | — | recognition | — | active |
 | `bbl.fi` | — | — | — | active |
@@ -21,7 +21,7 @@
 | `coronaria.fi` | — | — | — | active |
 | `csc.fi` | [policy](https://csc.fi/en/security-privacy-data-policy-and-open-source-policy/) | — | — | active |
 | `curve.fi` | — | — | — | active |
-| `dna.fi` | — | — | — | retired |
+| `dna.fi` | — | — | — | active |
 | `dustin.fi` | — | — | — | active |
 | `ebookers.fi` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `elenia.fi` | — | — | — | expired |

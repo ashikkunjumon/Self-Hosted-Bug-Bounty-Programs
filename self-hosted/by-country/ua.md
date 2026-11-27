@@ -1,11 +1,12 @@
 # Self-hosted programs — UA
 
-61 programs.
+62 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `agro-center.com.ua` | — | — | — | active |
 | `arma.gov.ua` | — | — | — | active |
+| `autoline.com.ua` | — | — | — | active |
 | `autolux.ua` | — | — | — | retired |
 | `avrora.ua` | [policy](https://avrora.ua/vulnerability-disclosure-policy.html) | — | — | active |
 | `biotus.ua` | [policy](https://biotus.ua/security-policy) | — | yes | active |

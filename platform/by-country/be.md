@@ -7,7 +7,7 @@
 | `7sur7.be` | — | monetary | — | active |
 | `airbnb.be` | [policy](https://hackerone.com/airbnb#overview) | — | — | active |
 | `auto5.be` | — | — | — | active |
-| `autoscout24.be` | [policy](https://app.intigriti.com/programs/autoscout/autoscout24-vdp/detail) | monetary | — | expired |
+| `autoscout24.be` | [policy](https://app.intigriti.com/programs/autoscout/autoscout24-vdp/detail) | monetary | — | active |
 | `azdelta.be` | — | — | — | active |
 | `bmw-motorrad.be` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
 | `bmw.be` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |

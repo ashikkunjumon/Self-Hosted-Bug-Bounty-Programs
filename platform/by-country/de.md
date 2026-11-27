@@ -9,7 +9,7 @@
 | `atu.de` | — | — | — | active |
 | `aufbaubank.de` | [policy](https://yeswehack.com/programs/thuringer-aufbaubank-bug-bounty-program) | monetary | — | active |
 | `autobild.de` | [policy](https://app.intigriti.com/programs/axelspringerse/nmt/detail) | monetary | — | active |
-| `autoscout24.de` | [policy](https://app.intigriti.com/programs/autoscout/autoscout24-vdp/detail) | monetary | — | expired |
+| `autoscout24.de` | [policy](https://app.intigriti.com/programs/autoscout/autoscout24-vdp/detail) | monetary | — | active |
 | `axelspringer.de` | — | monetary | — | active |
 | `bild.de` | [policy](https://app.intigriti.com/programs/axelspringerse/nmt/detail) | monetary | — | expired |
 | `blablacar.de` | — | monetary | — | active |
@@ -32,7 +32,7 @@
 | `randstad.de` | [policy](https://www.randstad.com/report-a-security-problem/) | — | — | active |
 | `sixt.de` | [policy](https://bugcrowd.com/a22b9798-491e-4d3a-87f3-a69484e02a2f/external/report) | — | — | active |
 | `techbook.de` | [policy](https://app.intigriti.com/programs/axelspringerse/nmt/detail) | monetary | — | expired |
-| `telekom.de` | [policy](https://www.telekom.com/bug-bounty-program) | monetary | — | retired |
+| `telekom.de` | [policy](https://www.telekom.com/bug-bounty-program) | monetary | — | active |
 | `thalia.de` | [policy](https://yeswehack.com/programs/thalia-bucher-gmbh-bug-bounty-program) | monetary | — | active |
 | `timeanddate.de` | [policy](https://hackerone.com/timeanddate) | monetary | — | expired |
 | `toyota.de` | — | monetary | — | expired |

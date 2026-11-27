@@ -5,7 +5,7 @@
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `airbnb.at` | [policy](https://hackerone.com/airbnb#overview) | — | — | active |
-| `autoscout24.at` | [policy](https://app.intigriti.com/programs/autoscout/autoscout24-vdp/detail) | monetary | — | expired |
+| `autoscout24.at` | [policy](https://app.intigriti.com/programs/autoscout/autoscout24-vdp/detail) | monetary | — | active |
 | `bmw.at` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
 | `felixc.at` | [policy](https://hackerone.com/nextcloud) | — | — | active |
 | `momondo.at` | [policy](https://www.kayak.com/security/) | monetary | — | active |

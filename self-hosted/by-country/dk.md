@@ -1,11 +1,12 @@
 # Self-hosted programs — DK
 
-169 programs.
+170 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `aalborg.dk` | — | — | — | active |
 | `aarhusmotion.dk` | [policy](https://bbtiming.com/page/vulnerability-policy) | — | yes | active |
+| `aes.dk` | — | — | — | active |
 | `aktuelnaturvidenskab.dk` | — | — | — | active |
 | `alexandra.dk` | — | — | — | active |
 | `amagerliv.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |

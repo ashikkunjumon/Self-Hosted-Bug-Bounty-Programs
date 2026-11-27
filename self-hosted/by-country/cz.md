@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-405 programs.
+406 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@
 | `agel.cz` | — | — | — | expired |
 | `aiken.cz` | — | — | — | active |
 | `airbank.cz` | — | — | — | active |
-| `aktin.cz` | — | — | — | retired |
+| `aktin.cz` | — | — | — | active |
 | `allwyn.cz` | [policy](https://www.allwyn.cz/.well-known/responsible_disclosure_policy.pdf) | monetary | — | active |
 | `ambis.cz` | — | — | — | active |
 | `amo.cz` | — | — | — | active |
@@ -147,6 +147,7 @@
 | `holocaust.cz` | — | — | — | active |
 | `homecredit.cz` | — | — | — | active |
 | `hornbach.cz` | — | — | — | active |
+| `hotel.cz` | — | — | — | active |
 | `hotely.cz` | — | — | — | active |
 | `hrad.cz` | — | — | — | active |
 | `hras.cz` | — | — | — | active |
@@ -370,7 +371,7 @@
 | `ujv.cz` | — | — | — | active |
 | `ulekare.cz` | — | — | — | active |
 | `umprum.cz` | — | — | — | active |
-| `usetreno.cz` | — | — | — | retired |
+| `usetreno.cz` | — | — | — | active |
 | `varnsdorf.cz` | — | — | — | active |
 | `vas-hosting.cz` | — | — | — | active |
 | `vedos.cz` | [policy](https://vedos.cz/security-policy) | — | — | active |

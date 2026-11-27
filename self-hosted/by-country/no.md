@@ -38,7 +38,7 @@
 | `diakonhjemmetsykehus.no` | — | — | — | active |
 | `digdir.no` | [policy](https://www.digdir.no/digdir/responsible-disclosure-policy/6386) | recognition | yes | active |
 | `digi.no` | — | — | — | retired |
-| `dirnat.no` | — | — | — | active |
+| `dirnat.no` | — | — | — | retired |
 | `dmp.no` | — | — | — | active |
 | `dnb.no` | — | — | — | active |
 | `domeneshop.no` | — | — | — | expired |
@@ -56,7 +56,7 @@
 | `elvia.no` | — | — | — | expired |
 | `enova.no` | — | recognition | — | expired |
 | `entur.no` | — | — | — | active |
-| `environment.no` | — | — | — | active |
+| `environment.no` | — | — | — | retired |
 | `eventim.no` | — | — | — | active |
 | `expedia.no` | [policy](https://www.expediagroup.com/about/privacy-data-handling-requirements/) | monetary | — | active |
 | `ez.no` | [policy](https://www.ibexa.co/software-information/security) | recognition | — | active |
@@ -93,7 +93,7 @@
 | `helse-vest.no` | — | — | — | active |
 | `helsenorge.no` | [policy](https://nhn.no/.well-known/vulnerability-disclosure.html) | recognition | — | active |
 | `hi.no` | — | — | — | active |
-| `historiskmuseum.no` | [policy](https://cert.uio.no/vulnerability-disclosure-policy.html) | monetary | — | retired |
+| `historiskmuseum.no` | [policy](https://cert.uio.no/vulnerability-disclosure-policy.html) | monetary | — | active |
 | `hnt.no` | — | — | — | active |
 | `ice.no` | — | — | — | retired |
 | `idag.no` | — | — | — | expired |
@@ -129,8 +129,8 @@
 | `mdg.no` | — | — | — | active |
 | `met.no` | — | — | — | active |
 | `mf.no` | — | — | — | active |
-| `miljodirektoratet.no` | — | — | — | active |
-| `miljostatus.no` | — | — | — | active |
+| `miljodirektoratet.no` | — | — | — | retired |
+| `miljostatus.no` | — | — | — | retired |
 | `mnemonic.no` | — | — | — | active |
 | `moller.no` | [policy](https://moller.no/.well-known/security.txt) | recognition | — | active |
 | `mollerbil.no` | [policy](https://moller.no/.well-known/security.txt) | recognition | — | active |
@@ -142,7 +142,7 @@
 | `nbim.no` | [policy](https://www.nbim.no/en/responsible-disclosure-policy/) | recognition | — | active |
 | `ndla.no` | — | — | — | active |
 | `neat.no` | [policy](https://support.neat.no/article/security-vulnerability-reporting-policy-at-neat/) | — | yes | active |
-| `nettskjema.no` | [policy](https://cert.uio.no/vulnerability-disclosure-policy.html) | monetary | — | retired |
+| `nettskjema.no` | [policy](https://cert.uio.no/vulnerability-disclosure-policy.html) | monetary | — | active |
 | `newsweb.no` | [policy](https://www.oslobors.no/ob_eng/Oslo-Boers/About-Oslo-Boers/Responsible-Disclosure) | — | — | active |
 | `nhf.no` | — | — | — | active |
 | `nhn.no` | [policy](https://nhn.no/.well-known/vulnerability-disclosure.html) | recognition | — | active |
@@ -155,8 +155,8 @@
 | `nordlandssykehuset.no` | — | — | — | active |
 | `nordnet.no` | [policy](https://www.nordnet.se/security-disclosure) | recognition | — | active |
 | `norges-bank.no` | — | — | — | active |
-| `norgeshistorie.no` | [policy](https://cert.uio.no/vulnerability-disclosure-policy.html) | monetary | — | retired |
-| `norgesnasjonalparker.no` | — | — | — | active |
+| `norgeshistorie.no` | [policy](https://cert.uio.no/vulnerability-disclosure-policy.html) | monetary | — | active |
+| `norgesnasjonalparker.no` | — | — | — | retired |
 | `norid.no` | — | — | — | active |
 | `norsar.no` | — | — | — | active |
 | `npe.no` | — | — | — | active |
@@ -176,7 +176,7 @@
 | `oslobors.no` | — | — | — | active |
 | `oslokonserthus.no` | [policy](https://oslokonserthus.no/security-policy) | recognition | — | active |
 | `oslomet.no` | [policy](https://nett.oslomet.no/.well-known/rfc2350.pdf) | monetary | — | active |
-| `osloworld.no` | [policy](https://osloworld.no/security-policy) | recognition | — | active |
+| `osloworld.no` | [policy](https://osloworld.no/security-policy) | — | — | active |
 | `p3.no` | [policy](https://info.nrk.no/hjem/responsible-disclosure-policy/) | swag | yes | expired |
 | `paretosec.no` | — | — | — | active |
 | `pilegrimsleden.no` | [policy](https://www.pilegrimsleden.no/security-policy) | recognition | — | active |
@@ -233,7 +233,7 @@
 | `tryg.no` | [policy](https://tryg.com/en/responsible-disclosure) | — | — | retired |
 | `tv2.no` | [policy](https://info.tv2.no/info/artikkel/responsible-disclosure-policy) | swag | yes | active |
 | `udi.no` | — | — | — | active |
-| `uio.no` | [policy](https://cert.uio.no/vulnerability-disclosure-policy.html) | monetary | — | retired |
+| `uio.no` | [policy](https://cert.uio.no/vulnerability-disclosure-policy.html) | monetary | — | active |
 | `uninett.no` | [policy](https://www.sikt.no/security-policy) | recognition | yes | active |
 | `unit.no` | [policy](https://www.sikt.no/security-policy) | recognition | yes | active |
 | `unn.no` | — | — | — | active |
@@ -244,7 +244,7 @@
 | `vestreviken.no` | [policy](https://www.sykehuspartner.no/siteassets/documents/sikkerhet---regionale-bruksvilkar/no-38---responsible-disclosure-policy-engelsk.pdf) | — | — | active |
 | `vg.no` | [policy](https://www.schibsted.com/about/security-in-schibsted/schibsted-security-policy/) | — | — | active |
 | `viivilla.no` | — | — | — | active |
-| `vikingtidsmuseet.no` | [policy](https://cert.uio.no/vulnerability-disclosure-policy.html) | monetary | — | retired |
+| `vikingtidsmuseet.no` | [policy](https://cert.uio.no/vulnerability-disclosure-policy.html) | monetary | — | active |
 | `vipps.no` | [policy](https://vdp.vippsmobilepay.com) | — | — | active |
 | `vkm.no` | — | — | — | active |
 | `vy.no` | [policy](https://www.vy.no/vilkar-og-personvern/vulnerability-disclosure-policy) | — | yes | active |

@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 | `actionlogement.fr` | — | — | — | expired |
 | `airbnb.fr` | [policy](https://hackerone.com/airbnb#overview) | — | — | active |
-| `autoscout24.fr` | [policy](https://app.intigriti.com/programs/autoscout/autoscout24-vdp/detail) | monetary | — | expired |
+| `autoscout24.fr` | [policy](https://app.intigriti.com/programs/autoscout/autoscout24-vdp/detail) | monetary | — | active |
 | `blablacar.fr` | — | monetary | — | active |
 | `bmw.fr` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
 | `bouyguestelecom.fr` | — | recognition | — | active |

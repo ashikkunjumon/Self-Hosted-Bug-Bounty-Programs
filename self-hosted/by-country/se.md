@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-577 programs.
+580 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@
 | `akademiska.se` | — | — | — | active |
 | `aktuellhallbarhet.se` | — | — | — | active |
 | `albanova.se` | — | — | — | active |
-| `alde.se` | [policy](https://www.truma.com/responsible-disclosure-policy/) | monetary | — | active |
+| `alde.se` | [policy](https://www.truma.com/responsible-disclosure-policy/) | — | — | active |
 | `ale.se` | — | — | — | active |
 | `alingsas.se` | — | — | — | expired |
 | `allehanda.se` | — | — | — | active |
@@ -52,6 +52,7 @@
 | `bergianska.se` | — | — | — | active |
 | `bettingkollen.se` | [policy](https://bettingkollen.se/security-policy) | recognition | — | active |
 | `bettingstugan.se` | [policy](https://bettingstugan.se/security-policy) | recognition | — | active |
+| `bildelsbasen.se` | [policy](https://www.bildelsbasen.se/sv-se/documents/Om-oss) | — | — | active |
 | `billerud.se` | — | — | — | active |
 | `bilprovningen.se` | — | — | — | active |
 | `bio-link.se` | [policy](https://bio-link.se/page/security) | recognition | — | expired |
@@ -231,7 +232,7 @@
 | `kalmar.se` | — | — | — | active |
 | `kammarkollegiet.se` | — | — | — | active |
 | `karlshamn.se` | — | — | — | active |
-| `karlskrona.se` | — | — | — | retired |
+| `karlskrona.se` | — | — | — | active |
 | `karlstad.se` | — | — | — | active |
 | `karolinska.se` | — | — | — | expired |
 | `katrineholm.se` | — | — | — | active |
@@ -281,6 +282,7 @@
 | `lidkoping.se` | — | — | — | active |
 | `lidl.se` | — | — | — | active |
 | `lillaedet.se` | — | — | — | active |
+| `linasmatkasse.se` | — | — | — | active |
 | `lindesberg.se` | — | — | — | active |
 | `linkoping.se` | — | — | — | active |
 | `liu.se` | — | — | — | active |
@@ -376,6 +378,7 @@
 | `ostgotatrafiken.se` | — | — | — | active |
 | `ostragoinge.se` | — | — | — | active |
 | `ovanaker.se` | — | — | — | active |
+| `oxelosund.se` | — | — | — | active |
 | `partille.se` | — | — | — | active |
 | `pensionsmyndigheten.se` | — | — | — | active |
 | `pliktverket.se` | — | — | — | active |

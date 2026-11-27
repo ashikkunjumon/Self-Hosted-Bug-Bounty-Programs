@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 | `airbnb.pl` | [policy](https://hackerone.com/airbnb#overview) | — | — | active |
 | `allegro.pl` | [policy](https://app.intigriti.com/programs/allegro/allegrobugbounty/detail) | monetary | — | active |
-| `autoscout24.pl` | [policy](https://app.intigriti.com/programs/autoscout/autoscout24-vdp/detail) | monetary | — | expired |
+| `autoscout24.pl` | [policy](https://app.intigriti.com/programs/autoscout/autoscout24-vdp/detail) | monetary | — | active |
 | `bmw.pl` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
 | `dietly.pl` | [policy](https://app.intigriti.com/programs/zabkapolska/zabkagroup-vdp/detail) | monetary | — | active |
 | `infakt.pl` | [policy](https://www.visma.com/trust-centre/responsible-disclosure) | swag | yes | active |

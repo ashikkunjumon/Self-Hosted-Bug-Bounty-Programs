@@ -8,7 +8,7 @@
 | `airbnb.nl` | [policy](https://hackerone.com/airbnb#overview) | — | — | active |
 | `amsterdam.nl` | [policy](https://www.amsterdam.nl/en/general-items/items-footer/privacy-city-of-amsterdam/information-security/) | recognition | — | active |
 | `asnbank.nl` | [policy](https://hackerone.com/asnbank) | — | — | active |
-| `autoscout24.nl` | [policy](https://app.intigriti.com/programs/autoscout/autoscout24-vdp/detail) | monetary | — | expired |
+| `autoscout24.nl` | [policy](https://app.intigriti.com/programs/autoscout/autoscout24-vdp/detail) | monetary | — | active |
 | `autoweek.nl` | — | monetary | — | active |
 | `bd.nl` | — | monetary | — | active |
 | `bmw.nl` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |

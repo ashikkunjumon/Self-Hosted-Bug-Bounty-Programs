@@ -1,6 +1,6 @@
 # Self-hosted programs — DE
 
-514 programs.
+516 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -276,7 +276,7 @@
 | `landeszeitung.de` | — | — | — | active |
 | `landwirtschaft-bw.de` | — | — | — | expired |
 | `lebensmittelklarheit.de` | — | — | — | active |
-| `leipzig.de` | [policy](https://www.leipzig.de/datenschutzerklaerung) | — | — | expired |
+| `leipzig.de` | [policy](https://www.leipzig.de/datenschutzerklaerung) | — | — | active |
 | `lichtblick.de` | — | — | — | active |
 | `lidl.de` | — | — | — | active |
 | `linksjugend-solid.de` | — | — | — | expired |
@@ -379,6 +379,7 @@
 | `sachsen.de` | — | — | — | active |
 | `saechsische.de` | — | — | — | active |
 | `sana.de` | — | — | — | active |
+| `schlund.de` | [policy](https://www.ionos.com/it-security) | — | — | expired |
 | `schmorp.de` | — | — | — | active |
 | `schoener.de` | [policy](https://g.co/vrp) | — | — | active |
 | `schufa.de` | — | — | — | active |
@@ -506,6 +507,7 @@
 | `winfuture.de` | — | — | — | active |
 | `wir-machen-druck.de` | [policy](https://www.wir-machen-druck.de/datenschutzerklaerung.html) | monetary | — | active |
 | `wirtube.de` | — | — | — | active |
+| `wismar.de` | — | — | — | active |
 | `wiwo.de` | — | — | — | active |
 | `wochenblatt.de` | — | — | — | active |
 | `wp.de` | — | — | — | active |

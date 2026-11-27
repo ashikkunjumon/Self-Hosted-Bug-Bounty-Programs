@@ -41,7 +41,7 @@
 | `flashscore.com.br` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `fnpeti.org.br` | — | — | — | active |
 | `forumseguranca.org.br` | [policy](https://icc.gg/polvuln) | monetary | yes | active |
-| `freefiremania.com.br` | [policy](https://www.freefiremania.com.br/politica-de-privacidade.html) | monetary | — | retired |
+| `freefiremania.com.br` | [policy](https://www.freefiremania.com.br/politica-de-privacidade.html) | monetary | — | active |
 | `fundacaodorina.org.br` | — | — | — | active |
 | `geekhunter.com.br` | — | recognition | — | active |
 | `gettyimages.com.br` | — | — | — | retired |

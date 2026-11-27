@@ -1,6 +1,6 @@
 # Self-hosted programs — HU
 
-51 programs.
+52 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -41,6 +41,7 @@
 | `mountex.hu` | [policy](https://www.mountex.hu/security-policy) | — | — | active |
 | `mozibp.hu` | — | — | — | active |
 | `mszp.hu` | — | — | — | active |
+| `muosz.hu` | — | — | — | active |
 | `naih.hu` | — | — | — | active |
 | `notino.hu` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
 | `omv.hu` | — | — | — | active |

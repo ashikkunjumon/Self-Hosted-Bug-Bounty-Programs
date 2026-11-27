@@ -5,7 +5,7 @@
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
 | `airbnb.it` | [policy](https://hackerone.com/airbnb#overview) | — | — | active |
-| `autoscout24.it` | [policy](https://app.intigriti.com/programs/autoscout/autoscout24-vdp/detail) | monetary | — | expired |
+| `autoscout24.it` | [policy](https://app.intigriti.com/programs/autoscout/autoscout24-vdp/detail) | monetary | — | active |
 | `blablacar.it` | — | monetary | — | active |
 | `bmw.it` | [policy](https://www.bmwgroup.com/en/general/Security.html) | monetary | — | active |
 | `doctolib.it` | [policy](https://yeswehack.com/programs/doctolib-public-bug-bounty-program) | monetary | — | active |

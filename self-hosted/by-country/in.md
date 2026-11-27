@@ -25,7 +25,7 @@
 | `huffingtonpost.in` | — | monetary | — | active |
 | `intel.in` | [policy](https://www.intel.com/content/www/us/en/security-center/vulnerability-handling-guidelines.html) | — | — | active |
 | `krmangalam.edu.in` | — | — | — | active |
-| `kushaldas.in` | — | — | — | expired |
+| `kushaldas.in` | — | — | — | retired |
 | `linktw.in` | — | — | — | active |
 | `livescore.in` | [policy](https://bugbounty.livesport.eu/#rules) | monetary | — | active |
 | `lorealparis.co.in` | — | recognition | — | active |
