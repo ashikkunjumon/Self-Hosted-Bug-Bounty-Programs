@@ -25,7 +25,7 @@
 | `cert.br` | — | — | — | active |
 | `cesan.com.br` | — | — | — | retired |
 | `cirurgicabrasil.com.br` | — | — | — | active |
-| `confeitariacolombo.com.br` | — | — | — | expired |
+| `confeitariacolombo.com.br` | — | — | — | active |
 | `correiodoestado.com.br` | — | — | — | active |
 | `costanorte.com.br` | — | — | — | active |
 | `cuponeria.com.br` | — | — | — | expired |
@@ -80,11 +80,11 @@
 | `nivea.com.br` | [policy](https://soc.beiersdorf.com/disclosurepolicy.html) | — | yes | active |
 | `noticiasautomotivas.com.br` | — | — | — | active |
 | `novatec.com.br` | — | — | — | active |
-| `nuvemshop.com.br` | — | — | — | expired |
+| `nuvemshop.com.br` | — | — | — | active |
 | `oabsp.org.br` | — | recognition | — | active |
 | `omelhordopari.com.br` | — | — | — | active |
 | `paraju-vinhos.com.br` | — | — | — | expired |
-| `parajuvinhos.com.br` | — | — | — | expired |
+| `parajuvinhos.com.br` | — | — | — | active |
 | `pebmed.com.br` | [policy](https://security.afya.com.br) | — | — | active |
 | `premierpet.com.br` | [policy](https://premierpet.com.br/privacidade/) | recognition | — | active |
 | `primeirahora.com.br` | — | — | — | active |

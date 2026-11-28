@@ -384,7 +384,7 @@
 | `schoener.de` | [policy](https://g.co/vrp) | — | — | active |
 | `schufa.de` | — | — | — | active |
 | `schule-bw.de` | — | — | — | active |
-| `schwerin.de` | — | — | — | active |
+| `schwerin.de` | — | — | — | retired |
 | `securepoint.de` | [policy](https://www.securepoint.de/disclosure-policy) | recognition | yes | active |
 | `security-insider.de` | — | — | — | expired |
 | `service-bw.de` | — | — | — | active |

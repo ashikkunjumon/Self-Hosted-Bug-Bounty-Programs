@@ -1,6 +1,6 @@
 # Self-hosted programs — UA
 
-62 programs.
+63 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -41,6 +41,7 @@
 | `medoc.ua` | — | — | — | active |
 | `metro.ua` | [policy](https://www.metroag.de/en/vdp-policy) | — | — | expired |
 | `mfa.gov.ua` | — | — | — | active |
+| `minregion.gov.ua` | — | — | — | active |
 | `mtsbu.ua` | — | — | — | retired |
 | `notino.ua` | [policy](https://www.notino.com/bug-bounty.html) | recognition | — | expired |
 | `nubip.edu.ua` | — | — | — | retired |

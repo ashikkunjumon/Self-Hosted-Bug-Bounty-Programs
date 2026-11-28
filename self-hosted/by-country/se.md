@@ -1,6 +1,6 @@
 # Self-hosted programs — SE
 
-580 programs.
+581 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -374,6 +374,7 @@
 | `oru.se` | — | — | — | active |
 | `orust.se` | — | — | — | active |
 | `osby.se` | — | — | — | active |
+| `oskfotboll.se` | — | — | — | active |
 | `ostersund.se` | — | — | — | retired |
 | `ostgotatrafiken.se` | — | — | — | active |
 | `ostragoinge.se` | — | — | — | active |

@@ -1,6 +1,6 @@
 # Platform-hosted programs — CH
 
-71 programs.
+72 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@
 | `laredoute.ch` | [policy](https://www.laredoute.com/vulnerability_disclosure_program.aspx) | — | — | expired |
 | `lebendige-traditionen.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | recognition | yes | active |
 | `lematin.ch` | [policy](https://bugcrowd.com/twentyminuten) | monetary | — | expired |
-| `lyss.ch` | [policy](https://www.talus.ch/de/datenschutz/bug-bounty.php) | — | — | active |
+| `lyss.ch` | [policy](https://www.talus.ch/de/datenschutz/bug-bounty.php) | monetary | — | active |
 | `mobiliar.ch` | — | — | — | active |
 | `mobiliare.ch` | — | — | — | active |
 | `mobiliere.ch` | — | — | — | active |
@@ -51,6 +51,7 @@
 | `raiffeisen.ch` | [policy](https://gobugfree.com/programs/raiffeisen-bb) | monetary | — | active |
 | `randstad.ch` | [policy](https://www.randstad.com/report-a-security-problem/) | — | — | active |
 | `roche.ch` | [policy](https://hackerone.com/roche?view_policy=true) | — | — | active |
+| `roemerholz.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | recognition | yes | active |
 | `sak.ch` | — | — | — | expired |
 | `sixt.ch` | [policy](https://bugcrowd.com/a22b9798-491e-4d3a-87f3-a69484e02a2f/external/report) | — | — | active |
 | `sozialesicherheit.ch` | [policy](https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden/scope-and-rules.html) | monetary | — | active |
@@ -71,7 +72,7 @@
 | `uek.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | recognition | yes | active |
 | `usz.ch` | [policy](https://kb.intigriti.com/en/articles/5466165-researcher-terms-conditions) | monetary | — | expired |
 | `waldbrandgefahr.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | recognition | yes | active |
-| `wetzikon.ch` | [policy](https://www.talus.ch/de/datenschutz/bug-bounty.php) | monetary | — | active |
+| `wetzikon.ch` | [policy](https://www.talus.ch/de/datenschutz/bug-bounty.php) | — | — | active |
 | `xpertcenter.ch` | [policy](https://www.xpertcenter.ch/it/vdp-it/) | — | yes | retired |
 | `yelp.ch` | [policy](https://hackerone.com/yelp?view_policy=true) | — | — | active |
 | `zh.ch` | [policy](https://app.bugbounty.ch/public/engagement/details/43f98579-7afc-400e-a5fa-f64c15e2bb90) | — | — | active |

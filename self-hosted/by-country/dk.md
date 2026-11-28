@@ -166,7 +166,7 @@
 | `tv2.dk` | [policy](https://omtv2.tv2.dk/media/126365/tv_2_responsible_disclosure.pdf) | — | — | active |
 | `uddannelsesstatistik.dk` | — | — | — | active |
 | `udeoghjemme.dk` | — | — | — | expired |
-| `vafo.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | retired |
+| `vafo.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
 | `version2.dk` | — | — | — | active |
 | `viborg-folkeblad.dk` | [policy](https://jfm.dk/sikkerhed) | — | — | active |
 | `viborg.dk` | — | — | — | active |

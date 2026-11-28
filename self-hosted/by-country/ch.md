@@ -1,6 +1,6 @@
 # Self-hosted programs — CH
 
-438 programs.
+440 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -24,6 +24,7 @@
 | `argovia.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/compass-bug-bounty) | monetary | — | active |
 | `asa.ch` | [policy](https://www.bacs.admin.ch/en/framework-conditions-and-rules-cvd) | recognition | yes | active |
 | `asmobil.ch` | — | — | — | active |
+| `atzmaennig.ch` | — | — | — | active |
 | `autoscout24.ch` | — | — | — | active |
 | `axa.ch` | — | — | — | active |
 | `azione.ch` | — | — | — | active |
@@ -122,6 +123,7 @@
 | `fr.ch` | — | — | — | active |
 | `frauenfeld.ch` | — | — | — | active |
 | `freiburger-nachrichten.ch` | — | — | — | active |
+| `fundraiso.ch` | — | — | — | active |
 | `fust.ch` | [policy](https://www.coop.ch/de/unternehmen/vdp.html) | — | yes | active |
 | `galaxus.ch` | [policy](https://www.galaxus.ch/security) | — | yes | active |
 | `galaxyweb.ch` | — | — | — | active |
@@ -133,7 +135,7 @@
 | `ghisler.ch` | — | recognition | — | active |
 | `gkb.ch` | [policy](https://bugbounty.compass-security.com/bug-bounties/gkb-bug-bounty) | monetary | — | active |
 | `gl.ch` | — | — | — | active |
-| `glamos.ch` | — | — | — | active |
+| `glamos.ch` | — | — | — | expired |
 | `glarus.ch` | — | — | — | active |
 | `glassdoor.ch` | [policy](https://help.glassdoor.com/s/article/Bug-Bounty-Program?language=en_US) | — | — | retired |
 | `glueckskette.ch` | — | — | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — CZ
 
-406 programs.
+407 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -60,6 +60,7 @@
 | `cesnet.cz` | [policy](https://csirt.cesnet.cz/en/vulnerability_report) | — | — | active |
 | `cestolino.cz` | — | — | — | active |
 | `cewe.cz` | — | — | — | active |
+| `chance-bonus.cz` | — | — | — | active |
 | `chance-promo.cz` | — | — | — | active |
 | `chateaumcely.cz` | — | — | — | active |
 | `chlorito.cz` | — | — | — | active |
@@ -352,7 +353,7 @@
 | `t-mobile.cz` | [policy](https://www.t-mobile.cz/bug-bounty) | monetary | — | active |
 | `tatramuseum.cz` | — | — | — | active |
 | `tchibo.cz` | — | — | — | active |
-| `techlib.cz` | — | — | — | retired |
+| `techlib.cz` | — | — | — | active |
 | `techmania.cz` | — | — | — | active |
 | `televizeseznam.cz` | [policy](https://www.seznam.cz/.well-known/security-policy.html) | monetary | yes | active |
 | `tipsport-bonus.cz` | — | — | — | active |

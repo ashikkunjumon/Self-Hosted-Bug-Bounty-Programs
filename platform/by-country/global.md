@@ -1,6 +1,6 @@
 # Platform-hosted programs — GLOBAL
 
-643 programs.
+644 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -47,13 +47,14 @@
 | `appian.com` | — | — | — | active |
 | `aquasec.com` | [policy](https://www.aquasec.com/trust/security/responsible-disclosure-program/) | — | — | retired |
 | `arc.net` | [policy](https://hackerone.com/bcny) | — | — | active |
+| `archer.com` | [policy](https://archer.com/responsible-disclosure) | — | — | active |
 | `asana.com` | [policy](https://bugcrowd.com/asana) | monetary | — | active |
 | `astronomer.io` | [policy](https://trust.astronomer.io/) | — | — | active |
 | `attendohr.com` | [policy](https://attendohr.com/security) | monetary | yes | retired |
 | `audemarspiguet.com` | — | — | — | active |
 | `auth0.com` | [policy](https://www.okta.com/vulnerability-reporting-policy/) | — | — | active |
 | `automattic.com` | [policy](https://hackerone.com/automattic) | — | — | active |
-| `autoscout24.com` | [policy](https://app.intigriti.com/programs/autoscout/autoscout24-vdp/detail) | monetary | — | expired |
+| `autoscout24.com` | [policy](https://app.intigriti.com/programs/autoscout/autoscout24-vdp/detail) | monetary | — | active |
 | `avalara.com` | [policy](https://www.avalara.com/us/en/legal/responsible-disclosure.html) | recognition | — | retired |
 | `aveva.com` | — | — | — | active |
 | `avvo.com` | — | — | — | retired |
@@ -309,7 +310,7 @@
 | `kick.com` | — | — | — | expired |
 | `kinto-mobility.eu` | — | monetary | — | expired |
 | `kiwa.com` | [policy](https://www.kiwa.com/en/responsible-disclosure-policy/) | monetary | — | retired |
-| `kiwi.com` | [policy](https://www.kiwi.com/us/pages/security) | — | — | active |
+| `kiwi.com` | [policy](https://www.kiwi.com/us/pages/security) | monetary | — | active |
 | `kkr.com` | [policy](https://hackerone.com/kkr_vdp) | — | — | expired |
 | `klarna.com` | [policy](https://www.klarna.com/international/responsible-disclosure/) | — | — | retired |
 | `kroger.com` | — | — | — | active |
@@ -555,7 +556,7 @@
 | `timhortons.com` | [policy](https://www.timhortons.ca/report-security-issue) | — | — | active |
 | `tomtom.com` | [policy](https://www.tomtom.com/responsible-disclosure/) | — | — | retired |
 | `toyota.com` | [policy](https://hackerone.com/toyota) | — | — | active |
-| `transferwise.com` | [policy](https://bugcrowd.com/engagements/wise) | monetary | — | expired |
+| `transferwise.com` | [policy](https://bugcrowd.com/engagements/wise) | monetary | — | active |
 | `transientlabs.xyz` | [policy](https://docs.transientlabs.xyz/miscellaneous/bug-bounty-program) | monetary | — | retired |
 | `travelandleisure.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `travelperk.com` | [policy](https://app.intigriti.com/company/programs/travelperk/travelperk/detail) | monetary | — | expired |
@@ -621,7 +622,7 @@
 | `whmcs.com` | — | — | — | active |
 | `wikitravel.org` | — | — | — | retired |
 | `wilmingtontrust.com` | [policy](https://www.wilmingtontrust.com/privacy-security/responsible-disclosure-program) | monetary | yes | retired |
-| `wise.com` | [policy](https://bugcrowd.com/engagements/wise) | monetary | — | expired |
+| `wise.com` | [policy](https://bugcrowd.com/engagements/wise) | monetary | — | active |
 | `wolt.com` | [policy](https://hackerone.com/wolt) | — | — | active |
 | `woodmagazine.com` | [policy](https://hackerone.com/dotdashmeredith) | — | — | active |
 | `wordcamp.org` | [policy](https://make.wordpress.org/core/handbook/testing/reporting-security-vulnerabilities/) | monetary | — | active |

@@ -1,6 +1,6 @@
 # Self-hosted programs — BE
 
-309 programs.
+311 programs.
 
 | Domain | Policy | Reward | Safe harbour | Status |
 |---|---|---|---|---|
@@ -30,6 +30,7 @@
 | `baloise.be` | [policy](https://www.baloise.be/Security/vulnerability-disclose-policy.html) | recognition | — | active |
 | `bastogne.be` | — | — | — | active |
 | `becommerce.be` | — | — | — | active |
+| `beerse.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `beersel.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
 | `belgacom.be` | — | — | — | active |
 | `belgie-vakantiehuis.be` | — | — | — | active |
@@ -49,6 +50,7 @@
 | `carrefour.be` | [policy](https://carrefour.com/disclosure) | — | — | active |
 | `casinoking.be` | — | — | — | active |
 | `ccbrugge.be` | — | — | — | active |
+| `ccha.be` | — | — | — | active |
 | `ccsint-niklaas.be` | — | — | — | active |
 | `century21.be` | — | — | — | active |
 | `ciney.be` | — | — | — | active |
@@ -111,7 +113,7 @@
 | `gettyimages.be` | — | — | — | retired |
 | `gezinsbond.be` | — | — | — | active |
 | `glassdoor.be` | [policy](https://help.glassdoor.com/s/article/Bug-Bounty-Program?language=en_US) | — | — | retired |
-| `goed.be` | [policy](https://www.goed.be/nl/algemene-voorwaarden/security) | — | yes | active |
+| `goed.be` | [policy](https://www.goed.be/nl/algemene-voorwaarden/security) | swag | yes | active |
 | `gratoramacasino.be` | — | — | — | active |
 | `grez-doiceau.be` | — | — | — | active |
 | `grimbergen.be` | [policy](https://www.lcp.be/responsible-disclosure) | recognition | yes | active |
